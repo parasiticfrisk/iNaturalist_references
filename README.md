@@ -1,13 +1,14 @@
 ## About
-This reference list contains the reference materials I have used to provide identifications across iNaturalist.
+The sources I have used to offer identifications across iNaturalist are included in this reference list.
 
 ### Updates
-This list is updated over time.  Only additions are made, no deletions.  The organization and structure of the list may change over time.
+This list is continuously updated.  No removals are made; just additions.  The list's structure and arrangement are subject to change over time.  You can view these changes at: https://github.com/parasiticfrisk/iNaturalist_references/commits/main.
 #### Last updated
 2023, May 26.
 
 ### Links
-Links to the free and fully online version of publications will be prioritized when available.
+Links to publications' free, complete online versions will be given preference when accessible.
+> **Note**: There will always be a DOI reference.  The links on this page that are related with the articles, however, could take you to an open access version of them rather than the originals, which might be hidden behind a paywall.
 
 ## Sources Cited
 ### Journal Article
