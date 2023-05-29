@@ -4,7 +4,7 @@ The sources I have used to offer identifications across iNaturalist are included
 ### Updates
 This list is continuously updated.  No removals are made; just additions.  The list's structure and arrangement are subject to change over time.  You can view these changes at: https://github.com/parasiticfrisk/iNaturalist_references/commits/main.
 #### Last updated
-2023, May 26.
+2023, May 28.
 
 ### Links
 Links to publications' free, complete online versions will be given preference when accessible.
@@ -114,6 +114,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	Je9h, and Momento Mori. “Roses (Genus Rosa).” iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
 1.	KQED. “Deep Look,” n.d. https://www.kqed.org/deeplook.
 1.	KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+1.	Langdon-Lassagne, Emily. "Subgenus *Eumelissodes*". iNaturalist, August 4, 2021. https://www.inaturalist.org/observations/100167000.
 1.	Lew, Steve. “Spiders of California.” University of Berkeley, January 4, 2004. https://www.ocf.berkeley.edu/~stevelew/soc.html.
 1.	Matsumoto, Ron. “Corner Funnel Weaver (Hololena Curta).” iNaturalist, September 2018. https://www.inaturalist.org/observations/16376037#activity_comment_1e72aa8d-33fd-48b7-a87a-76182afff9be.
 1.	Mississippi State University. “North American Moth Photographers Group: Digital Guide to Moth Identification,” 2022. https://mothphotographersgroup.msstate.edu/.
