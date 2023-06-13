@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_4-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_13-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -49,8 +49,9 @@ Links to publications' free, complete online versions will be given preference w
 1.	Nolasco, Samuel, and Alejandro Valdez-Mondragón. “On the Daddy Long-Legs Spiders of the Genus Physocyclus (Araneae: Pholcidae) from Mexico: Description of a New Species from the Baja California Peninsula.” *Revista Mexicana De Biodiversidad 91*, no. 1 (August 21, 2020): 1-7. [https://doi.org/10.22201/ib.20078706e.2020.91.3316](https://www.researchgate.net/publication/343912316_On_the_daddy_long-legs_spiders_of_the_genus_Physocyclus_Araneae_Pholcidae_from_Mexico_description_of_a_new_species_from_the_Baja_California_Peninsula).
 1.	Nyman, Tommi, and Riitta Julkunen-Tiitto. “Manipulation of the Phenolic Chemistry of Willows by Gall-Inducing Sawflies.” *Proceedings of the National Academy of Sciences of the United States of America 97*, no. 24 (November 21, 2000): 13184–13187. https://doi.org/10.1073/pnas.230294097.
 1.	Piacentini, Luis N., and Martín J. Ramírez. “Hunting the Wolf: A Molecular Phylogeny of the Wolf Spiders (Araneae, Lycosidae).” *Molecular Phylogenetics and Evolution 136* (April 4, 2019): 227–240. https://doi.org/10.1016/j.ympev.2019.04.004.
-1.	Platnick, Noman I., and Darrell Ubick. “A Revision of the North American Spiders of the New Genus Socalchemmis (Araneae, Tengellidae).” *American Museum Novitates 3339* (June 22, 2001). [http://dx.doi.org/10.1206/0003-0082(2001)339%3C0001:AROTNA%3E2.0.CO;2](https://wsc.nmbe.ch/refincluded/9173).
 1.	Platnick, Norman I., and John Murphy. “A Revision of the Spider Genera Trachyzelotes and Urozelotes (Araneae, Gnaphosidae).” *American Museum Novitates 2792* (January 1, 1984): 1–30. https://digitallibrary.amnh.org/handle/2246/3525.
+1.	Platnick, Norman, I, and Darrell Ubick. “A Revision of the Endemic Californian Spider Genus Titiotus Simon (Araneae, Tengellidae).” *American Museum Novitates 3608* (April 9, 2008). http://hdl.handle.net/2246/5905.
+1.	Platnick, Norman I., and Darrell Ubick. “A Revision of the North American Spiders of the New Genus Socalchemmis (Araneae, Tengellidae).” *American Museum Novitates 3339* (June 22, 2001). [http://dx.doi.org/10.1206/0003-0082(2001)339%3C0001:AROTNA%3E2.0.CO;2](https://wsc.nmbe.ch/refincluded/9173).
 1.	Polotow, Daniele, Anthea Carmichael, and Charles E. Griswold. “Total Evidence Analysis of the Phylogenetic Relationships of Lycosoidea Spiders (Araneae, Entelegynae).” *Invertebrate Systematics 29*, no. 2 (June 11, 2015): 124. https://doi.org/10.1071/is14041.
 1.	Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
 1.	Sheikh, Sofia I., Anna K. G. Ward, Y. Miles Zhang, Charles K. Davis, Linyi Zhang, Scott P. Egan, and Andrew A. Forbes. “Ormyrus Labotus (Hymenoptera: Ormyridae): Another Generalist That Should Not Be a Generalist Is Not a Generalist.” *Insect Systematics and Diversity 6*, no. 1 (January 1, 2022): 1-14. https://doi.org/10.1093/isd/ixac001.
