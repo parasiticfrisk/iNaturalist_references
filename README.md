@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_15-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_22-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -40,6 +40,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	Kinsey, Alfred C. “An Evolutionary Analysis of Insular and Continental Species.” *Proceedings of the National Academy of Sciences of the United States of America 23*, no. 1 (January 1, 1937): 5–11. https://doi.org/10.1073/pnas.23.1.5.
 1.	Levi, Herbert W. “American Spiders of the Genera Audifia, Euryopis, and Dipoena (Araneae: Theridiidae).” *Bulletin of the Museum of Comparative Zoology at Harvard College 129* (January 1, 1963): 121–83. https://www.biodiversitylibrary.org/part/7294.
 1.	———. “Spiders of the Genus Dipoena from America North of Mexico (Araneae, Theridiidae).” *American Museum Novitates 1647* (December 20, 1953): 1-40. [http://hdl.handle.net/2246/4884](https://digitallibrary.amnh.org/bitstream/handle/2246/4884//v2/dspace/ingest/pdfSource/nov/N1647.pdf?sequence=1&isAllowed=y).
+1.	———. “The American Orb-Weaver Genera Dolichognatha and Tetragnatha North of Mexico (Araneae: Araneidae, Tetragnathinae).” Bulletin of the Museum of Comparative Zoology 149, no. 5 (July 21, 1981): 271–318. https://www.biodiversitylibrary.org/page/4776863#page/299/mode/1up.
 1.	———. “The Spider Genera Crustulina and Steatoda in North America, Central America, and the West Indies (Araneae, Theridiidae).” *Bulletin of the Museum of Comparative Zoology at Harvard College 117* (January 1, 1957): 365–424. https://www.biodiversitylibrary.org/part/3264.
 1.	Magalhaes, Ivan L.F., and Martín J. Ramírez. “The Crevice Weaver Spider Genus Kukulcania (Araneae: Filistatidae).” *Bulletin of the American Museum of Natural History 2019*, no. 426 (February 14, 2019): 1-151. https://doi.org/10.1206/00030090-426.1.1.
 1.	Maya-Morales, Julieta, and María-Luisa Jiménez. “Revision of the Funnel-Web Spider Genus Novalena (Araneae: Agelenidae).” *Zootaxa 4262*, no. 1 (May 4, 2017): 1-88. [https://doi.org/10.11646/zootaxa.4262.1.1](https://www.researchgate.net/publication/316735977_Revision_of_the_funnel-web_spider_genus_Novalena_Araneae_Agelenidae).
