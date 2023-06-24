@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_22-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_23-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -25,6 +25,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	———. “Agelenidae of the Genera Hololena, Novalena, Rualena, and Melpomene.” *Annals of the Entomological Society of America 35*, no. 2 (May 31, 1942): 203-241. [https://doi.org/10.1093/aesa/35.2.203](https://reader.library.cornell.edu/docviewer/digital?id=chla5077679_4203_002#page/69/mode/1up).
 1.	———. “New Spiders of the Family Agelenidae from Western North America.” *Annals of the Entomological Society of America 30*, no. 2 (May 31, 1937): 211-241. [https://doi.org/10.1093/aesa/30.2.211](https://reader.library.cornell.edu/docviewer/digital?id=chla5077679_4198_002#page/11/mode/1up).
 1.	———. “North American Agelenidae of the Genera Agelenopsis, Calilena, Ritalena and Tortolena.” *Annals of the Entomological Society of America 34*, no. 3 (August 31, 1941): 585–628. [https://doi.org/10.1093/aesa/34.3.585](https://reader.library.cornell.edu/docviewer/digital?id=chla5077679_4202_003#page/66/mode/2up).
+1.	———. “The Black Widow Spider and Its Varieties in the United States.” *Bulletin of the University of Utah 25*, no. 8 (June 1935): 1–29. https://collections.lib.utah.edu/ark:/87278/s6nz8sff.
 1.	Ciaccio, Erik, Andrew Debray, and Marshal Hedin. “Phylogenomics of Paleoendemic Lampshade Spiders (Araneae, Hypochilidae, Hypochilus), with the Description of a New Species from Montane California.” *ZooKeys 1086* (February 17, 2022): 163–204. https://doi.org/10.3897/zookeys.1086.77190.
 1.	Cooper, William R., and Constantin Rieske. “A Native and an Introduced Parasitoid Utilize an Exotic Gall-Maker Host.” *Biocontrol 56*, no. 5 (March 17, 2011): 725–34. [https://doi.org/10.1007/s10526-011-9350-1](https://www.researchgate.net/publication/225537867_A_native_and_an_introduced_parasitoid_utilize_an_exotic_gall-maker_host).
 1.	Dondale, C. D., and J. H. Redner. “Revision Of The Wolf Spider Gensu Alopecosa Simon in North America (Araneae: Lycosidae).” *Canadian Entomologist 111*, no. 9 (September 1, 1979): 1033–55. [https://doi.org/10.4039/ent1111033-9](https://wsc.nmbe.ch/refincluded/5140).
