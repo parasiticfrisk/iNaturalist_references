@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_23-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_24-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -35,6 +35,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	Gertsch, Willis J., and Franklin Ennik. “The Spider Genus Loxosceles in North America, Central America, and the West Indies (Araneae, Loxoscelidae).” *Bulletin of the American Museum of Natural History 175* (November 7, 1983): 264–360. http://hdl.handle.net/2246/981.
 1.	González-Trujillo, Ricardo, Miguel Mauricio Correa-Ramírez, Eduardo Ruiz-Sanchez, Emiliano Alvarez Salinas, María Joaquina Morón Jiménez, and Francisco León. “Pleistocene Refugia and Their Effects on the Phylogeography and Genetic Structure of the Wolf Spider *Pardosa sierra* (Araneae: Lycosidae) on the Baja California Peninsula.” *Journal of Arachnology 44*, no. 3 (November 11, 2016): 367–79. [https://doi.org/10.1636/r15-84.1](https://www.researchgate.net/publication/309959609_Pleistocene_refugia_and_their_effects_on_the_phylogeography_and_genetic_structure_of_the_Wolf_spider_Pardosa_sierra_Araneae_Lycosidae_on_the_Baja_California_Peninsula).
 1.	Goodnight, Clarence J. “The Genus Protolophus (Phalangida).” *American Museum Novitates*, no. 1157 (January 22, 1942). http://hdl.handle.net/2246/4767.
+1.	Gyawaly, Sudan, Albrecht M. Koppenhöfer, Shaohui. L. Wu, and Thomas P. Kuhar. “Biology, Ecology, and Management of Masked Chafer (Coleoptera: Scarabaeidae) Grubs in Turfgrass.” *Journal of Integrated Pest Management 7*, no. 1 (January 1, 2016): 1–11. https://doi.org/10.1093/jipm/pmw002.
 1.	Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus Hololena Chamberlin and Gertsch in Southern California.” California Sate University Northridge, May 1990. https://scholarworks.csun.edu:443/handle/10211.3/191410.
 1.	Jones, Cheri A., and Colleen N. Baxter. “Thomomys Bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742.
 1.	Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
@@ -57,6 +58,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	———. “A Revision of the North American Spiders of the New Genus Socalchemmis (Araneae, Tengellidae).” *American Museum Novitates 3339* (June 22, 2001). http://hdl.handle.net/2246/2892.
 1.	Polotow, Daniele, Anthea Carmichael, and Charles E. Griswold. “Total Evidence Analysis of the Phylogenetic Relationships of Lycosoidea Spiders (Araneae, Entelegynae).” *Invertebrate Systematics 29*, no. 2 (June 11, 2015): 124. https://doi.org/10.1071/is14041.
 1.	Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
+1.	Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
 1.	Sheikh, Sofia I., Anna K. G. Ward, Y. Miles Zhang, Charles K. Davis, Linyi Zhang, Scott P. Egan, and Andrew A. Forbes. “Ormyrus Labotus (Hymenoptera: Ormyridae): Another Generalist That Should Not Be a Generalist Is Not a Generalist.” *Insect Systematics and Diversity 6*, no. 1 (January 1, 2022): 1-14. https://doi.org/10.1093/isd/ixac001.
 1.	Spagna, Joseph C., Edgar A. Valdivia, and Vivin Mohan. “Gait Characteristics of Two Fast-Running Spider Species (Hololena Adnexa and Hololena Curta), Including an Aerial Phase (Araneae: Agelenidae).” *Journal of Arachnology 39*, no. 1 (June 22, 2011): 84–91. https://doi.org/10.1636/b10-45.1.
 1.	Starrett, James, Ashley Bui, Rowan McGinley, Eileen A. Hebets, and Jason E. Bond. “Phylogenomic Variation at the Population-Species Interface and Assessment of Gigantism in a Model Wolf Spider Genus (Lycosidae, Schizocosa).” *Insect Systematics and Diversity 5*, no. 5 (September 1, 2021): 1-13. https://doi.org/10.1093/isd/ixab016.
