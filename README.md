@@ -95,6 +95,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  ———. “NestWatch: Where Birds Come to Life.” NestWatch, n.d. https://nestwatch.org/.
 1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID: The Easiest Way to Identify Birds by Sound.” BirdNET, n.d. https://birdnet.cornell.edu/.
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
+1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
     *  ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
 1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite, n.d. https://skullsite.com/.
@@ -106,17 +107,23 @@ Links to publications' free, complete online versions will be given preference w
 
 
 ### Bird Feathers
+1.  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
+    *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
 1.  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Featherbase.” Featherbase, n.d. https://www.featherbase.info/en/home.
-    *  ———. “Acorn Woodpecker (*Melanerpes Formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
-    *  ———. "Common Starling (*Sturnus Vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
+    *  ———. “Acorn Woodpecker (*Melanerpes formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
+    *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
+    *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
 1.  Scott, David, and Casey McFarland. *Bird Feathers: A Guide to North American Species*. Stackpole Books, 2010.
 1.  U.S. Fish & Wildlife Service Forensics Laboratory. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish & Wildlife Service, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
     *  ———. "Adult Acorn Woodpecker primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_primary_adult.
     *  ———. "Adult Acorn Woodpecker secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_secondary_adult.
     *  ———. "Adult Acorn Woodpecker tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_tail_adult.
-    *  ———. "Adult European Starling primary wing feathers - Female. The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_adult.
-    *  ———. "Adult European Starling secondary wing feathers - Female. The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_adult.
-    *  ———. "Adult European Starling tail feathers - Female. The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_adult.
+    *  ———. "Adult European Starling primary wing feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_adult.
+    *  ———. "Adult European Starling secondary wing feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_adult.
+    *  ———. "Adult European Starling tail feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_adult.
+    *  ———. "Adult Muscovy Duck primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_primary_adult.
+    *  ———. "Adult Muscovy Duck secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_secondary_adult.
+    *  ———. "Adult Muscovy Duck tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_tail_adult.
     *  ———. "Adult Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult.
     *  ———. "Adult Swainson's Hawk primary wing feathers - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult_ventral.
     *  ———. "Adult Swainson's Hawk primary wing feathers - Dark Morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_dark.
@@ -126,9 +133,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark.
     *  ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark_ventral.
     *  ———. "Adult Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_adult.
-    * ———. "Juvenile European Starling primary wing feathers - Male. The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
-    *  ———. "Juvenile European Starling secondary wing feathers - Male. The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_imm.
-    *  ———. "Juvenile European Starling tail feathers - Male. The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_imm.
+    * ———. "Juvenile European Starling primary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
+    *  ———. "Juvenile European Starling secondary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_imm.
+    *  ———. "Juvenile European Starling tail feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_imm.
     *  ———. "Juvenile Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_immature.
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature.
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
