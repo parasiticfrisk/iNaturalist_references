@@ -111,19 +111,38 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
 1.  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Featherbase.” Featherbase, n.d. https://www.featherbase.info/en/home.
     *  ———. “Acorn Woodpecker (*Melanerpes formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
+    *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
     *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
+    *  ———. "Eurasian Collared-Dove (*Streptopelia decaocto*)." Featherbase. https://www.featherbase.info/en/species/streptopelia/decaocto.
     *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
+    *  ———. "Northern Mockingbird (*Mimus polyglottos*)." Featherbase. https://www.featherbase.info/en/species/mimus/polyglottos.
+    *  ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." Featherbase. https://www.featherbase.info/en/species/zonotrichia/leucophrys.
 1.  Scott, David, and Casey McFarland. *Bird Feathers: A Guide to North American Species*. Stackpole Books, 2010.
 1.  U.S. Fish & Wildlife Service Forensics Laboratory. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish & Wildlife Service, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
     *  ———. "Adult Acorn Woodpecker primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_primary_adult.
     *  ———. "Adult Acorn Woodpecker secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_secondary_adult.
     *  ———. "Adult Acorn Woodpecker tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_tail_adult.
     *  ———. "Adult European Starling primary wing feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_adult.
+    *  ———. "Adult Canada Goose primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_primary_adult.
+    *  ———. "Adult Canada Goose secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_secondary_adult.
+    *  ———. "Adult Canada Goose secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_secondary_adult_bluebk.
+    *  ———. "Adult Canada Goose tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_tail_adult_bluebk_new.
+    *  ———. "Adult Canada Goose tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_tail_adult_blk.
+    *  ———. "Adult Canada Goose wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_wing_adult_bluebk_new.
+    *  ———. "Adult Eurasian Collared-Dove primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ECDO_primary_adult.
+    *  ———. "Adult Eurasian Collared-Dove secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ECDO_secondary_adult.
+    *  ———. "Adult Eurasian Collared-Dove tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ECDO_tail_adult.
+    *  ———. "Adult Eurasian Collared-Dove tail feathers - Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ECDO_tail_ad_ventral.  
     *  ———. "Adult European Starling secondary wing feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_adult.
     *  ———. "Adult European Starling tail feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_adult.
     *  ———. "Adult Muscovy Duck primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_primary_adult.
     *  ———. "Adult Muscovy Duck secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_secondary_adult.
     *  ———. "Adult Muscovy Duck tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_tail_adult.
+    *  ———. "Adult Northern Mockingbird primary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_primary_adult.
+    *  ———. "Adult Northern Mockingbird primary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_primary_adult_bluebk.
+    *  ———. "Adult Northern Mockingbird secondary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_secondary_adult.
+    *  ———. "Adult Northern Mockingbird tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_tail_adult.
+    *  ———. "Adult Northern Mockingbird tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_tail_adult_bluebk.
     *  ———. "Adult Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult.
     *  ———. "Adult Swainson's Hawk primary wing feathers - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult_ventral.
     *  ———. "Adult Swainson's Hawk primary wing feathers - Dark Morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_dark.
@@ -133,7 +152,7 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark.
     *  ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark_ventral.
     *  ———. "Adult Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_adult.
-    * ———. "Juvenile European Starling primary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
+    *  ———. "Juvenile European Starling primary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
     *  ———. "Juvenile European Starling secondary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_imm.
     *  ———. "Juvenile European Starling tail feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_imm.
     *  ———. "Juvenile Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_immature.
