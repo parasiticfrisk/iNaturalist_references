@@ -96,8 +96,10 @@ Links to publications' free, complete online versions will be given preference w
 1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID: The Easiest Way to Identify Birds by Sound.” BirdNET, n.d. https://birdnet.cornell.edu/.
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
 1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
+    * ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
 1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite, n.d. https://skullsite.com/.
 1.  National Audubon Society. “Audubon: Guide to North American Birds.” Audubon, n.d. https://www.audubon.org/bird-guide.
+1.  Nystrom, Seira. "Urban Birding". Natural History Journal, April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1.  That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1.  University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
@@ -107,7 +109,20 @@ Links to publications' free, complete online versions will be given preference w
 ### Bird Feathers
 1.  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Featherbase.” Featherbase, n.d. https://www.featherbase.info/en/home.
 1.  Scott, David, and Casey McFarland. *Bird Feathers: A Guide to North American Species*. Stackpole Books, 2010.
-1.  U.S. Fish & Wildlife Service Forensics Laboratory. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish & Wildlife Service, February 28, 2020. https://www.fws.gov/lab/featheratlas/.
+1.  U.S. Fish & Wildlife Service Forensics Laboratory. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish & Wildlife Service, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
+    * ———. "Adult Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult.
+    * ———. "Adult Swainson's Hawk primary wing feathers - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult_ventral.
+    * ———. "Adult Swainson's Hawk primary wing feathers - Dark Morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_dark.
+    * ———. "Adult Swainson's Hawk primary wing feathers - Dark morph Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_dark_ventral.
+    * ———. "Adult Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_adult.
+    * ———. "Adult Swainson's Hawk secondary wing feathers - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_adult_ventral.
+    * ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark.
+    * ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark_ventral.
+    * ———. "Adult Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_adult.
+    * ———. "Juvenile Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_immature.
+    * ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature.
+    * ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
+    * ———. "Juvenile Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_immature.
 
 
 ### Insects
