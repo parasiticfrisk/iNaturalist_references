@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_24-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_25-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -77,15 +77,20 @@ Links to publications' free, complete online versions will be given preference w
 1.	Adams, R. J., and Timothy D. Manolis. _Field Guide to the Spiders of California and the Pacific Coast States_. University of California Press, 2014.
 1.	Bradley, Richard A. _Common Spiders of North America_. University of California Press, 2019.
 1.	Davis, Michael, Robert Sommer, and John Menge. _Field Guide to Mushrooms of Western North America_. University of California Press, 2012.
+1.	Ernst, Carl H., and Jeffrey E. Lovich. *Turtles of the United States and Canada*. Jonhs Hopkins University Press, 2009.
 1.	Foelix, Rainer. _Biology of Spiders_. Oxford University Press, 2011.
 1.	Krogh, David. _Biology: A Guide to the Natural World_. Benjamin Cummings, 2011.
 1.	Laws, John Muir. _The Laws Field Guide to the Sierra Nevada_. California Academy of Sciences, 2007.
 1.	LeBuhn, Gretchen, and Noel B. Pugh. _Field Guide to the Common Bees of California: Including Bees of the Western United States_. University of California Press, 2013.
 1.	Montgomery, Thomas Harrison. _Descriptions of North American Araneae of the Families Lycosidae and Pisauridae_, 1904. https://books.google.com/books?hl=en&lr=&id=KH85AQAAMAAJ&oi=fnd&pg=PA259&ots=JE8pjH10Sg&sig=GVFIkT0B2adKBqFYgQ73LMgEKQ0#v=onepage&q&f=false.
+1.	Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
+1.	Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1.	Russo, Ronald A. _Field Guide to Plant Galls of California and Other Western States_. University of California Press, 2006.
 1.	———. _Plant Galls of the Western United States_. Princeton University Press, 2021.
 1.	Scott, David, and Casey McFarland. _Bird Feathers: A Guide to North American Species_. Stackpole Books, 2010.
 1.	Shapiro, Arthur M., and Timothy D. Manolis. _Field Guide to Butterflies of the San Francisco Bay and Sacramento Valley Regions_. University of California Press, 2007.
+1.	Stebbins, Robert C., and Samuel M. McGinnis. *Field Guide to Amphibians and Reptiles of California*. University of California Press, 2012.
+1.	———. *Peterson Field Guide to Western Reptiles & Amphibians*, Fourth Edition. Houghton Mifflin, 2018.
 1.	Stuart, John D., John O. Sawyer, and Andrea J. Pickart. _Trees and Shrubs of California_. University of California Press, 2001.
 1.	Ubick, Darrell, Pierre Paquin, Paula Elizabeth Cushing, and Vincent D. Roth. _Spiders of North America: An Identification Manual_, Second Edition. American Arachnological Society, 2017.
 1.	Urry, Lisa, Michael Cain, Steven Wasserman, Rebecca Orr, and Peter Minorsky. _Campbell Biology in Focus_. Pearson, 2019.
@@ -95,6 +100,7 @@ Links to publications' free, complete online versions will be given preference w
 
 ### Webpage
 
+1.	Armentrout, Kelly, and Cari Mcgregor. “*Trachemys Scripta* (Pond Slider, Scripta).” Animal Diversity Web, 2019. https://animaldiversity.org/accounts/Trachemys_scripta/.
 1.	Baldwin, Bruce G., David J. Keil, Staci Markos, Brent D. Mishler, Robert Patterson, Thomas J. Rosatti, and Dieter H. Wilken, eds. “The Jepson Herbarium.” University of California Berkeley, January 30, 2023. https://ucjeps.berkeley.edu/eflora/.
 1.	Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
 1.	Bern, Natural History Museum. “NMBE - World Spider Catalog,” n.d. https://wsc.nmbe.ch/.
@@ -135,6 +141,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (Hololena Curta).” iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
 1.	Skulls Unlimited International, Inc. “Skulls Unlimited: World Leader in Real and Replica Skulls & Skeletons,” n.d. https://www.skullsunlimited.com/.
 1.	Smithsonian Environmental Research Center. “Ecosystems on the Edge,” n.d. https://ecosystemsontheedge.org/.
+1.	Somma, L. A., A. Foster, P. Fuller, and C. Cameron. “*Trachemys Scripta Elegans* (Wied-Neuweid, 2838).” U.S. Geological Survey, Nonindigenous Aquatic Species Database, December 2, 2022. https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1261.
 1.	Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.
 1.	Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (Hololena Curta).” iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
 1.	That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
@@ -143,7 +150,7 @@ Links to publications' free, complete online versions will be given preference w
 1.	———. “Statewide Integrated Pest Management Program,” n.d. https://ipm.ucanr.edu/index.html.
 1.	———. “UC Oaks: Oak Woodland Management.” University of California Berkeley, January 9, 2020. https://oaks.cnr.berkeley.edu/.
 1.	University of Delaware. “Planthoppers of North America,” n.d. https://sites.udel.edu/planthoppers/.
-1.	University of Michigan. “Animal Diversity Web,” n.d. https://animaldiversity.org/.
+1.	University of Michigan Museum of Zoology. “Animal Diversity Web,” n.d. https://animaldiversity.org/.
 1.	University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
 1.	Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly, n.d. https://selectree.calpoly.edu/.
 1.	U.S. Fish & Wildlife Service. “National Wildlife Refuge System,” n.d. https://www.fws.gov/program/national-wildlife-refuge-system.
