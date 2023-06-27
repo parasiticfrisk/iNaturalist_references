@@ -91,6 +91,9 @@ Links to publications' free, complete online versions will be given preference w
 
 ### Birds
 1.  Cornell Lab of Ornithology. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” All About Birds, n.d. https://www.allaboutbirds.org/.
+    *  ———. "Nuttall's Woodpecker Sightings Map." All About Birds. https://www.allaboutbirds.org/guide/Nuttalls_Woodpecker/maps-sightings.
+1.  ———. "Bird Academy: The Cornell Lab’s Online Learning Platform." All About Birds. https://academy.allaboutbirds.org/.
+    *  ———. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
 1.  ———. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Macaulay Library, n.d.
 1.  ———. “NestWatch: Where Birds Come to Life.” NestWatch, n.d. https://nestwatch.org/.
 1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID: The Easiest Way to Identify Birds by Sound.” BirdNET, n.d. https://birdnet.cornell.edu/.
@@ -114,6 +117,7 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
     *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
     *  ———. "Eurasian Collared-Dove (*Streptopelia decaocto*)." Featherbase. https://www.featherbase.info/en/species/streptopelia/decaocto.
+    *  ———. "Ladder-backed Woodpecker (*Dryobates scalaris*)." Featherbase. https://www.featherbase.info/en/species/dryobates/scalaris.
     *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
     *  ———. "Northern Mockingbird (*Mimus polyglottos*)." Featherbase. https://www.featherbase.info/en/species/mimus/polyglottos.
     *  ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." Featherbase. https://www.featherbase.info/en/species/zonotrichia/leucophrys.
@@ -143,6 +147,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Northern Mockingbird secondary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_secondary_adult.
     *  ———. "Adult Northern Mockingbird tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_tail_adult.
     *  ———. "Adult Northern Mockingbird tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_tail_adult_bluebk.
+    *  ———. "Adult Nuttalls Woodpecker primary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_primary_adult.
+    *  ———. "Adult Nuttalls Woodpecker secondary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_secondary_adult.
+    *  ———. "Adult Nuttalls Woodpecker tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_tail_adult.
     *  ———. "Adult Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult.
     *  ———. "Adult Swainson's Hawk primary wing feathers - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult_ventral.
     *  ———. "Adult Swainson's Hawk primary wing feathers - Dark Morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_dark.
@@ -155,6 +162,8 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Juvenile European Starling primary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
     *  ———. "Juvenile European Starling secondary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_imm.
     *  ———. "Juvenile European Starling tail feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_imm.
+    *  ———. "Juvenile Ladder-backed Woodpecker tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=LBWO_tail_male.
+    *  ———. "Juvenile Ladder-backed Woodpecker wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=LBWO_wing_male.
     *  ———. "Juvenile Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_immature.
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature.
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
@@ -204,30 +213,36 @@ Links to publications' free, complete online versions will be given preference w
 
 
 ### Other
+1.  Avizienis, Audra, Karen Lawrence, and Sophie Cornish-Keefe. *Fruit and Vegetable Bible*. Moseley Road, Inc, 2019.
 1.  Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
+1.  Carroll, Sean B. *Into the Jungle: Great Adventures in the Search for Evolution*. Pearson, 2009.
+1.  Darwin, Charles. *The Origin of Species*. Barnes & Noble, 2003.
 1.  Davis, Michael, Robert Sommer, and John Menge. *Field Guide to Mushrooms of Western North America*. University of California Press, 2012.
 1.  Dillon, Rob, Jr. “The FWGNA Project: Freshwater Gastropods of North America.” FWGNA, n.d. https://www.fwgna.org/.
 1.  Galerie Insecte. “Galerie du Monde des insectes,” 2002. https://www.galerie-insecte.org/galerie/fichier.php.
 1.  Gross, Joyce. “Joyce Gross Photography,” June 29, 2022. https://joycegross.com/.
 1.  Iowa State University, Department of Plant Pathology, Entomology, and Microbiology. “BugGuide: Identification, Images, & Information For Insects, Spiders & Their Kin For the United States & Canada.” BugGuide, 2003. https://bugguide.net/.
 1.  Jones, Cheri A., and Colleen N. Baxter. “Thomomys Bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742.
+1.  Kimmerer, Robin Wall. *Braiding Sweetgrass*. Milkweed, 2014.
 1.  KQED. “Deep Look,” n.d. https://www.kqed.org/deeplook.
 1.  KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
 1.  Krogh, David. *Biology: A Guide to the Natural World*. Benjamin Cummings, 2011.
+1.  Læssøe, Thomas. *Mushrooms: How to Identify and Gather Wild Mushrooms and Other Fungi*. Penguin Random House, 2013.
 1.  Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
 1.  Nystrom, Siera. “Natural History Journal : Notes from a California Naturalist.” Blogspot, September 2016. https://natural-history-journal.blogspot.com/.
     *  ———. "Urban Birding". Natural History Journal, April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
-2.  Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
-3.  Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
-4.  Skulls Unlimited International, Inc. “Skulls Unlimited: World Leader in Real and Replica Skulls & Skeletons,” n.d. https://www.skullsunlimited.com/.
-5.  Smithsonian Environmental Research Center. “Ecosystems on the Edge,” n.d. https://ecosystemsontheedge.org/.
-6.  Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.
-7.  Toft, Jason D., Jeffery R. Cordell, and Wayne Fields. “New Records of Crustaceans (Amphipoda, Isopoda) in the Sacramento/San Joaquin Delta, California, and Application of Criteria for Introduced Species.” *Journal of Crustacean Biology 22*, no. 1 (January 1, 2002): 190–200. https://doi.org/10.1163/20021975-99990222.
-8.  University of British Columbia. “The Srivastava Lab,” n.d. https://www.zoology.ubc.ca/~srivast/.
-9.  University of California, Agriculture and Natural Resources. “California Fish Website.” University of California Davis, n.d. https://calfish.ucdavis.edu/.
-10. ———. “Statewide Integrated Pest Management Program,” n.d. https://ipm.ucanr.edu/index.html.
-11. ———. “UC Oaks: Oak Woodland Management.” University of California Berkeley, January 9, 2020. https://oaks.cnr.berkeley.edu/.
-12. University of Michigan Museum of Zoology. “Animal Diversity Web,” n.d. https://animaldiversity.org/.
-13. Urry, Lisa, Michael Cain, Steven Wasserman, Rebecca Orr, and Peter Minorsky. *Campbell Biology in Focus*. Pearson, 2019.
-14. U.S. Fish & Wildlife Service. “National Wildlife Refuge System,” n.d. https://www.fws.gov/program/national-wildlife-refuge-system.
-15. Wernert and Reader’s Digest Association. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
+1.  Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
+1.  Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
+1.  Sheldrake, Merlin. *Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures*. Random House, 2020.
+1.  Skulls Unlimited International, Inc. “Skulls Unlimited: World Leader in Real and Replica Skulls & Skeletons,” n.d. https://www.skullsunlimited.com/.
+1.  Smithsonian Environmental Research Center. “Ecosystems on the Edge,” n.d. https://ecosystemsontheedge.org/.
+1.  Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.
+1.  Toft, Jason D., Jeffery R. Cordell, and Wayne Fields. “New Records of Crustaceans (Amphipoda, Isopoda) in the Sacramento/San Joaquin Delta, California, and Application of Criteria for Introduced Species.” *Journal of Crustacean Biology 22*, no. 1 (January 1, 2002): 190–200. https://doi.org/10.1163/20021975-99990222.
+1.  University of British Columbia. “The Srivastava Lab,” n.d. https://www.zoology.ubc.ca/~srivast/.
+1.  University of California, Agriculture and Natural Resources. “California Fish Website.” University of California Davis, n.d. https://calfish.ucdavis.edu/.
+1. ———. “Statewide Integrated Pest Management Program,” n.d. https://ipm.ucanr.edu/index.html.
+1. ———. “UC Oaks: Oak Woodland Management.” University of California Berkeley, January 9, 2020. https://oaks.cnr.berkeley.edu/.
+1. University of Michigan Museum of Zoology. “Animal Diversity Web,” n.d. https://animaldiversity.org/.
+1. Urry, Lisa, Michael Cain, Steven Wasserman, Rebecca Orr, and Peter Minorsky. *Campbell Biology in Focus*. Pearson, 2019.
+1. U.S. Fish & Wildlife Service. “National Wildlife Refuge System,” n.d. https://www.fws.gov/program/national-wildlife-refuge-system.
+1. Wernert and Reader’s Digest Association. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
