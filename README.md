@@ -101,6 +101,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
     *  ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
+    *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." Geotripper's California Birds, November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
 1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite, n.d. https://skullsite.com/.
 1.  National Audubon Society. “Audubon: Guide to North American Birds.” Audubon, n.d. https://www.audubon.org/bird-guide.
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
@@ -114,8 +115,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
 1.  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Featherbase.” Featherbase, n.d. https://www.featherbase.info/en/home.
     *  ———. “Acorn Woodpecker (*Melanerpes formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
-    *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
+    *  ———. "California Scrub-Jay (*Aphelocoma californica*)." Featherbase. https://www.featherbase.info/en/species/aphelocoma/californica.
     *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
+    *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
     *  ———. "Eurasian Collared-Dove (*Streptopelia decaocto*)." Featherbase. https://www.featherbase.info/en/species/streptopelia/decaocto.
     *  ———. "Ladder-backed Woodpecker (*Dryobates scalaris*)." Featherbase. https://www.featherbase.info/en/species/dryobates/scalaris.
     *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
@@ -127,6 +129,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Acorn Woodpecker secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_secondary_adult.
     *  ———. "Adult Acorn Woodpecker tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_tail_adult.
     *  ———. "Adult European Starling primary wing feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_adult.
+    *  ———. "Adult California Scrub-Jay primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CASJ_primary_female.
+    *  ———. "Adult California Scrub-Jay secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CASJ_secondary_female.
+    *  ———. "Adult California Scrub-Jay tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CASJ_tail_female.
     *  ———. "Adult Canada Goose primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_primary_adult.
     *  ———. "Adult Canada Goose secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_secondary_adult.
     *  ———. "Adult Canada Goose secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=CAGO_secondary_adult_bluebk.
@@ -149,7 +154,10 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Northern Mockingbird tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NOMO_tail_adult_bluebk.
     *  ———. "Adult Nuttalls Woodpecker primary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_primary_adult.
     *  ———. "Adult Nuttalls Woodpecker secondary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_secondary_adult.
-    *  ———. "Adult Nuttalls Woodpecker tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_tail_adult.
+    *  ———. "Adult Nuttalls Woodpecker tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=NUWO_tail_adult.    
+    *  ———. "Adult Red-shouldered Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_primary_ad.
+    *  ———. "Adult Red-shouldered Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_secondary_ad.
+    *  ———. "Adult Red-shouldered Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_tail_ad.
     *  ———. "Adult Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult.
     *  ———. "Adult Swainson's Hawk primary wing feathers - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_adult_ventral.
     *  ———. "Adult Swainson's Hawk primary wing feathers - Dark Morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_dark.
@@ -159,11 +167,19 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark.
     *  ———. "Adult Swainson's Hawk secondary wing feathers - Dark morph Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_dark_ventral.
     *  ———. "Adult Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_adult.
+    *  ———. "Adult Yellow-billed Magpie primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_primary_adult.
+    *  ———. "Adult Yellow-billed Magpie secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_secondary_adult.
+    *  ———. "Adult Yellow-billed Magpie tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_tail_adult.
     *  ———. "Juvenile European Starling primary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
     *  ———. "Juvenile European Starling secondary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_imm.
     *  ———. "Juvenile European Starling tail feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_imm.
     *  ———. "Juvenile Ladder-backed Woodpecker tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=LBWO_tail_male.
     *  ———. "Juvenile Ladder-backed Woodpecker wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=LBWO_wing_male.
+    *  ———. "Juvenile Red-shouldered Hawk primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_primary_imm_female.
+    *  ———. "Juvenile Red-shouldered Hawk primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_primary_imm_female_bluebk.
+    *  ———. "Juvenile Red-shouldered Hawk secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_secondary_imm_female.
+    *  ———. "Juvenile Red-shouldered Hawk secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_secondary_imm_female_bluebk.
+    *  ———. "Juvenile Red-shouldered Hawk tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_tail_imm_female.
     *  ———. "Juvenile Swainson's Hawk primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_primary_immature.
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature.
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
@@ -240,9 +256,9 @@ Links to publications' free, complete online versions will be given preference w
 1.  Toft, Jason D., Jeffery R. Cordell, and Wayne Fields. “New Records of Crustaceans (Amphipoda, Isopoda) in the Sacramento/San Joaquin Delta, California, and Application of Criteria for Introduced Species.” *Journal of Crustacean Biology 22*, no. 1 (January 1, 2002): 190–200. https://doi.org/10.1163/20021975-99990222.
 1.  University of British Columbia. “The Srivastava Lab,” n.d. https://www.zoology.ubc.ca/~srivast/.
 1.  University of California, Agriculture and Natural Resources. “California Fish Website.” University of California Davis, n.d. https://calfish.ucdavis.edu/.
-1. ———. “Statewide Integrated Pest Management Program,” n.d. https://ipm.ucanr.edu/index.html.
-1. ———. “UC Oaks: Oak Woodland Management.” University of California Berkeley, January 9, 2020. https://oaks.cnr.berkeley.edu/.
-1. University of Michigan Museum of Zoology. “Animal Diversity Web,” n.d. https://animaldiversity.org/.
-1. Urry, Lisa, Michael Cain, Steven Wasserman, Rebecca Orr, and Peter Minorsky. *Campbell Biology in Focus*. Pearson, 2019.
-1. U.S. Fish & Wildlife Service. “National Wildlife Refuge System,” n.d. https://www.fws.gov/program/national-wildlife-refuge-system.
-1. Wernert and Reader’s Digest Association. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
+1.  ———. “Statewide Integrated Pest Management Program,” n.d. https://ipm.ucanr.edu/index.html.
+1.  ———. “UC Oaks: Oak Woodland Management.” University of California Berkeley, January 9, 2020. https://oaks.cnr.berkeley.edu/.
+1.  University of Michigan Museum of Zoology. “Animal Diversity Web,” n.d. https://animaldiversity.org/.
+1.  Urry, Lisa, Michael Cain, Steven Wasserman, Rebecca Orr, and Peter Minorsky. *Campbell Biology in Focus*. Pearson, 2019.
+1.  U.S. Fish & Wildlife Service. “National Wildlife Refuge System,” n.d. https://www.fws.gov/program/national-wildlife-refuge-system.
+1.  Wernert and Reader’s Digest Association. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
