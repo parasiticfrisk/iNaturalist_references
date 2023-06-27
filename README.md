@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_26-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_27-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -241,7 +241,59 @@ Links to publications' free, complete online versions will be given preference w
 1.  Jones, Cheri A., and Colleen N. Baxter. “Thomomys Bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742.
 1.  Kimmerer, Robin Wall. *Braiding Sweetgrass*. Milkweed, 2014.
 1.  KQED. “Deep Look,” n.d. https://www.kqed.org/deeplook.
+    *  Black, Jason. "Watch Flesh-Eating Beetles Strip Bodies to the Bone." Deep Look, October 13, 2015. https://www.kqed.org/science/299669/watch-flesh-eating-beetles-strip-bodies-to-the-bone.
+    *  Cassidy, Josh. "Pygmy Seahorses: Masters of Camouflage." Deep Look, October 21, 2014. https://www.kqed.org/science/22700/pygmy-seahorses-masters-of-camouflage.
+    *  ———. "The Fantastic Fur of Sea Otters." Deep Look, January 6, 2015. https://www.kqed.org/science/25908/the-fantastic-fur-of-sea-otters.
+    *  ———. "Banana Slugs: Secret of the Slime." Deep Look, February 17, 2015. https://www.kqed.org/science/27260/banana-slugs-secret-of-the-slime.
+    *  ———. "You're Not Hallucinating. That's Just Squid Skin." Deep Look, September 8, 2015. https://www.kqed.org/science/233664/youre-not-hallucinating-thats-just-squid-skin.
+    *  ———. "What Makes Owls So Quiet and So Deadly?." Deep Look, October 27, 2015. https://www.kqed.org/science/321383/see-what-makes-owls-so-quiet-and-so-deadly.
+    *  ———. "The Sex Lives of Christmas Trees." Deep Look, November 24, 2015. https://www.kqed.org/science/366760/the-sex-lives-of-christmas-trees.
+    *  ———. "Stinging Scorpion vs. Pain-Defying Mouse." Deep Look, March 8, 2016. https://www.kqed.org/science/518349/stinging-scorpion-vs-pain-defying-mouse.
+    *  Cassidy, Josh, and Grace Singer. "How Do Sharks and Rays Use Electricity to Find Hidden Prey?." Deep Look, August 11, 2015. https://www.kqed.org/science/106591/sharks-and-rays-sense-electricity-fish-cant-hide.
+    *  Cassidy, Josh, and Mallory Pickett. "From Drifter to Dynamo: The Story of Plankton." Deep Look, March 3, 2015. https://www.kqed.org/science/27808/from-drifter-to-dynamo-the-story-of-plankton.
+    *  Jaacks, Jason. "What Happens When You Zap Coral With The World's Most Powerful X-ray Laser?." Deep Look, July 7, 2015. https://www.kqed.org/science/99894/what-happens-when-you-zap-coral-with-the-worlds-most-powerful-x-ray-laser.
+    *  ———. "Nature's Mood Rings: How Chameleons Really Change Color." Deep Look, August 25, 2015. https://www.kqed.org/science/206401/natures-mood-rings-how-chameleons-really-change-color.
+    *  ———. "Why Jellyfish Float Like a Butterfly—And Sting Like a Bee." Deep Look, September 29, 2015. https://www.kqed.org/science/273618/why-jellyfish-float-like-a-butterfly-and-sting-like-a-bee.
+    *  Kennerson, Elliot. "Nature's Scuba Divers: How Beetles Breathe Underwater." Deep Look, November 10, 2015. https://www.kqed.org/science/341205/natures-scuba-divers-how-beetles-breathe-underwater.
+    *  ———. "The Ladybug Love-In: A Valentine's Special." Deep Look, February 9, 2016. https://www.kqed.org/science/468582/the-once-in-a-lifetime-ladybug-love-in.
+    *  ———. "The Bombardier Beetle And Its Crazy Chemical Cannon." Deep Look, March 22, 2016. https://www.kqed.org/science/536762/the-bombardier-beetle-and-its-crazy-chemical-cannon.
+    *  Oh, Jenny. "What Gives the Morpho Butterfly Its Magnificent Blue?" Deep Look, December 16, 2014. https://www.kqed.org/science/24552/what-gives-the-morpho-butterfly-its-magnificent-blue.
+    *  Pickett, Mallory, and Gabriela Quirós. "Newt Sex: Buff Males! Writhing Females! Cannibalism!." Deep Look, March 17, 2015. https://www.kqed.org/science/28273/newt-sex-buff-males-writhing-females-cannibalism.
+    *  Quirós, Gabriela. "Where Are the Ants Carrying All Those Leaves?." Deep Look, June 11, 2015. https://www.kqed.org/science/41112/where-are-the-ants-carrying-all-those-leaves.
+    *  ———. "These 'Resurrection Plants' Spring Back to Life in Seconds." Deep Look, June 25, 2015. https://www.kqed.org/science/73151/these-resurrection-plants-spring-back-to-life-in-seconds.
+    *  ———. "These Crazy Cute Baby Turtles Want Their Lake Back." Deep Look, January 26, 2016. https://www.kqed.org/science/474213/these-crazy-cute-baby-turtles-want-their-lake-back. 
+    *  ———, "This Mushroom Starts Killing You Before You Even Realize It." Deep Look, February 23, 2016. https://www.kqed.org/science/523936/this-mushroom-starts-killing-you-before-you-even-realize-it.  
+    *  Rosa, Craig. "What Gall! The Crazy Cribs of Parasitic Wasps." Deep Look, November 18, 2014. https://www.kqed.org/science/23927/what-gall-the-crazy-cribs-of-parasitic-wasps.
+    *  Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?." Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
 1.  KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+    *  ———. "Pygmy Seahorses: Masters of Camouflage | Deep Look." YouTube, October 20, 2014. https://youtu.be/Q3CtGoqz3ww.
+    *  ———. "What Gall! The Crazy Cribs of Parasitic Wasps | Deep Look." YouTube, November 18, 2014. https://youtu.be/lOgP5NzcTuA.
+    *  ———. "What Gives the Morpho Butterfly Its Magnificent Blue? | Deep Look." YouTube, December 16, 2014. https://youtu.be/29Ts7CsJDpg.
+    *  ———. "The Fantastic Fur of Sea Otters | Deep Look." YouTube, January 6, 2015. https://youtu.be/Zxqg_um1TXI.
+    *  ———. "Banana Slugs: Secret of the Slime | Deep Look." YouTube, February 16, 2015. https://youtu.be/mHvCQSGanJg.
+    *  ———. "From Drifter to Dynamo: The Story of Plankton | Deep Look." YouTube, March 3, 2015. https://youtu.be/jUvJ5ANH86I.
+    *  ———. "Newt Sex: Buff Males! Writhing Females! Cannibalism! | Deep Look." YouTube, March 17, 2015. https://youtu.be/JyqY64ovjfY. 
+    *  ———. "What Happens When You Put a Hummingbird in a Wind Tunnel? | Deep Look." YouTube, March 31, 2015. https://youtu.be/1V7Tim2RNTo.
+    *  ———. "Where Are the Ants Carrying All Those Leaves? | Deep Look." YouTube, June 11, 2015. https://youtu.be/-6oKJ5FGk24.
+    *  ———. "These 'Resurrection Plants' Spring Back to Life in Seconds | Deep Look." YouTube, June 25, 2015. https://youtu.be/eoFGKlZMo2g.
+    *  ———. "What Happens When You Zap Coral With The World's Most Powerful X-ray Laser? | Deep Look." YouTube, July 7, 2015. https://youtu.be/aXmCU6IYnsA.
+    *  ———. "How Do Sharks and Rays Use Electricity to Find Hidden Prey? | Deep Look." YouTube, August 11, 2015. https://youtu.be/JDPFR6n8tAQ.
+    *  ———. "Nature's Mood Rings: How Chameleons Really Change Color | Deep Look." YouTube, August 25, 2015. https://youtu.be/Kp9W-_W8rCM.
+    *  ———. "You're Not Hallucinating. That's Just Squid Skin. | Deep Look ." YouTube, September 8, 2015. https://youtu.be/0wtLrlIKvJE.
+    *  ———. "Why Jellyfish Float Like a Butterfly—And Sting Like a Bee | Deep Look." YouTube, September 29, 2015. https://youtu.be/xQNxXUtRjzg.
+    *  ———. "Watch Flesh-Eating Beetles Strip Bodies to the Bone | Deep Look." YouTube, October 13, 2015. https://youtu.be/Np0hJGKrIWg.
+    *  ———. "What Makes Owls So Quiet and So Deadly? | Deep Look." YouTube, October 27, 2015. https://youtu.be/a68fIQzaDBY.
+    *  ———. "Nature's Scuba Divers: How Beetles Breathe Underwater | Deep Look." YouTube, November 10, 2015. https://youtu.be/T-RtG5Z-9jQ.
+    *  ———. "The Sex Lives of Christmas Trees | Deep Look." YouTube, November 24, 2015. https://youtu.be/xEji9I4Tcjo.
+    *  ———. "These Crazy Cute Baby Turtles Want Their Lake Back | Deep Look." YouTube, January 26, 2016. https://youtu.be/YTYFdpNpkMY.
+    *  ———. "The Ladybug Love-In: A Valentine's Special | Deep Look." YouTube, February 9, 2016. https://youtu.be/c-Z6xRexbIU.
+    *  ———. "This Mushroom Starts Killing You Before You Even Realize It | Deep Look." YouTube, February 23, 2016. https://youtu.be/bl9aCH2QaQY.
+    *  ———. "Stinging Scorpion vs. Pain-Defying Mouse | Deep Look." YouTube, March 8, 2016. https://youtu.be/w-K_YtWqMro.
+    *  ———. "The Bombardier Beetle And Its Crazy Chemical Cannon | Deep Look." YouTube, March 22, 2016. https://youtu.be/BWwgLS5tK80.
+    *  ———. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive | Deep Look." YouTube, August 22, 2017. https://youtu.be/tjDmH8zhp6o.
+    *  ———. "A Baby Dragonfly's Mouth Will Give You Nightmares | Deep Look." YouTube, September 12, 2017. https://youtu.be/EHo_9wnnUTE.
+    *  ———. "It’s a Goopy Mess When Pines and Beetles Duke it Out | Deep Look." YouTube, October 24, 2017. https://youtu.be/wR5O48zsbnc.
+    *  ———. "Why the Male Black Widow is a Real Home Wrecker | Deep Look." YouTube, January 9, 2018. https://youtu.be/NpJNeGqExrc.
 1.  Krogh, David. *Biology: A Guide to the Natural World*. Benjamin Cummings, 2011.
 1.  Læssøe, Thomas. *Mushrooms: How to Identify and Gather Wild Mushrooms and Other Fungi*. Penguin Random House, 2013.
 1.  Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
