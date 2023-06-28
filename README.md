@@ -53,7 +53,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Gertsch, Willis J., and Franklin Ennik. “The Spider Genus *Loxosceles* in North America, Central America, and the West Indies (Araneae, Loxoscelidae).” *Bulletin of the American Museum of Natural History 175* (November 7, 1983): 264–360. http://hdl.handle.net/2246/981.
 1.  González-Trujillo, Ricardo, Miguel Mauricio Correa-Ramírez, Eduardo Ruiz-Sanchez, Emiliano Alvarez Salinas, María Joaquina Morón Jiménez, and Francisco León. “Pleistocene Refugia and Their Effects on the Phylogeography and Genetic Structure of the Wolf Spider *Pardosa sierra* (Araneae: Lycosidae) on the Baja California Peninsula.” *Journal of Arachnology 44*, no. 3 (November 11, 2016): 367–79. [https://doi.org/10.1636/r15-84.1](https://www.researchgate.net/publication/309959609_Pleistocene_refugia_and_their_effects_on_the_phylogeography_and_genetic_structure_of_the_Wolf_spider_Pardosa_sierra_Araneae_Lycosidae_on_the_Baja_California_Peninsula).
 1.  Goodnight, Clarence J. “The Genus *Protolophus* (Phalangida).” *American Museum Novitates*, no. 1157 (January 22, 1942). http://hdl.handle.net/2246/4767.
-1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California.” California Sate University Northridge (May 1990). https://scholarworks.csun.edu:443/handle/10211.3/191410.
+1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California.” California Sate University, Northridge (May 1990). https://scholarworks.csun.edu:443/handle/10211.3/191410.
 1.	Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena Curta*).” iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
 1.  Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
 1.  Levi, Herbert W. “American Spiders of the Genera *Audifia*, *Euryopis*, and *Dipoena* (Araneae: Theridiidae).” *Bulletin of the Museum of Comparative Zoology at Harvard College 129* (January 1, 1963): 121–83. https://www.biodiversitylibrary.org/part/7294.
@@ -119,9 +119,13 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
     *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
     *  ———. "Eurasian Collared-Dove (*Streptopelia decaocto*)." Featherbase. https://www.featherbase.info/en/species/streptopelia/decaocto.
+    *  ———. "Great Horned Owl (*Bubo virginianus*)." Featherbase. https://www.featherbase.info/en/species/bubo/virginianus.
     *  ———. "Ladder-backed Woodpecker (*Dryobates scalaris*)." Featherbase. https://www.featherbase.info/en/species/dryobates/scalaris.
+    *  ———. "Mourning Dove (*Zenaida macroura*)." Featherbase. https://www.featherbase.info/en/species/zenaida/macroura.
     *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
     *  ———. "Northern Mockingbird (*Mimus polyglottos*)." Featherbase. https://www.featherbase.info/en/species/mimus/polyglottos.
+    *  ———. "Red-shouldered Hawk (*Buteo lineatus*)." Featherbase. https://www.featherbase.info/en/species/buteo/lineatus.
+    *  ———. "Rock Pigeon (*Columba livia*)." Featherbase. https://www.featherbase.info/en/species/columba/livia.
     *  ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." Featherbase. https://www.featherbase.info/en/species/zonotrichia/leucophrys.
 1.  Scott, David, and Casey McFarland. *Bird Feathers: A Guide to North American Species*. Stackpole Books, 2010.
 1.  U.S. Fish & Wildlife Service Forensics Laboratory. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish & Wildlife Service, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
@@ -144,6 +148,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Eurasian Collared-Dove tail feathers - Female - ventral view." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ECDO_tail_ad_ventral.  
     *  ———. "Adult European Starling secondary wing feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_adult.
     *  ———. "Adult European Starling tail feathers - Female." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_adult.
+    *  ———. "Adult Great Horned Owl primary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=GHOW_primary_dark.
+    *  ———. "Adult Great Horned Owl secondary wing feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=GHOW_secondary_dark.
+    *  ———. "Adult Great Horned Owl tail feathers - Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=GHOW_tail_dark.
     *  ———. "Adult Muscovy Duck primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_primary_adult.
     *  ———. "Adult Muscovy Duck secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_secondary_adult.
     *  ———. "Adult Muscovy Duck tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=MUDU_tail_adult.
@@ -170,6 +177,8 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Adult Yellow-billed Magpie primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_primary_adult.
     *  ———. "Adult Yellow-billed Magpie secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_secondary_adult.
     *  ———. "Adult Yellow-billed Magpie tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_tail_adult.
+    *  ———. "Great Horned Owl primary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=GHOW_primary.
+    *  ———. "Great Horned Owl tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=GHOW_tail.
     *  ———. "Juvenile European Starling primary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_primary_imm.
     *  ———. "Juvenile European Starling secondary wing feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_secondary_imm.
     *  ———. "Juvenile European Starling tail feathers - Male." The Feather Atlas, April, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=EUST_tail_imm.
@@ -200,6 +209,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Langdon-Lassagne, Emily. "Subgenus *Eumelissodes*". iNaturalist, August 4, 2021. https://www.inaturalist.org/observations/100167000.
 1.  LeBuhn, Gretchen, and Noel B. Pugh. *Field Guide to the Common Bees of California: Including Bees of the Western United States*. University of California Press, 2013.
 1.  Mississippi State University. “North American Moth Photographers Group: Digital Guide to Moth Identification,” 2022. https://mothphotographersgroup.msstate.edu/.
+1.  Monti, Maurilia. M., Michelina Ruocco, Elizabeth Grobbelaar, and Poalo A. Pedata. “Morphological and Molecular Characterization of Lema Bilineata (Germar), a New Alien Invasive Leaf Beetle for Europe, with Notes on the Related Species Lema Daturaphila Kogan & Goeden.” *Insects 11*, no. 5 (May 11, 2020): 295. https://doi.org/10.3390/insects11050295.
 1.  Nyman, Tommi, and Riitta Julkunen-Tiitto. “Manipulation of the Phenolic Chemistry of Willows by Gall-Inducing Sawflies.” *Proceedings of the National Academy of Sciences of the United States of America 97*, no. 24 (November 21, 2000): 13184–13187. https://doi.org/10.1073/pnas.230294097.
 1.  Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
 1.  Shapiro, Arthur M., and Timothy D. Manolis. *Field Guide to Butterflies of the San Francisco Bay and Sacramento Valley Regions*. University of California Press, 2007.
@@ -219,6 +229,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  California Native Plant Society. “California Native Plant Society,” 1965. https://www.cnps.org/.
 1.  California State University Stanislaus. “Campus Tree Story Map,” 2017. https://www.csustan.edu/campus-tree-story-map.
 1.  Gallformers Contributors. “Gallformers.” Gallformers.org, n.d. https://gallformers.org/.
+1.  Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational Evidence of Herbivore‐specific Associational Effects between Neighboring Conspecifics in Natural, Dimorphic Populations of Datura Wrightii.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454.
 1.  Je9h, and Momento Mori. “Roses (Genus Rosa).” iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
 1.  Oregon State University, Department of Horticulture. “Landscape Plants.” Oregon State University, n.d. https://landscapeplants.oregonstate.edu/.
 1.  Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
