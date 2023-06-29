@@ -59,6 +59,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California.” California Sate University, Northridge (May 1990). https://scholarworks.csun.edu:443/handle/10211.3/191410.
 1.	Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena Curta*).” iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
 1.  Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
+1.  Ivie, Wilton. “North American Spiders of the Genus *Bathyphantes* (Araneae, Linyphiidae).” *American Museum Novitates 2364* (1969). https://hdl.handle.net/2246/2574.
 1.  Levi, Herbert W. “American Spiders of the Genera *Audifia*, *Euryopis*, and *Dipoena* (Araneae: Theridiidae).” *Bulletin of the Museum of Comparative Zoology at Harvard College 129* (January 1, 1963): 121–83. https://www.biodiversitylibrary.org/part/7294.
 1.  ———. “Spiders of the Genus *Dipoena* from America North of Mexico (Araneae, Theridiidae).” *American Museum Novitates 1647* (December 20, 1953): 1-40. [https://hdl.handle.net/2246/4884](https://digitallibrary.amnh.org/bitstream/handle/2246/4884//v2/dspace/ingest/pdfSource/nov/N1647.pdf?sequence=1&isAllowed=y).
 1.  ———. “The American Orb-Weaver Genera *Dolichognatha* and *Tetragnatha* North of Mexico (Araneae: Araneidae, Tetragnathinae).” *Bulletin of the Museum of Comparative Zoology 149*, no. 5 (July 21, 1981): 271–318. https://www.biodiversitylibrary.org/page/4776863#page/299/mode/1up.
@@ -81,6 +82,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  ———. “A Revision of the North American Spider Genus *Anachemmis* Chamberlin (Araneae, Tengellidae).” *American Museum Novitates 3477* (May 11, 2005). https://hdl.handle.net/2246/2787.
 1.  ———. “A Revision of the Endemic Californian Spider Genus *Titiotus* Simon (Araneae, Tengellidae).” *American Museum Novitates 3608* (April 9, 2008). https://hdl.handle.net/2246/5905.
 1.  Polotow, Daniele, Anthea Carmichael, and Charles E. Griswold. “Total Evidence Analysis of the Phylogenetic Relationships of Lycosoidea Spiders (Araneae, Entelegynae).” *Invertebrate Systematics 29*, no. 2 (June 11, 2015): 124. https://doi.org/10.1071/is14041.
+1.  Saaristo, Michael Ilmari, and Andrei V. Tanasevitch. “Redelimitation of the Subfamily Micronetinae Hull, 1920 and the Genus *Lepthyphantes* Menge, 1866 with Descriptions of Some New Genera (Aranei, Linyphiidae).” *Berichte Des Naturwissenschaftlich-Medizinischen Vereins in Innsbruck 83* (January 1, 1996): 163–86. http://www.zobodat.at/pdf/BERI_83_0163-0186.pdf.
 1.  San Diego Natural History Museum, and Jim Berrian. “Checklist of Spiders of San Diego County.” The Nat, December 20, 2014. https://www.sdnhm.org/science/entomology/projects/checklist-of-spiders-of-san-diego-county/.
 1.  Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena Curta*).” iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
 1.  Schick, Robert X. “The Crab Spiders of California (Araneida, Thomisidae).” *Bulletin of the American Museum of Natural History 129*, no. 1 (1965): 1–180. https://hdl.handle.net/2246/1114.
@@ -97,13 +99,16 @@ Links to publications' free, complete online versions will be given preference w
 
 
 ### Birds
-1.  Cornell Lab of Ornithology. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” All About Birds, n.d. https://www.allaboutbirds.org/.
+1.  Cornell Lab of Ornithology. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” All About Birds. https://www.allaboutbirds.org/.
+    *  ———. “Northern Mockingbird Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Northern_Mockingbird/sounds.    
     *  ———. "Nuttall's Woodpecker Sightings Map." All About Birds. https://www.allaboutbirds.org/guide/Nuttalls_Woodpecker/maps-sightings.
 1.  ———. "Bird Academy: The Cornell Lab’s Online Learning Platform." All About Birds. https://academy.allaboutbirds.org/.
     *  ———. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
-1.  ———. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Macaulay Library, n.d.
+1.  ———. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Macaulay Library, 2000. https://www.macaulaylibrary.org/.
+    *  ———. “Cooper’s Hawk - *Accipiter cooperii*.” Audio. Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=coohaw&mediaType=audio&sort=rating_rank_desc&tag=call.
+    *  ———. “Northern Mockingbird - *Mimus polyglottos*.” Audio. Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=normoc&mediaType=audio&sort=rating_rank_desc.
 1.  ———. “NestWatch: Where Birds Come to Life.” NestWatch, n.d. https://nestwatch.org/.
-1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID: The Easiest Way to Identify Birds by Sound.” BirdNET, n.d. https://birdnet.cornell.edu/.
+1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID: The Easiest Way to Identify Birds by Sound.” BirdNET. https://birdnet.cornell.edu/api/.
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
@@ -114,8 +119,9 @@ Links to publications' free, complete online versions will be given preference w
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1.  That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1.  University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
-1.  Weiland, Torben. “Bird Sounds and Bird Calls in USA & Canada.” Bird-sounds, n.d. https://www.bird-sounds.net/.
-
+1.  Weiland, Torben. “Bird Sounds and Bird Calls in USA & Canada.” Bird-Sounds, 2013. https://www.bird-sounds.net/.
+    *  ———. “Cooper’s Hawk - Song / Call / Voice / Sound.” Bird-Sounds, 2013-2023. https://www.bird-sounds.net/coopers-hawk/?type1021.
+    *  ———. “Northern Mockingbird - Song / Call / Voice / Sound.” Bird-Sounds. 2013-2023. https://www.bird-sounds.net/northern-mockingbird/.
 
 ### Bird Feathers
 1.  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
@@ -264,6 +270,9 @@ Links to publications' free, complete online versions will be given preference w
 1.  Davis, Michael, Robert Sommer, and John Menge. *Field Guide to Mushrooms of Western North America*. University of California Press, 2012.
 1.  Dillon, Rob, Jr. “The FWGNA Project: Freshwater Gastropods of North America.” FWGNA, n.d. https://www.fwgna.org/.
 1.  Galerie Insecte. “Galerie du Monde des insectes,” 2002. https://www.galerie-insecte.org/galerie/fichier.php.
+1.  Modesto Junior College, Great Valley Museum. "Great Valley Museum". YouTube. https://www.youtube.com/@gvmatmjc.
+    *  Lucas, Erynn. “Viruses: An Introduction to Virology and Coronaviruses,” YouTube, September 25, 2020. https://youtu.be/5ko4gHP-afY.
+    *  Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants,” YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
 1.  Gross, Joyce. “Joyce Gross Photography,” June 29, 2022. https://joycegross.com/.
 1.  Iowa State University, Department of Plant Pathology, Entomology, and Microbiology. “BugGuide: Identification, Images, & Information For Insects, Spiders & Their Kin For the United States & Canada.” BugGuide, 2003. https://bugguide.net/.
     * Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
