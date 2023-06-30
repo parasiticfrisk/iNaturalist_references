@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_29-informational?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_30-informational?style=flat-square)
 
 ## About
 The sources I have used to offer identifications across iNaturalist are included in this reference list.
@@ -38,7 +38,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  Bond, Jason E., and Brent D. Opell. “Systematics of the Spider Genera *Mallos* and *Mexitlia* (Araneae, Dictynidae).” *Zoological Journal of the Linnean Society 119*, no. 4 (April 1997): 389–445. https://doi.org/10.1111/j.1096-3642.1997.tb00141.x.
 1.  Bond, Jason E., and Amy K. Stockman. “An Integrative Method for Delimiting Cohesion Species: Finding the Population-Species Interface in a Group of Californian Trapdoor Spiders with Extreme Genetic Divergence and Geographic Structuring.” *Systematic Biology 57*, no. 4 (August 1, 2008): 628–46. https://doi.org/10.1080/10635150802302443.
 1.  Bradley, Richard A., and Steve Buchanan. *Common Spiders of North America*. University of California Press, 2019.
-1.  Chamberlin, Ralph V. “New North American Spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://wsc.nmbe.ch/refincluded/1884.
+1.  Chamberlin, Ralph V. “New Californian Spiders.” Journal of *Entomology and Zoology 12* (January 1, 1919): 1–17. https://www.biodiversitylibrary.org/page/12475384#page/11/mode/1up.
+1.  ———. “New North American Spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://wsc.nmbe.ch/refincluded/1884.
 1.  Chamberlin, Ralph V., and Willis J. Gertsch. “New Spiders from Utah and California.” *Journal of Entomology and Zoology 21* (1929): 101–12. https://wsc.nmbe.ch/refincluded/2008.
 1.  ———. “On Fifteen New North American Spiders.” *Proceedings of the Biological Society of Washington 43* (September 26, 1930): 137–44. https://www.biodiversitylibrary.org/partpdf/43707.
 1.  Chamberlin, Ralph V., and Wilton Ivie. “The Black Widow Spider and Its Varieties in the United States.” *Bulletin of the University of Utah 25*, no. 8 (June 1935): 1–29. https://collections.lib.utah.edu/ark:/87278/s6nz8sff.
@@ -86,6 +87,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  San Diego Natural History Museum, and Jim Berrian. “Checklist of Spiders of San Diego County.” The Nat, December 20, 2014. https://www.sdnhm.org/science/entomology/projects/checklist-of-spiders-of-san-diego-county/.
 1.  Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
 1.  Schick, Robert X. “The Crab Spiders of California (Araneida, Thomisidae).” *Bulletin of the American Museum of Natural History 129*, no. 1 (1965): 1–180. https://hdl.handle.net/2246/1114.
+1.  Salceda, Beatriz, César Gabriel Durán-Barrón, Magaly G Landa Flores, and Ma Ruth Sandoval-Espinosa. “Un Tuerto En La Familia: Anomalía Ocular En *Zorocrates* Sp. (Araneae: Zoropsidae) En México.” *Revista Ibérica De Aracnología 42* (June 27, 2023): 259–60. https://www.researchgate.net/publication/371902053_Un_tuerto_en_la_familia_Anomalia_ocular_en_Zorocrates_sp_Araneae_Zoropsidae_en_Mexico.
+1.  Silva-Dávila, Diana. “Higher-Level Relationships of the Spider Family Ctenidae (Araneae: Ctenoidea).” *Bulletin of the American Museum of Natural History 274* (February 6, 2003): 1–86. [https://doi.org/10.1206/0003-0090(2003)274<0001:HLROTS>2.0.CO;2](https://doi.org/10.1206/0003-0090(2003)274<0001:HLROTS>2.0.CO;2).
 1.  Spagna, Joseph C., Edgar A. Valdivia, and Vivin Mohan. “Gait Characteristics of Two Fast-Running Spider Species (*Hololena Adnexa* and *Hololena Curta*), Including an Aerial Phase (Araneae: Agelenidae).” *Journal of Arachnology 39*, no. 1 (June 22, 2011): 84–91. https://doi.org/10.1636/b10-45.1.
 1.  Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
 1.  Starrett, James, Ashley Bui, Rowan McGinley, Eileen A. Hebets, and Jason E. Bond. “Phylogenomic Variation at the Population-Species Interface and Assessment of Gigantism in a Model Wolf Spider Genus (Lycosidae, *Schizocosa*).” *Insect Systematics and Diversity 5*, no. 5 (September 1, 2021): 1-13. https://doi.org/10.1093/isd/ixab016.
@@ -102,13 +105,23 @@ Links to publications' free, complete online versions will be given preference w
 1.  Cornell Lab of Ornithology. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” All About Birds. https://www.allaboutbirds.org/.
     *  ———. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.
     *  ———. "American Crow Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Crow/sounds.
-    *  ———. "Cliff Swallow Sounds." All About Birds. https://www.allaboutbirds.org/guide/Cliff_Swallow/sounds.
+    *  ———. "American Robin Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Robin/sounds.
+    *  ———. "Anna's Hummingbird Sounds." All About Birds. https://www.allaboutbirds.org/guide/Annas_Hummingbird/sounds.
+    *  ———. "Black Phoebe Sounds." All About Birds. https://www.allaboutbirds.org/guide/Black_Phoebe/sounds.
+    *  ———. "Brown-headed Cowbird Sounds." All About Birds. https://www.allaboutbirds.org/guide/Brown-headed_Cowbird/sounds.
+    *  ———. "California Scrub-Jay Sounds." All About Birds. https://www.allaboutbirds.org/guide/California_Scrub-Jay/sounds.
     *  ———. "Canada Goose Sounds." All About Birds. https://www.allaboutbirds.org/guide/Canada_Goose/sounds.
+    *  ———. "Cliff Swallow Sounds." All About Birds. https://www.allaboutbirds.org/guide/Cliff_Swallow/sounds.
     *  ———. “Cooper’s Hawk Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Coopers_Hawk/sounds.
     *  ———. "Eurasian Collared-Dove Sounds." All About Birds. https://www.allaboutbirds.org/guide/Eurasian_Collared-Dove/sounds.
+    *  ———. "Great Horned Owl Sounds." All About Birds. https://www.allaboutbirds.org/guide/Great_Horned_Owl/sounds.
     *  ———. "Great-tailed Grackle Sounds." All About Birds. https://www.allaboutbirds.org/guide/Great-tailed_Grackle/sounds.
+    *  ———. "House Finch Sounds." All About Birds. https://www.allaboutbirds.org/guide/House_Finch/sounds.
+    *  ———. "Killdeer Sounds." All About Birds. https://www.allaboutbirds.org/guide/Killdeer/sounds.
     *  ———. “Lesser Goldfinch Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Lesser_Goldfinch/sounds.
+    *  ———. "Marsh Wren Sounds." All About Birds. https://www.allaboutbirds.org/guide/Marsh_Wren/sounds.
     *  ———. "Mourning Dove Sounds." All About Birds. https://www.allaboutbirds.org/guide/Mourning_Dove/sounds.
+    *  ———. "Northern Flicker Sounds." All About Birds. https://www.allaboutbirds.org/guide/Northern_Flicker/sounds.
     *  ———. “Northern Mockingbird Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Northern_Mockingbird/sounds.    
     *  ———. "Nuttall's Woodpecker Sightings Map." All About Birds. https://www.allaboutbirds.org/guide/Nuttalls_Woodpecker/maps-sightings.
     *  ———. “Nuttall's Woodpecker Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Nuttalls_Woodpecker/sounds. 
@@ -116,39 +129,57 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Red-shouldered Hawk Sounds." All About Birds. https://www.allaboutbirds.org/guide/Red-shouldered_Hawk/sounds.
     *  ———. "Red-tailed Hawk Sounds." All About Birds. https://www.allaboutbirds.org/guide/Red-tailed_Hawk/sounds.
     *  ———. “Red-winged Blackbird Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Red-winged_Blackbird/sounds.
+    *  ———. "Sandhill Crane Sounds." All About Birds. https://www.allaboutbirds.org/guide/Sandhill_Crane/sounds.
     *  ———. "Song Sparrow Sounds." All About Birds. https://www.allaboutbirds.org/guide/Song_Sparrow/sounds.
     *  ———. "Spotted Towhee Sounds." All About Birds. https://www.allaboutbirds.org/guide/Spotted_Towhee/sounds.
+    *  ———. "Swainson's Hawk Sounds." All About Birds. https://www.allaboutbirds.org/guide/Swainsons_Hawk/sounds.
     *  ———. "Yellow-billed Magpie Sounds." All About Birds. https://www.allaboutbirds.org/guide/Yellow-billed_Magpie/sounds.
     *  ———. “Yellow-rumped Warbler Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Yellow-rumped_Warbler/sounds.
     *  ———. "Western Meadowlark Sounds." All About Birds. https://www.allaboutbirds.org/guide/Western_Meadowlark/sounds.
+    *  ———. "White-crowned Sparrow Sounds." All About Birds. https://www.allaboutbirds.org/guide/White-crowned_Sparrow/sounds.
 1.  ———. "Bird Academy: The Cornell Lab’s Online Learning Platform." All About Birds. https://academy.allaboutbirds.org/.
     *  ———. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
 1.  ———. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Macaulay Library, 2000. https://www.macaulaylibrary.org/.
     *  ———. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
     *  ———. “American Crow - *Corvus brachyrhynchos*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecro&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “American Robin - *Turdus migratorius*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amerob&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Anna’s Hummingbird - *Calypte anna*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=annhum&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Black Phoebe - *Sayornis nigricans*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=blkpho&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Brown-headed Cowbird - *Molothrus ater*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=bnhcow&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “California Scrub-Jay - *Aphelocoma californica*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=cowscj1&mediaType=audio&sort=rating_rank_desc.
     *  ———. "Canada Goose - *Branta canadensis*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=cangoo&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Cliff Swallow - *Petrochelidon pyrrhonota*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=cliswa&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Cooper’s Hawk - *Accipiter cooperii*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=coohaw&mediaType=audio&sort=rating_rank_desc&tag=call.
     *  ———. "Eurasian Collared-Dove - *Streptopelia decaocto*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=eucdov&mediaType=audio&sort=rating_rank_desc.
-    *  ———. “Great-tailed Grackle - *Quiscalus mexicanus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=grtgra&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Great Horned Owl - *Bubo virginianus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=grhowl&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Great-tailed Grackle - *Quiscalus mexicanus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=x00758&mediaType=audio&sort=rating_rank_desc.
+    *  ———. "Graylag x Canada Goose (hybrid) - *Anser anser x Branta canadensis*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=grxcgo&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “House Finch - *Haemorhous mexicanus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=houfin&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Killdeer - *Charadrius vociferus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=killde&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Lesser Goldfinch - *Spinus psaltria*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=lesgol&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Marsh Wren - *Cistothorus palustris*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=marwre&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Mourning Dove - *Zenaida macroura*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=moudov&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Northern Flicker - *Colaptes auratus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=norfli&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Northern Mockingbird - *Mimus polyglottos*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=normoc&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Nuttall's Woodpecker - *Dryobates nuttallii*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=nutwoo&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Red-eyed Vireo - *Vireo olivaceus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=reevir&mediaType=audio&sort=rating_rank_desc.
     *  ———. "Red-shouldered Hawk - *Buteo lineatus*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=reshaw&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Red-tailed Hawk - *Buteo jamaicensis*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=rethaw&mediaType=audio&sort=rating_rank_desc&tag=courtship_display_or_copulation.
     *  ———. “Red-winged Blackbird - *Agelaius phoeniceus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=rewbla&mediaType=audio&sort=rating_rank_desc.
+    *  ———. "Sandhill Crane - *Antigone canadensis*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=sancra&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Song Sparrow - *Melospiza melodia*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=sonspa&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Spotted Towhee - *Pipilo maculatus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=spotow&mediaType=audio&sort=rating_rank_desc.
+    *  ———. "Swainson's Hawk - *Buteo swainsoni*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=swahaw&mediaType=audio&sort=rating_rank_desc&age=immature.
     *  ———. "Yellow-billed Magpie - *Pica nuttalli*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=yebmag&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Yellow-rumped Warbler - *Setophaga coronata*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=yerwar&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Western Meadowlark - *Sturnella neglecta*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=wesmea&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “White-crowned Sparrow - *Zonotrichia leucophrys*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=whcspa&mediaType=audio&sort=rating_rank_desc.
 1.  ———. “NestWatch: Where Birds Come to Life.” NestWatch. https://nestwatch.org/.
 1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
 1.  eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
+1.  Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
 1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
     *  ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
     *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." Geotripper's California Birds, November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
@@ -160,24 +191,37 @@ Links to publications' free, complete online versions will be given preference w
 1.  Weiland, Torben. “Bird Sounds and Bird Calls in USA & Canada.” Bird-Sounds, 2013. https://www.bird-sounds.net/.
     *  ———. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
     *  ———. “American Crow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-crow/.
+    *  ———. “American Robin - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-robin/.
+    *  ———. “Anna’s Hummingbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/annas-hummingbird/.
+    *  ———. “Black Phoebe - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/black-phoebe/.
+    *  ———. “Brown-headed Cowbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/brown-headed-cowbird/.
+    *  ———. “California Scrub-Jay - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/california-scrub-jay/.
     *  ———. "Canada Goose - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/canada-goose/.
     *  ———. “Cliff Swallow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/cliff-swallow/.
     *  ———. “Cooper’s Hawk - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/coopers-hawk/.
     *  ———. "Eurasian Collared-Dove - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/eurasian-collared-dove/.
+    *  ———. “Great Horned Owl - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/great-horned-owl/.
     *  ———. “Great-tailed Grackle - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/great-tailed-grackle/.
+    *  ———. “House Finch - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/house-finch/.
+    *  ———. “Killdeer - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/killdeer/.
     *  ———. “Lesser Goldfinch - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/lesser-goldfinch/.
+    *  ———. “Marsh Wren - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/marsh-wren/.
     *  ———. “Mourning Dove - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/mourning-dove/.
+    *  ———. “Northern Flicker - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/northern-flicker/.
     *  ———. “Northern Mockingbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds. 2013-2023. https://www.bird-sounds.net/northern-mockingbird/.
     *  ———. “Nuttall's Woodpecker - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/nuttalls-woodpecker/.
     *  ———. “Red-eyed Vireo - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-eyed-vireo/.
     *  ———. "Red-shouldered Hawk - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-shouldered-hawk/.
     *  ———. “Red-tailed Hawk - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-tailed-hawk/.
     *  ———. “Red-winged Blackbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-winged-blackbird/.
+    *  ———. "Sandhilll Crane - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/sandhill-crane/.
     *  ———. “Song Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/song-sparrow/.
     *  ———. “Spotted Towhee - Song / Call / Voice / Sound,” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/spotted-towhee/.
+    *  ———. "Swainson's Hawk - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/swainsons-hawk/.
     *  ———. "Yellow-billed Magpie - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-billed-magpie/.
     *  ———. “Yellow-rumped Warbler - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
     *  ———. “Western Meadowlark - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
+    *  ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
 
 
 ### Bird Feathers
