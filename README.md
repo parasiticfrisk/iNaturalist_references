@@ -57,7 +57,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Gertsch, Willis J., and Franklin Ennik. “The Spider Genus *Loxosceles* in North America, Central America, and the West Indies (Araneae, Loxoscelidae).” *Bulletin of the American Museum of Natural History 175* (November 7, 1983): 264–360. https://hdl.handle.net/2246/981.
 1.  González-Trujillo, Ricardo, Miguel Mauricio Correa-Ramírez, Eduardo Ruiz-Sanchez, Emiliano Alvarez Salinas, María Joaquina Morón Jiménez, and Francisco León. “Pleistocene Refugia and Their Effects on the Phylogeography and Genetic Structure of the Wolf Spider *Pardosa sierra* (Araneae: Lycosidae) on the Baja California Peninsula.” *Journal of Arachnology 44*, no. 3 (November 11, 2016): 367–79. [https://doi.org/10.1636/r15-84.1](https://www.researchgate.net/publication/309959609_Pleistocene_refugia_and_their_effects_on_the_phylogeography_and_genetic_structure_of_the_Wolf_spider_Pardosa_sierra_Araneae_Lycosidae_on_the_Baja_California_Peninsula).
 1.  Goodnight, Clarence J. “The Genus *Protolophus* (Phalangida).” *American Museum Novitates*, no. 1157 (January 22, 1942). https://hdl.handle.net/2246/4767.
-1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California,” Master's Thesis, California Sate University, Northridge (May 1990). https://scholarworks.csun.edu:443/handle/10211.3/191410.
+1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California,” Master's Thesis, California Sate University, Northridge, May 1990. https://scholarworks.csun.edu:443/handle/10211.3/191410.
 1.	Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
 1.  Ivie, Wilton. “North American Spiders of the Genus *Bathyphantes* (Araneae, Linyphiidae).” *American Museum Novitates 2364* (1969). https://hdl.handle.net/2246/2574.
 1.  Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
@@ -69,7 +69,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Lew, Steve. “Spiders of California.” University of Berkeley, January 4, 2004. https://www.ocf.berkeley.edu/~stevelew/soc.html.
 1.  Magalhaes, Ivan L.F., and Martín J. Ramírez. “The Crevice Weaver Spider Genus *Kukulcania* (Araneae: Filistatidae).” *Bulletin of the American Museum of Natural History 2019*, no. 426 (February 14, 2019): 1-151. https://doi.org/10.1206/00030090-426.1.1.
 1.  Matsumoto, Ron. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, September 2018. https://www.inaturalist.org/observations/16376037#activity_comment_1e72aa8d-33fd-48b7-a87a-76182afff9be.
-1.  Maya-Morales, Julieta. “Sistemática de Las Arañas de La Familia Agelenidae (Araneae: Araneomorphae) de México.” Tesis Doctorado, Centro de Investigaciones Biológicas del Noroeste, S.C., 2015. https://www.researchgate.net/publication/316148675_Sistematica_de_las_aranas_de_la_familia_Agelenidae_Araneae_Araneomorphae_de_Mexico.
+1.  Maya-Morales, Julieta. “Sistemática de Las Arañas de La Familia Agelenidae (Araneae: Araneomorphae) de México.” Tesis Doctorado, Centro de Investigaciones Biológicas del Noroeste, S.C., December 2015. https://www.researchgate.net/publication/316148675_Sistematica_de_las_aranas_de_la_familia_Agelenidae_Araneae_Araneomorphae_de_Mexico.
 1.  Maya-Morales, Julieta, and María-Luisa Jiménez. “Revision of the Funnel-Web Spider Genus *Novalena* (Araneae: Agelenidae).” *Zootaxa 4262*, no. 1 (May 4, 2017): 1-88. [https://doi.org/10.11646/zootaxa.4262.1.1](https://www.researchgate.net/publication/316735977_Revision_of_the_funnel-web_spider_genus_Novalena_Araneae_Agelenidae).
 1.  ———. “Taxonomic Revision of the Spider Genus *Rualena* Chamberlin & Ivie 1942 and Description of *Hoffmannilena*, a New Genus from Mexico (Araneae: Agelenidae).” *Zootaxa 4084*, no. 1 (February 24, 2016): 1-49. [https://doi.org/10.11646/zootaxa.4084.1.1](https://www.researchgate.net/publication/295831985_Taxonomic_revision_of_the_spider_genus_Rualena_Chamberlin_Ivie_1942_and_description_of_Hoffmannilena_a_new_genus_from_Mexico_Araneae_Agelenidae).
 1.  Maya-Morales, Julieta, María-Luisa Jiménez, and Juan J. Morrone. “Track Analysis of the Funnel-Web Spiders (Araneae: Agelenidae) of Mexico.” *Revista Mexicana De Biodiversidad 89*, no. 2 (June 3, 2018): 530-540. [https://doi.org/10.22201/ib.20078706e.2018.2.2367](https://www.researchgate.net/publication/325609516_Track_analysis_of_the_funnel-web_spiders_Araneae_Agelenidae_of_Mexico).
@@ -185,8 +185,11 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
     *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." Geotripper's California Birds, November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
 1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite. https://skullsite.com/.
+1.  Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
 1.  National Audubon Society. “Audubon: Guide to North American Birds.” Audubon. https://www.audubon.org/bird-guide.
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
+1.  Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
+1.  Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
 1.  That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1.  University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
 1.  Weiland, Torben. “Bird Sounds and Bird Calls in USA & Canada.” Bird-Sounds, 2013. https://www.bird-sounds.net/.
@@ -223,6 +226,7 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “Yellow-rumped Warbler - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
     *  ———. “Western Meadowlark - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
     *  ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
+1.  Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
 
 
 ### Bird Feathers
@@ -341,6 +345,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Monti, Maurilia. M., Michelina Ruocco, Elizabeth Grobbelaar, and Poalo A. Pedata. “Morphological and Molecular Characterization of Lema Bilineata (Germar), a New Alien Invasive Leaf Beetle for Europe, with Notes on the Related Species Lema Daturaphila Kogan & Goeden.” *Insects 11*, no. 5 (May 11, 2020): 295. https://doi.org/10.3390/insects11050295.
 1.  Nyman, Tommi, and Riitta Julkunen-Tiitto. “Manipulation of the Phenolic Chemistry of Willows by Gall-Inducing Sawflies.” *Proceedings of the National Academy of Sciences of the United States of America 97*, no. 24 (November 21, 2000): 13184–13187. https://doi.org/10.1073/pnas.230294097.
 1.  Penny, Norman D., Phillip A. Adams, and Lionel A. Stange. “Species Catalog of the Neuroptera, Megaloptera, and Raphidioptera of America North of Mexico.” *Proceedings of the California Academy of Sciences 50*, no. 3 (January 31, 2008): 39–114. https://archive.org/details/proceedingsofcal0450cali/page/39/mode/1up?view=theater.
+1.  Pyle, Robert Michael, and Caitlin C. LaBar. *Butterflies of the Pacific Northwest*. Timber Press, 2018.
 1.  Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
 1.  Shapiro, Arthur M., and Timothy D. Manolis. *Field Guide to Butterflies of the San Francisco Bay and Sacramento Valley Regions*. University of California Press, 2007.
 1.  Sheikh, Sofia I., Anna K. G. Ward, Y. Miles Zhang, Charles K. Davis, Linyi Zhang, Scott P. Egan, and Andrew A. Forbes. “*Ormyrus Labotus* (Hymenoptera: Ormyridae): Another Generalist That Should Not Be a Generalist Is Not a Generalist.” *Insect Systematics and Diversity 6*, no. 1 (January 1, 2022): 1-14. https://doi.org/10.1093/isd/ixac001.
@@ -365,9 +370,10 @@ Links to publications' free, complete online versions will be given preference w
 1.  Je9h, and Momento Mori. “Roses (Genus Rosa),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
 1.  Oregon State University, Department of Horticulture. “Landscape Plants.” Oregon State University, n.d. https://landscapeplants.oregonstate.edu/.
 1.  Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
-1.  ———. *Field Guide to Plant Galls of California and Other Western States*. University of California Press, 2006.
+1.  ———. *Field Guide to Plant Galls of California and Other Western States*. University of California Press, 2007.
 1.  ———. *Plant Galls of the Western United States*. Princeton University Press, 2021.
 1.  Stuart, John D., John O. Sawyer, and Andrea J. Pickart. *Trees and Shrubs of California*. University of California Press, 2001.
+1.  Turner, Mark, and Ellen Kuhlmann. *Trees and Shrubs of the Pacific Northwest*. Timber Press, 2014.
 1.  Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly, n.d. https://selectree.calpoly.edu/.
 
 
@@ -386,6 +392,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Iowa State University, Department of Plant Pathology, Entomology, and Microbiology. “BugGuide: Identification, Images, & Information For Insects, Spiders & Their Kin For the United States & Canada.” BugGuide, 2003. https://bugguide.net/.
     *  Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 1.  Johnston, Lyla June. “Architects of Abundance: Indigenous Regenerative Food and Land Management Systems and the Excavation of Hidden History,” [PHD Dissertation]. University of Alaska Fairbanks, December 2022. https://www.proquest.com/openview/17597a179528716e1a9e8515ca76ec77/1?pq-origsite=gscholar&cbl=18750&diss=y.
+    *  ———. “Architects of Abundance: Indigenous Food Systems and the Excavation of Hidden History,” Video, YouTube, January 27, 2022. https://youtu.be/UxxRV44-wZ0.
 1.  Jones, Cheri A., and Colleen N. Baxter. “Thomomys Bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742.
 1.  Kimmerer, Robin Wall. *Braiding Sweetgrass*. Milkweed, 2014.
 1.  KQED. “Deep Look,” n.d. https://www.kqed.org/deeplook.
@@ -454,6 +461,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Smithsonian Environmental Research Center. “Ecosystems on the Edge,” n.d. https://ecosystemsontheedge.org/.
 1.  Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.
 1.  Toft, Jason D., Jeffery R. Cordell, and Wayne Fields. “New Records of Crustaceans (Amphipoda, Isopoda) in the Sacramento/San Joaquin Delta, California, and Application of Criteria for Introduced Species.” *Journal of Crustacean Biology 22*, no. 1 (January 1, 2002): 190–200. https://doi.org/10.1163/20021975-99990222.
+1.  Trudell, Steve, and Joseph F. Ammirati. *Mushrooms of the Pacific Northwest*. Timber Press, 2009.
 1.  University of British Columbia. “The Srivastava Lab,” n.d. https://www.zoology.ubc.ca/~srivast/.
 1.  University of California, Agriculture and Natural Resources. “California Fish Website.” University of California Davis, n.d. https://calfish.ucdavis.edu/.
 1.  ———. “Statewide Integrated Pest Management Program,” n.d. https://ipm.ucanr.edu/index.html.
