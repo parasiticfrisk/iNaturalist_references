@@ -1,14 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_June_30-informational?style=flat-square)
-
-## About
-The sources I have used to offer identifications across iNaturalist are included in this reference list.
-
-### Updates
-This list is continuously updated.  No removals are made; just additions.  The list's structure and arrangement are subject to change over time.  You can view these changes at: https://github.com/4n0nym0u5my7h/iNaturalist_references/commits/main.
-
-### Links
-Links to publications' free, complete online versions will be given preference when accessible.
-> **Note**: There will always be a DOI reference.  The links on this page that are related with the articles, however, could take you to an open access version of them rather than the originals, which might be hidden behind a paywall.
+![Last Updated](https://img.shields.io/badge/Last_Updated-2023,_July_2-informational?style=flat-square)
 
 ## Sources Cited
 ### Amphibians and Reptiles
@@ -37,6 +27,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Bond, Jason E. “Phylogenetic Treatment and Taxonomic Revision of the Trapdoor Spider Genus *Aptostichus* Simon (Araneae, Mygalomorphae, Euctenizidae).” *ZooKeys 252* (December 19, 2012): 1–209. https://doi.org/10.3897/zookeys.252.3588.
 1.  Bond, Jason E., and Brent D. Opell. “Systematics of the Spider Genera *Mallos* and *Mexitlia* (Araneae, Dictynidae).” *Zoological Journal of the Linnean Society 119*, no. 4 (April 1997): 389–445. https://doi.org/10.1111/j.1096-3642.1997.tb00141.x.
 1.  Bond, Jason E., and Amy K. Stockman. “An Integrative Method for Delimiting Cohesion Species: Finding the Population-Species Interface in a Group of Californian Trapdoor Spiders with Extreme Genetic Divergence and Geographic Structuring.” *Systematic Biology 57*, no. 4 (August 1, 2008): 628–46. https://doi.org/10.1080/10635150802302443.
+1.  Bosco, Jennifer M., and Angela Chuang. “A New Species of Grass Spider, *Agelenopsis Riechertii*, from the Southwestern USA, with Notes on Its Courtship Behavior (Araneae: Agelenidae).” *Zootaxa 4442*, no. 4 (July 3, 2018): 579. 10.11646/zootaxa.4472.3.11, [https://doi.org/10.11646/zootaxa.4442.4.6](https://wsc.nmbe.ch/refincluded/14439).
 1.  Bradley, Richard A., and Steve Buchanan. *Common Spiders of North America*. University of California Press, 2019.
 1.  Chamberlin, Ralph V. “New Californian Spiders.” Journal of *Entomology and Zoology 12* (January 1, 1919): 1–17. https://www.biodiversitylibrary.org/page/12475384#page/11/mode/1up.
 1.  ———. “New North American Spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://wsc.nmbe.ch/refincluded/1884.
@@ -53,13 +44,17 @@ Links to publications' free, complete online versions will be given preference w
 1.  Edwards, G. B. “Revision of the Jumping Spiders of the Genus Phidippus (Araneae: Salticidae).” *Occasional Papers of the Florida State Collection of Arthropods 11* (2004). https://www.researchgate.net/publication/285875743_Revision_of_the_jumping_spiders_of_the_genus_Phidippus_Araneae_Salticidae.
 1.  Fischer, Andreas. “Chemical Communication in Spiders – a Methodological Review.” *Journal of Arachnology 47*, no. 1 (April 26, 2019): 1-27. [https://doi.org/10.1636/0161-8202-47.1.1](https://www.researchgate.net/publication/332568760_Chemical_communication_in_spiders-_A_methodological_review).
 1.  Foelix, Rainer. *Biology of Spiders*, Third Edition. Oxford University Press, 2011.
-1.  Gertsch, Willis J. “The Fulva Group of the Spider Genus *Steatoda* (Araneae, Theridiidae).” *American Museum Novitates 1982* (January 20, 1960): 1-48. https://hdl.handle.net/2246/4393.
+1.  Gering, Robert L. “Structure and Function of the Genitalia in Some American Agelenid Spiders.” *Smithsonian Miscellaneous Collections 12*4, no. 4 (March 17, 1953). https://openlibrary.org/books/OL6148347M/Structure_and_function_of_the_genitalia_in_some_American_agelenid_spiders.
+1.  Gertsch, Willis J. “Further Notes on American Spiders.” *American Museum Novitates 726* (May 18, 1934): 1-26. https://hdl.handle.net/2246/4174.
+1.  ———. “The Fulva Group of the Spider Genus *Steatoda* (Araneae, Theridiidae).” *American Museum Novitates 1982* (January 20, 1960): 1-48. https://hdl.handle.net/2246/4393.
 1.  Gertsch, Willis J., and Franklin Ennik. “The Spider Genus *Loxosceles* in North America, Central America, and the West Indies (Araneae, Loxoscelidae).” *Bulletin of the American Museum of Natural History 175* (November 7, 1983): 264–360. https://hdl.handle.net/2246/981.
 1.  González-Trujillo, Ricardo, Miguel Mauricio Correa-Ramírez, Eduardo Ruiz-Sanchez, Emiliano Alvarez Salinas, María Joaquina Morón Jiménez, and Francisco León. “Pleistocene Refugia and Their Effects on the Phylogeography and Genetic Structure of the Wolf Spider *Pardosa sierra* (Araneae: Lycosidae) on the Baja California Peninsula.” *Journal of Arachnology 44*, no. 3 (November 11, 2016): 367–79. [https://doi.org/10.1636/r15-84.1](https://www.researchgate.net/publication/309959609_Pleistocene_refugia_and_their_effects_on_the_phylogeography_and_genetic_structure_of_the_Wolf_spider_Pardosa_sierra_Araneae_Lycosidae_on_the_Baja_California_Peninsula).
 1.  Goodnight, Clarence J. “The Genus *Protolophus* (Phalangida).” *American Museum Novitates*, no. 1157 (January 22, 1942). https://hdl.handle.net/2246/4767.
 1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California,” Master's Thesis, California Sate University, Northridge, May 1990. https://scholarworks.csun.edu:443/handle/10211.3/191410.
 1.	Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
+1.  Hormiga, Gustavo. “Higher Level Phylogenetics of Erigonine Spiders (Araneae, Linyphiidae, Erigoninae).” *Smithsonian Contributions to Zoology*, no. 609 (January 1, 2000): 1–160. https://doi.org/10.5479/si.00810282.609.
 1.  Ivie, Wilton. “North American Spiders of the Genus *Bathyphantes* (Araneae, Linyphiidae).” *American Museum Novitates 2364* (1969). https://hdl.handle.net/2246/2574.
+1.  Jiménez, María-Luisa, David Chamé-Vázquez, and Carlos Palacios-Cardiel. “New Records of Spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico.” *Pan-Pacific Entomologist 98*, no. 3 (September 16, 2022). [https://doi.org/10.3956/2022-98.3.196](https://wsc.nmbe.ch/refincluded/16736).
 1.  Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
 1.  Leech, Robin. “A Revision of the Nearctic Amaurobiidae (Arachnida: Araneida).” *Memoirs of the Entomological Society of Canada 104*, no. S84 (January 1, 1972): 9–182. [https://doi.org/10.4039/entm10484fv](https://wsc.nmbe.ch/refincluded/4334).
 1.  Levi, Herbert W. “American Spiders of the Genera *Audifia*, *Euryopis*, and *Dipoena* (Araneae: Theridiidae).” *Bulletin of the Museum of Comparative Zoology at Harvard College 129* (January 1, 1963): 121–83. https://www.biodiversitylibrary.org/part/7294.
@@ -84,6 +79,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  ———. “A Revision of the North American Spider Genus *Anachemmis* Chamberlin (Araneae, Tengellidae).” *American Museum Novitates 3477* (May 11, 2005). https://hdl.handle.net/2246/2787.
 1.  ———. “A Revision of the Endemic Californian Spider Genus *Titiotus* Simon (Araneae, Tengellidae).” *American Museum Novitates 3608* (April 9, 2008). https://hdl.handle.net/2246/5905.
 1.  Polotow, Daniele, Anthea Carmichael, and Charles E. Griswold. “Total Evidence Analysis of the Phylogenetic Relationships of Lycosoidea Spiders (Araneae, Entelegynae).” *Invertebrate Systematics 29*, no. 2 (June 11, 2015): 124. https://doi.org/10.1071/is14041.
+1.  Roth, Vincent D. “Taxonomic Changes in the Agelenidae (Arachnida).” *Pan-Pacific Entomologist 32* (October 1956): 175–80. https://wsc.nmbe.ch/refincluded/3201.
+1.  ———. “The Spider Genus *Tegenaria* in the Western Hemisphere (Agelenidae).” *American Museum Novitates 2323* (June 19, 1968). https://hdl.handle.net/2246/2533.
 1.  Saaristo, Michael Ilmari, and Andrei V. Tanasevitch. “Redelimitation of the Subfamily Micronetinae Hull, 1920 and the Genus *Lepthyphantes* Menge, 1866 with Descriptions of Some New Genera (Aranei, Linyphiidae).” *Berichte Des Naturwissenschaftlich-Medizinischen Vereins in Innsbruck 83* (January 1, 1996): 163–86. http://www.zobodat.at/pdf/BERI_83_0163-0186.pdf.
 1.  San Diego Natural History Museum, and Jim Berrian. “Checklist of Spiders of San Diego County.” The Nat, December 20, 2014. https://www.sdnhm.org/science/entomology/projects/checklist-of-spiders-of-san-diego-county/.
 1.  Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
@@ -182,6 +179,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
 1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
+    *  ———. "Black-crowned Night-Heron". Geotripper's California Birds, 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
     *  ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
     *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." Geotripper's California Birds, November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
 1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite. https://skullsite.com/.
@@ -453,6 +451,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Læssøe, Thomas. *Mushrooms: How to Identify and Gather Wild Mushrooms and Other Fungi*. Penguin Random House, 2013.
 1.  Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
 1.  Nystrom, Siera. “Natural History Journal : Notes from a California Naturalist.” Blogspot, September 2016. https://natural-history-journal.blogspot.com/.
+    *  ———. "Black-crowned Night Herons at CSU Stanislaus". Natural History Journal, October 23, 2016. https://natural-history-journal.blogspot.com/2016/10/black-crowned-night-herons-at-csu.html.
     *  ———. "Urban Birding". Natural History Journal, April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
 1.  Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
 1.  Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
