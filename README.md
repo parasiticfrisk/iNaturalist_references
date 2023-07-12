@@ -1,16 +1,19 @@
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/4N0NYM0U5MY7H/iNaturalist_references?style=flat-square&color=informational)
+[![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/4N0NYM0U5MY7H/iNaturalist_references?style=flat-square&label=Last%20Updated&color=informational)](https://github.com/4n0nym0u5my7h/iNaturalist_references/commits/main)
+
+# iNaturalist References
 
 **Table of contents**
-- [About](#about)
-  - [Updates](#updates)
-  - [Links](#links)
-- [Arachnids](#arachnids)
-- [Birds](#birds)
-  - [Bird Feathers](#bird-feathers)
-- [Insects](#insects)
-- [Plants](#plants)
-- [Reptiles and Amphibians](#reptiles-and-amphibians)
-- [Other](#other)
+- [iNaturalist References](#inaturalist-references)
+  - [About](#about)
+    - [Updates](#updates)
+    - [Links](#links)
+  - [Arachnids](#arachnids)
+  - [Birds](#birds)
+    - [Bird Feathers](#bird-feathers)
+  - [Insects](#insects)
+  - [Plants](#plants)
+  - [Reptiles and Amphibians](#reptiles-and-amphibians)
+  - [Other](#other)
 
 ## About
 The sources I have used to offer identification across iNaturalist are included in this reference list.
@@ -136,6 +139,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  Xiao, Yonghong, Alenka Zunic-Kosi, Long-Wa Zhang, Thomas R. Prentice, J. Steven McElfresh, Satya P. Chinta, Yunfan Zou, and Jocelyn G. Millar. “Male Adaptations to Minimize Sexual Cannibalism during Reproduction in the Funnel-Web Spider *Hololena Curta*.” *Insect Science 22*, (November 30, 2015): 840-852. [https://doi.org/10.1111/1744-7917.12243](https://www.researchgate.net/publication/277600431_Male_adaptations_to_minimize_sexual_cannibalism_during_reproduction_in_the_funnel-web_spider_Hololena_curta).
 1.  Zonstein, Sergei, and Yuri M. Marusik. “A Revision of the Spider Genus Filistata (Araneae: Filistatidae).” *Arachnology 18*, no. 2 (August 5, 2019): 53. [https://doi.org/10.13156/arac.2018.18.2.53](https://www.researchgate.net/publication/334999904_A_revision_of_the_spider_genus_Filistata_Araneae_Filistatidae).
 1.  Zurek, Daniel B., Thomas W. Cronin, Lisa A. Taylor, Kevin Byrne, Mara Sullivan, and Nathan I. Morehouse. “Spectral Filtering Enables Trichromatic Vision in Colorful Jumping Spiders.” *Current Biology 25*, no. 10 (May 18, 2015): R403–4. https://doi.org/10.1016/j.cub.2015.03.033.
+
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
 
 ## Birds
@@ -265,6 +270,8 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
 1.  Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
 
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
+
 
 ### Bird Feathers
 1.  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
@@ -360,6 +367,8 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
     *  ———. "Juvenile Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_immature.
 
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
+
 
 ## Insects
 1.  Abbot, Patrick, and James H. Withgott. “Phylogenetic and Molecular Evidence for Allochronic Speciation in Gall-Forming Aphids (Pemphigus).” *Evolution 58*, no. 3 (March 2004): 539–53. https://doi.org/10.1111/j.0014-3820.2004.tb01677.x.
@@ -397,6 +406,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  Weld, Lewis H. *Cynipid Galls of the Pacific Slope (Hymenoptera, Cynipoidea):  An Aid to Their Identification*, 1957. https://babel.hathitrust.org/cgi/pt?id=coo.31924018313555&view=1up&seq=7.
 1.  Will, Kip, Joyce Gross, Daniel Rubinoff, and Jerry Powell. *Field Guide to California Insects*, Second Edition. University of California Press, 2020.
 
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
+
 
 ## Plants
 1.  Baldwin, Bruce G., David J. Keil, Staci Markos, Brent D. Mishler, Robert Patterson, Thomas J. Rosatti, and Dieter H. Wilken, eds. “The Jepson Herbarium.” University of California Berkeley, January 30, 2023. https://ucjeps.berkeley.edu/eflora/.
@@ -413,6 +424,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  Stuart, John D., John O. Sawyer, and Andrea J. Pickart. *Trees and Shrubs of California*. University of California Press, 2001.
 1.  Turner, Mark, and Ellen Kuhlmann. *Trees and Shrubs of the Pacific Northwest*. Timber Press, 2014.
 1.  Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly, n.d. https://selectree.calpoly.edu/.
+
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
 
 ## Reptiles and Amphibians
@@ -433,6 +446,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  Somma, L. A., A. Foster, P. Fuller, and C. Cameron. “*Trachemys Scripta Elegans* (Wied-Neuweid, 1838).” U.S. Geological Survey, Nonindigenous Aquatic Species Database, December 2, 2022. https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1261.
 1.  Stebbins, Robert C., and Samuel M. McGinnis. *Field Guide to Amphibians and Reptiles of California*. University of California Press, 2012.
 1.  ———. *Peterson Field Guide to Western Reptiles & Amphibians*, Fourth Edition. Houghton Mifflin, 2018.
+
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
 
 ## Other
@@ -529,3 +544,5 @@ Links to publications' free, complete online versions will be given preference w
 1.  Urry, Lisa, Michael Cain, Steven Wasserman, Rebecca Orr, and Peter Minorsky. *Campbell Biology in Focus*. Pearson, 2019.
 1.  U.S. Fish and Wildlife Service. “National Wildlife Refuge System.” U.S. Fish & Wildlife Service. https://www.fws.gov/program/national-wildlife-refuge-system.
 1.  Wernert and Reader’s Digest Association. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
+
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
