@@ -57,6 +57,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Dondale, Charles D., and J. H. Redner. “The Wolf Spider Genus *Allocosa* in North and Central America (Araneae: Lycosidae).” *Canadian Entomologist 115*, no. 8 (August 1, 1983): 933–64. [https://doi.org/10.4039/ent115933-8](https://wsc.nmbe.ch/refincluded/5727).
 1.  ———. “Revision Of The Wolf Spider Gensu Alopecosa Simon in North America (Araneae: Lycosidae).” *Canadian Entomologist 111*, no. 9 (September 1, 1979): 1033–55. [https://doi.org/10.4039/ent1111033-9](https://wsc.nmbe.ch/refincluded/5140).
 1.  Edwards, G. B. “Revision of the Jumping Spiders of the Genus Phidippus (Araneae: Salticidae).” *Occasional Papers of the Florida State Collection of Arthropods 11* (2004). https://www.researchgate.net/publication/285875743_Revision_of_the_jumping_spiders_of_the_genus_Phidippus_Araneae_Salticidae.
+1.  Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 1.  Fischer, Andreas. “Chemical Communication in Spiders – a Methodological Review.” *Journal of Arachnology 47*, no. 1 (April 26, 2019): 1-27. [https://doi.org/10.1636/0161-8202-47.1.1](https://www.researchgate.net/publication/332568760_Chemical_communication_in_spiders-_A_methodological_review).
 1.  Foelix, Rainer. *Biology of Spiders*, Third Edition. Oxford University Press, 2011.
 1.  Gering, Robert L. “Structure and Function of the Genitalia in Some American Agelenid Spiders.” *Smithsonian Miscellaneous Collections 12*4, no. 4 (March 17, 1953). https://openlibrary.org/books/OL6148347M/Structure_and_function_of_the_genitalia_in_some_American_agelenid_spiders.
@@ -72,6 +73,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Goodnight, Clarence J. “The Genus *Protolophus* (Phalangida).” *American Museum Novitates*, no. 1157 (January 22, 1942). https://hdl.handle.net/2246/4767.
 1.  Griswold, Charles E. “A Revision of the Jumping Spider Genus Habronattus F.O.P.-Cambridge (Araneae, Salticidae), with Phenetic and Cladistic Analyses.” *The University of California Publications in Entomology 107* (January 1, 1987): 1–344. https://wsc.nmbe.ch/refincluded/6395.
 1.  Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California,” Master's Thesis, California Sate University, Northridge, May 1990. https://scholarworks.csun.edu:443/handle/10211.3/191410.
+1.  Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
 1.  Hentz, Nicholas M. “Descriptions and Figures of the Araneides of the United States.” *Boston Journal of Natural History 5* (1846): 189-202; 352–70. https://www.biodiversitylibrary.org/item/100572#page/395/mode/1up.
 1.  Hormiga, Gustavo. “Higher Level Phylogenetics of Erigonine Spiders (Araneae, Linyphiidae, Erigoninae).” *Smithsonian Contributions to Zoology*, no. 609 (2000): 1–160. https://doi.org/10.5479/si.00810282.609.
 1.  Ivie, Wilton. “North American Spiders of the Genus *Bathyphantes* (Araneae, Linyphiidae).” *American Museum Novitates 2364* (1969). https://hdl.handle.net/2246/2574.
@@ -91,6 +93,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Maddison, Wayne, and Marshal Hedin. “Phylogeny of Habronattus Jumping Spiders (Araneae: Salticidae), with Consideration of Genital and Courtship Evolution.” *Systematic Entomology 28*, no. 1 (February 9, 2003): 1–22. https://doi.org/10.1046/j.1365-3113.2003.00195.x.
 1.  Magalhaes, Ivan L.F., and Martín J. Ramírez. “The Crevice Weaver Spider Genus *Kukulcania* (Araneae: Filistatidae).” *Bulletin of the American Museum of Natural History 2019*, no. 426 (February 14, 2019): 1-151. https://doi.org/10.1206/00030090-426.1.1.
 1.  ———. “Relationships and Phylogenetic Revision of Filistatinella Spiders (Araneae : Filistatidae).” *Invertebrate Systematics 31*, no. 6 (October 27, 2017): 665-712. https://doi.org/10.1071/is16083.
+1.  Matsumoto, Ron. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, September 2018. https://www.inaturalist.org/observations/16376037#activity_comment_1e72aa8d-33fd-48b7-a87a-76182afff9be.
 1.  Maya-Morales, Julieta. “Sistemática de Las Arañas de La Familia Agelenidae (Araneae: Araneomorphae) de México.” Tesis Doctorado, Centro de Investigaciones Biológicas del Noroeste, S.C., December 2015. https://www.researchgate.net/publication/316148675_Sistematica_de_las_aranas_de_la_familia_Agelenidae_Araneae_Araneomorphae_de_Mexico.
 1.  Maya-Morales, Julieta, and María-Luisa Jiménez. “Revision of the Funnel-Web Spider Genus *Novalena* (Araneae: Agelenidae).” *Zootaxa 4262*, no. 1 (May 4, 2017): 1-88. [https://doi.org/10.11646/zootaxa.4262.1.1](https://www.researchgate.net/publication/316735977_Revision_of_the_funnel-web_spider_genus_Novalena_Araneae_Agelenidae).
 1.  ———. “Taxonomic Revision of the Spider Genus *Rualena* Chamberlin & Ivie 1942 and Description of *Hoffmannilena*, a New Genus from Mexico (Araneae: Agelenidae).” *Zootaxa 4084*, no. 1 (February 24, 2016): 1-49. [https://doi.org/10.11646/zootaxa.4084.1.1](https://www.researchgate.net/publication/295831985_Taxonomic_revision_of_the_spider_genus_Rualena_Chamberlin_Ivie_1942_and_description_of_Hoffmannilena_a_new_genus_from_Mexico_Araneae_Agelenidae).
@@ -119,10 +122,12 @@ Links to publications' free, complete online versions will be given preference w
 1.  Roth, Vincent D., and Paul Brame. “Nearctic Genera of the Spider Family Agelenidae (Arachnida, Araneida).” *American Museum Novitates 2505* (1972): 1–52. https://hdl.handle.net/2246/2712.
 1.  Saaristo, Michael Ilmari, and Andrei V. Tanasevitch. “Redelimitation of the Subfamily Micronetinae Hull, 1920 and the Genus *Lepthyphantes* Menge, 1866 with Descriptions of Some New Genera (Aranei, Linyphiidae).” *Berichte Des Naturwissenschaftlich-Medizinischen Vereins in Innsbruck 83* (October, 1996): 163–86. http://www.zobodat.at/pdf/BERI_83_0163-0186.pdf.
 1.  San Diego Natural History Museum, and Jim Berrian. “Checklist of Spiders of San Diego County.” The Nat, December 20, 2014. https://www.sdnhm.org/science/entomology/projects/checklist-of-spiders-of-san-diego-county/.
+1.  Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
 1.  Schick, Robert X. “The Crab Spiders of California (Araneida, Thomisidae).” *Bulletin of the American Museum of Natural History 129*, no. 1 (1965): 1–180. https://hdl.handle.net/2246/1114.
 1.  Salceda, Beatriz, César Gabriel Durán-Barrón, Magaly G Landa Flores, and Ma Ruth Sandoval-Espinosa. “Un Tuerto En La Familia: Anomalía Ocular En *Zorocrates* Sp. (Araneae: Zoropsidae) En México.” *Revista Ibérica De Aracnología 42* (June 27, 2023): 259–60. https://www.researchgate.net/publication/371902053_Un_tuerto_en_la_familia_Anomalia_ocular_en_Zorocrates_sp_Araneae_Zoropsidae_en_Mexico.
 1.  Silva-Dávila, Diana. “Higher-Level Relationships of the Spider Family Ctenidae (Araneae: Ctenoidea).” *Bulletin of the American Museum of Natural History 274* (February 6, 2003): 1–86. [https://doi.org/10.1206/0003-0090(2003)274<0001:HLROTS>2.0.CO;2](https://doi.org/10.1206/0003-0090(2003)274<0001:HLROTS>2.0.CO;2).
 1.  Spagna, Joseph C., Edgar A. Valdivia, and Vivin Mohan. “Gait Characteristics of Two Fast-Running Spider Species (*Hololena Adnexa* and *Hololena Curta*), Including an Aerial Phase (Araneae: Agelenidae).” *Journal of Arachnology 39*, no. 1 (June 22, 2011): 84–91. https://doi.org/10.1636/b10-45.1.
+1.  Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
 1.  Starrett, James, Ashley Bui, Rowan H. McGinley, Eileen A. Hebets, and Jason E. Bond. “Phylogenomic Variation at the Population-Species Interface and Assessment of Gigantism in a Model Wolf Spider Genus (Lycosidae, *Schizocosa*).” *Insect Systematics and Diversity 5*, no. 5 (September 1, 2021): 1-13. https://doi.org/10.1093/isd/ixab016.
 1.  Starrett, James, Rowan H. McGinley, Eileen A. Hebets, and Jason E. Bond. “Phylogeny and Secondary Sexual Trait Evolution in *Schizocosa* Wolf Spiders (Araneae, Lycosidae) Shows Evidence for Multiple Gains and Losses of Ornamentation and Species Delimitation Uncertainty.” *Molecular Phylogenetics and Evolution 169* (April, 2022): 1-38. https://doi.org/10.1016/j.ympev.2022.107397.
 1.  Suttle, K. Blake. “Burrow Use in a Northern California Population of the Wolf Spider *Schizocosa Mccooki* (Araneae, Lycosidae).” *The Journal of Arachnology 31*, no. 3 (December 1, 2003): 433–436. [https://doi.org/10.1636/0161-8202(2003)031](https://angelo.berkeley.edu/wp-content/uploads/sites/59/BURROW-USE-IN-A-NORTHERN-CALIFORNIA-POPULATION-OF-THE-WOLF-SPIDER-SCHIZOCOSA-MCCOOKI-ARANEAE-LYCOSIDAE_Suttle.pdf).
@@ -215,17 +220,20 @@ Links to publications' free, complete online versions will be given preference w
 1.  ———. “NestWatch: Where Birds Come to Life.” NestWatch. https://nestwatch.org/.
 1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
 1.  eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
+1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
+1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
+1.  “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
 1.  Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
-1.  Hayes, Garry. “Geotripper’s California Birds.” Blogspot, September 2014. https://geotripperbirds.blogspot.com/.
-    *  ———. "Black-crowned Night-Heron". Geotripper's California Birds, 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
-    *  ———. “Buteo swainsoni.” Geotripper's California Birds, 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
-    *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." Geotripper's California Birds, November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
+1.  Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
+1.  ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
+1.  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
 1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite. https://skullsite.com/.
 1.  Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
 1.  National Audubon Society. “Audubon: Guide to North American Birds.” Audubon. https://www.audubon.org/bird-guide.
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1.  Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
 1.  Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
+1.  That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1.  University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
 1.  Weiland, Torben. “Bird Sounds and Bird Calls in USA & Canada.” Bird-Sounds, 2013. https://www.bird-sounds.net/.
     *  ———. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
@@ -267,6 +275,8 @@ Links to publications' free, complete online versions will be given preference w
 
 
 ### Bird Feathers
+1.  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
+    *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
 1.  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Featherbase.” Featherbase. https://www.featherbase.info/en/home.
     *  ———. “Acorn Woodpecker (*Melanerpes formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
     *  ———. "California Scrub-Jay (*Aphelocoma californica*)." Featherbase. https://www.featherbase.info/en/species/aphelocoma/californica.
@@ -363,25 +373,31 @@ Links to publications' free, complete online versions will be given preference w
 
 ## Insects
 1.  Abbot, Patrick, and James H. Withgott. “Phylogenetic and Molecular Evidence for Allochronic Speciation in Gall-Forming Aphids (Pemphigus).” *Evolution 58*, no. 3 (March 2004): 539–53. https://doi.org/10.1111/j.0014-3820.2004.tb01677.x.
+1.  Abela, Alice. “Pallid-winged Grasshopper (*Trimerotropis Pallidipennis*).” iNaturalist, 2010-2022. https://www.inaturalist.org/observations?place_id=any&subview=table&taxon_id=51493&user_id=alice_abela&verifiable=any.
 1.  Anderson, Kris. “Praying Mantises of the United States and Canada.” ResearchGate, January 2019. https://www.researchgate.net/publication/361092408_Anderson_K_2019_Praying_Mantises_of_the_United_States_and_Canada_2nd_Ed.
 1.  Ashmead, William H. “Descriptions of New Cynipidous Galls and Gall-Wasps in the United States National Museum.” *Proceedings of the United States National Museum 19*, no. 1102 (December 31, 1895): 113–36. https://doi.org/10.5479/si.00963801.19-1102.113.
 1.  Blaisdell, Frank E. “Facts Determined by Rearing Species of Coniontis (Coleoptera: Tenebrionidae).” *Entomological News 46* (December 31, 1934): 119–23. https://www.biodiversitylibrary.org/part/253621.
+1.  Boone, Mike, Patrick Coin, Eric R. Eaton, and David Ferguson. “Species *Trimerotropis Pallidipennis* - Pallid-Winged Grasshopper.” BugGuide, October 21, 2013. https://bugguide.net/node/view/33991.
 1.  Brooks, Stephen J. “A Taxonomic Review of the Common Green Lacewing Genus *Chrysoperla*.” *Bulletin of the Natural History Museum 63*, no. 2 (November 24, 1994): 137–210. https://www.biodiversitylibrary.org/page/40998400#page/3/mode/1up.
 1.  Brooks, Stephen J., and P. C. Barnard. “The Green Lacewings of the World: A Generic Review (Neuroptera: Chrysopidae).” *Bulletin of the British Museum of Natural History 59*, no. 2 (September 27, 1990): 117–286. https://lacewing.tamu.edu/neuropterida/neur_bibliography/edoc12/brooks1990ref6991s-6836.pdf.
 1.  Collins-Sussman, Emmit, and Arman. “Ant Resources.” Google Docs, March 23, 2023. https://docs.google.com/document/d/1N_m-Lhwh0wdBRUmsCGeUCTBu47DfdQMFKQd7SqAn-r8/edit.
 1.  Cooper, William R., and Constantin Rieske. “A Native and an Introduced Parasitoid Utilize an Exotic Gall-Maker Host.” *Biocontrol 56*, no. 5 (March 17, 2011): 725–34. [https://doi.org/10.1007/s10526-011-9350-1](https://www.researchgate.net/publication/225537867_A_native_and_an_introduced_parasitoid_utilize_an_exotic_gall-maker_host).
 1.  Dankowicz, Zachary, and Even Dankowicz. “Field/Photo ID for Flies.” Fly Guide, n.d. https://sites.google.com/view/flyguide.
+1.  Evans, Gregory A. “The Whiteflies (Hemiptera: Aleyrodidae) of the World and Their Host Plants and Natural Enemies.” *USDA/Animal Plant Health Inspection Service (APHIS)*, June 11, 2007. https://keys.lucidcentral.org/keys/v3/whitefly/PDF_PwP%20ETC/world-whitefly-catalog-Evans.pdf.
 1.  Ferguson, Douglas C. “Geometroidea, Geometridae (Part): Ennominae (Part): Abraxini, Cassymini, Macariini.” In *The Moths of North America, Fascicle 17.2*, edited by Ronald W. Hodges, 2008. https://images.peabody.yale.edu/mona/17-2-ocr.pdf.
+1.  Gross, Joyce. “*Andricus Brunneus* (Clustered Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+brunneus&ordr=.
 1.  Gyawaly, Sudan, Albrecht M. Koppenhöfer, Shaohui. L. Wu, and Thomas P. Kuhar. “Biology, Ecology, and Management of Masked Chafer (Coleoptera: Scarabaeidae) Grubs in Turfgrass.” *Journal of Integrated Pest Management 7*, no. 1 (January, 2016): 1–11. https://doi.org/10.1093/jipm/pmw002.
 1.  Henry, Charles S., Marta M. Wells, and Raymond J. Pupedis. “Hidden Taxonomic Diversity within *Chrysoperla Plorabunda* (Neuroptera: Chrysopidae): Two New Species Based on Courtship Songs.” *Annals of the Entomological Society of America 86*, no. 1 (January 1, 1993): 1–13. [https://doi.org/10.1093/aesa/86.1.1](https://lacewing.tamu.edu/neuropterida/neur_bibliography/edoc12/henry1993ref7638s-4994.pdf).
 1.  Henry, Charles S., Stephen J. Brooks, James R. Johnson, Marta M. Wells, and Peter Duelli. “Song Analysis Reveals a Permanent Population of the Mediterranean Lacewing *Chrysoperla Agilis* (Neuroptera: Chrysopidae) Living in Central Alaska.” *Annals of the Entomological Society of America 104*, no. 4 (July 1, 2011): 649–57. https://doi.org/10.1603/an11045.
 1.  Hill, Kathy, and David C. Marshall. “InsectSingers: Song Recordings and Information on Cicadas and Other Acoustic Insects.” InsectSingers, April 19, 2022. https://www.insectsingers.com/.
 1.  Kinsey, Alfred C. “An Evolutionary Analysis of Insular and Continental Species.” *Proceedings of the National Academy of Sciences of the United States of America 23*, no. 1 (January 1, 1937): 5–11. https://doi.org/10.1073/pnas.23.1.5.
+1.  Langdon-Lassagne, Emily. "Subgenus *Eumelissodes*". iNaturalist, August 4, 2021. https://www.inaturalist.org/observations/100167000.
 1.  LeBuhn, Gretchen, and Noel B. Pugh. *Field Guide to the Common Bees of California: Including Bees of the Western United States*. University of California Press, 2013.
 1.  Mississippi State University. “North American Moth Photographers Group: Digital Guide to Moth Identification,” 2022. https://mothphotographersgroup.msstate.edu/.
 1.  Monti, Maurilia. M., Michelina Ruocco, Elizabeth Grobbelaar, and Poalo A. Pedata. “Morphological and Molecular Characterization of Lema Bilineata (Germar), a New Alien Invasive Leaf Beetle for Europe, with Notes on the Related Species Lema Daturaphila Kogan & Goeden.” *Insects 11*, no. 5 (May 11, 2020): 295. https://doi.org/10.3390/insects11050295.
 1.  Nyman, Tommi, and Riitta Julkunen-Tiitto. “Manipulation of the Phenolic Chemistry of Willows by Gall-Inducing Sawflies.” *Proceedings of the National Academy of Sciences of the United States of America 97*, no. 24 (November 21, 2000): 13184–13187. https://doi.org/10.1073/pnas.230294097.
 1.  Penny, Norman D., Phillip A. Adams, and Lionel A. Stange. “Species Catalog of the Neuroptera, Megaloptera, and Raphidioptera of America North of Mexico.” *Proceedings of the California Academy of Sciences 50*, no. 3 (January 31, 2008): 39–114. https://archive.org/details/proceedingsofcal0450cali/page/39/mode/1up?view=theater.
+1.  Pfadt, Robert E. “Field Guide to Common Western Grasshoppers.” *Agriculture Experiment Station Bulletins 912*. Report, University of Wyoming, January 31, 2002. https://doi.org/10.15786/13655717.v1.
 1.  Pyle, Robert Michael, and Caitlin C. LaBar. *Butterflies of the Pacific Northwest*. Timber Press, 2018.
 1.  Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
 1.  Shapiro, Arthur M., and Timothy D. Manolis. *Field Guide to Butterflies of the San Francisco Bay and Sacramento Valley Regions*. University of California Press, 2007.
@@ -393,7 +409,8 @@ Links to publications' free, complete online versions will be given preference w
 1.  Walker, Thomas J., and Nancy L. Collins. “New World Thermometer Crickets: The *Oecanthus Rileyi* Species Group and a New Species from North America.” *Journal of Orthoptera Research 19*, no. 2 (December 1, 2010): 371–376. [https://doi.org/10.1665/034.019.0227](https://orthsoc.org/sina/s576lwc10.pdf).
 1.  Walker, Thomas J., and Teresa Marie Yawn. “Singing Insects of North America (SINA).” The Orthopterist’s Society, 2000. https://orthsoc.org/sina/.
 1.  Ward, Anna K.G., Robert W. Busbee, Chen, and Charles K. Davis. “The Arthropod Associates of 155 North American Cynipid Oak Galls.” *Zoological Studies 5084*, no. 1 (December 23, 2021): 61–67. [https://doi.org/10.11646/zootaxa.5084.1](https://www.researchgate.net/publication/365703861_The_Arthropod_Associates_of_155_North_American_Cynipid_Oak_Galls).
-1.  Weld, Lewis H. *Cynipid Galls of the Pacific Slope (Hymenoptera, Cynipoidea):  An Aid to Their Identification*, 1957. https://babel.hathitrust.org/cgi/pt?id=coo.31924018313555&view=1up&seq=7.
+1.  Weld, Lewis H. *Cynipid Galls of the Southwest (Hymenoptera, Cynipoidea) an Aid to Their Identification*., 1960. https://hdl.handle.net/2027/coo.31924018354765.
+1.  ———. *Cynipid Galls of the Pacific Slope (Hymenoptera, Cynipoidea) an Aid to Their Identification*., 1957. https://hdl.handle.net/2027/coo.31924018313555.
 1.  Will, Kip, Joyce Gross, Daniel Rubinoff, and Jerry Powell. *Field Guide to California Insects*, Second Edition. University of California Press, 2020.
 
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
@@ -401,12 +418,16 @@ Links to publications' free, complete online versions will be given preference w
 
 ## Plants
 1.  Baldwin, Bruce G., David J. Keil, Staci Markos, Brent D. Mishler, Robert Patterson, Thomas J. Rosatti, and Dieter H. Wilken, eds. “The Jepson Herbarium.” University of California Berkeley, January 30, 2023. https://ucjeps.berkeley.edu/eflora/.
-1.  Calflora. “Calflora: A Non-Profit Database Providing Information on Wild California Plants,” n.d. https://www.calflora.org/.
+1.  “Calflora.” The Calfora Database, 2000. https://www.calflora.org/.
+    *  Calfora Contributors. “*Rosmarinus Officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
 1.  California Native Plant Society. “California Native Plant Society,” 1965. https://www.cnps.org/.
 1.  California State University Stanislaus. “Campus Tree Story Map,” 2017. https://www.csustan.edu/campus-tree-story-map.
 1.  Gallformers Contributors. “Gallformers.” Gallformers.org, n.d. https://gallformers.org/.
 1.  Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational Evidence of Herbivore‐specific Associational Effects between Neighboring Conspecifics in Natural, Dimorphic Populations of Datura Wrightii.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454.
-1.  Oregon State University, Department of Horticulture. “Landscape Plants.” Oregon State University, n.d. https://landscapeplants.oregonstate.edu/.
+1.  Je9h, and Momento Mori. “Roses (Genus *Rosa*),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
+1.  “Landscape Plants.” Oregon State University. https://landscapeplants.oregonstate.edu/.
+    *  Breen, Patrick. "*Rosmarinus Officinalis*." Landscape Plants, 2022. https://landscapeplants.oregonstate.edu/plants/rosmarinus-officinalis.
+1.  Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants.” Video, YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
 1.  Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
 1.  ———. *Field Guide to Plant Galls of California and Other Western States*. University of California Press, 2007.
 1.  ———. *Plant Galls of the Western United States*. Princeton University Press, 2021.
@@ -420,6 +441,8 @@ Links to publications' free, complete online versions will be given preference w
 ## Reptiles and Amphibians
 1.  Armentrout, Kelly, and Cari Mcgregor. “*Trachemys Scripta* (Pond Slider, Scripta).” Animal Diversity Web, 2019. https://animaldiversity.org/accounts/Trachemys_scripta/.
 1.  Ernst, Carl H., and Jeffrey E. Lovich. *Turtles of the United States and Canada*. Jonhs Hopkins University Press, 2009.
+1.  Frisk, August. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 20, 2022. https://www.inaturalist.org/observations/131860817.
+1.  ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.
 1.  Nafis, Gary. “California Herps: A Guide to the Amphibians and Reptiles of California.” California Herps, 2000. https://www.californiaherps.com/.
     *  ———. "American Bullfrog - *Lithobates catesbeianus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.html.    
     *  ———. "California Toad - *Anaxyrus boreas halophilus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/a.b.halophilus.html.
@@ -441,30 +464,15 @@ Links to publications' free, complete online versions will be given preference w
 1.  Avizienis, Audra, Karen Lawrence, and Sophie Cornish-Keefe. *Fruit and Vegetable Bible*. Moseley Road, Inc, 2019.
 1.  Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
 1.  “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
-    *  Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
+1.  Cannizzaro, Andrew G., Ashley D. Walters, and David D. Berg. “A New Species of Freshwater *Gammarus Fabricius*, 1775 (Amphipoda: Gammaridae) from a Desert Spring in Texas, with a Key to the Species of the Genus *Gammarus* from North America.” *Journal of Crustacean Biology 37*, no. 6 (November 6, 2017): 709–22. https://doi.org/10.1093/jcbiol/rux088.
 1.  Carroll, Sean B. *Into the Jungle: Great Adventures in the Search for Evolution*. Pearson, 2009.
 1.  Darwin, Charles. *The Origin of Species*. Barnes & Noble, 2003.
 1.  Davis, Michael, Robert Sommer, and John Menge. *Field Guide to Mushrooms of Western North America*. University of California Press, 2012.
 1.  Dillon, Rob, Jr. “The FWGNA Project: Freshwater Gastropods of North America.” FWGNA, n.d. https://www.fwgna.org/.
 1.  Galerie Insecte. “Galerie du Monde des insectes,” 2002. https://www.galerie-insecte.org/galerie/fichier.php.
 1.  “iNaturalist.” iNaturalist, 2014. https://www.inaturalist.org/.
-    *  Abela, Alice. “Pallid-winged Grasshopper (*Trimerotropis Pallidipennis*).” iNaturalist, 2010-2022. https://www.inaturalist.org/observations?place_id=any&subview=table&taxon_id=51493&user_id=alice_abela&verifiable=any.
-    *  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
-    *  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
-       *  Found Feathers Contributors. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
-    *  Frisk, August. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 20, 2022. https://www.inaturalist.org/observations/131860817.
-    *  ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.
-    *  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
-    *  Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
-    *  Je9h, and Momento Mori. “Roses (Genus Rosa),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
-    *  Langdon-Lassagne, Emily. "Subgenus *Eumelissodes*". iNaturalist, August 4, 2021. https://www.inaturalist.org/observations/100167000.
-    *  Matsumoto, Ron. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, September 2018. https://www.inaturalist.org/observations/16376037#activity_comment_1e72aa8d-33fd-48b7-a87a-76182afff9be.
-    *  Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
-    *  Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
-    *  That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1.  Modesto Junior College Great Valley Museum. "Great Valley Museum". YouTube. https://www.youtube.com/@gvmatmjc.
     *  Lucas, Erynn. “Viruses: An Introduction to Virology and Coronaviruses.” Video, YouTube, September 25, 2020. https://youtu.be/5ko4gHP-afY.
-    *  Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants.” Video, YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
 1.  Gross, Joyce. “Joyce Gross Photography,” June 29, 2022. https://joycegross.com/.
 1.  Johnston, Lyla June. “Architects of Abundance: Indigenous Regenerative Food and Land Management Systems and the Excavation of Hidden History,” PHD Dissertation, University of Alaska Fairbanks, December 2022. https://www.proquest.com/openview/17597a179528716e1a9e8515ca76ec77/1?pq-origsite=gscholar&cbl=18750&diss=y.
     *  ———. “Architects of Abundance: Indigenous Food Systems and the Excavation of Hidden History,” Video, YouTube, January 27, 2022. https://youtu.be/UxxRV44-wZ0.
@@ -530,6 +538,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Nystrom, Siera. “Natural History Journal : Notes from a California Naturalist.” Blogspot, September 2016. https://natural-history-journal.blogspot.com/.
     *  ———. "Black-crowned Night Herons at CSU Stanislaus". Natural History Journal, October 23, 2016. https://natural-history-journal.blogspot.com/2016/10/black-crowned-night-herons-at-csu.html.
     *  ———. "Urban Birding". Natural History Journal, April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
+1.  Overall, Andy. “*Tremella Aurantia* & *T. Mesenterica*, Two British ‘Yellow Brain Fungi’ Compared.” *Field Mycology 18*, no. 3 (July 1, 2017): 82–84. https://doi.org/10.1016/j.fldmyc.2017.07.005.
 1.  Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
 1.  Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
 1.  Sheldrake, Merlin. *Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures*. Random House, 2020.
