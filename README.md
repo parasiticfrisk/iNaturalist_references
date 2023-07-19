@@ -169,6 +169,7 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "House Finch Sounds." All About Birds. https://www.allaboutbirds.org/guide/House_Finch/sounds.
     *  ———. "Killdeer Sounds." All About Birds. https://www.allaboutbirds.org/guide/Killdeer/sounds.
     *  ———. “Lesser Goldfinch Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Lesser_Goldfinch/sounds.
+    *  ———. "Mallard Overview." All About Birds. https://www.allaboutbirds.org/guide/Mallard/overview.
     *  ———. "Marsh Wren Sounds." All About Birds. https://www.allaboutbirds.org/guide/Marsh_Wren/sounds.
     *  ———. "Mourning Dove Sounds." All About Birds. https://www.allaboutbirds.org/guide/Mourning_Dove/sounds.
     *  ———. "Northern Flicker Sounds." All About Birds. https://www.allaboutbirds.org/guide/Northern_Flicker/sounds.
@@ -251,6 +252,7 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “House Finch - *Haemorhous mexicanus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=houfin&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Killdeer - *Charadrius vociferus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=killde&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Lesser Goldfinch - *Spinus psaltria*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=lesgol&mediaType=audio&sort=rating_rank_desc.
+    *  ———. “Mallard (Domestic type) - *Anas platyrhynchos* (Domestic type).” Photo, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=mallar2&mediaType=photo&sort=rating_rank_desc.
     *  ———. “Marsh Wren - *Cistothorus palustris*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=marwre&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Mourning Dove - *Zenaida macroura*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=moudov&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Northern Flicker - *Colaptes auratus*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=norfli&mediaType=audio&sort=rating_rank_desc.
@@ -404,6 +406,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Godfrey, Kris, David Haviland, Jeffrey Erwin, Kent Daane, and Walt Bentley. *Vine Mealybug: What You Should Know*. University of California Agriculture and Natural Resources Publications, 2005. [https://doi.org/10.3733/ucanr.8152](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8152).
 1.  Godfrey, Kris, Frank Zalom, and Joanna Chiu. *Tuta Absoluta The South American Tomato Leafminer*. University of California Agriculture and Natural Resources Publications, 2018. [https://doi.org/10.3733/ucanr.8589](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8589).
 1.  Grafton-Cardwell, Beth. *Stages of the Cottony Cushion Scale (Icerya purchasi) and Its Natural Enemy, the Vedalia Beetle (Rodolia cardinalis)*. University of California Division of Agriculture and Natural Resources Publications, 2002. [https://doi.org/10.3733/ucanr.8051](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8051).
+1.  Gray, David, David E. Weissman, Jeffrey A. Cole, and Emily Moriarty Lemmon. “Multilocus Phylogeny of Gryllus Field Crickets (Orthoptera: Gryllidae: Gryllinae) Utilizing Anchored Hybrid Enrichment.” Zootaxa 4750, no. 3 (March 12, 2020): 328–48. [https://doi.org/10.11646/zootaxa.4750.3.2](https://orthsoc.org/sina/s464dgll2020.pdf).
 1.  Greenberg, L., and J. N. Kabashima. “Red Imported Fire Ant: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7487.html.
 1.  Gross, Joyce. “*Andricus brunneus* (Clustered Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+brunneus&ordr=.
 1.  ———. “*Andricus confertus* (Convoluted Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+confertus&ordr=.
@@ -443,7 +446,11 @@ Links to publications' free, complete online versions will be given preference w
 1.  University of Delaware. “Planthoppers of North America,” n.d. https://sites.udel.edu/planthoppers/.
 1.  Walker, Thomas J., and Nancy L. Collins. “New World Thermometer Crickets: The *Oecanthus Rileyi* Species Group and a New Species from North America.” *Journal of Orthoptera Research 19*, no. 2 (December 1, 2010): 371–376. [https://doi.org/10.1665/034.019.0227](https://orthsoc.org/sina/s576lwc10.pdf).
 1.  Walker, Thomas J., and Teresa Marie Yawn. “Singing Insects of North America (SINA).” The Orthopterist’s Society, 2000. https://orthsoc.org/sina/.
+    *  ———. “House Cricket *Acheta domesticus* (Linnaeus 1758).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/487a.htm.
+    *  ———. “Snowy Tree Cricket *Oecanthus fultoni* (T. Walker 1962).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/585a.htm.
+    *  ———. “Western Rock-loving Field Cricket *Gryllus saxatilis* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/731a.htm.
 1.  Ward, Anna K.G., Robert W. Busbee, Chen, and Charles K. Davis. “The Arthropod Associates of 155 North American Cynipid Oak Galls.” *Zoological Studies 5084*, no. 1 (December 23, 2021): 61–67. [https://doi.org/10.11646/zootaxa.5084.1](https://www.researchgate.net/publication/365703861_The_Arthropod_Associates_of_155_North_American_Cynipid_Oak_Galls).
+1.  Weissman, David E., and David Gray. “Crickets of the Genus Gryllus in the United States (Orthoptera: Gryllidae: Gryllinae).” *Zootaxa 4705*, no. 1 (December 5, 2019). https://doi.org/10.11646/zootaxa.4705.1.1.
 1.  Weld, Lewis H. *Cynipid Galls of the Southwest (Hymenoptera, Cynipoidea) an Aid to Their Identification*., 1960. https://hdl.handle.net/2027/coo.31924018354765.
 1.  ———. *Cynipid Galls of the Pacific Slope (Hymenoptera, Cynipoidea) an Aid to Their Identification*., 1957. https://hdl.handle.net/2027/coo.31924018313555.
 1.  Will, Kip, Joyce Gross, Daniel Rubinoff, and Jerry Powell. *Field Guide to California Insects*, Second Edition. University of California Press, 2020.
