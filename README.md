@@ -447,7 +447,9 @@ Links to publications' free, complete online versions will be given preference w
 1.  Walker, Thomas J., and Nancy L. Collins. “New World Thermometer Crickets: The *Oecanthus Rileyi* Species Group and a New Species from North America.” *Journal of Orthoptera Research 19*, no. 2 (December 1, 2010): 371–376. [https://doi.org/10.1665/034.019.0227](https://orthsoc.org/sina/s576lwc10.pdf).
 1.  Walker, Thomas J., and Teresa Marie Yawn. “Singing Insects of North America (SINA).” The Orthopterist’s Society, 2000. https://orthsoc.org/sina/.
     *  ———. “House Cricket *Acheta domesticus* (Linnaeus 1758).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/487a.htm.
+    *  ———. “Mud Crack Field Cricket *Gryllus integer* (Scudder 1901).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/480a.htm.
     *  ———. “Snowy Tree Cricket *Oecanthus fultoni* (T. Walker 1962).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/585a.htm.
+    *  ———. “West Coast Spring Field Cricket *Gryllus veletisoides* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/737a.htm.
     *  ———. “Western Rock-loving Field Cricket *Gryllus saxatilis* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/731a.htm.
 1.  Ward, Anna K.G., Robert W. Busbee, Chen, and Charles K. Davis. “The Arthropod Associates of 155 North American Cynipid Oak Galls.” *Zoological Studies 5084*, no. 1 (December 23, 2021): 61–67. [https://doi.org/10.11646/zootaxa.5084.1](https://www.researchgate.net/publication/365703861_The_Arthropod_Associates_of_155_North_American_Cynipid_Oak_Galls).
 1.  Weissman, David E., and David Gray. “Crickets of the Genus Gryllus in the United States (Orthoptera: Gryllidae: Gryllinae).” *Zootaxa 4705*, no. 1 (December 5, 2019). https://doi.org/10.11646/zootaxa.4705.1.1.
@@ -514,6 +516,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Davis, Michael, Robert Sommer, and John Menge. *Field Guide to Mushrooms of Western North America*. University of California Press, 2012.
 1.  Dillon, Rob, Jr. “The FWGNA Project: Freshwater Gastropods of North America.” FWGNA, n.d. https://www.fwgna.org/.
 1.  Ebeling, Walter. “Urban Entomology.” University of California Riverside, 1975. https://entomology.ucr.edu/ebeling.
+1.  Frisk, August. "Gray Fox (*Urocyon cinereoargenteus*)". iNaturalist, February 19, 2023. https://www.inaturalist.org/observations/149230035.
 1.  Galerie Insecte. “Galerie du Monde des insectes,” 2002. https://www.galerie-insecte.org/galerie/fichier.php.
 1.  “iNaturalist.” iNaturalist, 2014. https://www.inaturalist.org/.
 1.  Gross, Joyce. “Joyce Gross Photography.” https://joycegross.com/.
