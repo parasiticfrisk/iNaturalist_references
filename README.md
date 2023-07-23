@@ -228,11 +228,11 @@ Links to publications' free, complete online versions will be given preference w
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
-    * Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
-    * ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
-    * ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
+    *  Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
+    *  ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
+    *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
+    *  ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
 1.  Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
-1.  Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. “Skullsite: Bird Skull Collection.” Skullsite. https://skullsite.com/.
 1.  Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
 1.  “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Cornell Lab of Ornithology, 2000. https://www.macaulaylibrary.org/.
     *  Cornell Lab of Ornithology. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
@@ -275,6 +275,9 @@ Links to publications' free, complete online versions will be given preference w
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1.  Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
 1.  Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
+1.  “Skullsite: Bird Skull Collection.” Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. https://skullsite.com/.
+    *  Jansen, Jan, and Wouter Van Gestel. “*Anas platyrhynchos* (Mallard).” Skullsite. https://skullsite.com/skullpage/anas-platyrhynchos-mallard/.
+    *  ———. “*Mimus polyglottos* (Northern Mockingbird).” Skullsite. https://skullsite.com/skullpage/mimus-polyglottos-northern-mockingbird/.
 1.  That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1.  University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
 1.  Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
@@ -598,9 +601,25 @@ Links to publications' free, complete online versions will be given preference w
 1.  Lucas, Erynn. “Viruses: An Introduction to Virology and Coronaviruses.” Video, YouTube, September 25, 2020. https://youtu.be/5ko4gHP-afY.
 1.  Mc Donnell, Rory J., Timothy D. Paine, and Michael J. Gormally. *Slugs: A Guide to the Invasive and Native Fauna of California*. University of California Division of Agriculture and Natural Resources Publications, 2009. [https://doi.org/10.3733/ucanr.8336](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8336).
 1.  “Meet the Beneficials: Natural Enemies of Garden Pests.” Poster, University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 21, 2016. https://ipm.ucanr.edu/IPMPROJECT/ADS/poster_naturalenemies.html.
-1.  “Natural History Journal : Notes from a California Naturalist.” Nystrom, Siera, September 2016. https://natural-history-journal.blogspot.com/.
-    *  Nystrom, Siera. "Black-crowned Night Herons at CSU Stanislaus". Natural History Journal, October 23, 2016. https://natural-history-journal.blogspot.com/2016/10/black-crowned-night-herons-at-csu.html.
-    *  ———. "Urban Birding". Natural History Journal, April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
+1.  “Natural History Journal: Notes from a California Naturalist.” Nystrom, Siera, September 2016. https://natural-history-journal.blogspot.com/.
+    *  Nystrom, Siera. "Acorn Woodpecker & Granary Trees." Natural History Journal (blog), November 12, 2016. https://natural-history-journal.blogspot.com/2016/11/the-acorn-woodpeckers-melanerpes.html.
+    *  ———. "American Coots & Baby... Cootlings?" Natural History Journal (blog), July 10, 2018. https://natural-history-journal.blogspot.com/2018/07/american-coots-little-baby-cootlings.html.
+    *  ———. "American Kestrel: A Pint-sized Predator." Natural History Journal (blog), October 18, 2019. https://natural-history-journal.blogspot.com/2019/10/american-kestrel-pint-sized-predator.html.
+    *  ———. "American White Pelicans: A Peek Into California's Avifaunal Past." Natural History Journal (blog), January 30, 2018. https://natural-history-journal.blogspot.com/2018/01/american-white-pelicans-peek-at.html.
+    *  ———. "Anna's Hummingbird: An Unlikely Mountaineer." Natural History Journal (blog), January 07, 2017. https://natural-history-journal.blogspot.com/2017/01/annas-hummingbird-unlikely-mountaineer.html.
+    *  ———. "Birding the Pacific Northwest Coast." Natural History Journal (blog), June 30, 2021. https://natural-history-journal.blogspot.com/2021/06/birding-pacific-northwest-coast.html.
+    *  ———. "Birds of the Desert: Black-throated Sparrow." Natural History Journal (blog), March 30, 2018. https://natural-history-journal.blogspot.com/2018/03/birds-of-desert-black-throated-sparrow.html.
+    *  ———. "Black-crowned Night Herons at CSU Stanislaus." Natural History Journal (blog), October 23, 2016. https://natural-history-journal.blogspot.com/2016/10/black-crowned-night-herons-at-csu.html.
+    *  ———. "Black-necked Stilts at Merced National Wildlife Refuge." Natural History Journal (blog), October 17, 2016. https://natural-history-journal.blogspot.com/2016/10/black-necked-stilts-at-merced-national.html.
+    *  ———. "Brewer's Blackbirds." Natural History Journal (blog), December 12, 2018. https://natural-history-journal.blogspot.com/2018/12/brewers-blackbirds.html.
+    *  ———. "Flycathers & the Ubiquitous (but cute) Black Phoebe." Natural History Journal (blog), March 08, 2018. https://natural-history-journal.blogspot.com/2018/03/flycatchers-ubiquitous-but-cute-black.html.
+    *  ———. "Grassland Gnomes: Burrowing Owls at Dusk." Natural History Journal (blog), December 06, 2020. https://natural-history-journal.blogspot.com/2020/12/grassland-gnomes-burrowing-owls-at-dusk.html.
+    *  ———. "In Praise of the Ordinary: Mourning Doves." Natural History Journal (blog), April 5, 2020. https://natural-history-journal.blogspot.com/2020/04/in-praise-of-ordinary-mourning-doves.html.
+    *  ———. "The Mountains are Calling: North Cascades." Natural History Journal (blog), August 31, 2021. https://natural-history-journal.blogspot.com/2021/08/the-mountains-are-calling-north-cascades.html.
+    *  ———. "Nesting Killdeer." Natural History Journal (blog), March 19, 2019. https://natural-history-journal.blogspot.com/2019/03/nesting-killdeer.html.
+    *  ———. "Unique Beauty: A Leucistic Black Phoebe." Natural History Journal (blog), November 30, 2019. https://natural-history-journal.blogspot.com/2019/11/unique-beauty-leucistic-black-phoebe.html.
+    *  ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
+    *  ———. "Urban Wildlife: The Gray Fox." Natural History Journal (blog), September 27, 2020. https://natural-history-journal.blogspot.com/2020/09/urban-wildlife-gray-fox.html.
 1.  Overall, Andy. “*Tremella Aurantia* & *T. Mesenterica*, Two British ‘Yellow Brain Fungi’ Compared.” *Field Mycology 18*, no. 3 (July 1, 2017): 82–84. https://doi.org/10.1016/j.fldmyc.2017.07.005.
 1.  Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
 1.  Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
