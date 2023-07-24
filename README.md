@@ -25,8 +25,13 @@ This list is continuously updated. No removals are made; just additions. The lis
 Links to publications' free, complete online versions will be given preference when accessible.
 > **Note**: There will always be a DOI reference.  The links on this page that are related with the articles, however, could take you to an open access version of them rather than the originals, which might be hidden behind a paywall.
 
-
 ## Arachnids
+<details><summary> 
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  Adams, R. J., and Timothy D. Manolis. *Field Guide to the Spiders of California and the Pacific Coast States*. University of California Press, 2014.
 1.  Banks, Nathan. “Descriptions of New American Spiders.” *Proceedings of the Entomological Society of Washington 7* (1906): 94–100. https://www.biodiversitylibrary.org/item/19615#page/110/mode/1up.
 1.  ———. “Arachnida from Baja California and Other Parts of Mexico.” *Proceedings of the California Academy of Sciences 3*, no. 1 (1898): 205–309. https://www.biodiversitylibrary.org/page/38967797#page/279/mode/1up.
@@ -150,9 +155,23 @@ Links to publications' free, complete online versions will be given preference w
 
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
+</details>
 
 ## Birds
+<details><summary> 
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” Cornell Lab of Ornithology. https://www.allaboutbirds.org/.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
     *  Cornell Lab of Ornithology. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.
     *  ———. "American Crow Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Crow/sounds.
     *  ———. "American Robin Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Robin/sounds.
@@ -188,7 +207,17 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “Yellow-rumped Warbler Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Yellow-rumped_Warbler/sounds.
     *  ———. "Western Meadowlark Sounds." All About Birds. https://www.allaboutbirds.org/guide/Western_Meadowlark/sounds.
     *  ———. "White-crowned Sparrow Sounds." All About Birds. https://www.allaboutbirds.org/guide/White-crowned_Sparrow/sounds.
+
+    </details>
+
 1.  “Bird Sounds and Bird Calls in USA & Canada.” Weiland, Torben, 2013. https://www.bird-sounds.net/.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
     *  Weiland, Torben. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
     *  ———. “American Crow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-crow/.
     *  ———. “American Robin - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-robin/.
@@ -222,20 +251,41 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “Yellow-rumped Warbler - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
     *  ———. “Western Meadowlark - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
     *  ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
+
+    </details>
+
 1.  Cornell Lab of Ornithology. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
 1.  Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
 1.  eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
-    *  Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
-    *  Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+
+    *  Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
+    *  Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
     *  ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
     *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
+    *  ———. "Great Blue Heron (*Ardea herodias*)." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Great%20Blue%20Heron%20%28Ardea%20herodias%29.
     *  ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
+
+    </details>
+
 1.  Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
 1.  Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
 1.  “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Cornell Lab of Ornithology, 2000. https://www.macaulaylibrary.org/.
+
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>    
+    
     *  Cornell Lab of Ornithology. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
     *  ———. “American Crow - *Corvus brachyrhynchos*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecro&mediaType=audio&sort=rating_rank_desc.
     *  ———. “American Robin - *Turdus migratorius*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amerob&mediaType=audio&sort=rating_rank_desc.
@@ -271,6 +321,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. “Yellow-rumped Warbler - *Setophaga coronata*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=yerwar&mediaType=audio&sort=rating_rank_desc.
     *  ———. “Western Meadowlark - *Sturnella neglecta*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=wesmea&mediaType=audio&sort=rating_rank_desc.
     *  ———. “White-crowned Sparrow - *Zonotrichia leucophrys*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=whcspa&mediaType=audio&sort=rating_rank_desc.
+
+    </details>
+
 1.  National Audubon Society. “Audubon: Guide to North American Birds.” Audubon. https://www.audubon.org/bird-guide.
 1.  “NestWatch: Where Birds Come to Life.” Cornell Lab of Ornithology. https://nestwatch.org/.
 1.  Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
@@ -287,24 +340,20 @@ Links to publications' free, complete online versions will be given preference w
 
 
 ### Bird Feathers
-1.  “Featherbase.” Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. https://www.featherbase.info/en/home.
-    *  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Acorn Woodpecker (*Melanerpes formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
-    *  ———. "California Scrub-Jay (*Aphelocoma californica*)." Featherbase. https://www.featherbase.info/en/species/aphelocoma/californica.
-    *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
-    *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
-    *  ———. "Eurasian Collared-Dove (*Streptopelia decaocto*)." Featherbase. https://www.featherbase.info/en/species/streptopelia/decaocto.
-    *  ———. "Great Horned Owl (*Bubo virginianus*)." Featherbase. https://www.featherbase.info/en/species/bubo/virginianus.
-    *  ———. "Ladder-backed Woodpecker (*Dryobates scalaris*)." Featherbase. https://www.featherbase.info/en/species/dryobates/scalaris.
-    *  ———. "Mourning Dove (*Zenaida macroura*)." Featherbase. https://www.featherbase.info/en/species/zenaida/macroura.
-    *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
-    *  ———. "Northern Mockingbird (*Mimus polyglottos*)." Featherbase. https://www.featherbase.info/en/species/mimus/polyglottos.
-    *  ———. "Red-shouldered Hawk (*Buteo lineatus*)." Featherbase. https://www.featherbase.info/en/species/buteo/lineatus.
-    *  ———. "Rock Pigeon (*Columba livia*)." Featherbase. https://www.featherbase.info/en/species/columba/livia.
-    *  ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." Featherbase. https://www.featherbase.info/en/species/zonotrichia/leucophrys.
-1.  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
-    *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
-1.  Scott, David, and Casey McFarland. *Bird Feathers: A Guide to North American Species*. Stackpole Books, 2010.
+<details><summary>
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish and Wildlife Service Forensics Laboratory, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
     *  U.S. Fish and Wildlife Service Forensics Laboratory. "Adult Acorn Woodpecker primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_primary_adult.
     *  ———. "Adult Acorn Woodpecker secondary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_secondary_adult.
     *  ———. "Adult Acorn Woodpecker tail feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_tail_adult.
@@ -380,10 +429,48 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Juvenile Swainson's Hawk secondary wing feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
     *  ———. "Juvenile Swainson's Hawk tail feathers." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_immature.
 
+    </details>
+
+1.  “Featherbase.” Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. https://www.featherbase.info/en/home.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
+    *  Haase, Alexander, Jörg Schlusen, and Kristin Schwenk. “Acorn Woodpecker (*Melanerpes formicivorus*).” Featherbase. https://www.featherbase.info/en/species/melanerpes/formicivorus.
+    *  ———. "California Scrub-Jay (*Aphelocoma californica*)." Featherbase. https://www.featherbase.info/en/species/aphelocoma/californica.
+    *  ———. "Common Starling (*Sturnus vulgaris*)." Featherbase. https://www.featherbase.info/en/species/sturnus/vulgaris.
+    *  ———. "Canada Goose (*Branta canadensis*)." Featherbase. https://www.featherbase.info/en/species/branta/canadensis.
+    *  ———. "Eurasian Collared-Dove (*Streptopelia decaocto*)." Featherbase. https://www.featherbase.info/en/species/streptopelia/decaocto.
+    *  ———. "Great Horned Owl (*Bubo virginianus*)." Featherbase. https://www.featherbase.info/en/species/bubo/virginianus.
+    *  ———. "Ladder-backed Woodpecker (*Dryobates scalaris*)." Featherbase. https://www.featherbase.info/en/species/dryobates/scalaris.
+    *  ———. "Mourning Dove (*Zenaida macroura*)." Featherbase. https://www.featherbase.info/en/species/zenaida/macroura.
+    *  ———. "Muscovy Duck (*Cairina moschata*)." Featherbase. https://www.featherbase.info/en/species/cairina/moschata.
+    *  ———. "Northern Mockingbird (*Mimus polyglottos*)." Featherbase. https://www.featherbase.info/en/species/mimus/polyglottos.
+    *  ———. "Red-shouldered Hawk (*Buteo lineatus*)." Featherbase. https://www.featherbase.info/en/species/buteo/lineatus.
+    *  ———. "Rock Pigeon (*Columba livia*)." Featherbase. https://www.featherbase.info/en/species/columba/livia.
+    *  ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." Featherbase. https://www.featherbase.info/en/species/zonotrichia/leucophrys.
+
+    </details>
+
+1.  Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
+    *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
+1.  Scott, David, and Casey McFarland. *Bird Feathers: A Guide to North American Species*. Stackpole Books, 2010.
+
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
+</details>
+</details>
 
 ## Insects
+<details><summary> 
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  Abbot, Patrick, and James H. Withgott. “Phylogenetic and Molecular Evidence for Allochronic Speciation in Gall-Forming Aphids (Pemphigus).” *Evolution 58*, no. 3 (March 2004): 539–53. https://doi.org/10.1111/j.0014-3820.2004.tb01677.x.
 1.  Abela, Alice. “Pallid-winged Grasshopper (*Trimerotropis Pallidipennis*).” iNaturalist, 2010-2022. https://www.inaturalist.org/observations?place_id=any&subview=table&taxon_id=51493&user_id=alice_abela&verifiable=any.
 1.  Anderson, Kris. “Praying Mantises of the United States and Canada.” ResearchGate, January 2019. https://www.researchgate.net/publication/361092408_Anderson_K_2019_Praying_Mantises_of_the_United_States_and_Canada_2nd_Ed.
@@ -467,8 +554,15 @@ Links to publications' free, complete online versions will be given preference w
 
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
+</details>
 
 ## Plants
+<details><summary> 
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  “Calflora.” The Calfora Database, 2000. https://www.calflora.org/.
     *  Calfora Contributors. “*Rosmarinus Officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
 1.  California Native Plant Society. “California Native Plant Society,” 1965. https://www.cnps.org/.
@@ -499,14 +593,25 @@ Links to publications' free, complete online versions will be given preference w
 
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
+</details>
 
 ## Reptiles and Amphibians
+<details><summary> 
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  Armentrout, Kelly, and Cari Mcgregor. “*Trachemys Scripta* (Pond Slider, Scripta).” Animal Diversity Web, 2019. https://animaldiversity.org/accounts/Trachemys_scripta/.
-1.  Ernst, Carl H., and Jeffrey E. Lovich. *Turtles of the United States and Canada*. Jonhs Hopkins University Press, 2009.
-1.  Frisk, August. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 20, 2022. https://www.inaturalist.org/observations/131860817.
-1.  ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.
-1.  Nafis, Gary. “California Herps: A Guide to the Amphibians and Reptiles of California.” California Herps, 2000. https://www.californiaherps.com/.
-    *  ———. "American Bullfrog - *Lithobates catesbeianus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.html.    
+1.  “California Herps: A Guide to the Amphibians and Reptiles of California.” Gary Nafis, 2000. https://www.californiaherps.com/.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
+    *  Nafis, Gary. "American Bullfrog - *Lithobates catesbeianus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.html.    
     *  ———. "California Toad - *Anaxyrus boreas halophilus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/a.b.halophilus.html.
     *  ———. "Commonly Encountered California Lizards." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/commonlizards.html.
     *  ———. "Comparison of Western Fence Lizards - *Sceloporus occidentalis*, with Common Sagebrush Lizards - *Sceloporus graciosus*, Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/fencesagebrushcomparison.html.
@@ -515,14 +620,27 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "Red-eared Slider - *Trachemys scripta elegans*." California Herps, 2000-2023. https://www.californiaherps.com/turtles/pages/t.s.elegans.html.
     *  ———. "Small Spiny Lizards Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/smallspiny.id.html.
     *  ———. “Sounds of American Bullfrog - *Lithobates catesbeianus*.” California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.sounds.html.
+
+    </details>
+
+1.  Ernst, Carl H., and Jeffrey E. Lovich. *Turtles of the United States and Canada*. Jonhs Hopkins University Press, 2009.
+1.  Frisk, August. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 20, 2022. https://www.inaturalist.org/observations/131860817.
+1.  ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.
 1.  Somma, L. A., A. Foster, P. Fuller, and C. Cameron. “*Trachemys Scripta Elegans* (Wied-Neuweid, 1838).” U.S. Geological Survey, Nonindigenous Aquatic Species Database, December 2, 2022. https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1261.
 1.  Stebbins, Robert C., and Samuel M. McGinnis. *Field Guide to Amphibians and Reptiles of California*. University of California Press, 2012.
 1.  ———. *Peterson Field Guide to Western Reptiles & Amphibians*, Fourth Edition. Houghton Mifflin, 2018.
 
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
 
+</details>
 
 ## Other
+<details><summary> 
+
+![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+
+</summary>
+
 1.  Avizienis, Audra, Karen Lawrence, and Sophie Cornish-Keefe. *Fruit and Vegetable Bible*. Moseley Road, Inc, 2019.
 1.  Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
 1.  “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
@@ -543,6 +661,13 @@ Links to publications' free, complete online versions will be given preference w
 1.  Jones, Cheri A., and Colleen N. Baxter. “Thomomys Bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742.
 1.  Kimmerer, Robin Wall. *Braiding Sweetgrass*. Milkweed, 2014.
 1.  KQED. “Deep Look,” 2014. https://www.kqed.org/deeplook.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
     *  Black, Jason. "Watch Flesh-Eating Beetles Strip Bodies to the Bone." Deep Look, October 13, 2015. https://www.kqed.org/science/299669/watch-flesh-eating-beetles-strip-bodies-to-the-bone.
     *  Cassidy, Josh. "Pygmy Seahorses: Masters of Camouflage." Deep Look, October 21, 2014. https://www.kqed.org/science/22700/pygmy-seahorses-masters-of-camouflage.
     *  ———. "The Fantastic Fur of Sea Otters." Deep Look, January 6, 2015. https://www.kqed.org/science/25908/the-fantastic-fur-of-sea-otters.
@@ -567,7 +692,17 @@ Links to publications' free, complete online versions will be given preference w
     *  ———, "This Mushroom Starts Killing You Before You Even Realize It." Deep Look, February 23, 2016. https://www.kqed.org/science/523936/this-mushroom-starts-killing-you-before-you-even-realize-it.  
     *  Rosa, Craig. "What Gall! The Crazy Cribs of Parasitic Wasps." Deep Look, November 18, 2014. https://www.kqed.org/science/23927/what-gall-the-crazy-cribs-of-parasitic-wasps.
     *  Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?." Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
+
+    </details>
+
 1.  KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
     *  ———. "Pygmy Seahorses: Masters of Camouflage | Deep Look." Video, YouTube, October 20, 2014. https://youtu.be/Q3CtGoqz3ww.
     *  ———. "What Gall! The Crazy Cribs of Parasitic Wasps | Deep Look." Video, YouTube, November 18, 2014. https://youtu.be/lOgP5NzcTuA.
     *  ———. "What Gives the Morpho Butterfly Its Magnificent Blue? | Deep Look." Video, YouTube, December 16, 2014. https://youtu.be/29Ts7CsJDpg.
@@ -596,6 +731,9 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "A Baby Dragonfly's Mouth Will Give You Nightmares | Deep Look." Video, YouTube, September 12, 2017. https://youtu.be/EHo_9wnnUTE.
     *  ———. "It’s a Goopy Mess When Pines and Beetles Duke it Out | Deep Look." Video, YouTube, October 24, 2017. https://youtu.be/wR5O48zsbnc.
     *  ———. "Why the Male Black Widow is a Real Home Wrecker | Deep Look." Video, YouTube, January 9, 2018. https://youtu.be/NpJNeGqExrc.
+
+    </details>
+
 1.  Krogh, David. *Biology: A Guide to the Natural World*. Benjamin Cummings, 2011.
 1.  Læssøe, Thomas. *Mushrooms: How to Identify and Gather Wild Mushrooms and Other Fungi*. Penguin Random House, 2013.
 1.  Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
@@ -603,6 +741,13 @@ Links to publications' free, complete online versions will be given preference w
 1.  Mc Donnell, Rory J., Timothy D. Paine, and Michael J. Gormally. *Slugs: A Guide to the Invasive and Native Fauna of California*. University of California Division of Agriculture and Natural Resources Publications, 2009. [https://doi.org/10.3733/ucanr.8336](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8336).
 1.  “Meet the Beneficials: Natural Enemies of Garden Pests.” Poster, University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 21, 2016. https://ipm.ucanr.edu/IPMPROJECT/ADS/poster_naturalenemies.html.
 1.  “Natural History Journal: Notes from a California Naturalist.” Nystrom, Siera, September 2016. https://natural-history-journal.blogspot.com/.
+    
+    <details><summary>
+    
+    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    
+    </summary>
+    
     *  Nystrom, Siera. "Acorn Woodpecker & Granary Trees." Natural History Journal (blog), November 12, 2016. https://natural-history-journal.blogspot.com/2016/11/the-acorn-woodpeckers-melanerpes.html.
     *  ———. "American Coots & Baby... Cootlings?" Natural History Journal (blog), July 10, 2018. https://natural-history-journal.blogspot.com/2018/07/american-coots-little-baby-cootlings.html.
     *  ———. "American Kestrel: A Pint-sized Predator." Natural History Journal (blog), October 18, 2019. https://natural-history-journal.blogspot.com/2019/10/american-kestrel-pint-sized-predator.html.
@@ -631,10 +776,14 @@ Links to publications' free, complete online versions will be given preference w
     *  ———. "The Mountains are Calling: North Cascades." Natural History Journal (blog), August 31, 2021. https://natural-history-journal.blogspot.com/2021/08/the-mountains-are-calling-north-cascades.html.
     *  ———. "The Neighborhood's Elusive Cooper's Hawk." Natural History Journal (blog), October 04, 2016. https://natural-history-journal.blogspot.com/2016/10/the-neighborhoods-elusive-coopers-hawk.html.
     *  ———. "Nesting Killdeer." Natural History Journal (blog), March 19, 2019. https://natural-history-journal.blogspot.com/2019/03/nesting-killdeer.html.
+    *  ———. "October at San Joaquin River National Wildlife Refuge." Natural History Journal (blog), October 10, 2020. https://natural-history-journal.blogspot.com/2020/10/october-at-san-joaquin-river-national.html.
     *  ———. "A Special Guest Appearance at CSU Stanislaus: Cackling Geese!" Natural History Journal (blog), January 10, 2017. https://natural-history-journal.blogspot.com/2017/01/a-special-guest-appearance-at-csu.html.
     *  ———. "Unique Beauty: A Leucistic Black Phoebe." Natural History Journal (blog), November 30, 2019. https://natural-history-journal.blogspot.com/2019/11/unique-beauty-leucistic-black-phoebe.html.
     *  ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
     *  ———. "Urban Wildlife: The Gray Fox." Natural History Journal (blog), September 27, 2020. https://natural-history-journal.blogspot.com/2020/09/urban-wildlife-gray-fox.html.
+
+    </details>
+
 1.  Overall, Andy. “*Tremella Aurantia* & *T. Mesenterica*, Two British ‘Yellow Brain Fungi’ Compared.” *Field Mycology 18*, no. 3 (July 1, 2017): 82–84. https://doi.org/10.1016/j.fldmyc.2017.07.005.
 1.  Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
 1.  Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
@@ -657,3 +806,5 @@ Links to publications' free, complete online versions will be given preference w
 1.  Wilen, Cheryl A., and Mary L. Flint. “Snails and Slugs: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2018. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7427.html.
 
 [![Back to Top](https://img.shields.io/badge/Back_to_Top-informational?style=for-the-badge&logo=Acclaim)](#inaturalist-references)
+
+</details>
