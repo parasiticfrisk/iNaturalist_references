@@ -228,6 +228,7 @@ Links to publications' free, complete online versions will be given preference w
 1.  Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
 1.  Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1.  “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
+    *  Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
     *  Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
     *  ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
     *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
