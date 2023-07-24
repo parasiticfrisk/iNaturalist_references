@@ -1,4 +1,4 @@
-[![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/4N0NYM0U5MY7H/iNaturalist_references?style=flat-square&label=Last%20Updated&color=informational)](https://github.com/4n0nym0u5my7h/iNaturalist_references/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/4N0NYM0U5MY7H/iNaturalist_references?style=flat-square&label=Last%20Updated&color=informational)](https://github.com/4n0nym0u5my7h/iNaturalist_references/commits/main)
 
 # iNaturalist References
 
@@ -28,7 +28,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Arachnids
 <details><summary> 
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -160,7 +160,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Birds
 <details><summary> 
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -168,7 +168,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -214,7 +214,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -263,7 +263,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
 
@@ -282,7 +282,7 @@ Links to publications' free, complete online versions will be given preference w
 
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>    
     
@@ -342,7 +342,7 @@ Links to publications' free, complete online versions will be given preference w
 ### Bird Feathers
 <details><summary>
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -350,7 +350,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -435,7 +435,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -467,7 +467,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Insects
 <details><summary> 
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -559,7 +559,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Plants
 <details><summary> 
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -598,7 +598,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Reptiles and Amphibians
 <details><summary> 
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -607,7 +607,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -637,7 +637,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Other
 <details><summary> 
 
-![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
 
 </summary>
 
@@ -664,7 +664,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -699,7 +699,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
@@ -744,7 +744,7 @@ Links to publications' free, complete online versions will be given preference w
     
     <details><summary>
     
-    ![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)
+    [![Click to Expand or Collapse](https://img.shields.io/badge/View_More...-86a91c?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
     
     </summary>
     
