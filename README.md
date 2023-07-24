@@ -28,7 +28,7 @@ Links to publications' free, complete online versions will be given preference w
 ## Arachnids
 <details><summary> 
 
-[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)](#)
+[![Click to Expand or Collapse](https://img.shields.io/badge/Show/hide_Section-informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAABPUlEQVRoQ+2ZUQrDIBBEk/sfuo0BQaTG7OwbiqC/we28GY0bex6Lj3Nx/ccG+HeC1gQ+1yiA5zVcoLbCVXwV7oKwAPTinRA4wEi8CwIFmIl3QGAAv8SXde9eTgjASHx13AmRBpiJd0OkAN6Kd0LIAFHxLggJQBXvgAgDZMXTEGmATItAmBEGKA6STVoLoZghAbg6S6XuBlBcI+fsBEg3lVo7AcU1cs5OgHRTqbUTUFwj58gJlB5G6V1I8felmVIw24C1v5mtFQYgWuCnb4JoqgjAHWXw/pO6qQgDtN8D/fJ7C0GJl/dABoIUnwJQIGjxaYAIhEM8AvAGwiUeA3iCGJ0zbzf87JyS3kKjoktfrz8dTi0w5XytiSYwg6DFo3ugX1ZL/8nXJ+Fw3rqEZm8O8rllD5ACZ7U2wMwh9/MvBGC4MSFCYswAAAAASUVORK5CYII=)]()
 
 </summary>
 
