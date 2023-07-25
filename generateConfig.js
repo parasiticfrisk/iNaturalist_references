@@ -10,11 +10,11 @@ const outputPath = path.join(__dirname, 'src', 'pageConfig.json');
 // Define the header navigation and landing page
 const headerNavigation = [
   {
-    name: 'References',
-    path: '/references',
+    name: 'Documentation',
+    path: '/documentation',
   },
 ];
-const landingPage = '/references';
+const landingPage = '/documentation';
 
 // Define the function to generate the page configuration
 function generatePageConfig() {
@@ -129,8 +129,8 @@ function generatePageConfig() {
   const rootRoute = landingPage.toLowerCase();
   const rootPage = {
     route: rootRoute,
-    name: 'references',
-    description: 'These are the references',
+    name: 'Documentation',
+    description: 'This is the documentation',
     icon: 'address-book',
     children: [],
     tags: [],
