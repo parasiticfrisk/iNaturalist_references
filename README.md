@@ -1,3 +1,6 @@
+# iNaturalist References
+The GitHub Pages for this project are built with the [GitHub Pages Documentation Framework](https://github.com/jsoconno/github-pages-template) and [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action).
+
 ## GitHub Pages Documentation Framework
 
 GitHub Pages Documentation Framework is a user-friendly solution for creating project documentation using Markdown and GitHub Pages efficiently.
