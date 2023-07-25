@@ -2,20 +2,20 @@
   "appName": "GitHub Pages",
   "headerNavigation": [
     {
-      "name": "Documentation",
-      "path": "/documentation"
+      "name": "References",
+      "path": "/references"
     }
   ],
-  "landingPage": "/documentation",
+  "landingPage": "/references",
   "tags": [
     "news",
     "process"
   ],
   "pages": [
     {
-      "route": "/documentation",
-      "name": "Documentation",
-      "description": "This is the documentation",
+      "route": "/references",
+      "name": "references",
+      "description": "These are the references",
       "icon": "address-book",
       "children": [
         {
