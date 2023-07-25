@@ -19,34 +19,22 @@
       "icon": "address-book",
       "children": [
         {
-          "route": "/faq",
-          "name": "Frequently Asked Questions",
-          "description": "A collection of frequently asked questions.",
+          "route": "/arachnology",
+          "name": "Arachnids",
+          "description": "A collection of references for indentifying arachnids.",
           "icon": [
             "fas",
-            "question"
+            "spider"
           ],
           "tags": [
-            "questions"
+            "arachnids"
           ],
           "owner": "",
-          "markdown": "/static/markdown/FAQ.md"
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Arachnology.md"
         },
         {
-          "route": "/links",
-          "name": "Useful Links",
-          "description": "Helpful links that you will use often.",
-          "icon": [
-            "fas",
-            "link"
-          ],
-          "tags": [],
-          "owner": "",
-          "markdown": "/static/markdown/Links.md"
-        },
-        {
-          "route": "/Process",
-          "name": "Process",
+          "route": "/Birds",
+          "name": "Birds",
           "description": "",
           "icon": [
             "far",
@@ -54,62 +42,104 @@
           ],
           "children": [
             {
-              "route": "/Process/Deeper",
-              "name": "Deeper",
-              "description": "",
-              "icon": [
-                "far",
-                "folder"
-              ],
-              "children": [
-                {
-                  "route": "/this is a really long name for a file to have",
-                  "name": "This Is A Really Long Name For A File To Have",
-                  "description": "How to install Visual Studio Code.",
-                  "icon": [
-                    "fas",
-                    "computer"
-                  ],
-                  "tags": [
-                    "code"
-                  ],
-                  "owner": "",
-                  "markdown": "/static/markdown/Process/Deeper/This Is A Really Long Name For A File To Have.md"
-                }
-              ],
-              "tags": []
-            },
-            {
-              "route": "/installing vs code",
-              "name": "Install VS Code",
-              "description": "How to install Visual Studio Code.",
+              "route": "/ornithology",
+              "name": "Birds",
+              "description": "A collection of references for indentifying birds.",
               "icon": [
                 "fas",
-                "computer"
+                "crow"
               ],
               "tags": [
-                "code"
+                "birds"
               ],
               "owner": "",
-              "markdown": "/static/markdown/Process/Installing VS Code.md"
+              "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Birds\\Ornithology.md"
             },
             {
-              "route": "/raising a pull request in github",
-              "name": "Raise A Pull Request in Github",
-              "description": "Process documentation for how to raise a pull request in GitHub.",
+              "route": "/plumology",
+              "name": "Bird Feathers",
+              "description": "A collection of references for indentifying bird feathers.",
               "icon": [
-                "fab",
-                "github"
+                "fas",
+                "feather"
               ],
               "tags": [
-                "pull-request",
-                "code"
+                "birds",
+                "feathers"
               ],
               "owner": "",
-              "markdown": "/static/markdown/Process/Raising a Pull Request In GitHub.md"
+              "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Birds\\Plumology.md"
             }
           ],
           "tags": []
+        },
+        {
+          "route": "/botany",
+          "name": "Plants",
+          "description": "A collection of references for indentifying plants.",
+          "icon": [
+            "fas",
+            "tree"
+          ],
+          "tags": [
+            "plants"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Botany.md"
+        },
+        {
+          "route": "/entomology",
+          "name": "Insects",
+          "description": "A collection of references for indentifying insects.",
+          "icon": [
+            "fas",
+            "bug"
+          ],
+          "tags": [
+            "insects"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Entomology.md"
+        },
+        {
+          "route": "/herpetology",
+          "name": "Amphibians and Reptiles",
+          "description": "A collection of references for indentifying amphibians and reptiles.",
+          "icon": [
+            "fas",
+            "frog"
+          ],
+          "tags": [
+            "amphibians",
+            "reptiles"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Herpetology.md"
+        },
+        {
+          "route": "/other",
+          "name": "Other",
+          "description": "A collection of references for indentifying bacteria, fungi, gastropods, mammals, nematodes, protozoa, viruses and others.",
+          "icon": [
+            "fas",
+            "earth-americas"
+          ],
+          "tags": [
+            "biology",
+            "bacteria",
+            "ecology",
+            "ethology",
+            "fungi",
+            "gastropods",
+            "mammals",
+            "microbiology",
+            "mollusks",
+            "nematodes",
+            "protozoa",
+            "viruses"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Other.md"
         }
       ],
       "tags": []
