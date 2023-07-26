@@ -1,8 +1,7 @@
 <!--
 title: Birds
 icon: crow
-tags: birds
-description: A collection of references for indentifying birds.
+description: A collection of reference materials for indentifying and understanding birds.
 -->
 ## Birds
 

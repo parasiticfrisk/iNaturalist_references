@@ -1,9 +1,8 @@
 <!--
 title: Arachnids
 icon: spider
-tags: arachnids
 owner: August Frisk
-description: A collection of references for understanding and identifying arachnids.
+description: A collection of reference materials for identifying and understanding arachnids.
 -->
 ## Arachnids
 

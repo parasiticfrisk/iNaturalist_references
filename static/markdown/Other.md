@@ -1,8 +1,7 @@
 <!--
 title: Other
 icon: earth-americas
-tags: biology, bacteria, ecology, ethology, fungi, gastropods, mammals, microbiology, mollusks, nematodes, protozoa, viruses 
-description: A collection of references for indentifying bacteria, fungi, gastropods, mammals, nematodes, protozoa, viruses and others.
+description: A collection of reference materials for indentifying and understanding the natural world.
 -->
 ## Other
 
@@ -17,6 +16,7 @@ description: A collection of references for indentifying bacteria, fungi, gastro
 1. Davis, Michael, Robert Sommer, and John Menge. *Field Guide to Mushrooms of Western North America*. University of California Press, 2012.
 1. Dillon, Rob, Jr. “The FWGNA Project: Freshwater Gastropods of North America.” FWGNA, n.d. https://www.fwgna.org/.
 1. Ebeling, Walter. “Urban Entomology.” University of California Riverside, 1975. https://entomology.ucr.edu/ebeling.
+1. Eel River Recovery Project. “Algae / Cyanobacteria,” 2013. https://www.eelriverrecovery.org/algae.
 1. Frisk, August. "Gray Fox (*Urocyon cinereoargenteus*)". iNaturalist, February 19, 2023. https://www.inaturalist.org/observations/149230035.
 1. Galerie Insecte. “Galerie du Monde des insectes,” 2002. https://www.galerie-insecte.org/galerie/fichier.php.
 1. “iNaturalist.” iNaturalist, 2014. https://www.inaturalist.org/.
