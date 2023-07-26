@@ -17,11 +17,11 @@ jobs:
         with:
           ref: gh-pages
       
-      - name: Clean dist directory
+      - name: Clean static directory
         run: |
-          rm -rf dist/static/js*
-          git add dist/static/js/*
-          git commit -m "Clean dist directory"
+          rm -rf static/js*
+          git add static
+          git commit -m "Clean static directory"
           git push origin gh-pages
 
       - name: Checkout deployment branch
