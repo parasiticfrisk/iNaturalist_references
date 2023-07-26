@@ -3,7 +3,11 @@ title: Insects including Springtails
 icon: bug
 description: A collection of reference materials for indentifying and understanding insects.
 -->
-## Insects
+## Identifications
+
+[Identified Insects and Springtails on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&taxon_ids=47158,49470).
+
+## Sources Cited
 
 1. Abbot, Patrick, and James H. Withgott. “Phylogenetic and Molecular Evidence for Allochronic Speciation in Gall-Forming Aphids (Pemphigus).” *Evolution 58*, no. 3 (March 2004): 539–53. https://doi.org/10.1111/j.0014-3820.2004.tb01677.x.
 1. Abela, Alice. “Pallid-winged Grasshopper (*Trimerotropis Pallidipennis*).” iNaturalist, 2010-2022. https://www.inaturalist.org/observations?place_id=any&subview=table&taxon_id=51493&user_id=alice_abela&verifiable=any.

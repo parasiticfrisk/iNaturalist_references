@@ -3,7 +3,11 @@ title: Birds
 icon: crow
 description: A collection of reference materials for indentifying and understanding birds.
 -->
-## Birds
+## Identifications
+
+[Identified Birds on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Aves).
+
+## Sources Cited
 
 1. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” Cornell Lab of Ornithology. https://www.allaboutbirds.org/.
    *  Cornell Lab of Ornithology. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.

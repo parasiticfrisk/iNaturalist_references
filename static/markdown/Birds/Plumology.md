@@ -3,7 +3,11 @@ title: Bird Feathers
 icon: feather
 description: A collection of reference materials for indentifying understanding bird feathers.
 -->
-## Bird Feathers
+## Identifications
+
+[Identified Bird Feathers on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&term_id=22&term_value_id=23).
+
+## Sources Cited
 
 1. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish and Wildlife Service Forensics Laboratory, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
    *  U.S. Fish and Wildlife Service Forensics Laboratory. "Adult Acorn Woodpecker primary wing feathers - Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_primary_adult.
