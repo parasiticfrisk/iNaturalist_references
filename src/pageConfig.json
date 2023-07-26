@@ -1,5 +1,5 @@
 {
-  "appName": "GitHub Pages",
+  "appName": "iNaturalist Identification",
   "headerNavigation": [
     {
       "name": "Documentation",
@@ -8,8 +8,9 @@
   ],
   "landingPage": "/documentation",
   "tags": [
-    "news",
-    "process"
+    "biology",
+    "identification",
+    "reference"
   ],
   "pages": [
     {

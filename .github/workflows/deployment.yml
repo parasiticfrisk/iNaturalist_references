@@ -12,8 +12,22 @@ jobs:
     concurrency: ci-${{ github.ref }} 
 
     steps:
-      - name: Checkout repository
+      - name: Checkout gh-pages branch
         uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+      
+      - name: Clean dist directory
+        run: |
+          rm -rf dist/js/*
+          git add dist/js/*
+          git commit -m "Clean dist directory"
+          git push origin gh-pages
+
+      - name: Checkout deployment branch
+        uses: actions/checkout@v2
+        with:
+          ref: deployment
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
