@@ -19,8 +19,8 @@ jobs:
       
       - name: Clean dist directory
         run: |
-          rm -rf dist/js/*
-          git add dist/js/*
+          rm -rf dist/static/js*
+          git add dist/static/js/*
           git commit -m "Clean dist directory"
           git push origin gh-pages
 
