@@ -1,8 +1,7 @@
 <!--
 title: Bird Feathers
 icon: feather
-tags: birds, feathers
-description: A collection of references for indentifying bird feathers.
+description: A collection of reference materials for indentifying understanding bird feathers.
 -->
 ## Bird Feathers
 

@@ -1,8 +1,7 @@
 <!--
 title: Amphibians and Reptiles
 icon: frog
-tags: amphibians, reptiles 
-description: A collection of references for indentifying amphibians and reptiles.
+description: A collection of reference materials for indentifying and understanding amphibians and reptiles.
 -->
 ## Amphibians and Reptiles
 

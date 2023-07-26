@@ -1,8 +1,7 @@
 <!--
 title: Plants
 icon: tree
-tags: plants 
-description: A collection of references for indentifying plants.
+description: A collection of reference materials for indentifying and understanding plants.
 -->
 ## Plants
 

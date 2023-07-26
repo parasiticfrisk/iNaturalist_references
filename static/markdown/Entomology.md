@@ -1,8 +1,7 @@
 <!--
-title: Insects
+title: Insects including Springtails
 icon: bug
-tags: insects 
-description: A collection of references for indentifying insects.
+description: A collection of reference materials for indentifying and understanding insects.
 -->
 ## Insects
 
