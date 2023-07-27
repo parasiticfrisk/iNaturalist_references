@@ -118,10 +118,10 @@ function generatePageConfig() {
 
   // Initialize the page configuration object
   const pageConfig = {
-    appName: 'GitHub Pages',
+    appName: 'iNaturalist ID',
     headerNavigation,
     landingPage,
-    tags: ['news', 'process'],
+    tags: [],
     pages: [],
   };
 
