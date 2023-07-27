@@ -86,39 +86,7 @@ description: A collection of reference materials for indentifying and understand
 1. Mc Donnell, Rory J., Timothy D. Paine, and Michael J. Gormally. *Slugs: A Guide to the Invasive and Native Fauna of California*. University of California Division of Agriculture and Natural Resources Publications, 2009. [https://doi.org/10.3733/ucanr.8336](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8336).
 1. “Meet the Beneficials: Natural Enemies of Garden Pests.” Poster, University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 21, 2016. https://ipm.ucanr.edu/IPMPROJECT/ADS/poster_naturalenemies.html.
 1. “Natural History Journal: Notes from a California Naturalist.” Nystrom, Siera, September 2016. https://natural-history-journal.blogspot.com/.
-   *  Nystrom, Siera. "Acorn Woodpecker & Granary Trees." Natural History Journal (blog), November 12, 2016. https://natural-history-journal.blogspot.com/2016/11/the-acorn-woodpeckers-melanerpes.html.
-   *  ———. "American Coots & Baby... Cootlings?" Natural History Journal (blog), July 10, 2018. https://natural-history-journal.blogspot.com/2018/07/american-coots-little-baby-cootlings.html.
-   *  ———. "American Kestrel: A Pint-sized Predator." Natural History Journal (blog), October 18, 2019. https://natural-history-journal.blogspot.com/2019/10/american-kestrel-pint-sized-predator.html.
-   *  ———. "American White Pelicans: A Peek Into California's Avifaunal Past." Natural History Journal (blog), January 30, 2018. https://natural-history-journal.blogspot.com/2018/01/american-white-pelicans-peek-at.html.
-   *  ———. "Anna's Hummingbird: An Unlikely Mountaineer." Natural History Journal (blog), January 07, 2017. https://natural-history-journal.blogspot.com/2017/01/annas-hummingbird-unlikely-mountaineer.html.
-   *  ———. "Birding the Pacific Northwest Coast." Natural History Journal (blog), June 30, 2021. https://natural-history-journal.blogspot.com/2021/06/birding-pacific-northwest-coast.html.
-   *  ———. "Birds of the Desert: Black-throated Sparrow." Natural History Journal (blog), March 30, 2018. https://natural-history-journal.blogspot.com/2018/03/birds-of-desert-black-throated-sparrow.html.
-   *  ———. "Black-crowned Night Herons at CSU Stanislaus." Natural History Journal (blog), October 23, 2016. https://natural-history-journal.blogspot.com/2016/10/black-crowned-night-herons-at-csu.html.
-   *  ———. "Black-necked Stilts at Merced National Wildlife Refuge." Natural History Journal (blog), October 17, 2016. https://natural-history-journal.blogspot.com/2016/10/black-necked-stilts-at-merced-national.html.
-   *  ———. "A Brand-New Species: The California Scrub-Jay." Natural History Journal (blog), November 03, 2016. https://natural-history-journal.blogspot.com/2016/11/a-brand-new-species-california-scrub-jay.html.
-   *  ———. "Brewer's Blackbirds." Natural History Journal (blog), December 12, 2018. https://natural-history-journal.blogspot.com/2018/12/brewers-blackbirds.html.
-   *  ———. "California's Great Goose Lineup: Canada Goose." Natural History Journal (blog), October 04, 2020. https://natural-history-journal.blogspot.com/2020/09/californias-great-goose-lineup-canada.html.
-   *  ———. "California's Great Goose Lineup: Greater White-fronted Geese." Natural History Journal (blog), October 10, 2019. https://natural-history-journal.blogspot.com/2019/10/californias-great-goose-lineup-greater.html.
-   *  ———. "The California Quail: Our State Bird." Natural History Journal (blog), January 16, 2018. https://natural-history-journal.blogspot.com/2018/01/the-california-quail-our-state-bird.html.
-   *  ———. "Canyon Wren at Petroglyph Point, Lava Beds National Monument." Natural History Journal (blog), September 28, 2016. https://natural-history-journal.blogspot.com/2016/09/canyon-wren-at-petroglyph-point-lava.html.
-   *  ———. "Cedar Waxwings: A Sure Sign of Fall." Natural History Journal (blog), November 01, 2016. https://natural-history-journal.blogspot.com/2016/11/cedar-waxwings-sure-sign-of-fall.html.
-   *  ———. "Chipping Sparrow: A Surprise Backyard Visitor!" Natural History Journal (blog), March 26, 2020. https://natural-history-journal.blogspot.com/2020/03/chipping-sparrow-surprise-backyard.html.
-   *  ———. "Cliff Swallows: Aerial Acrobats & Adept Architects." Natural History Journal (blog), May 03, 2018. https://natural-history-journal.blogspot.com/2018/05/cliff-swallows-aerial-acrobats-adept.html.
-   *  ———. "Common Mergansers." Natural History Journal (blog), January 24, 2017. https://natural-history-journal.blogspot.com/2017/01/common-mergansers.html.
-   *  ———. "Dark-eyed Junco." Natural History Journal (blog), December 07, 2016. https://natural-history-journal.blogspot.com/2016/12/dark-eyed-junco.html.
-   *  ———. "Flycathers & the Ubiquitous (but cute) Black Phoebe." Natural History Journal (blog), March 08, 2018. https://natural-history-journal.blogspot.com/2018/03/flycatchers-ubiquitous-but-cute-black.html.
-   *  ———. "Grassland Gnomes: Burrowing Owls at Dusk." Natural History Journal (blog), December 06, 2020. https://natural-history-journal.blogspot.com/2020/12/grassland-gnomes-burrowing-owls-at-dusk.html.
-   *  ———. "Great Egret at CSU Stanislaus." Natural History Journal (blog), September 16, 2016. https://natural-history-journal.blogspot.com/2016/09/great-egret-at-csu-stanislaus_16.html.
-   *  ———. "Great Horned Owls." Natural History Journal (blog), February 03, 2017. https://natural-history-journal.blogspot.com/2017/02/great-horned-owls.html.
-   *  ———. "In Praise of the Ordinary: Mourning Doves." Natural History Journal (blog), April 5, 2020. https://natural-history-journal.blogspot.com/2020/04/in-praise-of-ordinary-mourning-doves.html.
-   *  ———. "The Mountains are Calling: North Cascades." Natural History Journal (blog), August 31, 2021. https://natural-history-journal.blogspot.com/2021/08/the-mountains-are-calling-north-cascades.html.
-   *  ———. "The Neighborhood's Elusive Cooper's Hawk." Natural History Journal (blog), October 04, 2016. https://natural-history-journal.blogspot.com/2016/10/the-neighborhoods-elusive-coopers-hawk.html.
-   *  ———. "Nesting Killdeer." Natural History Journal (blog), March 19, 2019. https://natural-history-journal.blogspot.com/2019/03/nesting-killdeer.html.
-   *  ———. "October at San Joaquin River National Wildlife Refuge." Natural History Journal (blog), October 10, 2020. https://natural-history-journal.blogspot.com/2020/10/october-at-san-joaquin-river-national.html.
-   *  ———. "A Special Guest Appearance at CSU Stanislaus: Cackling Geese!" Natural History Journal (blog), January 10, 2017. https://natural-history-journal.blogspot.com/2017/01/a-special-guest-appearance-at-csu.html.
-   *  ———. "Unique Beauty: A Leucistic Black Phoebe." Natural History Journal (blog), November 30, 2019. https://natural-history-journal.blogspot.com/2019/11/unique-beauty-leucistic-black-phoebe.html.
-   *  ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
-   *  ———. "Urban Wildlife: The Gray Fox." Natural History Journal (blog), September 27, 2020. https://natural-history-journal.blogspot.com/2020/09/urban-wildlife-gray-fox.html.
+   *  Nystrom, Siera. "Urban Wildlife: The Gray Fox." Natural History Journal (blog), September 27, 2020. https://natural-history-journal.blogspot.com/2020/09/urban-wildlife-gray-fox.html.
 1. Overall, Andy. “*Tremella Aurantia* & *T. Mesenterica*, Two British ‘Yellow Brain Fungi’ Compared.” *Field Mycology 18*, no. 3 (July 1, 2017): 82–84. https://doi.org/10.1016/j.fldmyc.2017.07.005.
 1. Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
 1. Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.

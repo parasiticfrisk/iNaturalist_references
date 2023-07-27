@@ -3,7 +3,11 @@ title: Insects including Springtails
 icon: bug
 description: A collection of reference materials for indentifying and understanding insects.
 -->
-## Insects
+## Identifications
+
+[Identified Insects and Springtails on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&taxon_ids=47158,49470).
+
+## Sources Cited
 
 1. Abbot, Patrick, and James H. Withgott. “Phylogenetic and Molecular Evidence for Allochronic Speciation in Gall-Forming Aphids (Pemphigus).” *Evolution 58*, no. 3 (March 2004): 539–53. https://doi.org/10.1111/j.0014-3820.2004.tb01677.x.
 1. Abela, Alice. “Pallid-winged Grasshopper (*Trimerotropis Pallidipennis*).” iNaturalist, 2010-2022. https://www.inaturalist.org/observations?place_id=any&subview=table&taxon_id=51493&user_id=alice_abela&verifiable=any.
@@ -33,13 +37,30 @@ description: A collection of reference materials for indentifying and understand
 1. Grafton-Cardwell, Beth. *Stages of the Cottony Cushion Scale (Icerya purchasi) and Its Natural Enemy, the Vedalia Beetle (Rodolia cardinalis)*. University of California Division of Agriculture and Natural Resources Publications, 2002. [https://doi.org/10.3733/ucanr.8051](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8051).
 1. Gray, David, David E. Weissman, Jeffrey A. Cole, and Emily Moriarty Lemmon. “Multilocus Phylogeny of Gryllus Field Crickets (Orthoptera: Gryllidae: Gryllinae) Utilizing Anchored Hybrid Enrichment.” Zootaxa 4750, no. 3 (March 12, 2020): 328–48. [https://doi.org/10.11646/zootaxa.4750.3.2](https://orthsoc.org/sina/s464dgll2020.pdf).
 1. Greenberg, L., and J. N. Kabashima. “Red Imported Fire Ant: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7487.html.
-1. Gross, Joyce. “*Andricus brunneus* (Clustered Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+brunneus&ordr=.
-1. ———. “*Andricus confertus* (Convoluted Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+confertus&ordr=.
-1. ———. “*Andricus gigas* (Saucer Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+gigas&ordr=.
-1. ———. “*Andricus parmula* (Disc Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+parmula&ordr=.
-1. ———. “*Disholcaspis eldoradensis* (Honey Dew Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Disholcaspis+eldoradensis&ordr=.
-1. ———. “*Disholcaspis mamillana* (Bullet Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Disholcaspis+mamillana&ordr=.
-1. ———. “*Neuroterus saltatorius* (Jumping Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=neuroterus+saltatorius&ordr=.
+1. “Joyce Gross Photography.” Joyce Gross. https://joycegross.com/.
+   * Gross, Joyce. "*Andricus atrimentus* (Striped Volcano Gall Wasp)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+atrimentus&ordr=.
+   * ———. "*Andricus bakkeri*." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+bakkeri&ordr=.
+   * ———. “*Andricus brunneus* (Clustered Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+brunneus&ordr=.
+   * ———. “*Andricus chrysobalani* (Acorn Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+chrysobalani&ordr=.
+   * ———. “*Andricus chrysolepidicola* (Irregular Spindle Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+chrysolepidicola&ordr=.
+   * ———. “*Andricus confertus* (Convoluted Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+confertus&ordr=.
+   * ———. “*Andricus crystallinus* (Crystalline Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+crystallinus&ordr=.
+   * ———. “*Andricus gigas* (Saucer Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+gigas&ordr=.
+   * ———. “*Andricus kingi* (Red Cone Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+kingi&ordr=.
+   * ———. “*Andricus opertus* (Fimbriate Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+opertus&ordr=.
+   * ———. “*Andricus parmula* (Disc Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+parmula&ordr=.
+   * ———. “*Andricus pattersonae* (Plate Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+pattersonae&ordr=.
+   * ———. “*Andricus quercuscalifornicus* (California Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+quercuscalifornicus&ordr=.
+   * ———. “*Andricus quercuslanigera*.” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+quercuslanigera&ordr=.
+   * ———. “*Andricus wiltzae* (Rossette Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+wiltzae&ordr=.
+   * ———. “*Antron douglasii* (Spined Turban Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Antron+douglasii&ordr=.
+   * ———. “*Antron quercusechinus* (Urchin Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Antron+quercusechinus&ordr=.
+   * ———. “*Besbicus conspicuus* (Fuzzy Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Besbicus+conspicuus&ordr=.
+   * ———. “*Besbicus heldae* (Thorn Fuzzy Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Besbicus+heldae&ordr=.
+   * ———. “*Burnettweldia corallina* (Coral Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Burnettweldia+corallina&ordr=.
+   * ———. “*Disholcaspis eldoradensis* (Honey Dew Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Disholcaspis+eldoradensis&ordr=.
+   * ———. “*Disholcaspis mamillana* (Bullet Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=Disholcaspis+mamillana&ordr=.
+   * ———. “*Neuroterus saltatorius* (Jumping Gall Wasp).” Joyce Gross Photography. https://joycegross.com/images.php?taxon=neuroterus+saltatorius&ordr=.
 1. Gyawaly, Sudan, Albrecht M. Koppenhöfer, Shaohui. L. Wu, and Thomas P. Kuhar. “Biology, Ecology, and Management of Masked Chafer (Coleoptera: Scarabaeidae) Grubs in Turfgrass.” *Journal of Integrated Pest Management 7*, no. 1 (January, 2016): 1–11. https://doi.org/10.1093/jipm/pmw002.
 1. Hawley, Clifford. "Honeydew Gall Wasp (*Discholcaspis eldoradensis*)." iNaturalist, November 21, 2019. https://www.inaturalist.org/observations/35995599.
 1. Henry, Charles S., Marta M. Wells, and Raymond J. Pupedis. “Hidden Taxonomic Diversity within *Chrysoperla plorabunda* (Neuroptera: Chrysopidae): Two New Species Based on Courtship Songs.” *Annals of the Entomological Society of America 86*, no. 1 (January 1, 1993): 1–13. [https://doi.org/10.1093/aesa/86.1.1](https://lacewing.tamu.edu/neuropterida/neur_bibliography/edoc12/henry1993ref7638s-4994.pdf).
@@ -52,6 +73,7 @@ description: A collection of reference materials for indentifying and understand
 1. LeBuhn, Gretchen, and Noel B. Pugh. *Field Guide to the Common Bees of California: Including Bees of the Western United States*. University of California Press, 2013.
 1. Lewis, V. R., Andrew M. Sutherland, and M. I. Haverty. “Subterranean and Other Termites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7415.html.
 1. Lewis, V. R., and S. J. Seybold. “Wood-Boring Beetles in Homes: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7418.html.
+1. Melika, George, and Warren G. Abrahamson. “Review of the World Genera of Oak Cynipid Wasps (Hymenoptera: Cynipidae, Cynipini).” *Parasitic Wasps: Evolution, Systematics, Biodiversity and Biological Control*, January 2002, 150–90. https://www.researchgate.net/publication/254570300_Review_of_the_world_genera_of_oak_cynipid_wasps_Hymenoptera_Cynipidae_Cynipini.
 1. Mississippi State University. “North American Moth Photographers Group: Digital Guide to Moth Identification,” 2022. https://mothphotographersgroup.msstate.edu/.
 1. Monti, Maurilia. M., Michelina Ruocco, Elizabeth Grobbelaar, and Poalo A. Pedata. “Morphological and Molecular Characterization of *Lema bilineata* (Germar), a New Alien Invasive Leaf Beetle for Europe, with Notes on the Related Species *Lema daturaphila* Kogan & Goeden.” *Insects 11*, no. 5 (May 11, 2020): 295. https://doi.org/10.3390/insects11050295.
 1. Mueller, Shannon C., Charles G. Summers, and Peter B. Goodell. *A Field Key to Lygus Species of the Central San Joaquin Valley*. University of California Division of Agriculture and Natural Resources Publications, 2003. [https://doi.org/10.3733/ucanr.8104](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8104).
@@ -79,9 +101,11 @@ description: A collection of reference materials for indentifying and understand
    *  ———. “Snowy Tree Cricket *Oecanthus fultoni* (T. Walker 1962).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/585a.htm.
    *  ———. “West Coast Spring Field Cricket *Gryllus veletisoides* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/737a.htm.
    *  ———. “Western Rock-loving Field Cricket *Gryllus saxatilis* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/731a.htm.
-1. Ward, Anna K.G., Robert W. Busbee, Chen, and Charles K. Davis. “The Arthropod Associates of 155 North American Cynipid Oak Galls.” *Zoological Studies 5084*, no. 1 (December 23, 2021): 61–67. [https://doi.org/10.11646/zootaxa.5084.1](https://www.researchgate.net/publication/365703861_The_Arthropod_Associates_of_155_North_American_Cynipid_Oak_Galls).
+1. Ward, Anna K. G., Robert W. Busbee, Chen, and Charles K. Davis. “The Arthropod Associates of 155 North American Cynipid Oak Galls.” *Zoological Studies 5084*, no. 1 (December 23, 2021): 61–67. [https://doi.org/10.11646/zootaxa.5084.1](https://www.researchgate.net/publication/365703861_The_Arthropod_Associates_of_155_North_American_Cynipid_Oak_Galls).
+1. Ward, Anna K. G., Robin K. Bagley, Scott P. Egan, Glen R. Hood, James R. Ott, Kirsten M. Prior, Sofia I Sheikh, et al. “Speciation in Nearctic Oak Gall Wasps Is Frequently Correlated with Changes in Host Plant, Host Organ, or Both.” *Evolution 76*, no. 8 (July 18, 2022): 1849–67. https://doi.org/10.1111/evo.14562.
 1. Weissman, David E., and David Gray. “Crickets of the Genus Gryllus in the United States (Orthoptera: Gryllidae: Gryllinae).” *Zootaxa 4705*, no. 1 (December 5, 2019). https://doi.org/10.11646/zootaxa.4705.1.1.
 1. Weld, Lewis H. *Cynipid Galls of the Southwest (Hymenoptera, Cynipoidea) an Aid to Their Identification*., 1960. https://hdl.handle.net/2027/coo.31924018354765.
 1. ———. *Cynipid Galls of the Pacific Slope (Hymenoptera, Cynipoidea) an Aid to Their Identification*., 1957. https://hdl.handle.net/2027/coo.31924018313555.
 1. Will, Kip, Joyce Gross, Daniel Rubinoff, and Jerry Powell. *Field Guide to California Insects*, Second Edition. University of California Press, 2020.
 1. Zalom, F. G., R. A. Van Steenwyk, H. J. Burrack, and M. W. Johnson. “Olive Fruit Fly: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, February 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74112.html.
+1. Zhang, Y. Miles, Kimberlie Sasan, Robert J. O’kennon, and Adam J. Kranz. “Discovery through INaturalist: New Species and New Records of Oak Gall Wasps (Hymenoptera: Cynipidae: Cynipini) from Texas, USA.” *Zootaxa 5168*, no. 1 (July 20, 2022): 63–74. [https://doi.org/10.11646/zootaxa.5168.1.5](https://www.researchgate.net/publication/362124221_Discovery_through_iNaturalist_new_species_and_new_records_of_oak_gall_wasps_Hymenoptera_Cynipidae_Cynipini_from_Texas_USA).
