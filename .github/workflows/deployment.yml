@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - deployment
+      - main
 permissions:
   contents: write
 jobs:
@@ -29,10 +29,10 @@ jobs:
           git commit -m "Clean static directory"
           git push origin gh-pages
 
-      - name: Checkout deployment branch
+      - name: Checkout main branch
         uses: actions/checkout@v2
         with:
-          ref: deployment
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v2
