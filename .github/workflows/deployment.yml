@@ -43,6 +43,7 @@ jobs:
 
       - name: Install and Build
         run: |
+          cd gh_pages
           npm ci
           npm run build
       
