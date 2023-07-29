@@ -129,8 +129,8 @@ p,
 
 ol,
 .ordered-list {
-  padding: 1em;
-  margin: 0 0.5em;
+  padding: 0 2.275em;
+  margin: auto;
 }
 
 ul,
@@ -158,7 +158,7 @@ blockquote::before {
 }
 
 a {
-  color: $color-core-green;
+  color: $color-core-blue;
   text-decoration: none;
 }
 
@@ -171,7 +171,12 @@ a:focus,
   z-index: 1000;
   outline-width: 1px;
   outline-style: dashed;
-  outline-color: $color-core-green;
+  outline-color: $color-core-blue;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: $color-extended-blue-8;
 }
 
 .results__search {

@@ -33,6 +33,11 @@ div.TreeNavigation {
   margin: 0 0.25rem;
 }
 
+.NavigationItem a:hover {
+  text-decoration: underline;
+  color: $color-extended-blue-8;
+}
+
 .TreeNavigation>.NavigationLevel>ul>li {
   padding: 0;
 }
