@@ -12,22 +12,22 @@ jobs:
     concurrency: ci-${{ github.ref }} 
 
     steps:
-      # - name: Checkout gh-pages branch
-      #   uses: actions/checkout@v2
-      #   with:
-      #     ref: gh-pages
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
       
-      # - name: Clean static directory
-      #   run: |
-      #     # Configure the user and email for the commit
-      #     git config user.name "github-actions[bot]"
-      #     git config user.email "github-actions@users.noreply.github.com"
+      - name: Clean static directory
+        run: |
+          # Configure the user and email for the commit
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@users.noreply.github.com"
           
-      #     # Delete the old static JavaScript files
-      #     rm -rf static/js*
-      #     git add static
-      #     git commit -m "Clean static directory"
-      #     git push origin gh-pages
+          # Delete the old static JavaScript files
+          rm -rf static/js*
+          git add static
+          git commit -m "Clean static directory"
+          git push origin gh-pages
 
       - name: Checkout deployment branch
         uses: actions/checkout@v2
