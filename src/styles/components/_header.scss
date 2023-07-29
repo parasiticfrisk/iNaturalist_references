@@ -8,7 +8,7 @@ $nav-width: 200px;
   max-height: 55px;
   padding: 0 0.5rem;
   color: $color-core-white;
-  background: $color-core-blue;
+  background: $color-extended-green-3;
 }
 
 .header__hamburger {
@@ -47,7 +47,7 @@ $nav-width: 200px;
   flex-direction: column;
   width: $nav-width;
   height: 100vh;
-  background-color: $color-core-blue;
+  background-color: $color-extended-green-3;
   border-right: 1px solid $color-core-white;
   transition: left 0.45s;
   transition-timing-function: ease-in-out;

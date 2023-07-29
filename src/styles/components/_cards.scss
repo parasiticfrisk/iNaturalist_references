@@ -21,7 +21,7 @@
   border-radius: 10px;
 }
 
-.card > a {
+.card>a {
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -37,7 +37,7 @@
 }
 
 .card:hover {
-  border-color: $color-core-blue;
+  border-color: $color-extended-green-3;
 }
 
 .card__icon {

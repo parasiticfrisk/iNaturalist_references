@@ -154,11 +154,11 @@ blockquote::before {
   left: -40px;
   height: 100%;
   content: '';
-  border-left: 5px solid $color-core-blue;
+  border-left: 5px solid $color-extended-green-3;
 }
 
 a {
-  color: $color-core-blue;
+  color: $color-extended-green-3;
   text-decoration: none;
 }
 
@@ -171,7 +171,7 @@ a:focus,
   z-index: 1000;
   outline-width: 1px;
   outline-style: dashed;
-  outline-color: $color-core-blue;
+  outline-color: $color-extended-green-3;
 }
 
 .results__search {
@@ -192,7 +192,7 @@ a:focus,
 .results__search h2 {
   margin: 0;
   font-size: 1.4rem;
-  color: $color-core-blue;
+  color: $color-extended-green-3;
 }
 
 .results__search p {
