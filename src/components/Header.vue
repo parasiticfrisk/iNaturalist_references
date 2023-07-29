@@ -6,7 +6,7 @@
         <path
           d="M424 394H89a8 8 0 0 1 0-16h335a8 8 0 0 1 0 16zM424 265H89a8 8 0 0 1 0-16h335a8 8 0 0 1 0 16zM424 135H89a8 8 0 0 1 0-16h335a8 8 0 0 1 0 16z" />
       </svg>
-      <span class="header__name">{{ name }} <b>References</b></span>
+      <span class="header__name">{{ name }} <b>Documentation</b></span>
     </div>
     <div class="nav__search">
       <input class="nav__search-input" placeholder="Type to search..." v-model="searchKeywords" @keyup="search" />
