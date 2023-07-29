@@ -86,10 +86,11 @@ description: A collection of reference materials for indentifying and understand
 1. Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1. “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
    *  Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
-   *  Hayes, Garry. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
+   *  ———. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
    *  ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
    *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
-   *  ———. "Great Blue Heron (*Ardea herodias*)." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Great%20Blue%20Heron%20%28Ardea%20herodias%29.
+   *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
+   *  ———. "*Fulica americana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Fulica%20Americana.
    *  ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
    *  ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
 1. Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
