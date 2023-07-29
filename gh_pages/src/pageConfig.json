@@ -1,0 +1,149 @@
+{
+  "appName": "iNaturalist ID",
+  "headerNavigation": [
+    {
+      "name": "Documentation",
+      "path": "/documentation"
+    }
+  ],
+  "landingPage": "/documentation",
+  "tags": [
+    "biology",
+    "identification",
+    "reference"
+  ],
+  "pages": [
+    {
+      "route": "/documentation",
+      "name": "Documentation",
+      "description": "This is the documentation",
+      "icon": "address-book",
+      "children": [
+        {
+          "route": "/arachnology",
+          "name": "Arachnids",
+          "description": "A collection of references for indentifying arachnids.",
+          "icon": [
+            "fas",
+            "spider"
+          ],
+          "tags": [
+            "arachnids"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Arachnology.md"
+        },
+        {
+          "route": "/Birds",
+          "name": "Birds",
+          "description": "",
+          "icon": [
+            "far",
+            "folder"
+          ],
+          "children": [
+            {
+              "route": "/ornithology",
+              "name": "Birds",
+              "description": "A collection of references for indentifying birds.",
+              "icon": [
+                "fas",
+                "crow"
+              ],
+              "tags": [
+                "birds"
+              ],
+              "owner": "",
+              "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Birds\\Ornithology.md"
+            },
+            {
+              "route": "/plumology",
+              "name": "Bird Feathers",
+              "description": "A collection of references for indentifying bird feathers.",
+              "icon": [
+                "fas",
+                "feather"
+              ],
+              "tags": [
+                "birds",
+                "feathers"
+              ],
+              "owner": "",
+              "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Birds\\Plumology.md"
+            }
+          ],
+          "tags": []
+        },
+        {
+          "route": "/botany",
+          "name": "Plants",
+          "description": "A collection of references for indentifying plants.",
+          "icon": [
+            "fas",
+            "tree"
+          ],
+          "tags": [
+            "plants"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Botany.md"
+        },
+        {
+          "route": "/entomology",
+          "name": "Insects",
+          "description": "A collection of references for indentifying insects.",
+          "icon": [
+            "fas",
+            "bug"
+          ],
+          "tags": [
+            "insects"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Entomology.md"
+        },
+        {
+          "route": "/herpetology",
+          "name": "Amphibians and Reptiles",
+          "description": "A collection of references for indentifying amphibians and reptiles.",
+          "icon": [
+            "fas",
+            "frog"
+          ],
+          "tags": [
+            "amphibians",
+            "reptiles"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Herpetology.md"
+        },
+        {
+          "route": "/other",
+          "name": "Other",
+          "description": "A collection of references for indentifying bacteria, fungi, gastropods, mammals, nematodes, protozoa, viruses and others.",
+          "icon": [
+            "fas",
+            "earth-americas"
+          ],
+          "tags": [
+            "biology",
+            "bacteria",
+            "ecology",
+            "ethology",
+            "fungi",
+            "gastropods",
+            "mammals",
+            "microbiology",
+            "mollusks",
+            "nematodes",
+            "protozoa",
+            "viruses"
+          ],
+          "owner": "",
+          "markdown": "D:\\Documents\\GitHub\\iNaturalist_references\\static\\markdown\\Other.md"
+        }
+      ],
+      "tags": []
+    }
+  ]
+}

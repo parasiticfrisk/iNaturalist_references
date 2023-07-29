@@ -1,0 +1,54 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - deployment
+permissions:
+  contents: write
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    concurrency: ci-${{ github.ref }} 
+
+    steps:
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+      
+      - name: Clean static directory
+        run: |
+          # Configure the user and email for the commit
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@users.noreply.github.com"
+          
+          # Delete the old static JavaScript files
+          rm -rf static/js*
+          git add static
+          git commit -m "Clean static directory"
+          git push origin gh-pages
+
+      - name: Checkout deployment branch
+        uses: actions/checkout@v2
+        with:
+          ref: deployment
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 12
+          cache: 'npm'
+          cache-dependency-path: ./gh_pages/package-lock.json
+
+      - name: Install and Build
+        run: |
+          cd gh_pages
+          npm ci
+          npm run build
+      
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          branch: gh-pages
+          folder: ./gh_pages/dist
