@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+       - './gh_pages/**'
 permissions:
   contents: write
 jobs:
