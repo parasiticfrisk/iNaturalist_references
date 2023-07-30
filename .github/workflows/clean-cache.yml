@@ -5,8 +5,7 @@ on:
     types:
         - completed
   workflow_dispatch:
-permissions:
-  contents: write
+permissions: write-all
 jobs:
   cleanup:
     runs-on: ubuntu-latest
