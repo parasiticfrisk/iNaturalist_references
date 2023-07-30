@@ -4,7 +4,9 @@ on:
     workflows: ["Build and Deploy to GitHub Pages"]
     types:
         - completed
-
+  workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   cleanup:
     runs-on: ubuntu-latest
