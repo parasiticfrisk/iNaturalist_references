@@ -5,9 +5,22 @@ on:
     branches:
       - main
     paths:
-       - './gh_pages/**'
+       - 'gh_pages'
+  
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to deploy to'
+        required: true
+        default: 'gh-pages'
+      folder:
+        description: 'Folder to deploy'
+        required: true
+        default: 'gh_pages/dist'
+
 permissions:
   contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
