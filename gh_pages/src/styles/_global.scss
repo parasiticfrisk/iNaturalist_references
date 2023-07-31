@@ -27,6 +27,7 @@ main {
   padding: 0;
   margin: 1px auto;
   overflow-y: scroll;
+  overflow-x: hidden;
 }
 
 .main__nav {
@@ -176,7 +177,7 @@ a:focus,
 
 a:hover {
   text-decoration: underline;
-  color: $color-extended-blue-8;
+  color: $color-core-green;
 }
 
 .results__search {

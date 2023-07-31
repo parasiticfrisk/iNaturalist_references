@@ -70,7 +70,7 @@ ul.breadcrumb li a {
 }
 
 ul.breadcrumb li a:hover {
-  color: #001934;
+  color: #74ac00;
   text-decoration: underline;
 }
 </style>
