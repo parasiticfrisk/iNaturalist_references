@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-       - 'gh_pages'
   
   workflow_dispatch:
     inputs:
