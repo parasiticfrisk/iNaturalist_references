@@ -31,7 +31,6 @@ description: A collection of reference materials for indentifying and understand
    *  ———. "The Fantastic Fur of Sea Otters." Deep Look, January 6, 2015. https://www.kqed.org/science/25908/the-fantastic-fur-of-sea-otters.
    *  ———. "Banana Slugs: Secret of the Slime." Deep Look, February 17, 2015. https://www.kqed.org/science/27260/banana-slugs-secret-of-the-slime.
    *  ———. "You're Not Hallucinating. That's Just Squid Skin." Deep Look, September 8, 2015. https://www.kqed.org/science/233664/youre-not-hallucinating-thats-just-squid-skin.
-   *  ———. "What Makes Owls So Quiet and So Deadly?." Deep Look, October 27, 2015. https://www.kqed.org/science/321383/see-what-makes-owls-so-quiet-and-so-deadly.
    *  ———. "The Sex Lives of Christmas Trees." Deep Look, November 24, 2015. https://www.kqed.org/science/366760/the-sex-lives-of-christmas-trees.
    *  ———. "Stinging Scorpion vs. Pain-Defying Mouse." Deep Look, March 8, 2016. https://www.kqed.org/science/518349/stinging-scorpion-vs-pain-defying-mouse.
    *  Cassidy, Josh, and Grace Singer. "How Do Sharks and Rays Use Electricity to Find Hidden Prey?." Deep Look, August 11, 2015. https://www.kqed.org/science/106591/sharks-and-rays-sense-electricity-fish-cant-hide.
@@ -67,7 +66,6 @@ description: A collection of reference materials for indentifying and understand
    *  ———. "You're Not Hallucinating. That's Just Squid Skin. | Deep Look." Video, YouTube, September 8, 2015. https://youtu.be/0wtLrlIKvJE.
    *  ———. "Why Jellyfish Float Like a Butterfly—And Sting Like a Bee | Deep Look." Video, YouTube, September 29, 2015. https://youtu.be/xQNxXUtRjzg.
    *  ———. "Watch Flesh-Eating Beetles Strip Bodies to the Bone | Deep Look." Video, YouTube, October 13, 2015. https://youtu.be/Np0hJGKrIWg.
-   *  ———. "What Makes Owls So Quiet and So Deadly? | Deep Look." Video, YouTube, October 27, 2015. https://youtu.be/a68fIQzaDBY.
    *  ———. "Nature's Scuba Divers: How Beetles Breathe Underwater | Deep Look." Video, YouTube, November 10, 2015. https://youtu.be/T-RtG5Z-9jQ.
    *  ———. "The Sex Lives of Christmas Trees | Deep Look." Video, YouTube, November 24, 2015. https://youtu.be/xEji9I4Tcjo.
    *  ———. "These Crazy Cute Baby Turtles Want Their Lake Back | Deep Look." Video, YouTube, January 26, 2016. https://youtu.be/YTYFdpNpkMY.
