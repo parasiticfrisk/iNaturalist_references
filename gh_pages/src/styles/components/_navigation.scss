@@ -38,6 +38,12 @@ div.TreeNavigation {
   color: $color-core-green;
 }
 
+.TreeNavigation li {
+  padding-bottom: 0.5rem;
+  border-bottom: none;
+  margin-bottom: auto;
+}
+
 .TreeNavigation>.NavigationLevel>ul>li {
   padding: 0;
 }

@@ -143,6 +143,18 @@ li {
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.8rem;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+
+ul li {
+  padding-top: 10px;
+  margin-top: 5px;
+}
+
+ul li:last-child {
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 blockquote {
