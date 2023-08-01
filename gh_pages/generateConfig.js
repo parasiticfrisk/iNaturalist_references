@@ -17,9 +17,9 @@ const headerNavigation = [
 const landingPage = '/documentation';
 
 // Define the function to generate the page configuration
-function generatePageConfig() {
+function generatePageConfig () {
   // Define a function to extract the header data from a markdown file
-  function extractHeader(filePath) {
+  function extractHeader (filePath) {
     const header = {
       title: '',
       tags: [],
@@ -52,7 +52,7 @@ function generatePageConfig() {
     return header;
   }
   // Define a recursive function to generate the page configuration
-  function traverseDirectory(dirPath, parentPage, parentRoute) {
+  function traverseDirectory (dirPath, parentPage, parentRoute) {
     const files = fs.readdirSync(dirPath);
 
     files.forEach((fileName) => {

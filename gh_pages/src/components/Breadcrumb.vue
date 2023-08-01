@@ -14,20 +14,20 @@ import ConfigManager from '../services/configManager'
 
 export default {
   name: 'Breadcrumb',
-  data() {
+  data () {
     return {
       breadcrumbList: []
     }
   },
-  mounted() { this.updateList() },
-  watch: { '$route'() { this.updateList() } },
+  mounted () { this.updateList() },
+  watch: { '$route' () { this.updateList() } },
   methods: {
-    routeTo(targetPath) {
+    routeTo (targetPath) {
       // console.log('shall route to ', targetPath)
       this.$router.push(targetPath)
       // if (this.breadcrumbList[pRouteTo].link) this.$router.push(this.breadcrumbList[pRouteTo].link)
     },
-    updateList() {
+    updateList () {
       let currentPath = this.$router.currentRoute.path
       this.pageConfig = ConfigManager.getMetaById(currentPath)
 

@@ -26,7 +26,7 @@ import ConfigManager from '../services/configManager'
 
 export default {
   name: 'header-component',
-  data() {
+  data () {
     return {
       isVisible: false,
       isDesktop: false,
@@ -38,7 +38,7 @@ export default {
       searchResults: []
     }
   },
-  created() {
+  created () {
     ConfigManager.getStatus()
       .then((data) => {
         if (data !== undefined) this.content = data
@@ -53,20 +53,20 @@ export default {
     window.addEventListener('resize', this.handleResize)
   },
   methods: {
-    handleResize(event) {
+    handleResize (event) {
       if (event.currentTarget.innerWidth >= 780) {
         this.isDesktop = true
       } else {
         this.isDesktop = false
       }
     },
-    openNavigation() {
+    openNavigation () {
       this.$emit('toggleMenu')
     },
-    closeNavigation(event) {
+    closeNavigation (event) {
       this.$emit('toggleMenu')
     },
-    async search($event) {
+    async search ($event) {
       if (!this.content.length) {
         try {
           this.content = await ConfigManager.getStatus()
@@ -117,12 +117,12 @@ export default {
     //   await this.search()
     //   this.$emit('searchTopic', tag)
     // },
-    searchTopic(tag) {
+    searchTopic (tag) {
       let filter = `tag:${tag}`
       let query = Object.assign({}, this.$route.query, { search: filter })
       this.$router.push({ query })
     },
-    reset() {
+    reset () {
       this.searchResultsVisible = false
       this.searchKeywords = ''
       this.searchResults = []

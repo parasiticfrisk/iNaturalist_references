@@ -10,7 +10,7 @@
 
 export default {
   name: 'tools-and-resources',
-  data() {
+  data () {
     return {
     }
   }

@@ -89,7 +89,7 @@ export default {
     VueMarkdown,
     Breadcrumb
   },
-  data() {
+  data () {
     return {
       markdown: '',
       lastModified: '',
@@ -105,7 +105,7 @@ export default {
       tags: null
     }
   },
-  mounted() {
+  mounted () {
     this.initialize(this.$router.currentRoute.path)
     setTimeout(() => {
       this.scrollTo(this.$route.hash)
@@ -129,7 +129,7 @@ export default {
     }, 150)
   },
   watch: {
-    '$route'(to, from) {
+    '$route' (to, from) {
       if (to.path !== from.path) {
         this.pageConfig = to.meta
         this.initialize()
@@ -149,15 +149,15 @@ export default {
     }
   },
   methods: {
-    searchTopic(tag) {
+    searchTopic (tag) {
       let filter = `tag:${tag}`
       let query = Object.assign({}, this.$route.query, { search: filter })
       this.$router.push({ query })
     },
-    onLoadIFrame(event) {
+    onLoadIFrame (event) {
       console.log('onload iframe', event)
     },
-    getLikes() {
+    getLikes () {
       let route = this.$router.currentRoute.path
       axios.post(`https://merlin-playbook-api-dev.mybluemix.net/likes`, {
         route
@@ -165,7 +165,7 @@ export default {
         this.likes = response.data.likes
       })
     },
-    getDislikes() {
+    getDislikes () {
       let route = this.$router.currentRoute.path
       axios.post(`https://merlin-playbook-api-dev.mybluemix.net/dislikes`, {
         route
@@ -176,7 +176,7 @@ export default {
     /**
      * initialize - called whenever the DefaultPageRenderer needs to re-initialize to render a specific page
      */
-    initialize(path) {
+    initialize (path) {
       this.tags = null
       if (!this.pageConfig.name) {
         let currentPath = this.$router.currentRoute.path
@@ -210,17 +210,17 @@ export default {
         })
       }
     },
-    routeTo(pRouteTo) {
+    routeTo (pRouteTo) {
       console.log('expects me to route to ', pRouteTo)
     },
-    handleScroll(event) {
+    handleScroll (event) {
       if (event.target.scrollTop >= 155) {
         this.isActive = true
       } else {
         this.isActive = false
       }
     },
-    scrollTo(hash) {
+    scrollTo (hash) {
       if (hash) {
         let target = document.querySelector(`.content ${hash.toLowerCase()}`)
         if (target) {
@@ -232,7 +232,7 @@ export default {
         this.initialScroll = true
       }
     },
-    formatTimestamp(timestamp) {
+    formatTimestamp (timestamp) {
       const date = new Date(timestamp)
       const formattedDate = new Intl.DateTimeFormat(undefined, {
         year: 'numeric',
@@ -249,7 +249,8 @@ export default {
 }
 </script>
 
-<style scoped>.tags {
+<style scoped>
+.tags {
   margin-left: 1rem;
 }
 
@@ -271,4 +272,5 @@ export default {
 
 .tag:hover {
   background-color: #424242;
-}</style>
+}
+</style>
