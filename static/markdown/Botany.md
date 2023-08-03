@@ -14,6 +14,7 @@ description: A collection of reference materials for indentifying and understand
 1. California Native Plant Society. “California Native Plant Society,” 1965. https://www.cnps.org/.
 1. California State University, Stanislaus. “Campus Tree Story Map,” 2017. https://www.csustan.edu/campus-tree-story-map.
    *  ———. "Canyon Live Oak (*Quercus chrysolepis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/canyon-live-oak-quercus-chrysolepis.
+   *  ———. "Pygmy Palm (*Phoenix roebelenii*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/pygmy-palm-phoenix-roebelenii.
    *  ———. "Valley Oak (*Quercus lobata*)." California State University, Stanislaus, February 26, 2018. https://www.csustan.edu/campus-tree-story-map/valley-oak-quercus-lobate.
 1. Gallformers Contributors. “Gallformers.” Gallformers.org, n.d. https://gallformers.org/.
 1. Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational Evidence of Herbivore‐specific Associational Effects between Neighboring Conspecifics in Natural, Dimorphic Populations of Datura Wrightii.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454.
@@ -34,5 +35,6 @@ description: A collection of reference materials for indentifying and understand
 1. Stuart, John D., John O. Sawyer, and Andrea J. Pickart. *Trees and Shrubs of California*. University of California Press, 2001.
 1. Turner, Mark, and Ellen Kuhlmann. *Trees and Shrubs of the Pacific Northwest*. Timber Press, 2014.
 1. Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly, 1995. https://selectree.calpoly.edu/.
+   * ———. "*Phoenix roebelenii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/phoenix-roebelenii.
    *  ———. "*Quercus chrysolepis* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1232.
    *  ———. “*Quercus lobata* Tree Record.” Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1246.
