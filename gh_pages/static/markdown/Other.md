@@ -8,7 +8,6 @@ description: A collection of reference materials for indentifying and understand
 1. Avizienis, Audra, Karen Lawrence, and Sophie Cornish-Keefe. *Fruit and Vegetable Bible*. Moseley Road, Inc, 2019.
 1. Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
 1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
-   *  BugGuide Contributors. "*Boisea rubrolineata*, egg". BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=15578&description=Egg.
 1. California State University, Stanislaus. "The Wayne & Donna Pierce Trans-California Pathway." California State University, Stanislaus, April 21, 2023. https://www.csustan.edu/biology/wayne-donna-pierce-trans-california-pathway.
 1. Cannizzaro, Andrew G., Ashley D. Walters, and David D. Berg. “A New Species of Freshwater *Gammarus Fabricius*, 1775 (Amphipoda: Gammaridae) from a Desert Spring in Texas, with a Key to the Species of the Genus *Gammarus* from North America.” *Journal of Crustacean Biology 37*, no. 6 (November 6, 2017): 709–22. https://doi.org/10.1093/jcbiol/rux088.
 1. Carroll, Sean B. *Into the Jungle: Great Adventures in the Search for Evolution*. Pearson, 2009.

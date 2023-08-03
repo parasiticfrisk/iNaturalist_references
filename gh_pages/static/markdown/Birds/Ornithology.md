@@ -83,14 +83,17 @@ description: A collection of reference materials for indentifying and understand
 1. Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
 1. eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
 1. Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
+1. Freitag, Nicholas. "Final Day of My House Finch Nest." NestWatch. https://nestwatch.org/connect/participant-photo/final-day-of-my-house-finch-nest/.
 1. Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
 1. “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
    *  Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
    *  ———. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
-   *  ———. “Buteo swainsoni.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
-   *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
+   *  ———. "Black Phoebe (*Sayornis nigricans*)." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black%20Phoebe%20%28Sayornis%20nigricans%29.
+   *  ———. “*Buteo swainsoni*.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
+   *  ———. "*Callipepla californica.*" *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Callipepla%20californica.
    *  ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
    *  ———. "*Fulica americana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Fulica%20Americana.
+   *  ———. "*Sialia mexicana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Sialia%20mexicana.
    *  ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
    *  ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
 1. Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
@@ -165,6 +168,7 @@ description: A collection of reference materials for indentifying and understand
    *  ———. "A Special Guest Appearance at CSU Stanislaus: Cackling Geese!" Natural History Journal (blog), January 10, 2017. https://natural-history-journal.blogspot.com/2017/01/a-special-guest-appearance-at-csu.html.
    *  ———. "Unique Beauty: A Leucistic Black Phoebe." Natural History Journal (blog), November 30, 2019. https://natural-history-journal.blogspot.com/2019/11/unique-beauty-leucistic-black-phoebe.html.
    *  ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
+   *  ———. "Western Bluebirds." Natural History Journal (blog), June 09, 2020. https://natural-history-journal.blogspot.com/2020/06/western-bluebirds.html.
 1. “NestWatch: Where Birds Come to Life.” Cornell Lab of Ornithology. https://nestwatch.org/.
 1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
@@ -172,6 +176,7 @@ description: A collection of reference materials for indentifying and understand
 1. “Skullsite: Bird Skull Collection.” Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. https://skullsite.com/.
    *  Jansen, Jan, and Wouter Van Gestel. “*Anas platyrhynchos* (Mallard).” Skullsite. https://skullsite.com/skullpage/anas-platyrhynchos-mallard/.
    *  ———. “*Mimus polyglottos* (Northern Mockingbird).” Skullsite. https://skullsite.com/skullpage/mimus-polyglottos-northern-mockingbird/.
+1. T., Paula. "House Finch Fledglings." NestWatch. https://nestwatch.org/connect/participant-photo/house-finch-fledglings-2/.
 1. That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1. University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
 1. Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
