@@ -3,7 +3,7 @@ title: Other
 icon: earth-americas
 description: A collection of reference materials for indentifying and understanding the natural world.
 -->
-## Other
+## References
 
 1. Avizienis, Audra, Karen Lawrence, and Sophie Cornish-Keefe. *Fruit and Vegetable Bible*. Moseley Road, Inc, 2019.
 1. Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.

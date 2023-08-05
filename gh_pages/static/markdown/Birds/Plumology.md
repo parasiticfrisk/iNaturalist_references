@@ -7,7 +7,7 @@ description: A collection of reference materials for indentifying understanding 
 
 [Identified Bird Feathers on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&term_id=22&term_value_id=23).
 
-## Sources Cited
+## References
 
 1. Cassidy, Josh. "What Makes Owls So Quiet and So Deadly?." Deep Look, October 27, 2015. https://www.kqed.org/science/321383/see-what-makes-owls-so-quiet-and-so-deadly.
 1. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish and Wildlife Service Forensics Laboratory, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
@@ -99,6 +99,9 @@ description: A collection of reference materials for indentifying understanding 
    *  ———. "Swainson's Hawk secondary wing feathers -Juvenile - blue background." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_secondary_immature_blubk.
    *  ———. "Swainson's Hawk tail feathers - Adult." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_adult.
    *  ———. "Swainson's Hawk tail feathers - Juvenile." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SWHA_tail_immature.
+   *  ———. "Western Screech Owl primary wing feathers - Adult Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=WESO_primary_adult.
+   *  ———. "Western Schreech Owl secondary wing feathers - Adult Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=WESO_secondary_adult.
+   *  ———. "Western Schreech Owl tail feathers - Adult Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=WESO_tail_adult.
    *  ———. "Yellow-billed Magpie primary wing feathers - Adult Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_primary_adult.
    *  ———. "Yellow-billed Magpie secondary wing feathers - Adult Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_secondary_adult.
    *  ———. "Yellow-billed Magpie tail feathers - Adult Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=YBMA_tail_adult.
@@ -143,6 +146,7 @@ description: A collection of reference materials for indentifying understanding 
    *  ———. "*Corvus brachyrhynchos*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Corvus%20brachyrhynchos.
    *  ———. “*Egretta thula*.” *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Egretta%20thula.
    *  ———. "*Melanerpes formicivorus*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Melanerpes%20formicivorus.
+   *  ———. "*Megascops kennicottii*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Megascops%20kennicottii.
    *  ———. "*Mimus polyglottos*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Mimus%20polyglottos.
    *  ———. "*Nycticorax nycticorax*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Nycticorax%20nycticorax.
    *  ———. "*Pica nuttalli*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Pica%20nuttalli.
