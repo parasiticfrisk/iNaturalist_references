@@ -7,7 +7,7 @@ description: A collection of reference materials for indentifying and understand
 
 [Identified Amphibians and Reptiles on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Amphibia,Reptilia).
 
-## Sources Cited
+## References
 
 1. Armentrout, Kelly, and Cari Mcgregor. “*Trachemys Scripta* (Pond Slider, Scripta).” Animal Diversity Web, 2019. https://animaldiversity.org/accounts/Trachemys_scripta/.
 1. “California Herps: A Guide to the Amphibians and Reptiles of California.” Gary Nafis, 2000. https://www.californiaherps.com/.

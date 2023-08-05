@@ -7,7 +7,7 @@ description: A collection of reference materials for indentifying and understand
 
 [Identified Plants on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Plantae).
 
-## Sources Cited
+## References
 
 1. “Calflora.” The Calfora Database, 2000. https://www.calflora.org/.
    *  Calfora Contributors. “*Rosmarinus Officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
