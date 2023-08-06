@@ -2,12 +2,8 @@
 title: Arachnids
 icon: spider
 owner: August Frisk
-description: A collection of reference materials for identifying and understanding arachnids.
+description: Resources used for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Arachnida">arachnids I have identified on iNaturalist</a>.
 -->
-## Identifications
-
-[Identified Arachnids on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Arachnida).
-
 ## References
 
 1. Adams, R. J., and Timothy D. Manolis. *Field Guide to the Spiders of California and the Pacific Coast States*. University of California Press, 2014.
