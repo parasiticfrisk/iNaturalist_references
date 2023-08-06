@@ -1,7 +1,6 @@
 <!--
 title: Insects and Other Hexapods
 icon: bug
-description: Resouces used for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&taxon_ids=372739">insects and other hexapods I have identified on iNaturalist</a>.
 -->
 ## References
 

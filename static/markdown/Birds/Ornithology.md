@@ -1,7 +1,6 @@
 <!--
 title: Birds
 icon: crow
-description: Resources for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Aves">birds I have identified on iNaturalist</a>.
 -->
 ## References
 

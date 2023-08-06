@@ -1,7 +1,6 @@
 <!--
 title: Amphibians and Reptiles
 icon: frog
-description: Resources for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Amphibia,Reptilia">amphibians and reptiles I have identified on iNaturalist</a>.
 -->
 ## References
 

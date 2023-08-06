@@ -1,7 +1,6 @@
 <!--
 title: Other
 icon: earth-americas
-description: A collection of reference materials for indentifying and understanding the natural world.
 -->
 ## References
 
