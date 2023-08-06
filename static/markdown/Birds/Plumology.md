@@ -82,7 +82,7 @@ description: A collection of reference materials for indentifying understanding 
    *  ———. "Red-shouldered Hawk tail feathers - Adult." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_tail_ad.
    *  ———. "Red-shouldered Hawk tail feathers - Juvenile Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_tail_imm_female.
    *  ———. "Rock Pigeon tail feathers - Adult." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RODO_tail_adult.
-   *  ———. "Rock Pigeon wing feathers - Adult." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RSHA_wing_adult.
+   *  ———. "Rock Pigeon wing feathers - Adult." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=RODO_wing_adult.
    *  ———. "Snowy Egret primary wing feathers - Adult Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SNEG_primary_adult.
    *  ———. "Snowy Egret secondary wing feathers - Adult Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SNEG_secondary_adult.
    *  ———. "Snowy Egret tail feathers - Adult Male." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=SNEG_tail_adult.

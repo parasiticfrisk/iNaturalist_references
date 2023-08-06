@@ -1,12 +1,8 @@
 <!--
 title: Plants
 icon: tree
-description: A collection of reference materials for indentifying and understanding plants.
+description: Resources for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Plantae">plants I have identified on iNaturalist</a>.
 -->
-## Identifications
-
-[Identified Plants on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Plantae).
-
 ## References
 
 1. “Calflora.” The Calfora Database, 2000. https://www.calflora.org/.

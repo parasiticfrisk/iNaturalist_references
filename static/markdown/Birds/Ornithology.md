@@ -1,12 +1,8 @@
 <!--
 title: Birds
 icon: crow
-description: A collection of reference materials for indentifying and understanding birds.
+description: Resources for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Aves">birds I have identified on iNaturalist</a>.
 -->
-## Identifications
-
-[Identified Birds on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Aves).
-
 ## References
 
 1. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” Cornell Lab of Ornithology. https://www.allaboutbirds.org/.

@@ -1,12 +1,8 @@
 <!--
 title: Amphibians and Reptiles
 icon: frog
-description: A collection of reference materials for indentifying and understanding amphibians and reptiles.
+description: Resources for <a href="https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Amphibia,Reptilia">amphibians and reptiles I have identified on iNaturalist</a>.
 -->
-## Identifications
-
-[Identified Amphibians and Reptiles on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&iconic_taxa=Amphibia,Reptilia).
-
 ## References
 
 1. Armentrout, Kelly, and Cari Mcgregor. “*Trachemys Scripta* (Pond Slider, Scripta).” Animal Diversity Web, 2019. https://animaldiversity.org/accounts/Trachemys_scripta/.

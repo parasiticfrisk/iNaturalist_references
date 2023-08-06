@@ -5,6 +5,8 @@ description: A collection of reference materials for indentifying and understand
 -->
 ## References
 
+1. Adler, Frederick R., Alexander R.A. Anderson, Abhinav Bhushan, Paul Bogdan, Jose Javier Bravo-Cordero, Amy Brock, Yun Chen, et al. “Modeling Collective Cell Behavior in Cancer: Perspectives from an Interdisciplinary Conversation.” *Cell Systems 14*, no. 4 (April 1, 2023): 252–57. [https://doi.org/10.1016/j.cels.2023.03.002](https://web.stanford.edu/~dmgordon/articles/doi/10.1016-j.cels.2023.03.002/Modeling%20collective%20cell%20behavior%20in%20cancer.pdf).
+1. Adler, Frederick R., and Deborah M. Gordon. “Cancer Ecology and Evolution: Positive Interactions and System Vulnerability.” *Current Opinion in Systems Biology 17* (October 1, 2019): 1–7. [https://doi.org/10.1016/j.coisb.2019.09.001](https://web.stanford.edu/~dmgordon/articles/doi/10.1016_j.coisb.2019.09.001/1-s2.0-S2452310019300265-main.pdf).
 1. Avizienis, Audra, Karen Lawrence, and Sophie Cornish-Keefe. *Fruit and Vegetable Bible*. Moseley Road, Inc, 2019.
 1. Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
 1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
