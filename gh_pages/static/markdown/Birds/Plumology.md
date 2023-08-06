@@ -1,12 +1,7 @@
 <!--
 title: Bird Feathers
 icon: feather
-description: A collection of reference materials for indentifying understanding bird feathers.
 -->
-## Identifications
-
-[Identified Bird Feathers on iNaturalist](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table&term_id=22&term_value_id=23).
-
 ## References
 
 1. Cassidy, Josh. "What Makes Owls So Quiet and So Deadly?." Deep Look, October 27, 2015. https://www.kqed.org/science/321383/see-what-makes-owls-so-quiet-and-so-deadly.
