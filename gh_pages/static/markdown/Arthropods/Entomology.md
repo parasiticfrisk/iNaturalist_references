@@ -11,6 +11,7 @@ icon: bug
 1. Bellinger, Peter F., Kenneth A. Christiansen, and Frans Janssens. *Collembola (Springtails)*. 2019. https://www.collembola.org/.
 1. Bellows, T. S., J. N. Kabashima, and Karen L. Robb. “Whiteflies: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2015. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7401.html.
 1. Bethke, J. A., Steve H. Dreistadt, and L. G. Varela. “Thrips: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7429.html.
+1. Bertone, Matthew A., Misha Leong, Keith M. Bayless, Tara L.F. Malow, Robert R. Dunn, and Michelle Trautwein. “Arthropods of the Great Indoors: Characterizing Diversity inside Urban and Suburban Homes.” *PeerJ 4* (January 19, 2016): e1582. https://doi.org/10.7717/peerj.1582.
 1. Black, Jason. "Watch Flesh-Eating Beetles Strip Bodies to the Bone." Deep Look, October 13, 2015. https://www.kqed.org/science/299669/watch-flesh-eating-beetles-strip-bodies-to-the-bone.
 1. Blaisdell, Frank E. “Facts Determined by Rearing Species of Coniontis (Coleoptera: Tenebrionidae).” *Entomological News 46* (December 31, 1934): 119–23. https://www.biodiversitylibrary.org/part/253621.
 1. Boone, Mike, Patrick Coin, Eric R. Eaton, and David Ferguson. “Species *Trimerotropis Pallidipennis* - Pallid-Winged Grasshopper.” BugGuide, October 21, 2013. https://bugguide.net/node/view/33991.
@@ -214,6 +215,7 @@ icon: bug
 1. Prabhakar, Balaji, Katherine N. Dektar, and Deborah M. Gordon. “The Regulation of Ant Colony Foraging Activity without Spatial Information.” *PLoS Computational Biology 8*, no. 8 (August 23, 2012): e1002670. https://doi.org/10.1371/journal.pcbi.1002670.
 1. Pyle, Robert Michael, and Caitlin C. LaBar. *Butterflies of the Pacific Northwest*. Timber Press, 2018.
 1. Quirós, Gabriela. "A Baby Dragonfly's Mouth Will Give You Nightmares." Deep Look, September 12, 2017. https://www.kqed.org/science/1915435/a-baby-dragonflys-mouth-will-give-you-nightmares.
+1. ———. "How Mosquitoes Use Six Needles to Suck Your Blood." Deep Look, June 7, 2016. https://www.kqed.org/science/728086/how-mosquitoes-use-six-needles-to-suck-your-blood.
 1. ———. "Where Are the Ants Carrying All Those Leaves?." Deep Look, June 11, 2015. https://www.kqed.org/science/41112/where-are-the-ants-carrying-all-those-leaves.
 1. Rosa, Craig. "What Gall! The Crazy Cribs of Parasitic Wasps." Deep Look, November 18, 2014. https://www.kqed.org/science/23927/what-gall-the-crazy-cribs-of-parasitic-wasps.
 1. Rust, M. K., and M. R. Millard. “Silverfish and Firebrat: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7475.html.

@@ -92,6 +92,8 @@ icon: crow
    *  ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
    *  ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
 1. Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
+1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+   * ———. "What Happens When You Put a Hummingbird in a Wind Tunnel? | Deep Look." Video, YouTube, March 31, 2015. https://youtu.be/1V7Tim2RNTo.
 1. Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
 1. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Cornell Lab of Ornithology, 2000. https://www.macaulaylibrary.org/.
    *  Cornell Lab of Ornithology. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
@@ -166,6 +168,7 @@ icon: crow
    *  ———. "Western Bluebirds." Natural History Journal (blog), June 09, 2020. https://natural-history-journal.blogspot.com/2020/06/western-bluebirds.html.
 1. “NestWatch: Where Birds Come to Life.” Cornell Lab of Ornithology. https://nestwatch.org/.
 1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
+1. Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?." Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
 1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
 1. Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
 1. “Skullsite: Bird Skull Collection.” Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. https://skullsite.com/.
