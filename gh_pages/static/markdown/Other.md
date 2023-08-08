@@ -19,6 +19,7 @@ icon: earth-americas
 1. ———. "The Hidden Perils of Permafrost." Deep Look, December 2, 2014. https://www.kqed.org/science/24399/the-hidden-perils-of-permafrost.
 1. ———. "Identical Snowflakes? Scientist Ruins Winter For Everyone." Deep Look, April 11, 2017. https://www.kqed.org/science/1536955/identical-snowflakes-scientist-ruins-winter-for-everyone-deep-look.
 1. ———. "These Fish Are All About Sex on the Beach." Deep Look, June 6, 2017. https://www.kqed.org/science/1680332/these-fish-are-all-about-sex-on-the-beach-deep-look.
+1. ———. "This Adorable Sea Slug Is a Sneaky Little Thief." Deep Look, August 28, 2018. https://www.kqed.org/science/1929993/this-adorable-sea-slug-is-a-sneaky-little-thief.
 1. ———. "You're Not Hallucinating. That's Just Squid Skin." Deep Look, September 8, 2015. https://www.kqed.org/science/233664/youre-not-hallucinating-thats-just-squid-skin.
 1. Cassidy, Josh, and Carrie Boyle. "Sea Urchins Pull Themselves Inside Out to be Reborn." Deep Look, August 23, 2016. https://www.kqed.org/science/922896/sea-urchins-pull-themselves-inside-out-to-be-reborn.
 1. Cassidy, Josh, and Grace Singer. "How Do Sharks and Rays Use Electricity to Find Hidden Prey?." Deep Look, August 11, 2015. https://www.kqed.org/science/106591/sharks-and-rays-sense-electricity-fish-cant-hide.
@@ -33,13 +34,17 @@ icon: earth-americas
 1. Gross, Joyce. “Joyce Gross Photography.” https://joycegross.com/.
 1. Haddock, Steven. “Bioluminescence.” NOAA Ocean Explorer, February 25, 2011. https://oceanexplorer.noaa.gov/explorations/09bioluminescence/background/bioluminescence/bioluminescence.html.
 1. Hanson, Joe. "Are You Smarter Than A Slime Mold?" Video, YouTube, April 19, 2016. https://youtu.be/K8HEDqoTPgk.
+1. Heidt, Amanda. "A Sand Dollar's Breakfast Is Totally Metal." Deep Look, October 9, 2018. https://www.kqed.org/science/1932072/a-sand-dollars-breakfast-is-totally-metal.
+1. Hiolski, Emma. "Take Two Leeches And Call Me In The Morning." Deep Look, April 3, 2018. https://www.kqed.org/science/1921659/take-two-leeches-and-call-me-in-the-morning.
+1. ———. "Watch These Cunning Snails Stab and Swallow Fish Whole." Deep Look, May 29, 2018. https://www.kqed.org/science/1923898/watch-these-snails-stab-fish-and-swallow-them-whole.
 1. “iNaturalist.” iNaturalist, 2014. https://www.inaturalist.org/.
 1. Jaacks, Jason. "What Happens When You Zap Coral With The World's Most Powerful X-ray Laser?." Deep Look, July 7, 2015. https://www.kqed.org/science/99894/what-happens-when-you-zap-coral-with-the-worlds-most-powerful-x-ray-laser.
 1. ———. "Why Jellyfish Float Like a Butterfly—And Sting Like a Bee." Deep Look, September 29, 2015. https://www.kqed.org/science/273618/why-jellyfish-float-like-a-butterfly-and-sting-like-a-bee.
 1. Johnston, Lyla June. “Architects of Abundance: Indigenous Regenerative Food and Land Management Systems and the Excavation of Hidden History,” PHD Dissertation, University of Alaska Fairbanks, December 2022. https://www.proquest.com/openview/17597a179528716e1a9e8515ca76ec77/1?pq-origsite=gscholar&cbl=18750&diss=y.
    * ———. “Architects of Abundance: Indigenous Food Systems and the Excavation of Hidden History,” Video, YouTube, January 27, 2022. https://youtu.be/UxxRV44-wZ0.
-1. Kennerson, Elliot. "Archerfish Says...'I Spit in Your Face!'." Deep Look, January 31, 2017. https://www.kqed.org/science/1336526/archerfish-says-i-spit-in-your-face.
+1. Kennerson, Elliott. "Archerfish Says...'I Spit in Your Face!'." Deep Look, January 31, 2017. https://www.kqed.org/science/1336526/archerfish-says-i-spit-in-your-face.
 1. ———. "Everything You Never Wanted to Know About Snail Sex." Deep Look, March 14, 2017. https://www.kqed.org/science/1446777/everything-you-never-wanted-to-know-about-snail-sex.
+1. Kennerson, Elliott, and Nikki Inglis. "The Mystery of the Upside-Down Catfish." Deep Look, April 17, 2018. https://www.kqed.org/science/1922038/the-mystery-of-the-upside-down-catfish.
 1. Kimmerer, Robin Wall. *Braiding Sweetgrass*. Milkweed, 2014.
 1. KQED. “Deep Look,” 2014. https://www.kqed.org/deeplook.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
@@ -55,16 +60,24 @@ icon: earth-americas
    * ———. "Identical Snowflakes? Scientist Ruins Winter For Everyone | Deep Look." Video, YouTube, April 11, 2017. https://youtu.be/Gojddrb70N8.
    * ———. "If Your Hands Could Smell, You’d Be an Octopus | Deep Look." Video, YouTube, February 14, 2017. https://youtu.be/XXMxihOh8ps.
    * ———. "In the Race for Life, Which Human Embryos Make It?" Video, YouTube, February 3, 2015. https://youtu.be/9mv_kuwQvoc.
-   * ———. "It’s a Goopy Mess When Pines and Beetles Duke it Out | Deep Look." Video, YouTube, October 24, 2017. https://youtu.be/wR5O48zsbnc.
+   * ———. "The Mystery of the Upside-Down Catfish | Deep Look." Video, YouTube, April 17, 2018. https://youtu.be/eurCBOJMrsE.
    * ———. "Pygmy Seahorses: Masters of Camouflage | Deep Look." Video, YouTube, October 20, 2014. https://youtu.be/Q3CtGoqz3ww.
+   * ———. "A Sand Dollar's Breakfast Is Totally Metal | Deep Look." Video, YouTube, October 9, 2018. https://youtu.be/dxZdBPDNiF4.
    * ———. "Sea Urchins Pull Themselves Inside Out to be Reborn | Deep Look." Video, YouTube, August 23, 2016. https://youtu.be/ak2xqH5h0YY.
+   * ———. "Take Two Leeches And Call Me In The Morning | Deep Look." Video, YouTube, April 3, 2018. https://youtu.be/O-0SFWPLaII.
+   * ———. "There's Something Fishy About These Trees ... | Deep Look." Video, YouTube, September 26, 2017. https://youtu.be/rZWiWh5acbE.
    * ———. "These Fish Are All About Sex on the Beach | Deep Look." Video, YouTube, June 6, 2017. https://youtu.be/j5F3z1iP0Ic.
+   * ———. "These Hairworms Eat a Cricket Alive and Control Its Mind | Deep Look." Video, YouTube, February 12, 2019. https://youtu.be/YB6O7jS_VBM.
+   * ———. "This Adorable Sea Slug Is a Sneaky Little Thief | Deep Look." Video, YouTube, August 28, 2018. https://youtu.be/KLVfWKxtfow.
    * ———. "This Mushroom Starts Killing You Before You Even Realize It | Deep Look." Video, YouTube, February 23, 2016. https://youtu.be/bl9aCH2QaQY.
    * ———. "This Pulsating Slime Mold Comes in Peace | Deep Look." Video, YouTube, April 19, 2016. https://youtu.be/Nx3Uu1hfl6Q.
+   * ———. "Want a Whole New Body? Ask This Flatworm How | Deep Look." Video, YouTube, October 23, 2018. https://youtu.be/m12xsf5g3Bo.
    * ———. "What Happens When You Zap Coral With The World's Most Powerful X-ray Laser? | Deep Look." Video, YouTube, July 7, 2015. https://youtu.be/aXmCU6IYnsA.
+   * ———. "Watch These Cunning Snails Stab and Swallow Fish Whole | Deep Look." Video, YouTube, May 29, 2018. https://youtu.be/jYMjLgPFSso.
    * ———. "Why Jellyfish Float Like a Butterfly—And Sting Like a Bee | Deep Look." Video, YouTube, September 29, 2015. https://youtu.be/xQNxXUtRjzg.
    * ———. "You're Not Hallucinating. That's Just Squid Skin. | Deep Look." Video, YouTube, September 8, 2015. https://youtu.be/0wtLrlIKvJE.
 1. Krogh, David. *Biology: A Guide to the Natural World*. Benjamin Cummings, 2011.
+1. Kusmer, Anna. "There's Something Fishy About These Trees ..." Deep Look, September 26, 2017. https://www.kqed.org/science/1915421/theres-something-fishy-about-these-trees-deep-look.
 1. Læssøe, Thomas. *Mushrooms: How to Identify and Gather Wild Mushrooms and Other Fungi*. Penguin Random House, 2013.
 1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
 1. Lucas, Erynn. “Viruses: An Introduction to Virology and Coronaviruses.” Video, YouTube, September 25, 2020. https://youtu.be/5ko4gHP-afY.
@@ -77,8 +90,10 @@ icon: earth-americas
 1. Perry, Ed J., and A. T. Ploeg. “Nematode: Pest Notes for Home and Landscape,” July 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7489.html.
 1. Quirós, Gabriela. "If Your Hands Could Smell, You’d Be an Octopus." Deep Look, February 14, 2017. https://www.kqed.org/science/1391513/if-your-hands-could-smell-youd-be-an-octopus.
 1. Quirós, Gabriela. "In the Race for Life, Which Human Embryos Make It?" Deep Look, February 3, 2015. https://www.kqed.org/science/26870/in-the-race-for-life-which-human-embryos-make-it.
+1. ———. "These Hairworms Eat a Cricket Alive and Control Its Mind." Deep Look, February 12, 2019. https://www.kqed.org/science/1937775/these-hairworms-eat-a-cricket-alive-and-control-its-mind.
 1. ———. "This Mushroom Starts Killing You Before You Even Realize It." Deep Look, February 23, 2016. https://www.kqed.org/science/523936/this-mushroom-starts-killing-you-before-you-even-realize-it.
 1. ———. "This Pulsating Slime Mold Comes in Peace." Deep Look, April 19, 2016. https://www.kqed.org/science/635319/this-pulsating-slime-mold-comes-in-peace.
+1. ———. "Want a Whole New Body? Ask This Flatworm How." Deep Look, October 23, 2018. https://www.kqed.org/science/1933246/want-a-whole-new-body-ask-this-flatworm-how.
 1. Sheldrake, Merlin. *Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures*. Random House, 2020.
 1. Skulls Unlimited International, Inc. “Skulls Unlimited: World Leader in Real and Replica Skulls & Skeletons,” n.d. https://www.skullsunlimited.com/.
 1. Smithsonian Environmental Research Center. “Ecosystems on the Edge.” https://ecosystemsontheedge.org/.

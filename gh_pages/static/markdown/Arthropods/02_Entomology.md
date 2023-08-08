@@ -25,6 +25,9 @@ icon: bug
 1. Burford, Benjamin P., Gail Lee, Daniel Friedman, Esmé Brachmann, Rebia Khan, Dylan MacArthur-Waltz, Aidan D. McCarty, and Deborah M. Gordon. “Foraging Behavior and Locomotion of the Invasive Argentine Ant from Winter Aggregations.” *PLoS ONE 13*, no. 8 (August 9, 2018): e0202117. https://doi.org/10.1371/journal.pone.0202117.
 1. Caprile, J. L., Mary L. Flint, M. P. Bolda, J. A. Grant, R. Van Steenwyk, and David R. Haviland. “Spotted Wing Drosophila: Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74158.html.
 1. Cassidy, Josh. "The Double-Crossing Ants to Whom Friendship Means Nothing." Deep Look, November 1, 2016. https://www.kqed.org/science/1089990/the-double-crossing-ants-to-whom-friendship-means-nothing.
+1. ———. "Praying Mantis Love Is Waaay Weirder Than You Think." Deep Look, November 14, 2017. https://www.kqed.org/science/1917469/praying-mantis-love-is-waaay-weirder-than-you-think-deep-look.
+1. ———. "This Is Why Water Striders Make Terrible Lifeguards." Deep Look, August 1, 2017. https://www.kqed.org/science/1871155/this-is-why-water-striders-make-terrible-lifeguards.
+1. ———. "What Do Earwigs Do With Those Pincers Anyway?" Deep Look, June 26, 2018. https://www.kqed.org/science/1925887/what-do-earwigs-do-with-those-pincers-anyway.
 1. Chandrasekhar, Arjun, Deborah M. Gordon, and Saket Navlakha. “A Distributed Algorithm to Maintain and Repair the Trail Networks of Arboreal Ants.” *Scientific Reports 8*, no. 1 (June 18, 2018). https://doi.org/10.1038/s41598-018-27160-3.
 1. Chandrasekhar, Arjun, James A. R. Marshall, Cortnea Austin, Saket Navlakha, and Deborah M. Gordon. “Better Tired than Lost: Turtle Ant Trail Networks Favor Coherence over Short Edges.” *PLoS Computational Biology 17*, no. 10 (October 21, 2021): e1009523. https://doi.org/10.1371/journal.pcbi.1009523.
 1. Choe, Dong-Hwan. “Pantry Pests: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7452.html.
@@ -147,11 +150,12 @@ icon: bug
 1. Jandt, Jennifer M., and Deborah M. Gordon. “The Behavioral Ecology of Variation in Social Insects.” *Current Opinion in Insect Science 15* (June 1, 2016): 40–44. [https://doi.org/10.1016/j.cois.2016.02.012](https://web.stanford.edu/~dmgordon/articles/doi/10.1016-j.cois.2016.02.012/The%20behavioral%20ecology%20of%20variation%20in%20social%20insects.pdf).
 1. Kabashima, J. N., Steve H. Dreistadt, J. G. Morse, P. A. Phillips, and R. E. Rice. “Scale: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7408.html.
 1. Kabashima, J. N., Timothy D. Paine, Kent Daane, and Steve H. Dreistadt. “Psyllids: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, April 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7423.html.
-1. Kennerson, Elliot. "The Bombardier Beetle And Its Crazy Chemical Cannon." Deep Look, March 22, 2016. https://www.kqed.org/science/536762/the-bombardier-beetle-and-its-crazy-chemical-cannon.
+1. Kennerson, Elliott. "The Bombardier Beetle And Its Crazy Chemical Cannon." Deep Look, March 22, 2016. https://www.kqed.org/science/536762/the-bombardier-beetle-and-its-crazy-chemical-cannon.
 1. ———. "The Ladybug Love-In: A Valentine's Special." Deep Look, February 9, 2016. https://www.kqed.org/science/468582/the-once-in-a-lifetime-ladybug-love-in.
 1. ———. "Nature's Scuba Divers: How Beetles Breathe Underwater." Deep Look, November 10, 2015. https://www.kqed.org/science/341205/natures-scuba-divers-how-beetles-breathe-underwater.
 1. ———. "A Real Alien Invasion Is Coming to a Palm Tree Near You." Deep Look, June 20, 2017. https://www.kqed.org/science/1664694/a-real-alien-invasion-is-coming-to-a-palm-tree-near-you.
 1. ———. "Sticky. Stretchy. Waterproof. The Amazing Underwater Tape of the Caddisfly." Deep Look, August 9, 2016. https://www.kqed.org/science/891330/sticky-stretchy-waterproof-the-amazing-underwater-tape-of-the-caddisfly.
+1. ———. "So ... Sometimes Fireflies Eat Other Fireflies." Deep Look, February 27, 2018. https://www.kqed.org/science/1919946/so-sometimes-fireflies-eat-other-fireflies.
 1. ———. "These Carnivorous Worms Catch Bugs by Mimicking the Night Sky." Deep Look, June 28, 2016. https://www.kqed.org/science/728719/these-carnivorous-worms-catch-bugs-by-mimicking-the-night-sky.
 1. ———. "Winter is Coming for These Argentine Ant Invaders." Deep Look, May 16, 2016. https://www.kqed.org/science/633487/winter-is-coming-for-the-argentine-ant-invaders.
 1. Kinsey, Alfred C. “An Evolutionary Analysis of Insular and Continental Species.” *Proceedings of the National Academy of Sciences of the United States of America 23*, no. 1 (January 1, 1937): 5–11. https://doi.org/10.1073/pnas.23.1.5.
@@ -159,16 +163,25 @@ icon: bug
    * ———. "A Baby Dragonfly's Mouth Will Give You Nightmares | Deep Look." Video, YouTube, September 12, 2017. https://youtu.be/EHo_9wnnUTE.
    * ———. "The Bombardier Beetle And Its Crazy Chemical Cannon | Deep Look." Video, YouTube, March 22, 2016. https://youtu.be/BWwgLS5tK80.
    * ———. "The Double-Crossing Ants to Whom Friendship Means Nothing | Deep Look." Video, YouTube, November 1, 2016. https://youtu.be/fguo3HvWjb0.
+   * ———. "How Lice Turn Your Hair Into Their Jungle Gym | Deep Look." Video, YouTube, March 26, 2019. https://youtu.be/Yb26BBvAAWU.
    * ———. "How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look." Video, YouTube, June 7, 2016. https://youtu.be/rD8SmacBUcU.
+   * ———. "It’s a Goopy Mess When Pines and Beetles Duke it Out | Deep Look." Video, YouTube, October 24, 2017. https://youtu.be/wR5O48zsbnc.
+   * ———. "Jerusalem Crickets Only Date Drummers | Deep Look." Video, YouTube, January 29, 2019. https://youtu.be/mHbwC-AIyTE.
    * ———. "The Ladybug Love-In: A Valentine's Special | Deep Look." Video, YouTube, February 9, 2016. https://youtu.be/c-Z6xRexbIU.
    * ———. "Nature's Scuba Divers: How Beetles Breathe Underwater | Deep Look." Video, YouTube, November 10, 2015. https://youtu.be/T-RtG5Z-9jQ.
+   * ———. "Praying Mantis Love is Waaay Weirder Than You Think | Deep Look." Video, YouTube, November 14, 2017. https://youtu.be/NHf47gI8w04.
    * ———. "A Real Alien Invasion Is Coming to a Palm Tree Near You | Deep Look." Video, YouTube, June 20, 2017. https://youtu.be/S6a3Q5DzeBM.
+   * ———. "Samurai Wasps Say 'Smell Ya Later, Stink Bugs' | Deep Look." Video, YouTube, March 12, 2019. https://youtu.be/T8y2XmjdXqw.
+   * ———. "So ... Sometimes Fireflies Eat Other Fireflies | Deep Look." Video, YouTube, February 27, 2018. https://youtu.be/oWdCMFvgFbo.
    * ———. "Sticky. Stretchy. Waterproof. The Amazing Underwater Tape of the Caddisfly | Deep Look." Video, YouTube, August 9, 2016. https://youtu.be/Z3BHrzDHoYo.
    * ———. "These Carnivorous Worms Catch Bugs by Mimicking the Night Sky | Deep Look." Video, YouTube, June 28, 2016. https://youtu.be/vLb0iuTVzW0.
    * ———. "These Fighting Fruit Flies Are Superheroes of Brain Science | Deep Look." Video, YouTube, March 28, 2017. https://youtu.be/yvd3X1N0jUU.
    * ———. "These Termites Turn Your House into a Palace of Poop | Deep Look." Video, YouTube, October 18, 2016. https://youtu.be/DYPQ1Tjp0ew.
+   * ———. "This Is Why Water Striders Make Terrible Lifeguards | Deep Look." Video, YouTube, August 1, 2017. https://youtu.be/E2unnSK7WTE.
    * ———. "This Vibrating Bumblebee Unlocks a Flower's Hidden Treasure | Deep Look." video, YouTube, July 19, 2016. https://youtu.be/SZrTndD1H10.
    * ———. "Watch Flesh-Eating Beetles Strip Bodies to the Bone | Deep Look." Video, YouTube, October 13, 2015. https://youtu.be/Np0hJGKrIWg.
+   * ———. "Watch This Bee Build Her Bee-jeweled Nest | Deep Look." Video, YouTube, August 7, 2018. https://youtu.be/oPbH1YhsdP8.
+   * ———. "What Do Earwigs Do With Those Pincers Anyway? | Deep Look." Video, YouTube, June 26, 2018. https://youtu.be/HuOnqWpIL9E.
    * ———. "What Gall! The Crazy Cribs of Parasitic Wasps | Deep Look." Video, YouTube, November 18, 2014. https://youtu.be/lOgP5NzcTuA.
    * ———. "What Gives the Morpho Butterfly Its Magnificent Blue? | Deep Look." Video, YouTube, December 16, 2014. https://youtu.be/29Ts7CsJDpg.
    * ———. "Where Are the Ants Carrying All Those Leaves? | Deep Look." Video, YouTube, June 11, 2015. https://youtu.be/-6oKJ5FGk24.
@@ -210,7 +223,9 @@ icon: bug
    * ———. “*Mythimna unipuncta*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=10438.
    * ———. “*Spodoptera Praefica*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=9667.
 1. Nyman, Tommi, and Riitta Julkunen-Tiitto. “Manipulation of the Phenolic Chemistry of Willows by Gall-Inducing Sawflies.” *Proceedings of the National Academy of Sciences of the United States of America 97*, no. 24 (November 21, 2000): 13184–13187. https://doi.org/10.1073/pnas.230294097.
-1. Oh, Jenny. "What Gives the Morpho Butterfly Its Magnificent Blue?" Deep Look, December 16, 2014. https://www.kqed.org/science/24552/what-gives-the-morpho-butterfly-its-magnificent-blue.
+1. Oh, Jenny. "Jerusalem Crickets Only Date Drummers." Deep Look, January 29, 2019. https://www.kqed.org/science/1932923/jerusalem-crickets-only-date-drummers.
+1. ———. "Samurai Wasps Say 'Smell Ya Later, Stink Bugs'." Deep Look, May 12, 2019. https://www.kqed.org/science/1937639/samurai-wasps-say-smell-ya-later-stink-bugs.
+1. ———. "What Gives the Morpho Butterfly Its Magnificent Blue?" Deep Look, December 16, 2014. https://www.kqed.org/science/24552/what-gives-the-morpho-butterfly-its-magnificent-blue.
 1. Ouellette, Nicholas T., and Deborah M. Gordon. “Goals and Limitations of Modeling Collective Behavior in Biological Systems.” *Frontiers in Physics 9* (June 14, 2021). https://doi.org/10.3389/fphy.2021.687823.
 1. Pagliara, Renato, Deborah M. Gordon, and Naomi Ehrich Leonard. “Regulation of Harvester Ant Foraging as a Closed-Loop Excitable System.” *PLoS Computational Biology 14*, no. 12 (December 4, 2018): e1006200. https://doi.org/10.1371/journal.pcbi.1006200.
 1. Penny, Norman D., Phillip A. Adams, and Lionel A. Stange. “Species Catalog of the Neuroptera, Megaloptera, and Raphidioptera of America North of Mexico.” *Proceedings of the California Academy of Sciences 50*, no. 3 (January 31, 2008): 39–114. https://archive.org/details/proceedingsofcal0450cali/page/39/mode/1up?view=theater.
@@ -233,11 +248,14 @@ icon: bug
 1. Prabhakar, Balaji, Katherine N. Dektar, and Deborah M. Gordon. “The Regulation of Ant Colony Foraging Activity without Spatial Information.” *PLoS Computational Biology 8*, no. 8 (August 23, 2012): e1002670. https://doi.org/10.1371/journal.pcbi.1002670.
 1. Pyle, Robert Michael, and Caitlin C. LaBar. *Butterflies of the Pacific Northwest*. Timber Press, 2018.
 1. Quirós, Gabriela. "A Baby Dragonfly's Mouth Will Give You Nightmares." Deep Look, September 12, 2017. https://www.kqed.org/science/1915435/a-baby-dragonflys-mouth-will-give-you-nightmares.
+1. ———. "How Lice Turn Your Hair Into Their Jungle Gym." Deep Look, March 26, 2019. https://www.kqed.org/science/1939435/how-lice-turn-your-hair-into-their-jungle-gym.
 1. ———. "How Mosquitoes Use Six Needles to Suck Your Blood." Deep Look, June 7, 2016. https://www.kqed.org/science/728086/how-mosquitoes-use-six-needles-to-suck-your-blood.
 1. ———. "These Fighting Fruit Flies Are Superheroes of Brain Science." Deep Look, March 28, 2017. https://www.kqed.org/science/1494923/these-fighting-fruit-flies-are-superheroes-of-brain-science.
 1. ———. "These Termites Turn Your House Into a Palace of Poop." Deep Look, October 18, 2016. https://www.kqed.org/science/1065215/these-termites-turn-your-house-into-a-palace-of-poop.
+1. ———. "Watch This Bee Build Her Bee-jeweled Nest." Deep Look, August 7, 2018. https://www.kqed.org/science/1928378/watch-this-bee-build-her-bee-jeweled-nest.
 1. ———. "Where Are the Ants Carrying All Those Leaves?" Deep Look, June 11, 2015. https://www.kqed.org/science/41112/where-are-the-ants-carrying-all-those-leaves.
 1. ———. "Why Is the Very Hungry Caterpillar So Dang Hungry?" Deep Look, July 11, 2017. https://www.kqed.org/science/1811984/why-is-the-very-hungry-caterpillar-so-dang-hungry.
+1. ———. "With California Drought Over, Fewer Sierra Pines Dying." Deep Look, October 24, 2017. https://www.kqed.org/science/1916487/with-california-drought-over-fewer-sierra-pines-dying.
 1. Rosa, Craig. "What Gall! The Crazy Cribs of Parasitic Wasps." Deep Look, November 18, 2014. https://www.kqed.org/science/23927/what-gall-the-crazy-cribs-of-parasitic-wasps.
 1. Rust, M. K., and M. R. Millard. “Silverfish and Firebrat: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7475.html.
 1. Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
