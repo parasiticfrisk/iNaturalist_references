@@ -11,6 +11,7 @@ icon: tree
    *  ———. "Canyon Live Oak (*Quercus chrysolepis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/canyon-live-oak-quercus-chrysolepis.
    *  ———. "Pygmy Palm (*Phoenix roebelenii*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/pygmy-palm-phoenix-roebelenii.
    *  ———. "Valley Oak (*Quercus lobata*)." California State University, Stanislaus, February 26, 2018. https://www.csustan.edu/campus-tree-story-map/valley-oak-quercus-lobate.
+1. Cassidy, Josh. "The Sex Lives of Christmas Trees." Deep Look, November 24, 2015. https://www.kqed.org/science/366760/the-sex-lives-of-christmas-trees.
 1. Gallformers Contributors. “Gallformers.” Gallformers.org, n.d. https://gallformers.org/.
 1. Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational Evidence of Herbivore‐specific Associational Effects between Neighboring Conspecifics in Natural, Dimorphic Populations of Datura Wrightii.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454.
 1. Jackson, Lee, Bonnie Fernandez, Herman Meister, Monica Spiller, Jack Williams, Tom Kearney, Brian Marsh, et al. *Small Grain Production Manual*. Complete Edition. University of California Agriculture and Natural Resources Publications, 2006. [https://doi.org/10.3733/ucanr.8208](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8208).
@@ -19,11 +20,15 @@ icon: tree
    * Rosatti, Thomas J., and John M. Tucker. "*Quercus chrysolepis*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40565.
    * ———. "*Quercus lobata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663.
 1. Je9h, and Momento Mori. “Roses (Genus *Rosa*),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
+1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+   * ———. "These 'Resurrection Plants' Spring Back to Life in Seconds | Deep Look." Video, YouTube, June 25, 2015. https://youtu.be/eoFGKlZMo2g.
+   * ———. "The Sex Lives of Christmas Trees | Deep Look." Video, YouTube, November 24, 2015. https://youtu.be/xEji9I4Tcjo.
 1. “Landscape Plants.” Oregon State University. https://landscapeplants.oregonstate.edu/.
    *  Breen, Patrick. "*Quercus chrysolepis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-chrysolepis.
    *  ———. "*Quercus lobata*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-lobata.
    *  ———. "*Rosmarinus Officinalis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/rosmarinus-officinalis.
 1. Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants.” Video, YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
+1. Quirós, Gabriela. "These 'Resurrection Plants' Spring Back to Life in Seconds." Deep Look, June 25, 2015. https://www.kqed.org/science/73151/these-resurrection-plants-spring-back-to-life-in-seconds.
 1. Russo, Ronald A. *Field Guide to Plant Galls of California and Other Western States*. University of California Press, 2007.
 1. ———. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
 1. ———. *Plant Galls of the Western United States*. Princeton University Press, 2021.
