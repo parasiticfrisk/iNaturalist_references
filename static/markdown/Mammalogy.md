@@ -1,5 +1,5 @@
 <!--
-title: Arachnids
+title: Mammals
 icon: otter
 owner: August Frisk
 -->
