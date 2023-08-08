@@ -18,6 +18,7 @@ icon: earth-americas
 1. ———. "Banana Slugs: Secret of the Slime." Deep Look, February 17, 2015. https://www.kqed.org/science/27260/banana-slugs-secret-of-the-slime.
 1. ———. "The Hidden Perils of Permafrost." Deep Look, December 2, 2014. https://www.kqed.org/science/24399/the-hidden-perils-of-permafrost.
 1. ———. "Identical Snowflakes? Scientist Ruins Winter For Everyone." Deep Look, April 11, 2017. https://www.kqed.org/science/1536955/identical-snowflakes-scientist-ruins-winter-for-everyone-deep-look.
+1. ———. "These Fish Are All About Sex on the Beach." Deep Look, June 6, 2017. https://www.kqed.org/science/1680332/these-fish-are-all-about-sex-on-the-beach-deep-look.
 1. ———. "You're Not Hallucinating. That's Just Squid Skin." Deep Look, September 8, 2015. https://www.kqed.org/science/233664/youre-not-hallucinating-thats-just-squid-skin.
 1. Cassidy, Josh, and Carrie Boyle. "Sea Urchins Pull Themselves Inside Out to be Reborn." Deep Look, August 23, 2016. https://www.kqed.org/science/922896/sea-urchins-pull-themselves-inside-out-to-be-reborn.
 1. Cassidy, Josh, and Grace Singer. "How Do Sharks and Rays Use Electricity to Find Hidden Prey?." Deep Look, August 11, 2015. https://www.kqed.org/science/106591/sharks-and-rays-sense-electricity-fish-cant-hide.
@@ -57,6 +58,7 @@ icon: earth-americas
    * ———. "It’s a Goopy Mess When Pines and Beetles Duke it Out | Deep Look." Video, YouTube, October 24, 2017. https://youtu.be/wR5O48zsbnc.
    * ———. "Pygmy Seahorses: Masters of Camouflage | Deep Look." Video, YouTube, October 20, 2014. https://youtu.be/Q3CtGoqz3ww.
    * ———. "Sea Urchins Pull Themselves Inside Out to be Reborn | Deep Look." Video, YouTube, August 23, 2016. https://youtu.be/ak2xqH5h0YY.
+   * ———. "These Fish Are All About Sex on the Beach | Deep Look." Video, YouTube, June 6, 2017. https://youtu.be/j5F3z1iP0Ic.
    * ———. "This Mushroom Starts Killing You Before You Even Realize It | Deep Look." Video, YouTube, February 23, 2016. https://youtu.be/bl9aCH2QaQY.
    * ———. "This Pulsating Slime Mold Comes in Peace | Deep Look." Video, YouTube, April 19, 2016. https://youtu.be/Nx3Uu1hfl6Q.
    * ———. "What Happens When You Zap Coral With The World's Most Powerful X-ray Laser? | Deep Look." Video, YouTube, July 7, 2015. https://youtu.be/aXmCU6IYnsA.

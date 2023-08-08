@@ -150,6 +150,7 @@ icon: bug
 1. Kennerson, Elliot. "The Bombardier Beetle And Its Crazy Chemical Cannon." Deep Look, March 22, 2016. https://www.kqed.org/science/536762/the-bombardier-beetle-and-its-crazy-chemical-cannon.
 1. ———. "The Ladybug Love-In: A Valentine's Special." Deep Look, February 9, 2016. https://www.kqed.org/science/468582/the-once-in-a-lifetime-ladybug-love-in.
 1. ———. "Nature's Scuba Divers: How Beetles Breathe Underwater." Deep Look, November 10, 2015. https://www.kqed.org/science/341205/natures-scuba-divers-how-beetles-breathe-underwater.
+1. ———. "A Real Alien Invasion Is Coming to a Palm Tree Near You." Deep Look, June 20, 2017. https://www.kqed.org/science/1664694/a-real-alien-invasion-is-coming-to-a-palm-tree-near-you.
 1. ———. "Sticky. Stretchy. Waterproof. The Amazing Underwater Tape of the Caddisfly." Deep Look, August 9, 2016. https://www.kqed.org/science/891330/sticky-stretchy-waterproof-the-amazing-underwater-tape-of-the-caddisfly.
 1. ———. "These Carnivorous Worms Catch Bugs by Mimicking the Night Sky." Deep Look, June 28, 2016. https://www.kqed.org/science/728719/these-carnivorous-worms-catch-bugs-by-mimicking-the-night-sky.
 1. ———. "Winter is Coming for These Argentine Ant Invaders." Deep Look, May 16, 2016. https://www.kqed.org/science/633487/winter-is-coming-for-the-argentine-ant-invaders.
@@ -161,6 +162,7 @@ icon: bug
    * ———. "How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look." Video, YouTube, June 7, 2016. https://youtu.be/rD8SmacBUcU.
    * ———. "The Ladybug Love-In: A Valentine's Special | Deep Look." Video, YouTube, February 9, 2016. https://youtu.be/c-Z6xRexbIU.
    * ———. "Nature's Scuba Divers: How Beetles Breathe Underwater | Deep Look." Video, YouTube, November 10, 2015. https://youtu.be/T-RtG5Z-9jQ.
+   * ———. "A Real Alien Invasion Is Coming to a Palm Tree Near You | Deep Look." Video, YouTube, June 20, 2017. https://youtu.be/S6a3Q5DzeBM.
    * ———. "Sticky. Stretchy. Waterproof. The Amazing Underwater Tape of the Caddisfly | Deep Look." Video, YouTube, August 9, 2016. https://youtu.be/Z3BHrzDHoYo.
    * ———. "These Carnivorous Worms Catch Bugs by Mimicking the Night Sky | Deep Look." Video, YouTube, June 28, 2016. https://youtu.be/vLb0iuTVzW0.
    * ———. "These Fighting Fruit Flies Are Superheroes of Brain Science | Deep Look." Video, YouTube, March 28, 2017. https://youtu.be/yvd3X1N0jUU.
@@ -170,6 +172,7 @@ icon: bug
    * ———. "What Gall! The Crazy Cribs of Parasitic Wasps | Deep Look." Video, YouTube, November 18, 2014. https://youtu.be/lOgP5NzcTuA.
    * ———. "What Gives the Morpho Butterfly Its Magnificent Blue? | Deep Look." Video, YouTube, December 16, 2014. https://youtu.be/29Ts7CsJDpg.
    * ———. "Where Are the Ants Carrying All Those Leaves? | Deep Look." Video, YouTube, June 11, 2015. https://youtu.be/-6oKJ5FGk24.
+   * ———. "Why Is the Very Hungry Caterpillar So Dang Hungry? | Deep Look." Video, YouTube, July 11, 2017. https://youtu.be/el_lPd2oFV4.
    * ———. "Winter is Coming For These Argentine Ant Invaders | Deep Look." Video, YouTube, May 16, 2016. https://youtu.be/boyzWeHdtiI.
 1. Lafontaine, J. Donald. “Noctuoidea, Noctuidae (part): Noctuinae (part—Agrotini).” In T*he Moths of North America, Fascicle 27.1*, edited by Ronald W. Hodges, et al. The Wedge Entomological Research Foundation, 2004. https://images.peabody.yale.edu/mona/27-1-ocr.pdf.
 1. ———. “Noctuoidea, Noctuidae (part): Noctuinae (part—*Euxoa*).” In *The Moths of America North of Mexico, Fascicle 27.2*, edited by Richard B. Dominick, et al. The Wedge Entomological Research Foundation, 1987. https://images.peabody.yale.edu/mona/27-2-ocr.pdf.
@@ -234,6 +237,7 @@ icon: bug
 1. ———. "These Fighting Fruit Flies Are Superheroes of Brain Science." Deep Look, March 28, 2017. https://www.kqed.org/science/1494923/these-fighting-fruit-flies-are-superheroes-of-brain-science.
 1. ———. "These Termites Turn Your House Into a Palace of Poop." Deep Look, October 18, 2016. https://www.kqed.org/science/1065215/these-termites-turn-your-house-into-a-palace-of-poop.
 1. ———. "Where Are the Ants Carrying All Those Leaves?" Deep Look, June 11, 2015. https://www.kqed.org/science/41112/where-are-the-ants-carrying-all-those-leaves.
+1. ———. "Why Is the Very Hungry Caterpillar So Dang Hungry?" Deep Look, July 11, 2017. https://www.kqed.org/science/1811984/why-is-the-very-hungry-caterpillar-so-dang-hungry.
 1. Rosa, Craig. "What Gall! The Crazy Cribs of Parasitic Wasps." Deep Look, November 18, 2014. https://www.kqed.org/science/23927/what-gall-the-crazy-cribs-of-parasitic-wasps.
 1. Rust, M. K., and M. R. Millard. “Silverfish and Firebrat: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7475.html.
 1. Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
