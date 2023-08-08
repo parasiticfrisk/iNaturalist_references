@@ -74,6 +74,7 @@ icon: crow
    * ———. “Yellow-rumped Warbler - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
    * ———. “Western Meadowlark - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
    * ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
+1. Cassidy, Josh. "You've Heard of a Murder of Crows. How About a Crow Funeral?" Deep Look, May 15, 2018. https://www.kqed.org/science/1923458/youve-heard-of-a-murder-of-crows-how-about-a-crow-funeral.
 1. Cornell Lab of Ornithology. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
 1. Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
 1. eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
@@ -96,6 +97,8 @@ icon: crow
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "How Do Pelicans Survive Their Death-Defying Dives? | Deep Look." Video, YouTube, April 25, 2017. https://youtu.be/BfEboMmwAMw.
    * ———. "What Happens When You Put a Hummingbird in a Wind Tunnel? | Deep Look." Video, YouTube, March 31, 2015. https://youtu.be/1V7Tim2RNTo.
+   * ———. "You’d Never Guess What an Acorn Woodpecker Eats | Deep Look." Video, YouTube, June 12, 2018. https://youtu.be/XvPaiDX_3JM.
+   * ———. "You've Heard of a Murder of Crows. How About a Crow Funeral? | Deep Look." Video, YouTube, May 15, 2018. https://youtu.be/ixYVFZnNl6s.
 1. Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
 1. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Cornell Lab of Ornithology, 2000. https://www.macaulaylibrary.org/.
    * Cornell Lab of Ornithology. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
@@ -170,6 +173,7 @@ icon: crow
    * ———. "Western Bluebirds." Natural History Journal (blog), June 09, 2020. https://natural-history-journal.blogspot.com/2020/06/western-bluebirds.html.
 1. “NestWatch: Where Birds Come to Life.” Cornell Lab of Ornithology. https://nestwatch.org/.
 1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
+1. Quirós, Gabriela. "You’d Never Guess What an Acorn Woodpecker Eats." Deep Look, June 12, 2018. https://www.kqed.org/science/1925251/youd-never-guess-what-an-acorn-woodpecker-eats.
 1. Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?" Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
 1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
 1. Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.

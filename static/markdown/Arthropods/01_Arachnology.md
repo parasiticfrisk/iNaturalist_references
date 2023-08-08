@@ -20,6 +20,7 @@ owner: August Frisk
 1. Brescovit, Antonio D., Alexander Sánchez Ruiz, and Giraldo Alayón Garcia. “Filistatidae in the Caribbean Region, with a Description of the New Genus *Antilloides*, Revision of the Genus *Filistatoides* F. O. P.-Cambridge and Notes on *Kukulcania Lehtinen* (Arachnida, Araneae).” *Zootaxa 4136*, no. 3 (July 7, 2016): 401-432. [https://doi.org/10.11646/zootaxa.4136.3.1](https://www.researchgate.net/publication/304994110_The_Filistatidae_in_the_Caribbean_region_with_a_description_of_the_new_genus_Antilloides_revision_of_the_genus_Filistatoides_F_O_P-Cambridge_and_notes_on_Kukulcania_Lehtinen_Arachnida_Araneae).
 1. Bradley, Richard A., and Steve Buchanan. *Common Spiders of North America*. University of California Press, 2019.
 1. Cassidy, Josh. "Meet the Dust Mites, Tiny Roommates That Feast on Your Skin." Deep Look, April 5, 2016. https://www.kqed.org/science/607105/meet-the-dust-mites-tiny-roommates-that-feast-on-your-skin.
+1. ———. "Turret Spiders Launch Sneak Attacks From Tiny Towers." Deep Look, January 15, 2019. https://www.kqed.org/science/1936465/turret-spiders-launch-sneak-attacks-from-tiny-towers.
 1. Chamberlin, Ralph V. “New North American Spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://www.biodiversitylibrary.org/item/22408#page/113/mode/1up.
 1. ———. “The Spider Fauna of the Shores and Islands of the Gulf of California.” *Proceedings of the California Academy of Sciences 12*, no. 28 (April 14, 1924): 561–694. https://www.biodiversitylibrary.org/item/86392#page/582/mode/1up.
 1. ———. “New Californian Spiders.” *Journal of Entomology and Zoology 12* (1919): 1–17. https://www.biodiversitylibrary.org/page/12475384#page/11/mode/1up.
@@ -72,13 +73,17 @@ owner: August Frisk
 1. Jiménez, María-Luisa, and José Hidalgo Navarrete. “Fauna de Arañas Del Suelo de Una Comunidad Árida-Tropical En Baja California Sur, México” *Revista Mexicana De Bioversidad 81*, no. 2 (August, 2010): 417–26. https://www.researchgate.net/publication/287539936_Ground_surface_spider_fauna_in_an_arid_tropical_community_in_Baja_California_Sur_Mexico.
 1. Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
 1. Kaston, Benjamin J., John Barmick, Edward Cawley, and W. Jaques. *How to Know the Spiders*. Third Edition. WCB/McGraw-Hill, 1978. https://wsc.nmbe.ch/refincluded/4326.
-1. Kennerson, Elliot. "For These Tiny Spiders, It's Sing or Get Served." Deep Look, October 4, 2016. https://www.kqed.org/science/1027372/for-these-tiny-spiders-its-sing-or-get-served.
+1. Kennerson, Elliott. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive." Deep Look, August 22, 2017. https://www.kqed.org/science/1914209/daddy-longlegs-risk-life-and-especially-limb-to-survive.
+1. ———. "For These Tiny Spiders, It's Sing or Get Served." Deep Look, October 4, 2016. https://www.kqed.org/science/1027372/for-these-tiny-spiders-its-sing-or-get-served.
 1. Kimlov, Pavel, and Barry OConnor. “Genetic Study of House Dust Mites Demonstrates Reversible Evolution.” University of Michigan News, March 8, 2013. https://news.umich.edu/genetic-study-of-house-dust-mites-demonstrates-reversible-evolution/.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive | Deep Look." Video, YouTube, August 22, 2017. https://youtu.be/tjDmH8zhp6o.
    * ———. "For These Tiny Spiders, It's Sing or Get Served | Deep Look." Video, YouTube, October 4, 2016. https://youtu.be/y7qMqAgCqME.
    * ———. "Meet the Dust Mites, Tiny Roommates That Feast On Your Skin | Deep Look." Video, YouTube, April 5, 2016. https://youtu.be/ACrLMtPyRM0.
+   * ———. "How Ticks Dig In With a Mouth Full of Hooks | Deep Look." Video, YouTube, March 20, 2018. https://youtu.be/_IoOJu2_FKE.
+   * ———. "Turret Spiders Launch Sneak Attacks From Tiny Towers | Deep Look." Video, YouTube, January 15, 2019. https://youtu.be/9bEjYunwByw.
    * ———. "Why the Male Black Widow is a Real Home Wrecker | Deep Look." Video, YouTube, January 9, 2018. https://youtu.be/NpJNeGqExrc.
+1. Kusmer, Anna, and Elliott Kennerson. "Why the Male Black Widow is a Real Home Wrecker." Deep Look, January 9, 2018. https://www.kqed.org/science/1917913/why-the-male-black-widow-spider-is-a-real-home-wrecker.
 1. Leech, Robin. “A Revision of the Nearctic Amaurobiidae (Arachnida: Araneida).” *Memoirs of the Entomological Society of Canada 104*, no. S84 (1972): 9–182. [https://doi.org/10.4039/entm10484fv](https://wsc.nmbe.ch/refincluded/4334).
 1. Levi, Herbert W. “American Neoscona and Corrections to Previous Revisions of Neotropical Orb-Weavers (Araneae: Araneidae).” *Psyche: A Journal of Entomology 99*, no. 2–3 (January 1, 1992): 221–39. https://doi.org/10.1155/1992/93912.
 1. ———. “The American Orb-Weaver Genera *Dolichognatha* and *Tetragnatha* North of Mexico (Araneae: Araneidae, Tetragnathinae).” *Bulletin of the Museum of Comparative Zoology 149*, no. 5 (July 21, 1981): 271–318. https://www.biodiversitylibrary.org/page/4776863#page/299/mode/1up.
@@ -113,6 +118,7 @@ owner: August Frisk
 1. ———. “A Revision of the North American Spider Genus *Anachemmis* Chamberlin (Araneae, Tengellidae).” *American Museum Novitates 3477* (May 11, 2005). https://hdl.handle.net/2246/2787.
 1. ———. “A Revision of the North American Spiders of the New Genus *Socalchemmis* (Araneae, Tengellidae).” *American Museum Novitates 3339* (June 22, 2001). https://hdl.handle.net/2246/2892.
 1. Polotow, Daniele, Anthea Carmichael, and Charles E. Griswold. “Total Evidence Analysis of the Phylogenetic Relationships of Lycosoidea Spiders (Araneae, Entelegynae).” *Invertebrate Systematics 29*, no. 2 (June 11, 2015): 124. https://doi.org/10.1071/is14041.
+1. Quirós, Gabriela. "How Ticks Dig In With a Mouth Full of Hooks." May 20, 2018. https://www.kqed.org/science/1920972/how-ticks-dig-in-with-a-mouth-full-of-hooks.
 1. Roth, Vincent D. *Spider Genera of North America: With Keys to Families and Genera, and a Guide to Literature*. Third Edition. American Arachnological Society, 1993. https://wsc.nmbe.ch/refincluded/7789.
 1. ———. *Preliminary Handbook for Spider Identification: A Guide to the Important Catalogs, Recent Family and Generic Revisions with Supraspecific Keys to Spiders of America North of Mexico*, 1982. https://wsc.nmbe.ch/refincluded/5663.
 1. ———. “The Spider Genus *Tegenaria* in the Western Hemisphere (Agelenidae).” *American Museum Novitates 2323* (June 19, 1968). https://hdl.handle.net/2246/2533.
