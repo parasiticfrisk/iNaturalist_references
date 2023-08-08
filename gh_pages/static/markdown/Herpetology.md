@@ -21,6 +21,7 @@ icon: frog
 1. ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.
 1. Jaacks, Jason. "Nature's Mood Rings: How Chameleons Really Change Color." Deep Look, August 25, 2015. https://www.kqed.org/science/206401/natures-mood-rings-how-chameleons-really-change-color.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+   * ———. "Can a New 'Vaccine' Stem the Frog Apocalypse? | Deep Look." Video, YouTube, September 6, 2016. https://youtu.be/-IXVcyCZVBg.
    * ———. "Nature's Mood Rings: How Chameleons Really Change Color | Deep Look." Video, YouTube, August 25, 2015. https://youtu.be/Kp9W-_W8rCM.
    * ———. "Newt Sex: Buff Males! Writhing Females! Cannibalism! | Deep Look." Video, YouTube, March 17, 2015. https://youtu.be/JyqY64ovjfY. 
    * ———. "These Crazy Cute Baby Turtles Want Their Lake Back | Deep Look." Video, YouTube, January 26, 2016. https://youtu.be/YTYFdpNpkMY.
@@ -28,5 +29,6 @@ icon: frog
 1. Pickett, Mallory, and Gabriela Quirós. "Newt Sex: Buff Males! Writhing Females! Cannibalism!." Deep Look, March 17, 2015. https://www.kqed.org/science/28273/newt-sex-buff-males-writhing-females-cannibalism.
 1. Quirós, Gabriela. "These Crazy Cute Baby Turtles Want Their Lake Back." Deep Look, January 26, 2016. https://www.kqed.org/science/474213/these-crazy-cute-baby-turtles-want-their-lake-back. 
 1. Somma, L. A., A. Foster, P. Fuller, and C. Cameron. “*Trachemys Scripta Elegans* (Wied-Neuweid, 1838).” U.S. Geological Survey, Nonindigenous Aquatic Species Database, December 2, 2022. https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1261.
+1. Sommer, Lauren. "Can a New 'Vaccine' Stem the Frog Apocalypse?." Deep Look, September 6, 2016. https://www.kqed.org/science/959844/can-a-new-vaccine-stem-the-frog-apocalypse.
 1. Stebbins, Robert C., and Samuel M. McGinnis. *Field Guide to Amphibians and Reptiles of California*. University of California Press, 2012.
 1. ———. *Peterson Field Guide to Western Reptiles & Amphibians*, Fourth Edition. Houghton Mifflin, 2018.
