@@ -15,12 +15,14 @@ icon: frog
    * ———. "Red-eared Slider - *Trachemys scripta elegans*." California Herps, 2000-2023. https://www.californiaherps.com/turtles/pages/t.s.elegans.html.
    * ———. "Small Spiny Lizards Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/smallspiny.id.html.
    * ———. “Sounds of American Bullfrog - *Lithobates catesbeianus*.” California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.sounds.html.
+1. Cassidy, Josh. "5 Things You Thought You Knew -- But Didn't -- About Rattlesnakes." Deep Look, July 30, 2019. https://www.kqed.org/science/1945648/5-things-you-thought-you-knew-but-didnt-about-rattlesnakes.
 1. Cassidy, Josh. "These Lizards Have Been Playing Rock-Paper-Scissors for 15 Million Years." Deep Look, May 17, 2016. https://www.kqed.org/science/681185/these-lizards-have-been-playing-rock-paper-scissors-for-15-million-years.
 1. Ernst, Carl H., and Jeffrey E. Lovich. *Turtles of the United States and Canada*. Jonhs Hopkins University Press, 2009.
 1. Frisk, August. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 20, 2022. https://www.inaturalist.org/observations/131860817.
 1. ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.
 1. Jaacks, Jason. "Nature's Mood Rings: How Chameleons Really Change Color." Deep Look, August 25, 2015. https://www.kqed.org/science/206401/natures-mood-rings-how-chameleons-really-change-color.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+   * ———. "5 Things You Thought You Knew -- But Didn't -- About Rattlesnakes | Deep Look." Video, YouTube, July 30, 2019. https://youtu.be/ZO4IAZycUik.
    * ———. "Can a New 'Vaccine' Stem the Frog Apocalypse? | Deep Look." Video, YouTube, September 6, 2016. https://youtu.be/-IXVcyCZVBg.
    * ———. "Nature's Mood Rings: How Chameleons Really Change Color | Deep Look." Video, YouTube, August 25, 2015. https://youtu.be/Kp9W-_W8rCM.
    * ———. "Newt Sex: Buff Males! Writhing Females! Cannibalism! | Deep Look." Video, YouTube, March 17, 2015. https://youtu.be/JyqY64ovjfY. 

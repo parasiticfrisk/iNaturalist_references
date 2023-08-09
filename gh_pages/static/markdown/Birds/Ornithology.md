@@ -96,6 +96,7 @@ icon: crow
 1. Kennerson, Elliott. "Volunteer Brown Pelican Count Aims to Measure Recovery of Once-Endangered Birds." Deep Look, April 25, 2017. https://www.kqed.org/science/1565668/volunteer-brown-pelican-count-aims-to-measure-recovery-of-once-endangered-birds.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "How Do Pelicans Survive Their Death-Defying Dives? | Deep Look." Video, YouTube, April 25, 2017. https://youtu.be/BfEboMmwAMw.
+   * ———. "Peregrine Falcons are Feathered Fighter Jets, Basically | Deep Look." Video, YouTube, August 20, 2019. https://youtu.be/lm0CtcEZV4E.
    * ———. "What Happens When You Put a Hummingbird in a Wind Tunnel? | Deep Look." Video, YouTube, March 31, 2015. https://youtu.be/1V7Tim2RNTo.
    * ———. "You’d Never Guess What an Acorn Woodpecker Eats | Deep Look." Video, YouTube, June 12, 2018. https://youtu.be/XvPaiDX_3JM.
    * ———. "You've Heard of a Murder of Crows. How About a Crow Funeral? | Deep Look." Video, YouTube, May 15, 2018. https://youtu.be/ixYVFZnNl6s.
@@ -172,6 +173,7 @@ icon: crow
    * ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
    * ———. "Western Bluebirds." Natural History Journal (blog), June 09, 2020. https://natural-history-journal.blogspot.com/2020/06/western-bluebirds.html.
 1. “NestWatch: Where Birds Come to Life.” Cornell Lab of Ornithology. https://nestwatch.org/.
+1. Oh, Jenny. "Peregrine Falcons are Feathered Fighter Jets, Basically." Deep Look, August 20, 2019. https://www.kqed.org/science/1944037/peregrine-falcons-are-feathered-fighter-jets-basically.
 1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
 1. Quirós, Gabriela. "You’d Never Guess What an Acorn Woodpecker Eats." Deep Look, June 12, 2018. https://www.kqed.org/science/1925251/youd-never-guess-what-an-acorn-woodpecker-eats.
 1. Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?" Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.

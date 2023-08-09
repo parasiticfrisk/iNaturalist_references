@@ -19,7 +19,9 @@ owner: August Frisk
    * ———. "The House Centipede Is Fast, Furious and Hella Leggy | Deep Look." Video, YouTube, September 25, 2018. https://youtu.be/q2RtbP1d7Kg.
    * ———. "Roly Polies Came From the Sea to Conquer the Earth | Deep Look." Video, YouTube, January 17, 2017. https://youtu.be/sj8pFX9SOXE.
    * ———. "The Snail-Smashing, Fish-Spearing, Eye-Popping Mantis Shrimp | Deep Look." Video, YouTube, November 15, 2016. https://youtu.be/Lm1ChtK9QDU.
+   * ———. "This Millipede and Beetle Have a Toxic Relationship | Deep Look." Video, YouTube, April 23, 2019. https://youtu.be/s5ocDRUFUIE.
    * ———. "Whack! Jab! Crack! It's a Blackback Land Crab Smackdown | Deep Look." Video, YouTube, November 6, 2018. https://youtu.be/KBMUhG0aEFg.
 1. “Meet the Beneficials: Natural Enemies of Garden Pests.” Poster, University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 21, 2016. https://ipm.ucanr.edu/IPMPROJECT/ADS/poster_naturalenemies.html.
+1. Oh, Jenny. "This Millipede and Beetle Have a Toxic Relationship." Deep Look, April 23, 2019. https://www.kqed.org/science/1939811/this-millipede-and-beetle-have-a-toxic-relationship.
 1. Quirós, Gabriela. "Decorator Crabs Make High Fashion at Low Tide." Deep Look, May 9, 2017. https://www.kqed.org/science/1602625/decorator-crabs-make-high-fashion-at-low-tide.
 1. Toft, Jason D., Jeffery R. Cordell, and Wayne Fields. “New Records of Crustaceans (Amphipoda, Isopoda) in the Sacramento/San Joaquin Delta, California, and Application of Criteria for Introduced Species.” *Journal of Crustacean Biology 22*, no. 1 (February 1, 2002): 190–200. https://doi.org/10.1163/20021975-99990222.

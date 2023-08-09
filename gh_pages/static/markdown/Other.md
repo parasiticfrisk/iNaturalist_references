@@ -69,6 +69,7 @@ icon: earth-americas
    * ———. "These Fish Are All About Sex on the Beach | Deep Look." Video, YouTube, June 6, 2017. https://youtu.be/j5F3z1iP0Ic.
    * ———. "These Hairworms Eat a Cricket Alive and Control Its Mind | Deep Look." Video, YouTube, February 12, 2019. https://youtu.be/YB6O7jS_VBM.
    * ———. "This Adorable Sea Slug Is a Sneaky Little Thief | Deep Look." Video, YouTube, August 28, 2018. https://youtu.be/KLVfWKxtfow.
+   * ———. "This Killer Fungus Turns Flies into Zombies | Deep Look." Video, YouTube, October 22, 2019. https://youtu.be/C2Jw5ib-s_I.
    * ———. "This Mushroom Starts Killing You Before You Even Realize It | Deep Look." Video, YouTube, February 23, 2016. https://youtu.be/bl9aCH2QaQY.
    * ———. "This Pulsating Slime Mold Comes in Peace | Deep Look." Video, YouTube, April 19, 2016. https://youtu.be/Nx3Uu1hfl6Q.
    * ———. "Want a Whole New Body? Ask This Flatworm How | Deep Look." Video, YouTube, October 23, 2018. https://youtu.be/m12xsf5g3Bo.
@@ -91,6 +92,7 @@ icon: earth-americas
 1. Quirós, Gabriela. "If Your Hands Could Smell, You’d Be an Octopus." Deep Look, February 14, 2017. https://www.kqed.org/science/1391513/if-your-hands-could-smell-youd-be-an-octopus.
 1. Quirós, Gabriela. "In the Race for Life, Which Human Embryos Make It?" Deep Look, February 3, 2015. https://www.kqed.org/science/26870/in-the-race-for-life-which-human-embryos-make-it.
 1. ———. "These Hairworms Eat a Cricket Alive and Control Its Mind." Deep Look, February 12, 2019. https://www.kqed.org/science/1937775/these-hairworms-eat-a-cricket-alive-and-control-its-mind.
+1. ———. "This Killer Fungus Turns Flies into Zombies." Deep Look, October 22, 2019. https://www.kqed.org/science/1949314/this-killer-fungus-turns-flies-into-zombies.
 1. ———. "This Mushroom Starts Killing You Before You Even Realize It." Deep Look, February 23, 2016. https://www.kqed.org/science/523936/this-mushroom-starts-killing-you-before-you-even-realize-it.
 1. ———. "This Pulsating Slime Mold Comes in Peace." Deep Look, April 19, 2016. https://www.kqed.org/science/635319/this-pulsating-slime-mold-comes-in-peace.
 1. ———. "Want a Whole New Body? Ask This Flatworm How." Deep Look, October 23, 2018. https://www.kqed.org/science/1933246/want-a-whole-new-body-ask-this-flatworm-how.
