@@ -21,8 +21,10 @@ icon: tree
    * ———. "*Quercus lobata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663.
 1. Je9h, and Momento Mori. “Roses (Genus *Rosa*),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+   * ———. "Cape Sundews Trap Bugs In A Sticky Situation | Deep Look." Video, YouTube, July 28, 2020. https://youtu.be/D4kBrsyWhS4.
    * ———. "These 'Resurrection Plants' Spring Back to Life in Seconds | Deep Look." Video, YouTube, June 25, 2015. https://youtu.be/eoFGKlZMo2g.
    * ———. "This Giant Plant Looks Like Raw Meat and Smells Like Dead Rat | Deep Look." Video, YouTube, January 23, 2018. https://youtu.be/ycUNj_Hv4_Y.
+   * ———. "This is NOT a Dandelion | Deep Look." Video, YouTube, September 8, 2020. https://youtu.be/_7SIHtWu2hw.
    * ———. "The Sex Lives of Christmas Trees | Deep Look." Video, YouTube, November 24, 2015. https://youtu.be/xEji9I4Tcjo.
    * ———. "Why Do Tumbleweeds Tumble? | Deep Look." Video, YouTube, May 1, 2018. https://youtu.be/dATZsuPdOnM.
 1. “Landscape Plants.” Oregon State University. https://landscapeplants.oregonstate.edu/.
@@ -30,7 +32,9 @@ icon: tree
    * ———. "*Quercus lobata*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-lobata.
    * ———. "*Rosmarinus Officinalis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/rosmarinus-officinalis.
 1. Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants.” Video, YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
+1. Oh, Jenny. "Cape Sundews Trap Bugs In A Sticky Situation." Deep Look, July 28, 2020. https://www.kqed.org/science/1966521/cape-sundews-trap-bugs-in-a-sticky-situation.
 1. Quirós, Gabriela. "These 'Resurrection Plants' Spring Back to Life in Seconds." Deep Look, June 25, 2015. https://www.kqed.org/science/73151/these-resurrection-plants-spring-back-to-life-in-seconds.
+1. ———. "This is NOT a Dandelion." Deep Look, September 8, 2020. https://www.kqed.org/science/1969214/this-is-not-a-dandelion.
 1. ———. "This Giant Plant Looks Like Raw Meat and Smells Like Dead Rat." Deep Look, January 23, 2018. https://www.kqed.org/science/1918845/this-giant-plant-looks-like-raw-meat-and-smells-like-dead-rat.
 1. ———. "Why Do Tumbleweeds Tumble?" Deep Look, May 1, 2018. https://www.kqed.org/science/1922987/why-do-tumbleweeds-tumble.
 1. Russo, Ronald A. *Field Guide to Plant Galls of California and Other Western States*. University of California Press, 2007.

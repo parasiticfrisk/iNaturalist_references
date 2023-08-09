@@ -21,6 +21,7 @@ owner: August Frisk
 1. Bradley, Richard A., and Steve Buchanan. *Common Spiders of North America*. University of California Press, 2019.
 1. Cassidy, Josh. "Meet the Dust Mites, Tiny Roommates That Feast on Your Skin." Deep Look, April 5, 2016. https://www.kqed.org/science/607105/meet-the-dust-mites-tiny-roommates-that-feast-on-your-skin.
 1. ———. "These Face Mites Really Grow on You." Deep Look, May 21, 2019. https://www.kqed.org/science/1941506/these-face-mites-really-grow-on-you.
+1. ———. "These Mites Rain Down To Save Your Strawberries." January 26, 2021. https://www.kqed.org/science/1972295/these-mites-rain-down-to-save-your-strawberries.
 1. ———. "Turret Spiders Launch Sneak Attacks From Tiny Towers." Deep Look, January 15, 2019. https://www.kqed.org/science/1936465/turret-spiders-launch-sneak-attacks-from-tiny-towers.
 1. Chamberlin, Ralph V. “New North American Spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://www.biodiversitylibrary.org/item/22408#page/113/mode/1up.
 1. ———. “The Spider Fauna of the Shores and Islands of the Gulf of California.” *Proceedings of the California Academy of Sciences 12*, no. 28 (April 14, 1924): 561–694. https://www.biodiversitylibrary.org/item/86392#page/582/mode/1up.
@@ -63,6 +64,7 @@ owner: August Frisk
 1. Griswold, Charles E. “A Revision of the Jumping Spider Genus *Habronattus* F.O.P.-Cambridge (Araneae, Salticidae), with Phenetic and Cladistic Analyses.” *The University of California Publications in Entomology 107* (January 1, 1987): 1–344. https://wsc.nmbe.ch/refincluded/6395.
 1. Hebert, Blaine R. “The Taxonomy and Biology of the Spider Genus *Hololena* Chamberlin and Gertsch in Southern California,” Master's Thesis, California Sate University, Northridge, May 1990. https://scholarworks.csun.edu:443/handle/10211.3/191410.
 1. Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
+1. Heiss, John S., and Michael L. Draney. “Revision of the Nearctic Spider Genus *Calymmaria* (Araneae, Hahniidae).” *Journal of Arachnology 32*, no. 3 (December 1, 2004): 457–525. [https://doi.org/10.1636/h02-12](https://www.biodiversitylibrary.org/page/53125415#page/107/mode/1up).
 1. Hentz, Nicholas M. “Descriptions and Figures of the Araneides of the United States.” *Boston Journal of Natural History 5* (1846): 189-202; 352–70. https://www.biodiversitylibrary.org/item/100572#page/395/mode/1up.
 1. Hormiga, Gustavo. “Higher Level Phylogenetics of Erigonine Spiders (Araneae, Linyphiidae, Erigoninae).” *Smithsonian Contributions to Zoology*, no. 609 (2000): 1–160. https://doi.org/10.5479/si.00810282.609.
 1. Humbel, Ellen A., Rebecca T. Kimball, and Lisa A. Taylor. “Males Respond to Substrate-Borne, Not Airborne, Female Chemical Cues in the Jumping Spider, *Habronattus pyrrithrix* (Araneae: Salticidae).” *Journal of Arachnology 49*, no. 2 (July 29, 2021). https://doi.org/10.1636/joa-s-20-055.
@@ -73,7 +75,7 @@ owner: August Frisk
 1. Jiménez, María-Luisa, David Chamé-Vázquez, and Carlos Palacios-Cardiel. “New Records of Spiders (Arachnida: Araneae) from the Madrean Archipelago of Sonora, Mexico.” *Pan-Pacific Entomologist 98*, no. 3 (September 16, 2022). [https://doi.org/10.3956/2022-98.3.196](https://wsc.nmbe.ch/refincluded/16736).
 1. Jiménez, María-Luisa, and José Hidalgo Navarrete. “Fauna de Arañas Del Suelo de Una Comunidad Árida-Tropical En Baja California Sur, México” *Revista Mexicana De Bioversidad 81*, no. 2 (August, 2010): 417–26. https://www.researchgate.net/publication/287539936_Ground_surface_spider_fauna_in_an_arid_tropical_community_in_Baja_California_Sur_Mexico.
 1. Jude, Ewunkem Akamu, and Kyle Agee. “Spider Parental Care and Awe-Inspiring Egg Sac (Cocoon).” *International Journal of Zoology 2022* (September 29, 2022): 1–7. https://doi.org/10.1155/2022/6763306.
-1. Kaston, Benjamin J., John Barmick, Edward Cawley, and W. Jaques. *How to Know the Spiders*. Third Edition. WCB/McGraw-Hill, 1978. https://wsc.nmbe.ch/refincluded/4326.
+1. Kaston, Benjamin J. *How to Know the Spiders*. Edited by John Barmick, Edward Cawley, and W. Jaques. Third Edition. WCB/McGraw-Hill, 1978. https://wsc.nmbe.ch/refincluded/4326.
 1. Kennerson, Elliott. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive." Deep Look, August 22, 2017. https://www.kqed.org/science/1914209/daddy-longlegs-risk-life-and-especially-limb-to-survive.
 1. ———. "For These Tiny Spiders, It's Sing or Get Served." Deep Look, October 4, 2016. https://www.kqed.org/science/1027372/for-these-tiny-spiders-its-sing-or-get-served.
 1. ———. "Tarantulas Take Hooking Up to the Next Level." Deep Look, November 5, 2019. https://www.kqed.org/science/1950117/tarantulas-take-hooking-up-to-the-next-level.
@@ -81,10 +83,13 @@ owner: August Frisk
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive | Deep Look." Video, YouTube, August 22, 2017. https://youtu.be/tjDmH8zhp6o.
    * ———. "For These Tiny Spiders, It's Sing or Get Served | Deep Look." Video, YouTube, October 4, 2016. https://youtu.be/y7qMqAgCqME.
-   * ———. "Meet the Dust Mites, Tiny Roommates That Feast On Your Skin | Deep Look." Video, YouTube, April 5, 2016. https://youtu.be/ACrLMtPyRM0.
    * ———. "How Ticks Dig In With a Mouth Full of Hooks | Deep Look." Video, YouTube, March 20, 2018. https://youtu.be/_IoOJu2_FKE.
+   * ———. "Is a Spider's Web a Part of Its Mind? | Deep Look." Video, YouTube, September 21, 2020. https://youtu.be/rpwkgMX4IlQ.
+   * ———. "Meet the Dust Mites, Tiny Roommates That Feast On Your Skin | Deep Look." Video, YouTube, April 5, 2016. https://youtu.be/ACrLMtPyRM0.
+   * ———. "Scorpions Are Predators With a Sensitive Side | Deep Look." Video, YouTube, May 4, 2021. https://youtu.be/3jtm9BdnE1U.
    * ———. "Tarantulas Take Hooking Up to the Next Level | Deep Look." Video, YouTube, November 5, 2019. https://youtu.be/5gOKd4cqFaY.
    * ———. "These Face Mites Really Grow on You | Deep Look." Video, YouTube, May 21, 2019. https://youtu.be/YW2eGaUzq7E.
+   * ———. "These Mites Rain Down To Save Your Strawberries | Deep Look." Video, YouTube, January 26, 2021. https://youtu.be/Q1XFi9r3dIE.
    * ———. "Turret Spiders Launch Sneak Attacks From Tiny Towers | Deep Look." Video, YouTube, January 15, 2019. https://youtu.be/9bEjYunwByw.
    * ———. "Why the Male Black Widow is a Real Home Wrecker | Deep Look." Video, YouTube, January 9, 2018. https://youtu.be/NpJNeGqExrc.
 1. Kusmer, Anna, and Elliott Kennerson. "Why the Male Black Widow is a Real Home Wrecker." Deep Look, January 9, 2018. https://www.kqed.org/science/1917913/why-the-male-black-widow-spider-is-a-real-home-wrecker.
@@ -133,6 +138,8 @@ owner: August Frisk
 1. Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
 1. Schick, Robert X. “The Crab Spiders of California (Araneida, Thomisidae).” *Bulletin of the American Museum of Natural History 129*, no. 1 (1965): 1–180. https://hdl.handle.net/2246/1114.
 1. Salceda, Beatriz, César Gabriel Durán-Barrón, Magaly G Landa Flores, and Ma Ruth Sandoval-Espinosa. “Un Tuerto En La Familia: Anomalía Ocular En *Zorocrates* Sp. (Araneae: Zoropsidae) En México.” *Revista Ibérica De Aracnología 42* (June 27, 2023): 259–60. https://www.researchgate.net/publication/371902053_Un_tuerto_en_la_familia_Anomalia_ocular_en_Zorocrates_sp_Araneae_Zoropsidae_en_Mexico.
+1. Seely, Mike. "Is a Spider's Web a Part of Its Mind?" Deep Look, September 21, 2020. https://www.kqed.org/science/1969661/is-a-spiders-web-a-part-of-its-mind.
+1. ———. "Scorpions Are Predators With a Sensitive Side." Deep Look, May 4, 2021. https://www.kqed.org/science/1974305/scorpions-are-predators-with-a-sensitive-side.
 1. Silva-Dávila, Diana. “Higher-Level Relationships of the Spider Family Ctenidae (Araneae: Ctenoidea).” *Bulletin of the American Museum of Natural History 274* (February 6, 2003): 1–86. [https://doi.org/10.1206/0003-0090(2003)274<0001:HLROTS>2.0.CO;2](https://doi.org/10.1206/0003-0090(2003)274<0001:HLROTS>2.0.CO;2).
 1. Spagna, Joseph C., Edgar A. Valdivia, and Vivin Mohan. “Gait Characteristics of Two Fast-Running Spider Species (*Hololena adnexa* and *Hololena curta*), Including an Aerial Phase (Araneae: Agelenidae).” *Journal of Arachnology 39*, no. 1 (June 22, 2011): 84–91. https://doi.org/10.1636/b10-45.1.
 1. Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
@@ -147,7 +154,8 @@ owner: August Frisk
 1. Vetter, Richard S. “Spiders: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2020. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7442.html.
 1. ———. “Widow Spiders and Their Relatives: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2017. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74149.html.
 1. Vetter, Richard S., and Darrell Ubick. “*Zoropsis spinimana*, A Mediterranean Spider In California: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74143.html.
-1. Vogel, Beatrice R. “A Review of the Spider Genera *Pardosa* and *Acantholycosa* (Araneae, Lycosidae) of the 48 Contiguous United States.” *Journal of Arachnology 32*, no. 1 (April 1, 2004): 55–108. https://doi.org/10.1636/h03-8.
+1. Vogel, Beatrice R. “A Review of the Spider Genera *Pardosa* and *Acantholycosa* (Araneae, Lycosidae) of the 48 Contiguous United States.” *Journal of Arachnology 32*, no. 1 (April 1, 2004): 55–108. [https://doi.org/10.1636/h03-8](https://www.biodiversitylibrary.org/page/53156845#page/57/mode/1up).
+1. ———. “Taxonomy and Morphology of the Sternalis and Falcifera Species Groups of *Pardosa* (Araneida: Lycosidae).” *Armadillo Papers 3* (June 19, 1970): 1–31. https://wsc.nmbe.ch/refincluded/4177.
 1. Whitman-Zai, Julie, Maren Francis, Margaret Geick, and Paula E. Cushing. “Revision and Morphological Phylogenetic Analysis of the Funnel Web Spider Genus *Agelenopsis* (Araneae: Agelenidae).” *Journal of Arachnology 43*, no. 1 (March 3, 2015): 1–25. [https://doi.org/10.1636/k14-35.1](https://www.researchgate.net/publication/276833638_Revision_and_morphological_phylogenetic_analysis_of_the_funnel_web_spider_genus_Agelenopsis_Araneae_Agelenidae).
 1. “World Spider Catalog,” Natural History Museum Bern. https://wsc.nmbe.ch/.
    * Dunlop, Jason A., David Penney, and Denise Jekel. “A Summary List of Fossil Spiders and Their Relatives.” World Spider Catalog, April 1, 2023. https://wsc.nmbe.ch/resources/fossils/Fossils23.5.pdf.

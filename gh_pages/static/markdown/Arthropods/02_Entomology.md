@@ -24,7 +24,10 @@ icon: bug
    * ———. "*Stagmomantis limbata*, ootheca." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=149885&description=Ootheca.
 1. Burford, Benjamin P., Gail Lee, Daniel Friedman, Esmé Brachmann, Rebia Khan, Dylan MacArthur-Waltz, Aidan D. McCarty, and Deborah M. Gordon. “Foraging Behavior and Locomotion of the Invasive Argentine Ant from Winter Aggregations.” *PLoS ONE 13*, no. 8 (August 9, 2018): e0202117. https://doi.org/10.1371/journal.pone.0202117.
 1. Caprile, J. L., Mary L. Flint, M. P. Bolda, J. A. Grant, R. Van Steenwyk, and David R. Haviland. “Spotted Wing Drosophila: Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74158.html.
-1. Cassidy, Josh. "The Double-Crossing Ants to Whom Friendship Means Nothing." Deep Look, November 1, 2016. https://www.kqed.org/science/1089990/the-double-crossing-ants-to-whom-friendship-means-nothing.
+1. Cassidy, Josh. "Born Pregnant: Aphids Invade with an Onslaught of Clones." Deep Look, March 9, 2021. https://www.kqed.org/science/1973052/born-pregnant-aphids-invade-with-an-onslaught-of-clones.
+1. ———. "The Double-Crossing Ants to Whom Friendship Means Nothing." Deep Look, November 1, 2016. https://www.kqed.org/science/1089990/the-double-crossing-ants-to-whom-friendship-means-nothing.
+1. ———. "A Flea's Fantastic Jump Takes More Than Muscle." Deep Look, March 10, 2020. https://www.kqed.org/science/1957872/a-fleas-fantastic-jump-takes-more-than-muscle.
+1. ———. "Glasswing Butterflies Want To Make Something Perfectly Clear." Deep Look, June 2, 2020. https://www.kqed.org/science/1964775/glasswing-butterflies-want-to-make-something-perfectly-clear.
 1. ———. "Kidnapper Ants Steal Other Ants' Babies — And Brainwash Them." Deep Look, September 24, 2019. https://www.kqed.org/science/1947369/kidnapper-ants-steal-other-ants-babies-and-brainwash-them.
 1. ———. "Praying Mantis Love Is Waaay Weirder Than You Think." Deep Look, November 14, 2017. https://www.kqed.org/science/1917469/praying-mantis-love-is-waaay-weirder-than-you-think-deep-look.
 1. ———. "This Is Why Water Striders Make Terrible Lifeguards." Deep Look, August 1, 2017. https://www.kqed.org/science/1871155/this-is-why-water-striders-make-terrible-lifeguards.
@@ -164,8 +167,13 @@ icon: bug
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "A Baby Dragonfly's Mouth Will Give You Nightmares | Deep Look." Video, YouTube, September 12, 2017. https://youtu.be/EHo_9wnnUTE.
    * ———. "The Bombardier Beetle And Its Crazy Chemical Cannon | Deep Look." Video, YouTube, March 22, 2016. https://youtu.be/BWwgLS5tK80.
+   * ———. "Born Pregnant: Aphids Invade with an Onslaught of Clones | Deep Look." Video, YouTube, March 9, 2021. https://youtu.be/vrzalLssomg.
    * ———. "The Curious Webspinner Insect Knits a Cozy Home | Deep Look." Video, YouTube, November 19, 2019. https://youtu.be/l_JP3RbJ8zk.
    * ———. "The Double-Crossing Ants to Whom Friendship Means Nothing | Deep Look." Video, YouTube, November 1, 2016. https://youtu.be/fguo3HvWjb0.
+   * ———. "Firebrats and Silverfish Are Rocking Some Old-School Looks | Deep Look." Video, YouTube, February 23, 2021. https://youtu.be/KefMerovEjY.
+   * ———. "A Flea's Fantastic Jump Takes More Than Muscle | Deep Look." Video, YouTube, March 10, 2020. https://youtu.be/A5KvNcNz9aQ.
+   * ———. "Glasswing Butterflies Want To Make Something Perfectly Clear | Deep Look." Video, YouTube, June 2, 2020. https://youtu.be/LYxTyMF9k_4.
+   * ———. "Here’s How That Annoying Fly Dodges Your Swatter | Deep Look." Video, YouTube, November 24, 2020. https://youtu.be/jBPFCvEhv9Y.
    * ———. "Honey Bees Make Honey ... and Bread? | Deep Look." Video, YouTube, May 7, 2019. https://youtu.be/sAKkjD3nEv0.
    * ———. "How Lice Turn Your Hair Into Their Jungle Gym | Deep Look." Video, YouTube, March 26, 2019. https://youtu.be/Yb26BBvAAWU.
    * ———. "How Mosquitoes Use Six Needles to Suck Your Blood | Deep Look." Video, YouTube, June 7, 2016. https://youtu.be/rD8SmacBUcU.
@@ -173,21 +181,28 @@ icon: bug
    * ———. "Jerusalem Crickets Only Date Drummers | Deep Look." Video, YouTube, January 29, 2019. https://youtu.be/mHbwC-AIyTE.
    * ———. "Kidnapper Ants Steal Other Ants' Babies — And Brainwash Them | Deep Look." Video, YouTube, September 24, 2019. https://youtu.be/sC4MjPKf3jY.
    * ———. "The Ladybug Love-In: A Valentine's Special | Deep Look." Video, YouTube, February 9, 2016. https://youtu.be/c-Z6xRexbIU.
+   * ———. "Leaf Miner Fly Babies Scribble All Over Your Salad | Deep Look." Video, YouTube, April 6, 2021. https://youtu.be/QtbjUB4AnLI.
    * ———. "Meeting a Wormlion Is the Pits | Deep Look." Video, YouTube, June 11, 2019. https://youtu.be/dQMM93aySOw.
    * ———. "Nature's Scuba Divers: How Beetles Breathe Underwater | Deep Look." Video, YouTube, November 10, 2015. https://youtu.be/T-RtG5Z-9jQ.
+   * ———. "The Pipevine Caterpillar Thrives in a Toxic Love Triangle | Deep Look." Video, YouTube, May 28, 2021. https://youtu.be/TQQv7h11g_c.
    * ———. "Praying Mantis Love is Waaay Weirder Than You Think | Deep Look." Video, YouTube, November 14, 2017. https://youtu.be/NHf47gI8w04.
    * ———. "A Real Alien Invasion Is Coming to a Palm Tree Near You | Deep Look." Video, YouTube, June 20, 2017. https://youtu.be/S6a3Q5DzeBM.
    * ———. "Samurai Wasps Say 'Smell Ya Later, Stink Bugs' | Deep Look." Video, YouTube, March 12, 2019. https://youtu.be/T8y2XmjdXqw.
+   * ———. "Sharpshooter Insects’ Sexy Vibrations Spell Trouble in the Vineyard | Deep Look." Video, YouTube, May 19, 2020. https://youtu.be/uFA614SEDMQ.
    * ———. "So ... Sometimes Fireflies Eat Other Fireflies | Deep Look." Video, YouTube, February 27, 2018. https://youtu.be/oWdCMFvgFbo.
    * ———. "Sticky. Stretchy. Waterproof. The Amazing Underwater Tape of the Caddisfly | Deep Look." Video, YouTube, August 9, 2016. https://youtu.be/Z3BHrzDHoYo.
    * ———. "These Carnivorous Worms Catch Bugs by Mimicking the Night Sky | Deep Look." Video, YouTube, June 28, 2016. https://youtu.be/vLb0iuTVzW0.
    * ———. "These Fighting Fruit Flies Are Superheroes of Brain Science | Deep Look." Video, YouTube, March 28, 2017. https://youtu.be/yvd3X1N0jUU.
    * ———. "These Giant Leaf Insects Will Sway Your Heart | Deep Look." Video, YouTube, October 9, 2019. https://youtu.be/QjPInsEYDLs.
+   * ———. "These Silk-Swinging Caterpillars Will Ruin Your Picnic | Deep Look." Video, YouTube, January 12, 2021. https://youtu.be/fv16qtBBdJI.
    * ———. "These Termites Turn Your House into a Palace of Poop | Deep Look." Video, YouTube, October 18, 2016. https://youtu.be/DYPQ1Tjp0ew.
+   * ———. "This Bee Builds Sandcastles at the Beach | Deep Look." Video, YouTube, August 10, 2021. https://youtu.be/UfMCZYkG5Xo.
    * ———. "This Bee Gets Punched by Flowers for Your Ice Cream | Deep Look." Video, YouTube, September 10, 2019. https://youtu.be/rsUNxvXofgo.
+   * ———. "This Dangerous Mosquito Lays Her Armored Eggs – in Your House | Deep Look." Video, YouTube, April 7, 2020. https://youtu.be/1T9jgBnXXvw.
    * ———. "This Is Why Water Striders Make Terrible Lifeguards | Deep Look." Video, YouTube, August 1, 2017. https://youtu.be/E2unnSK7WTE.
    * ———. "This Vibrating Bumblebee Unlocks a Flower's Hidden Treasure | Deep Look." Video, YouTube, July 19, 2016. https://youtu.be/SZrTndD1H10.
    * ———. "A Tsetse Fly Births One Enormous Milk-Fed Baby | Deep Look." Video, YouTube, January 28, 2020. https://youtu.be/odCtCote9U0.
+   * ———. "Walking Sticks Stop, Drop and Clone to Survive | Deep Look." Video, YouTube, March 24, 2020. https://youtu.be/Nxs0Q7ktaKU.
    * ———. "Watch Bed Bugs Get Stopped in Their Tracks | Deep Look." Video, YouTube, July 9, 2019. https://youtu.be/ToeWrGTGOOI.
    * ———. "Watch Flesh-Eating Beetles Strip Bodies to the Bone | Deep Look." Video, YouTube, October 13, 2015. https://youtu.be/Np0hJGKrIWg.
    * ———. "Watch This Bee Build Her Bee-jeweled Nest | Deep Look." Video, YouTube, August 7, 2018. https://youtu.be/oPbH1YhsdP8.
@@ -196,8 +211,10 @@ icon: bug
    * ———. "What Gives the Morpho Butterfly Its Magnificent Blue? | Deep Look." Video, YouTube, December 16, 2014. https://youtu.be/29Ts7CsJDpg.
    * ———. "Where Are the Ants Carrying All Those Leaves? | Deep Look." Video, YouTube, June 11, 2015. https://youtu.be/-6oKJ5FGk24.
    * ———. "Why Crickets Just Won't Shut Up | Deep Look." Video, YouTube, January 14, 2020. https://youtu.be/fh3uNUrAnss.
+   * ———. "Why Did the Mexican Jumping Bean Jump? | Deep Look." Video, YouTube, March 23, 2021. https://youtu.be/3lkdidU79TY.
    * ———. "Why Is the Very Hungry Caterpillar So Dang Hungry? | Deep Look." Video, YouTube, July 11, 2017. https://youtu.be/el_lPd2oFV4.
    * ———. "Winter is Coming For These Argentine Ant Invaders | Deep Look." Video, YouTube, May 16, 2016. https://youtu.be/boyzWeHdtiI.
+   * ———. "You Wish You Had Mites Like This Hissing Cockroach Does | Deep Look." Video, YouTube, February 11, 2020. https://youtu.be/t3gvx8UQiZA.
 1. Lafontaine, J. Donald. “Noctuoidea, Noctuidae (part): Noctuinae (part—Agrotini).” In T*he Moths of North America, Fascicle 27.1*, edited by Ronald W. Hodges, et al. The Wedge Entomological Research Foundation, 2004. https://images.peabody.yale.edu/mona/27-1-ocr.pdf.
 1. ———. “Noctuoidea, Noctuidae (part): Noctuinae (part—*Euxoa*).” In *The Moths of America North of Mexico, Fascicle 27.2*, edited by Richard B. Dominick, et al. The Wedge Entomological Research Foundation, 1987. https://images.peabody.yale.edu/mona/27-2-ocr.pdf.
 1. ———. “Noctuoidea, Noctuidae (part): Noctuinae (part—Noctuini).” In *The Moths of America North of Mexico, Fascicle 27.3*, edited by Richard B. Dominick, et al. The Wedge Entomological Research Foundation, 1998. https://images.peabody.yale.edu/mona/27-3-ocr.pdf.
@@ -239,7 +256,9 @@ icon: bug
 1. ———. "Meeting a Wormlion Is the Pits." Deep Look, June 11, 2019. https://www.kqed.org/science/1941850/meeting-a-wormlion-is-the-pits.
 1. ———. "Samurai Wasps Say 'Smell Ya Later, Stink Bugs'." Deep Look, May 12, 2019. https://www.kqed.org/science/1937639/samurai-wasps-say-smell-ya-later-stink-bugs.
 1. ———. "These Giant Leaf Insects Will Sway Your Heart." Deep Look, October 8, 2019. https://www.kqed.org/science/1947830/these-giant-leaf-insects-will-sway-your-heart.
+1. ———. "Walking Sticks Stop, Drop and Clone to Survive." Deep Look, March 24, 2020. https://www.kqed.org/science/1958912/walking-sticks-stop-drop-and-clone-to-survive.
 1. ———. "What Gives the Morpho Butterfly Its Magnificent Blue?" Deep Look, December 16, 2014. https://www.kqed.org/science/24552/what-gives-the-morpho-butterfly-its-magnificent-blue.
+1. ———. "You Wish You Had Mites Like This Hissing Cockroach." Deep Look, February 11, 2020. https://www.kqed.org/science/1955611/you-wish-you-had-mites-like-this-hissing-cockroach.
 1. Ouellette, Nicholas T., and Deborah M. Gordon. “Goals and Limitations of Modeling Collective Behavior in Biological Systems.” *Frontiers in Physics 9* (June 14, 2021). https://doi.org/10.3389/fphy.2021.687823.
 1. Pagliara, Renato, Deborah M. Gordon, and Naomi Ehrich Leonard. “Regulation of Harvester Ant Foraging as a Closed-Loop Excitable System.” *PLoS Computational Biology 14*, no. 12 (December 4, 2018): e1006200. https://doi.org/10.1371/journal.pcbi.1006200.
 1. Penny, Norman D., Phillip A. Adams, and Lionel A. Stange. “Species Catalog of the Neuroptera, Megaloptera, and Raphidioptera of America North of Mexico.” *Proceedings of the California Academy of Sciences 50*, no. 3 (January 31, 2008): 39–114. https://archive.org/details/proceedingsofcal0450cali/page/39/mode/1up?view=theater.
@@ -262,12 +281,19 @@ icon: bug
 1. Prabhakar, Balaji, Katherine N. Dektar, and Deborah M. Gordon. “The Regulation of Ant Colony Foraging Activity without Spatial Information.” *PLoS Computational Biology 8*, no. 8 (August 23, 2012): e1002670. https://doi.org/10.1371/journal.pcbi.1002670.
 1. Pyle, Robert Michael, and Caitlin C. LaBar. *Butterflies of the Pacific Northwest*. Timber Press, 2018.
 1. Quirós, Gabriela. "A Baby Dragonfly's Mouth Will Give You Nightmares." Deep Look, September 12, 2017. https://www.kqed.org/science/1915435/a-baby-dragonflys-mouth-will-give-you-nightmares.
+1. ———. "Firebrats and Silverfish Are Rocking Some Old-School Looks." Deep Look, February 23, 2021. https://www.kqed.org/science/1972757/firebrats-and-silverfish-are-rocking-some-old-school-looks.
+1. ———. "Here’s How That Annoying Fly Dodges Your Swatter." Deep Look, November 24, 2020. https://www.kqed.org/science/1971058/heres-how-that-annoying-fly-dodges-your-swatter.
 1. ———. "Honey Bees Make Honey ... and Bread?" Deep Look, May 7, 2019. https://www.kqed.org/science/1940898/honey-bees-make-honey-and-bread.
 1. ———. "How Lice Turn Your Hair Into Their Jungle Gym." Deep Look, March 26, 2019. https://www.kqed.org/science/1939435/how-lice-turn-your-hair-into-their-jungle-gym.
 1. ———. "How Mosquitoes Use Six Needles to Suck Your Blood." Deep Look, June 7, 2016. https://www.kqed.org/science/728086/how-mosquitoes-use-six-needles-to-suck-your-blood.
+1. ———. "The Pipevine Caterpillar Thrives in a Toxic Love Triangle." Deep Look, May 18, 2021. https://www.kqed.org/science/1974786/the-pipevine-caterpillar-thrives-in-a-toxic-love-triangle.
+1. ———. "Sharpshooter Insects’ Sexy Vibrations Spell Trouble in the Vineyard." May 19, 2020. https://www.kqed.org/science/1964051/sharpshooter-insects-sexy-vibrations-spell-trouble-in-the-vineyard.
 1. ———. "These Fighting Fruit Flies Are Superheroes of Brain Science." Deep Look, March 28, 2017. https://www.kqed.org/science/1494923/these-fighting-fruit-flies-are-superheroes-of-brain-science.
+1. ———. "These Silk-Swinging Caterpillars Will Ruin Your Picnic." Deep Look, January 12, 2021. https://www.kqed.org/science/1972082/these-silk-swinging-caterpillars-will-ruin-your-picnic.
 1. ———. "These Termites Turn Your House Into a Palace of Poop." Deep Look, October 18, 2016. https://www.kqed.org/science/1065215/these-termites-turn-your-house-into-a-palace-of-poop.
+1. ———. "This Bee Builds Sandcastles at the Beach." Deep Look, August 10, 2021. https://www.kqed.org/science/1976046/this-bee-builds-sand-castles-at-the-beach.
 1. ———. "This Bee Gets Punched by Flowers for Your Ice Cream." Deep Look, September 10, 2019. https://www.kqed.org/science/1946996/this-bee-gets-punched-by-flowers-for-your-ice-cream.
+1. ———. "This Dangerous Mosquito Lays Her Armored Eggs – in Your House." Deep Look, April 7, 2020. https://www.kqed.org/science/1960549/this-dangerous-mosquito-lays-her-armored-eggs-in-your-house.
 1. ———. "A Tsetse Fly Births One Enormous Milk-Fed Baby." Deep Look, January 28, 2020. https://www.kqed.org/science/1956004/a-tsetse-fly-births-one-enormous-milk-fed-baby.
 1. ———. "Watch Bed Bugs Get Stopped in Their Tracks." Deep Look, July 9, 2019. https://www.kqed.org/science/1944245/watch-bed-bugs-get-stopped-in-their-tracks.
 1. ———. "Watch This Bee Build Her Bee-jeweled Nest." Deep Look, August 7, 2018. https://www.kqed.org/science/1928378/watch-this-bee-build-her-bee-jeweled-nest.
@@ -276,7 +302,9 @@ icon: bug
 1. ———. "With California Drought Over, Fewer Sierra Pines Dying." Deep Look, October 24, 2017. https://www.kqed.org/science/1916487/with-california-drought-over-fewer-sierra-pines-dying.
 1. Rosa, Craig. "What Gall! The Crazy Cribs of Parasitic Wasps." Deep Look, November 18, 2014. https://www.kqed.org/science/23927/what-gall-the-crazy-cribs-of-parasitic-wasps.
 1. Rust, M. K., and M. R. Millard. “Silverfish and Firebrat: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7475.html.
+1. Sandoval, Marissa. "Leaf Miner Fly Babies Scribble All Over Your Salad." Deep Look, April 9, 2021. https://www.kqed.org/science/1973500/leaf-miner-fly-babies-scribble-all-over-your-salad.
 1. Saylor, Lawrence W. “Synoptic Revision of United States Scarab Beetles of the Subfamily Dynastinae, No. 1: Tribe Cyclo-Cephalini.” *Journal of the Washington Academy of Sciences 35*, no. 12 (December 15, 1945): 378–86. https://biostor.org/reference/134149.
+1. Seely, Mike. "Why Did the Mexican Jumping Bean Jump?" Deep Look, March 23, 2021. https://www.kqed.org/science/1973307/why-did-the-mexican-jumping-bean-jump.
 1. Shapiro, Arthur M., and Timothy D. Manolis. *Field Guide to Butterflies of the San Francisco Bay and Sacramento Valley Regions*. University of California Press, 2007.
 1. Sheikh, Sofia I., Anna K. G. Ward, Y. Miles Zhang, Charles K. Davis, Linyi Zhang, Scott P. Egan, and Andrew A. Forbes. “*Ormyrus labotus* (Hymenoptera: Ormyridae): Another Generalist That Should Not Be a Generalist Is Not a Generalist.” *Insect Systematics and Diversity 6*, no. 1 (January, 2022): 1-14. https://doi.org/10.1093/isd/ixac001.
 1. Shin, Mimi, Daniel Friedman, Deborah M. Gordon, and B. Jill Venton. “Measurement of Natural Variation of Neurotransmitter Tissue Content in Red Harvester Ant Brains among Different Colonies.” *Analytical and Bioanalytical Chemistry*, January 7, 2020. [https://doi.org/10.1007/s00216-019-02355-3](https://www.researchgate.net/publication/338488292_Measurement_of_natural_variation_of_neurotransmitter_tissue_content_in_red_harvester_ant_brains_among_different_colonies).

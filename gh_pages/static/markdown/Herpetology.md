@@ -23,13 +23,17 @@ icon: frog
 1. Jaacks, Jason. "Nature's Mood Rings: How Chameleons Really Change Color." Deep Look, August 25, 2015. https://www.kqed.org/science/206401/natures-mood-rings-how-chameleons-really-change-color.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "5 Things You Thought You Knew -- But Didn't -- About Rattlesnakes | Deep Look." Video, YouTube, July 30, 2019. https://youtu.be/ZO4IAZycUik.
+   * ———. "The Axolotl Salamander Doesn't Wanna Grow Up | Deep Look." Video, YouTube, July 13, 2021. https://youtu.be/tBEf7wqbroM.
    * ———. "Can a New 'Vaccine' Stem the Frog Apocalypse? | Deep Look." Video, YouTube, September 6, 2016. https://youtu.be/-IXVcyCZVBg.
    * ———. "Nature's Mood Rings: How Chameleons Really Change Color | Deep Look." Video, YouTube, August 25, 2015. https://youtu.be/Kp9W-_W8rCM.
    * ———. "Newt Sex: Buff Males! Writhing Females! Cannibalism! | Deep Look." Video, YouTube, March 17, 2015. https://youtu.be/JyqY64ovjfY. 
    * ———. "These Crazy Cute Baby Turtles Want Their Lake Back | Deep Look." Video, YouTube, January 26, 2016. https://youtu.be/YTYFdpNpkMY.
    * ———. "These Lizards Have Been Playing Rock-Paper-Scissors for 15 Million Years | Deep Look." Video, YouTube, May 17, 2016. https://youtu.be/rafdHxBwIbQ.
+   * ———. "These Sneaky Ensatina Salamanders Are Heading For a Family Split | Deep Look." Video, YouTube, June 30, 2020. https://youtu.be/GppCj4Al7Rg.
 1. Pickett, Mallory, and Gabriela Quirós. "Newt Sex: Buff Males! Writhing Females! Cannibalism!." Deep Look, March 17, 2015. https://www.kqed.org/science/28273/newt-sex-buff-males-writhing-females-cannibalism.
 1. Quirós, Gabriela. "These Crazy Cute Baby Turtles Want Their Lake Back." Deep Look, January 26, 2016. https://www.kqed.org/science/474213/these-crazy-cute-baby-turtles-want-their-lake-back. 
+1. Seely, Mike. "The Axolotl Salamander Doesn't Wanna Grow Up." Deep Look, July 13, 2021. https://www.kqed.org/science/1975648/the-axolotl-salamander-doesnt-wanna-grow-up.
+1. ———. "These Sneaky Ensatina Salamanders Are Heading For a Family Split." Deep Look, June 30, 2020. https://www.kqed.org/science/1966227/these-sneaky-ensatina-salamanders-are-heading-for-a-family-split.
 1. Somma, L. A., A. Foster, P. Fuller, and C. Cameron. “*Trachemys Scripta Elegans* (Wied-Neuweid, 1838).” U.S. Geological Survey, Nonindigenous Aquatic Species Database, December 2, 2022. https://nas.er.usgs.gov/queries/factsheet.aspx?SpeciesID=1261.
 1. Sommer, Lauren. "Can a New 'Vaccine' Stem the Frog Apocalypse?." Deep Look, September 6, 2016. https://www.kqed.org/science/959844/can-a-new-vaccine-stem-the-frog-apocalypse.
 1. Stebbins, Robert C., and Samuel M. McGinnis. *Field Guide to Amphibians and Reptiles of California*. University of California Press, 2012.
