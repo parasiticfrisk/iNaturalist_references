@@ -18,8 +18,10 @@ icon: earth-americas
 1. ———. "Banana Slugs: Secret of the Slime." Deep Look, February 17, 2015. https://www.kqed.org/science/27260/banana-slugs-secret-of-the-slime.
 1. ———. "The Hidden Perils of Permafrost." Deep Look, December 2, 2014. https://www.kqed.org/science/24399/the-hidden-perils-of-permafrost.
 1. ———. "Identical Snowflakes? Scientist Ruins Winter For Everyone." Deep Look, April 11, 2017. https://www.kqed.org/science/1536955/identical-snowflakes-scientist-ruins-winter-for-everyone-deep-look.
+1. ———. "Starfish Gallop With Hundreds of Tubular Feet." Deep Look, October 20, 2020. https://www.kqed.org/science/1970271/starfish-gallop-with-hundreds-of-tubular-feet.
 1. ———. "These Fish Are All About Sex on the Beach." Deep Look, June 6, 2017. https://www.kqed.org/science/1680332/these-fish-are-all-about-sex-on-the-beach-deep-look.
 1. ———. "This Adorable Sea Slug Is a Sneaky Little Thief." Deep Look, August 28, 2018. https://www.kqed.org/science/1929993/this-adorable-sea-slug-is-a-sneaky-little-thief.
+1. ———. "The Undying Hydra: A Freshwater Mini-Monster That Defies Aging." Deep Look, April 20, 2021. https://www.kqed.org/science/1973744/the-undying-hydra-a-freshwater-mini-monster-that-defies-aging.
 1. ———. "You're Not Hallucinating. That's Just Squid Skin." Deep Look, September 8, 2015. https://www.kqed.org/science/233664/youre-not-hallucinating-thats-just-squid-skin.
 1. Cassidy, Josh, and Carrie Boyle. "Sea Urchins Pull Themselves Inside Out to be Reborn." Deep Look, August 23, 2016. https://www.kqed.org/science/922896/sea-urchins-pull-themselves-inside-out-to-be-reborn.
 1. Cassidy, Josh, and Grace Singer. "How Do Sharks and Rays Use Electricity to Find Hidden Prey?." Deep Look, August 11, 2015. https://www.kqed.org/science/106591/sharks-and-rays-sense-electricity-fish-cant-hide.
@@ -51,12 +53,15 @@ icon: earth-americas
    * ———. "The Amazing Life of Sand | Deep Look." Video, YouTube, November 4, 2014. https://youtu.be/VkrQ9QuKprE.
    * ———. "Archerfish Says...'I Spit in Your Face!' | Deep Look." Video, YouTube, January 31, 2017. https://youtu.be/gN81dtxilhE.
    * ———. "Banana Slugs: Secret of the Slime | Deep Look." Video, YouTube, February 16, 2015. https://youtu.be/mHvCQSGanJg.
+   * ———. "California Floater Mussels Take Fish for an Epic Joyride | Deep Look." Video, YouTube, April 21, 2020. https://youtu.be/m7p_w4zE3s4.
    * ———. "Can A Thousand Tiny Swarming Robots Outsmart Nature? | Deep Look." Video, YouTube, July 21, 2015. https://youtu.be/dDsmbwOrHJs.
+   * ———. "Ever Seen a Starfish Gallop? | Deep Look." Video, YouTube, October 25, 2020. https://youtu.be/9rxf_2EgwfE.
    * ———. "Everything You Never Wanted to Know About Snail Sex | Deep Look." Video, YouTube, March 14, 2017. https://youtu.be/UOcLaI44TXA.
    * ———. "From Drifter to Dynamo: The Story of Plankton | Deep Look." Video, YouTube, March 3, 2015. https://youtu.be/jUvJ5ANH86I.
    * ———. "The Hidden Perils of Permafrost | Deep Look." Video, YouTube, December 1, 2014. https://youtu.be/wxABO84gol8.
    * ———. "How Do Sharks and Rays Use Electricity to Find Hidden Prey? | Deep Look." Video, YouTube, August 11, 2015. https://youtu.be/JDPFR6n8tAQ.
    * ———. "How Electric Light Changed the Night | Deep Look." Video, YouTube, January 20, 2015. https://youtu.be/Mllam3nKTv4.
+   * ———. "How the Coronavirus Attacks Your Lungs | Deep Look." Video, YouTube, May 5, 2020. https://youtu.be/aWw_6NyKTVw.
    * ———. "Identical Snowflakes? Scientist Ruins Winter For Everyone | Deep Look." Video, YouTube, April 11, 2017. https://youtu.be/Gojddrb70N8.
    * ———. "If Your Hands Could Smell, You’d Be an Octopus | Deep Look." Video, YouTube, February 14, 2017. https://youtu.be/XXMxihOh8ps.
    * ———. "In the Race for Life, Which Human Embryos Make It?" Video, YouTube, February 3, 2015. https://youtu.be/9mv_kuwQvoc.
@@ -64,6 +69,7 @@ icon: earth-americas
    * ———. "Pygmy Seahorses: Masters of Camouflage | Deep Look." Video, YouTube, October 20, 2014. https://youtu.be/Q3CtGoqz3ww.
    * ———. "A Sand Dollar's Breakfast Is Totally Metal | Deep Look." Video, YouTube, October 9, 2018. https://youtu.be/dxZdBPDNiF4.
    * ———. "Sea Urchins Pull Themselves Inside Out to be Reborn | Deep Look." Video, YouTube, August 23, 2016. https://youtu.be/ak2xqH5h0YY.
+   * ———. "See Sea Slugs Scrub Seagrass by the Seashore | Deep Look." Video, YouTube, November 10, 2020. https://youtu.be/kjvhVVu5uqE.
    * ———. "Take Two Leeches And Call Me In The Morning | Deep Look." Video, YouTube, April 3, 2018. https://youtu.be/O-0SFWPLaII.
    * ———. "There's Something Fishy About These Trees ... | Deep Look." Video, YouTube, September 26, 2017. https://youtu.be/rZWiWh5acbE.
    * ———. "These Fish Are All About Sex on the Beach | Deep Look." Video, YouTube, June 6, 2017. https://youtu.be/j5F3z1iP0Ic.
@@ -72,6 +78,7 @@ icon: earth-americas
    * ———. "This Killer Fungus Turns Flies into Zombies | Deep Look." Video, YouTube, October 22, 2019. https://youtu.be/C2Jw5ib-s_I.
    * ———. "This Mushroom Starts Killing You Before You Even Realize It | Deep Look." Video, YouTube, February 23, 2016. https://youtu.be/bl9aCH2QaQY.
    * ———. "This Pulsating Slime Mold Comes in Peace | Deep Look." Video, YouTube, April 19, 2016. https://youtu.be/Nx3Uu1hfl6Q.
+   * ———. "The Undying Hydra: A Freshwater Mini-Monster That Defies Aging | Deep Look." Video, YouTube, April 20, 2021. https://youtu.be/ITVfXHrfudw.
    * ———. "Want a Whole New Body? Ask This Flatworm How | Deep Look." Video, YouTube, October 23, 2018. https://youtu.be/m12xsf5g3Bo.
    * ———. "What Happens When You Zap Coral With The World's Most Powerful X-ray Laser? | Deep Look." Video, YouTube, July 7, 2015. https://youtu.be/aXmCU6IYnsA.
    * ———. "Watch These Cunning Snails Stab and Swallow Fish Whole | Deep Look." Video, YouTube, May 29, 2018. https://youtu.be/jYMjLgPFSso.
@@ -85,6 +92,7 @@ icon: earth-americas
 1. Mc Donnell, Rory J., Timothy D. Paine, and Michael J. Gormally. *Slugs: A Guide to the Invasive and Native Fauna of California*. University of California Division of Agriculture and Natural Resources Publications, 2009. [https://doi.org/10.3733/ucanr.8336](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8336).
 1. Narby, Jeremy. *Intelligence in Nature: An Inquiry into Knowledge*. Penguin, 2006.
 1. “Natural History Journal: Notes from a California Naturalist.” Nystrom, Siera, September 2016. https://natural-history-journal.blogspot.com/.
+1. Oh, Jenny, and Laura Klivans. "How the Coronavirus Attacks Your Lungs." Deep Look, May 5, 2020. https://www.kqed.org/science/1963200/how-covid-19-attacks-your-lungs.
 1. Overall, Andy. “*Tremella Aurantia* & *T. Mesenterica*, Two British ‘Yellow Brain Fungi’ Compared.” *Field Mycology 18*, no. 3 (July 1, 2017): 82–84. https://doi.org/10.1016/j.fldmyc.2017.07.005.
 1. Page, Lawrence M., and Brooks M. Burr. *Peterson Field Guide to Freshwater Fishes of North America North of Mexico*, Second Edition. Houghton Mifflin Harcourt, 2011.
 1. Pereszlényi, Ádám, Hungarian Natural History Museum, Universalmuseum Joanneum, and Hungarian University of Fine Arts. “Skull Base,” n.d. https://skullbase.info/.
@@ -96,6 +104,8 @@ icon: earth-americas
 1. ———. "This Mushroom Starts Killing You Before You Even Realize It." Deep Look, February 23, 2016. https://www.kqed.org/science/523936/this-mushroom-starts-killing-you-before-you-even-realize-it.
 1. ———. "This Pulsating Slime Mold Comes in Peace." Deep Look, April 19, 2016. https://www.kqed.org/science/635319/this-pulsating-slime-mold-comes-in-peace.
 1. ———. "Want a Whole New Body? Ask This Flatworm How." Deep Look, October 23, 2018. https://www.kqed.org/science/1933246/want-a-whole-new-body-ask-this-flatworm-how.
+1. Seely, Mike. "California Floater Mussels Take Fish for an Epic Joyride." Deep Look, April 21, 2020. https://www.kqed.org/science/1961648/california-floater-mussels-take-fish-for-an-epic-joyride.
+1. ———. "Sea Slugs Scrub Seagrass by the Seashore." November 10, 2020. https://www.kqed.org/science/1970711/sea-hares-scrub-seagrass-by-the-seashore.
 1. Sheldrake, Merlin. *Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures*. Random House, 2020.
 1. Skulls Unlimited International, Inc. “Skulls Unlimited: World Leader in Real and Replica Skulls & Skeletons,” n.d. https://www.skullsunlimited.com/.
 1. Smithsonian Environmental Research Center. “Ecosystems on the Edge.” https://ecosystemsontheedge.org/.

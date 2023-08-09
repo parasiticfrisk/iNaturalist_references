@@ -18,6 +18,7 @@ owner: August Frisk
    * ———. "How Elephants Listen ... With Their Feet | Deep Look." Video, YouTube, July 17, 2018. https://youtu.be/iYM9oXftLIQ.
    * ———. "How Kittens Go From Clueless to Cute | Deep Look." Video, YouTube, September 11, 2018. https://youtu.be/o1xRlkNwQy8.
    * ———. "How Your Dog's Nose Knows So Much | Deep Look." Video, YouTube, February 26, 2019. https://youtu.be/Gf4k0VgCQjg.
+   * ———. "Kangaroo Rats Are Furry, Spring-Loaded Ninjas | Deep Look." Video, YouTube, February 25, 2020. https://youtu.be/-hyKWwiefF8.
    * ———. "Porcupines Give You 30,000 Reasons to Back Off | Deep Look." Video, YouTube, April 9, 2019. https://youtu.be/ZphlCdI2yqA.
    * ———. "Stinging Scorpion vs. Pain-Defying Mouse | Deep Look." Video, YouTube, March 8, 2016. https://youtu.be/w-K_YtWqMro.
    * ———. "These Whispering, Walking Bats Are Onto Something | Deep Look." Video, YouTube, October 10, 2017. https://youtu.be/l2py029bwhA.
@@ -28,5 +29,6 @@ owner: August Frisk
 1. Quirós, Gabriela. "How Kittens Go From Clueless to Cute." Deep Look, September 11, 2018. https://www.kqed.org/science/1930803/how-kittens-go-from-clueless-to-cute.
 1. ———. "Rudolph's Antlers Offer Clues for Regenerating Nerves." Deep Look, December 6, 2016. https://www.kqed.org/science/1207350/rudolphs-antlers-could-help-restore-mobility-in-injured-humans.
 1. ———. "Watch These Frustrated Squirrels Go Nuts." Deep Look, September 20, 2016. https://www.kqed.org/science/993143/watch-these-frustrated-squirrels-go-nuts.
+1. Seely, Mike. "Kangaroo Rats Are Furry, Spring-Loaded Ninjas." Deep Look, February 25, 2020. https://www.kqed.org/science/1957226/kangaroo-rats-are-furry-spring-loaded-ninjas.
 1. Shields, Laura, and Josh Cassidy. "Porcupines Give You 30,000 Reasons to Back Off." Deep Look, April 9, 2019. https://www.kqed.org/science/1939807/porcupines-give-you-30000-reasons-to-back-off.
 1. Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.

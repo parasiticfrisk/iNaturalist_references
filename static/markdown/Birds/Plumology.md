@@ -5,6 +5,7 @@ icon: feather
 ## References
 
 1. Cassidy, Josh. "What Makes Owls So Quiet and So Deadly?." Deep Look, October 27, 2015. https://www.kqed.org/science/321383/see-what-makes-owls-so-quiet-and-so-deadly.
+1. Cassidy, Josh, and Annie Roth. "What Actually Makes Water Roll Off a Duck's Back?" Deep Look, August 18, 2020. https://www.kqed.org/science/1968261/what-actually-makes-water-roll-off-a-ducks-back.
 1. “The Feather Atlas: Flight Feathers of North American Birds.” U.S. Fish and Wildlife Service Forensics Laboratory, April 17, 2023. https://www.fws.gov/lab/featheratlas/.
    *  U.S. Fish and Wildlife Service Forensics Laboratory. "Acorn Woodpecker primary wing feathers - Adult Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_primary_adult.
    *  ———. "Acorn Woodpecker secondary wing feathers - Adult Female." The Feather Atlas, April 17, 2023. https://www.fws.gov/lab/featheratlas/feather.php?Bird=ACWO_secondary_adult.
@@ -123,7 +124,9 @@ icon: feather
    *  ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." Featherbase. https://www.featherbase.info/en/species/Zonotrichia/leucophrys.
 1. Found Feathers Contributors. "Found Feathers". iNaturalist, March 25, 2017. https://www.inaturalist.org/projects/found-feathers.
    *  ———. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, 2017-2022. https://www.inaturalist.org/observations?captive=any&place_id=any&project_id=11413&subview=table&taxon_id=7018&verifiable=any.
-1. KQED and PBS Digital Studios. "What Makes Owls So Quiet and So Deadly? | Deep Look." Video, YouTube, October 27, 2015. https://youtu.be/a68fIQzaDBY.
+1. 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
+   * ———. "What Actually Makes Water Roll Off a Duck's Back? | Deep Look." Video, YouTube, August 18, 2020. https://youtu.be/Q-8GXk9r0ik.
+   * ———. "What Makes Owls So Quiet and So Deadly? | Deep Look." Video, YouTube, October 27, 2015. https://youtu.be/a68fIQzaDBY.
 1. Puget Sound Museum of Natural History. “Wing & Tail Image Collection.” University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing.
    *  ———. "*Accipiter cooperii*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Accipiter%20cooperii.
    *  ———. "*Anas platyrhynchos*." *Puget Sound Wing and Tail Image Collection*. University of Puget Sound. https://digitalcollections.pugetsound.edu/digital/collection/slaterwing/search/searchterm/Anas%20platyrhynchos.
