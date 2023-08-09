@@ -20,6 +20,7 @@ owner: August Frisk
 1. Brescovit, Antonio D., Alexander Sánchez Ruiz, and Giraldo Alayón Garcia. “Filistatidae in the Caribbean Region, with a Description of the New Genus *Antilloides*, Revision of the Genus *Filistatoides* F. O. P.-Cambridge and Notes on *Kukulcania Lehtinen* (Arachnida, Araneae).” *Zootaxa 4136*, no. 3 (July 7, 2016): 401-432. [https://doi.org/10.11646/zootaxa.4136.3.1](https://www.researchgate.net/publication/304994110_The_Filistatidae_in_the_Caribbean_region_with_a_description_of_the_new_genus_Antilloides_revision_of_the_genus_Filistatoides_F_O_P-Cambridge_and_notes_on_Kukulcania_Lehtinen_Arachnida_Araneae).
 1. Bradley, Richard A., and Steve Buchanan. *Common Spiders of North America*. University of California Press, 2019.
 1. Cassidy, Josh. "Meet the Dust Mites, Tiny Roommates That Feast on Your Skin." Deep Look, April 5, 2016. https://www.kqed.org/science/607105/meet-the-dust-mites-tiny-roommates-that-feast-on-your-skin.
+1. ———. "These Face Mites Really Grow on You." Deep Look, May 21, 2019. https://www.kqed.org/science/1941506/these-face-mites-really-grow-on-you.
 1. ———. "Turret Spiders Launch Sneak Attacks From Tiny Towers." Deep Look, January 15, 2019. https://www.kqed.org/science/1936465/turret-spiders-launch-sneak-attacks-from-tiny-towers.
 1. Chamberlin, Ralph V. “New North American Spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://www.biodiversitylibrary.org/item/22408#page/113/mode/1up.
 1. ———. “The Spider Fauna of the Shores and Islands of the Gulf of California.” *Proceedings of the California Academy of Sciences 12*, no. 28 (April 14, 1924): 561–694. https://www.biodiversitylibrary.org/item/86392#page/582/mode/1up.
@@ -75,12 +76,15 @@ owner: August Frisk
 1. Kaston, Benjamin J., John Barmick, Edward Cawley, and W. Jaques. *How to Know the Spiders*. Third Edition. WCB/McGraw-Hill, 1978. https://wsc.nmbe.ch/refincluded/4326.
 1. Kennerson, Elliott. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive." Deep Look, August 22, 2017. https://www.kqed.org/science/1914209/daddy-longlegs-risk-life-and-especially-limb-to-survive.
 1. ———. "For These Tiny Spiders, It's Sing or Get Served." Deep Look, October 4, 2016. https://www.kqed.org/science/1027372/for-these-tiny-spiders-its-sing-or-get-served.
+1. ———. "Tarantulas Take Hooking Up to the Next Level." Deep Look, November 5, 2019. https://www.kqed.org/science/1950117/tarantulas-take-hooking-up-to-the-next-level.
 1. Kimlov, Pavel, and Barry OConnor. “Genetic Study of House Dust Mites Demonstrates Reversible Evolution.” University of Michigan News, March 8, 2013. https://news.umich.edu/genetic-study-of-house-dust-mites-demonstrates-reversible-evolution/.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "Daddy Longlegs Risk Life ... and Especially Limb ... to Survive | Deep Look." Video, YouTube, August 22, 2017. https://youtu.be/tjDmH8zhp6o.
    * ———. "For These Tiny Spiders, It's Sing or Get Served | Deep Look." Video, YouTube, October 4, 2016. https://youtu.be/y7qMqAgCqME.
    * ———. "Meet the Dust Mites, Tiny Roommates That Feast On Your Skin | Deep Look." Video, YouTube, April 5, 2016. https://youtu.be/ACrLMtPyRM0.
    * ———. "How Ticks Dig In With a Mouth Full of Hooks | Deep Look." Video, YouTube, March 20, 2018. https://youtu.be/_IoOJu2_FKE.
+   * ———. "Tarantulas Take Hooking Up to the Next Level | Deep Look." Video, YouTube, November 5, 2019. https://youtu.be/5gOKd4cqFaY.
+   * ———. "These Face Mites Really Grow on You | Deep Look." Video, YouTube, May 21, 2019. https://youtu.be/YW2eGaUzq7E.
    * ———. "Turret Spiders Launch Sneak Attacks From Tiny Towers | Deep Look." Video, YouTube, January 15, 2019. https://youtu.be/9bEjYunwByw.
    * ———. "Why the Male Black Widow is a Real Home Wrecker | Deep Look." Video, YouTube, January 9, 2018. https://youtu.be/NpJNeGqExrc.
 1. Kusmer, Anna, and Elliott Kennerson. "Why the Male Black Widow is a Real Home Wrecker." Deep Look, January 9, 2018. https://www.kqed.org/science/1917913/why-the-male-black-widow-spider-is-a-real-home-wrecker.
