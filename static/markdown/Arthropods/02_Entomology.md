@@ -230,6 +230,7 @@ icon: bug
 1. MacArthur-Waltz, Dylan, Rebecca A. Nelson, Gail Lee, and Deborah M. Gordon. “Tree Preference and Temporal Activity Patterns for a Native Ant Community in an Urbanized California Woodland.” *Journal of Insect Behavior 34*, no. 4 (July 1, 2021): 211–22. https://doi.org/10.1007/s10905-021-09778-w.
 1. McDunnough, James H. “Revision of the North American Species of the Genus *Eupithecia* (Lepidoptera, Geometridae).” *Bulletin of the American Museum of Natural History 93* (1949): 537–728. https://hdl.handle.net/2246/1247.
 1. McLeod, Robin, Lynette Elliot, and Jonathon Hoskins. "Species *Spodoptera praefica* - Western Yellow-striped Armyworm Moth - Hodges#9667." BugGuide, March 29, 2023. https://bugguide.net/node/view/78952.
+1. McLeod, Robin, and Randy Hardy. "Species *Digrammia excurvata* - Hodges#6363." BugGuide, September 18, 2017. https://bugguide.net/node/view/346607.
 1. Melika, George, and Warren G. Abrahamson. “Review of the World Genera of Oak Cynipid Wasps (Hymenoptera: Cynipidae, Cynipini).” *Parasitic Wasps: Evolution, Systematics, Biodiversity and Biological Control*, January 2002, 150–90. https://www.researchgate.net/publication/254570300_Review_of_the_world_genera_of_oak_cynipid_wasps_Hymenoptera_Cynipidae_Cynipini.
 1. Mikkola, Kauri, J. Donald Lafontaine, and Jocelyn D. Gill. “Noctuoidea, Noctuidae (part), Xyleninae (part): Apameini (part—*Apamea* Group of Genera).” In *The Moths of North America, Fascicle 26.9*, edited by Ronald W. Hodges, et al. The Wedge Entomological Research Foundation, 2009. https://images.peabody.yale.edu/mona/26-9-ocr.pdf.
 1. Miller, Jeffrey C., and Paul C. Hammond. *Lepidoptera of the Pacific Northwest: Caterpillars and Adults*, 2003. https://doi.org/10.5962/bhl.title.150497.
@@ -251,7 +252,8 @@ icon: bug
 1. Neuswanger, Jason. "Insect Order Trichoptera (Caddisflies)." Troutnut, 2004-2023. http://www.troutnut.com/hatch/12/Insect-Trichoptera-Caddisflies.
 1. Nova, Nicole, Renato Pagliara, and Deborah M. Gordon. “Individual Variation Does Not Regulate Foraging Response to Humidity in Harvester Ant Colonies.” *Frontiers in Ecology and Evolution 9* (January 20, 2022). https://doi.org/10.3389/fevo.2021.756204.
 1. “North American Moth Photographers Group: Digital Guide to Moth Identification.” Mississippi State University, 2011. https://mothphotographersgroup.msstate.edu/.
-   * Moth Photographer’s Group. “*Digrammia napensis*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6366.
+   * Moth Photographer’s Group. “*Digrammia excurvata*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6363.
+   * ———. “*Digrammia napensis*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6366.
    * ———. “*Mythimna unipuncta*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=10438.
    * ———. “*Spodoptera praefica*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=9667.
 1. Nyman, Tommi, and Riitta Julkunen-Tiitto. “Manipulation of the Phenolic Chemistry of Willows by Gall-Inducing Sawflies.” *Proceedings of the National Academy of Sciences of the United States of America 97*, no. 24 (November 21, 2000): 13184–13187. https://doi.org/10.1073/pnas.230294097.
@@ -265,7 +267,8 @@ icon: bug
 1. ———. "You Wish You Had Mites Like This Hissing Cockroach." Deep Look, February 11, 2020. https://www.kqed.org/science/1955611/you-wish-you-had-mites-like-this-hissing-cockroach.
 1. Ouellette, Nicholas T., and Deborah M. Gordon. “Goals and Limitations of Modeling Collective Behavior in Biological Systems.” *Frontiers in Physics 9* (June 14, 2021). https://doi.org/10.3389/fphy.2021.687823.
 1. "Pacific Northwest Moths." Western Washington University. http://pnwmoths.biol.wwu.edu/.
-   * Western Washington University. "*Spodoptera praefica* (Grote, 1875)." Pacific Northwest Moths. http://pnwmoths.biol.wwu.edu/browse/family-noctuidae/subfamily-noctuinae/tribe-prodeniini/spodoptera/spodoptera-praefica/. 
+   * Western Washington University. "*Digrammia excurvata* (Packard, 1874)." Pacific Northwest Moths. https://www.butterfliesandmoths.org/species/Digrammia-excurvata.
+   * ———. "*Spodoptera praefica* (Grote, 1875)." Pacific Northwest Moths. http://pnwmoths.biol.wwu.edu/browse/family-noctuidae/subfamily-noctuinae/tribe-prodeniini/spodoptera/spodoptera-praefica/.
 1. Pagliara, Renato, Deborah M. Gordon, and Naomi Ehrich Leonard. “Regulation of Harvester Ant Foraging as a Closed-Loop Excitable System.” *PLoS Computational Biology 14*, no. 12 (December 4, 2018): e1006200. https://doi.org/10.1371/journal.pcbi.1006200.
 1. Penny, Norman D., Phillip A. Adams, and Lionel A. Stange. “Species Catalog of the Neuroptera, Megaloptera, and Raphidioptera of America North of Mexico.” *Proceedings of the California Academy of Sciences 50*, no. 3 (January 31, 2008): 39–114. https://archive.org/details/proceedingsofcal0450cali/page/39/mode/1up?view=theater.
 1. Perry, Ed J. “Springtails: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74136.html.
