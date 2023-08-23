@@ -4,6 +4,7 @@ icon: crow
 -->
 ## References
 
+### All About Birds
 1. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” Cornell Lab of Ornithology. https://www.allaboutbirds.org/.
    * Cornell Lab of Ornithology. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.
    * ———. "American Crow Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Crow/sounds.
@@ -24,6 +25,7 @@ icon: crow
    * ———. "Mallard Overview." All About Birds. https://www.allaboutbirds.org/guide/Mallard/overview.
    * ———. "Marsh Wren Sounds." All About Birds. https://www.allaboutbirds.org/guide/Marsh_Wren/sounds.
    * ———. "Mourning Dove Sounds." All About Birds. https://www.allaboutbirds.org/guide/Mourning_Dove/sounds.
+   * ———. "Muscovy Duck Overview." All About Birds. https://www.allaboutbirds.org/guide/Muscovy_Duck/overview.
    * ———. "Northern Flicker Sounds." All About Birds. https://www.allaboutbirds.org/guide/Northern_Flicker/sounds.
    * ———. “Northern Mockingbird Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Northern_Mockingbird/sounds.    
    * ———. "Nuttall's Woodpecker Sightings Map." All About Birds. https://www.allaboutbirds.org/guide/Nuttalls_Woodpecker/maps-sightings.
@@ -40,6 +42,10 @@ icon: crow
    * ———. “Yellow-rumped Warbler Sounds.” All About Birds. https://www.allaboutbirds.org/guide/Yellow-rumped_Warbler/sounds.
    * ———. "Western Meadowlark Sounds." All About Birds. https://www.allaboutbirds.org/guide/Western_Meadowlark/sounds.
    * ———. "White-crowned Sparrow Sounds." All About Birds. https://www.allaboutbirds.org/guide/White-crowned_Sparrow/sounds.
+1. Cornell Lab of Ornithology. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
+
+
+### Bird Sounds
 1. “Bird Sounds and Bird Calls in USA & Canada.” Weiland, Torben, 2013. https://www.bird-sounds.net/.
    * Weiland, Torben. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
    * ———. “American Crow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-crow/.
@@ -74,13 +80,19 @@ icon: crow
    * ———. “Yellow-rumped Warbler - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
    * ———. “Western Meadowlark - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
    * ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
-1. Cassidy, Josh. "You've Heard of a Murder of Crows. How About a Crow Funeral?" Deep Look, May 15, 2018. https://www.kqed.org/science/1923458/youve-heard-of-a-murder-of-crows-how-about-a-crow-funeral.
-1. Cornell Lab of Ornithology. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
-1. Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
-1. eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
-1. Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
-1. Freitag, Nicholas. "Final Day of My House Finch Nest." NestWatch. https://nestwatch.org/connect/participant-photo/final-day-of-my-house-finch-nest/.
-1. Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
+
+
+### Books
+1. Harwood, Michael, Thomas W. Burke, George S. Fichter, Sally D. Kaicher, Paul Lehman, Peter R. Limburg, David Simon, John C. Yrizarry, and Mary A. Yrizarry. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
+1. Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
+1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
+1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
+1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
+1. Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
+1. Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
+
+
+### Geotripper's California Birds
 1. “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
    * Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
    * ———. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
@@ -92,7 +104,10 @@ icon: crow
    * ———. "*Sialia mexicana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Sialia%20mexicana.
    * ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
    * ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
-1. Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
+
+
+### KQED: Deep Look
+1. Cassidy, Josh. "You've Heard of a Murder of Crows. How About a Crow Funeral?" Deep Look, May 15, 2018. https://www.kqed.org/science/1923458/youve-heard-of-a-murder-of-crows-how-about-a-crow-funeral.
 1. Kennerson, Elliott. "Volunteer Brown Pelican Count Aims to Measure Recovery of Once-Endangered Birds." Deep Look, April 25, 2017. https://www.kqed.org/science/1565668/volunteer-brown-pelican-count-aims-to-measure-recovery-of-once-endangered-birds.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "How Do Pelicans Survive Their Death-Defying Dives? | Deep Look." Video, YouTube, April 25, 2017. https://youtu.be/BfEboMmwAMw.
@@ -101,7 +116,13 @@ icon: crow
    * ———. "What Happens When You Put a Hummingbird in a Wind Tunnel? | Deep Look." Video, YouTube, March 31, 2015. https://youtu.be/1V7Tim2RNTo.
    * ———. "You’d Never Guess What an Acorn Woodpecker Eats | Deep Look." Video, YouTube, June 12, 2018. https://youtu.be/XvPaiDX_3JM.
    * ———. "You've Heard of a Murder of Crows. How About a Crow Funeral? | Deep Look." Video, YouTube, May 15, 2018. https://youtu.be/ixYVFZnNl6s.
-1. Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
+1. Oh, Jenny. "Peregrine Falcons are Feathered Fighter Jets, Basically." Deep Look, August 20, 2019. https://www.kqed.org/science/1944037/peregrine-falcons-are-feathered-fighter-jets-basically.
+1. Quirós, Gabriela. "Raising Peregrine Falcon Chicks is a Real Cliff-hanger." October 6, 2020. https://www.kqed.org/science/1969983/raising-peregrine-falcon-chicks-is-a-real-cliff-hanger.
+1. ———. "You’d Never Guess What an Acorn Woodpecker Eats." Deep Look, June 12, 2018. https://www.kqed.org/science/1925251/youd-never-guess-what-an-acorn-woodpecker-eats.
+1. Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?" Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
+
+
+### Macaulay Library
 1. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Cornell Lab of Ornithology, 2000. https://www.macaulaylibrary.org/.
    * Cornell Lab of Ornithology. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
    * ———. “American Crow - *Corvus brachyrhynchos*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecro&mediaType=audio&sort=rating_rank_desc.
@@ -138,7 +159,9 @@ icon: crow
    * ———. “Yellow-rumped Warbler - *Setophaga coronata*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=yerwar&mediaType=audio&sort=rating_rank_desc.
    * ———. “Western Meadowlark - *Sturnella neglecta*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=wesmea&mediaType=audio&sort=rating_rank_desc.
    * ———. “White-crowned Sparrow - *Zonotrichia leucophrys*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=whcspa&mediaType=audio&sort=rating_rank_desc.
-1. National Audubon Society. “Audubon: Guide to North American Birds.” Audubon. https://www.audubon.org/bird-guide.
+
+
+### Natural Hisotry Journal
 1. “Natural History Journal: Notes from a California Naturalist.” Nystrom, Siera, September 2016. https://natural-history-journal.blogspot.com/.
    * Nystrom, Siera. "Acorn Woodpecker & Granary Trees." Natural History Journal (blog), November 12, 2016. https://natural-history-journal.blogspot.com/2016/11/the-acorn-woodpeckers-melanerpes.html.
    * ———. "American Coots & Baby... Cootlings?" Natural History Journal (blog), July 10, 2018. https://natural-history-journal.blogspot.com/2018/07/american-coots-little-baby-cootlings.html.
@@ -173,18 +196,22 @@ icon: crow
    * ———. "Unique Beauty: A Leucistic Black Phoebe." Natural History Journal (blog), November 30, 2019. https://natural-history-journal.blogspot.com/2019/11/unique-beauty-leucistic-black-phoebe.html.
    * ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
    * ———. "Western Bluebirds." Natural History Journal (blog), June 09, 2020. https://natural-history-journal.blogspot.com/2020/06/western-bluebirds.html.
+
+
+### Other
+1. Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
+1. eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.
+1. Fortnash, Jade. “Northern Mockingbird (*Mimus Polyglottos*).” iNaturalist, August 22, 2018. https://www.inaturalist.org/observations/15788113.
+1. Freitag, Nicholas. "Final Day of My House Finch Nest." NestWatch. https://nestwatch.org/connect/participant-photo/final-day-of-my-house-finch-nest/.
+1. Frisk, Jennifer. "Domestic Greylag Goose (*Anser anser domesticus*)". iNaturalist, August 13, 2022. https://www.inaturalist.org/observations/129525307.
+1. Harteman Wildfowl. “Wildfowl Hybrids: Duck, Goose and Swan Crossbreeds,” 1998-2022. https://harteman.nl/hybrids.
+1. National Audubon Society. “Audubon: Guide to North American Birds.” Audubon. https://www.audubon.org/bird-guide.
+   * ———. "Muscovy Duck." Audubon. https://www.audubon.org/field-guide/bird/muscovy-duck.
 1. “NestWatch: Where Birds Come to Life.” Cornell Lab of Ornithology. https://nestwatch.org/.
-1. Oh, Jenny. "Peregrine Falcons are Feathered Fighter Jets, Basically." Deep Look, August 20, 2019. https://www.kqed.org/science/1944037/peregrine-falcons-are-feathered-fighter-jets-basically.
-1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
-1. Quirós, Gabriela. "Raising Peregrine Falcon Chicks is a Real Cliff-hanger." October 6, 2020. https://www.kqed.org/science/1969983/raising-peregrine-falcon-chicks-is-a-real-cliff-hanger.
-1. ———. "You’d Never Guess What an Acorn Woodpecker Eats." Deep Look, June 12, 2018. https://www.kqed.org/science/1925251/youd-never-guess-what-an-acorn-woodpecker-eats.
-1. Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?" Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
-1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
-1. Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
+1. Schagene, Allen. "*Cairina moschata* Muscovy Duck." Animal Diversity Web, 2010. https://animaldiversity.org/accounts/Cairina_moschata/.
 1. “Skullsite: Bird Skull Collection.” Jansen, Jan, Wouter Van Gestel, and Experimental Zoology Group of Wageningen University. https://skullsite.com/.
    * Jansen, Jan, and Wouter Van Gestel. “*Anas platyrhynchos* (Mallard).” Skullsite. https://skullsite.com/skullpage/anas-platyrhynchos-mallard/.
    * ———. “*Mimus polyglottos* (Northern Mockingbird).” Skullsite. https://skullsite.com/skullpage/mimus-polyglottos-northern-mockingbird/.
 1. T., Paula. "House Finch Fledglings." NestWatch. https://nestwatch.org/connect/participant-photo/house-finch-fledglings-2/.
 1. That Bug Guy. “Mallard x Muscovy Duck - Way-out Waterfowl.” iNaturalist, October 25, 2022. https://www.inaturalist.org/journal/that_bug_guy/71906-mallard-x-muscovy-duck-way-out-waterfowl.
 1. University of Wisconsin-Madison. “Journey North: Tracking Migrations and Seasons.” Journey North, 1997. https://journeynorth.org/.
-1. Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
