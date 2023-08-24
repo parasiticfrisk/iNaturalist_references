@@ -5,6 +5,7 @@ icon: bug
 ## References
 
 ### Books
+1. Ebeling, Walter. “Urban Entomology.” University of California Riverside, 1975. https://entomology.ucr.edu/ebeling.
 1. Harwood, Michael, Thomas W. Burke, George S. Fichter, Sally D. Kaicher, Paul Lehman, Peter R. Limburg, David Simon, John C. Yrizarry, and Mary A. Yrizarry. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
 1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
 1. LeBuhn, Gretchen, and Noel B. Pugh. *Field Guide to the Common Bees of California: Including Bees of the Western United States*. University of California Press, 2013.
@@ -24,6 +25,8 @@ icon: bug
    * BugGuide Contributors. "*Boisea rubrolineata*, egg." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=15578&description=Egg.
    * ———. "*Stagmomantis limbata*, egg case." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=149885&description=Egg.
    * ———. "*Stagmomantis limbata*, ootheca." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=149885&description=Ootheca.
+1. Coin, Patrick, Robin McLeod, Phillip Harpootlian, Jay Barnes, Chuch Entz, Mike Quinn, Peter Messer, and V. Belov. "Genus *Scarites*." BugGuide, July 18, 2023. https://bugguide.net/node/view/2990.
+1. DiTerlizzi, Tony, Patrick Coin, Beatriz Moisset, V. Belov, and Arturo Santos. "Genus *Stagmomantis*." BugGuide, February 7, 2022. https://bugguide.net/node/view/4820.
 1. Elliott, Lynette, Hannah Nendick-Mason, Beatriz Moisset, Robin McLeod, Mike Quinn, David Ferguson, and V. Belov. "Species *Boisea rubrolineata* - Western Boxelder Bug." BugGuide, March 3, 2023. https://bugguide.net/node/view/15578.
 1. McLeod, Robin, Hannah Nendick-Mason, Mike Quinn, and V. Belov. "Species *Oligotoma nigra* - Black Webspinner." BugGuide, November 15, 2020. https://bugguide.net/node/view/35629.
 1. McLeod, Robin, Lynette Elliot, and Jonathon Hoskins. "Species *Spodoptera praefica* - Western Yellow-striped Armyworm Moth - Hodges#9667." BugGuide, March 29, 2023. https://bugguide.net/node/view/78952.
@@ -181,7 +184,7 @@ icon: bug
    * ———. "*Neuroterus washingtonensis* (Midrib Gall Wasp)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Neuroterus+washingtonensis&ordr=.
    * ———. "*Xanthoteras clavuloides* (Club Gall Wasp)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Xanthoteras+clavuloides&ordr=.
    * ———. "*Xanthoteras teres* (Ball-tipped Gall Wasp)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Xanthoteras+teres&ordr=.
-1. ———. "California Oak Galls Induced by Unknown or Undescribed Species." Joyce Gross Photography. https://joycegross.com/galls_ca_oak_undescribed.php.
+1. Gross, Joyce. "California Oak Galls Induced by Unknown or Undescribed Species." Joyce Gross Photography. https://joycegross.com/galls_ca_oak_undescribed.php.
    * ———. "Gall type #13." Joyce Gross Photography. https://joycegross.com/galls/gall013.html.
    * ———. "Gall type #24." Joyce Gross Photography. https://joycegross.com/galls/gall024.html.
    * ———. "Gall type #103." Joyce Gross Photography. https://joycegross.com/galls/gall103.html.
@@ -388,3 +391,4 @@ icon: bug
 1. Leonard, Anne, Stephen Buchmann, Daniel Papaj, and Wulfia Gronenberg. "Buzz Pollination." https://www.anneleonard.com/buzz-pollination/.
 1. Neuswanger, Jason. "Insect Order Trichoptera (Caddisflies)." Troutnut, 2004-2023. http://www.troutnut.com/hatch/12/Insect-Trichoptera-Caddisflies.
 1. “Planthoppers of North America.” University of Delaware. https://sites.udel.edu/planthoppers/.
+1. Volesky, Nick. “Three-Lined Potato Beetle.” Utah State University, September 2020. https://extension.usu.edu/pests/research/three-lined-potato-beetle.

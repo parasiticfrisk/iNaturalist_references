@@ -102,6 +102,7 @@ icon: crow
    * ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
    * ———. "*Fulica americana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Fulica%20Americana.
    * ———. "*Sialia mexicana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Sialia%20mexicana.
+   * ———. "*Spinus psaltria*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Spinus%20psaltria.
    * ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
    * ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
 
@@ -188,6 +189,7 @@ icon: crow
    * ———. "Great Egret at CSU Stanislaus." Natural History Journal (blog), September 16, 2016. https://natural-history-journal.blogspot.com/2016/09/great-egret-at-csu-stanislaus_16.html.
    * ———. "Great Horned Owls." Natural History Journal (blog), February 03, 2017. https://natural-history-journal.blogspot.com/2017/02/great-horned-owls.html.
    * ———. "In Praise of the Ordinary: Mourning Doves." Natural History Journal (blog), April 5, 2020. https://natural-history-journal.blogspot.com/2020/04/in-praise-of-ordinary-mourning-doves.html.
+   * ———. "Lesser Goldfinches." Natural History Journal (blog), January 8, 2018. https://natural-history-journal.blogspot.com/2018/01/lesser-goldfinches.html.
    * ———. "The Mountains are Calling: North Cascades." Natural History Journal (blog), August 31, 2021. https://natural-history-journal.blogspot.com/2021/08/the-mountains-are-calling-north-cascades.html.
    * ———. "The Neighborhood's Elusive Cooper's Hawk." Natural History Journal (blog), October 04, 2016. https://natural-history-journal.blogspot.com/2016/10/the-neighborhoods-elusive-coopers-hawk.html.
    * ———. "Nesting Killdeer." Natural History Journal (blog), March 19, 2019. https://natural-history-journal.blogspot.com/2019/03/nesting-killdeer.html.
