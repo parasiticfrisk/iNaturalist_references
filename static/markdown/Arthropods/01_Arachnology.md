@@ -183,26 +183,30 @@ owner: August Frisk
 1. ———. "Scorpions Are Predators With a Sensitive Side." Deep Look, May 4, 2021. https://www.kqed.org/science/1974305/scorpions-are-predators-with-a-sensitive-side.
 
 
-### Other
+### University of California, Agriculture and Natural Resources
 1. "Common Garden Spiders." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June, 2023. https://ipm.ucanr.edu/QT/commongardenspiderscard.html.
+1. Godfrey, Larry D. “Spider Mites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7405.html.
+1. Miller, W. Sean, J. H. Connell, W. H. Olson, and R. A. Criley. “Sixspotted Spider Mite on Plumeria: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74141.html.
+1. Natwick, Eric T. “Scorpions: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74110.html.
+1. Perry, Ed J. “Windscorpion: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7495.html.
+1. Vetter, Richard S. “Spiders: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2020. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7442.html.
+1. ———. “Widow Spiders and Their Relatives: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2017. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74149.html.
+1. Vetter, Richard S., and Darrell Ubick. “*Zoropsis spinimana*, A Mediterranean Spider In California: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74143.html.
+
+
+
+### Other
 1. Crawford, Rob. “Spider Collector’s Journal.” Scarabs: The Bug Society, 2005-2023. https://crawford.tardigrade.net/journal/index.html.
 1. Frisk, August. "*Allocosa subparva*." iNaturalist, August 23, 2022. https://www.inaturalist.org/observations/132111058.
-1. Godfrey, Larry D. “Spider Mites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7405.html.
 1. Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
 1. Kimlov, Pavel, and Barry OConnor. “Genetic Study of House Dust Mites Demonstrates Reversible Evolution.” University of Michigan News, March 8, 2013. https://news.umich.edu/genetic-study-of-house-dust-mites-demonstrates-reversible-evolution/.
 1. Matsumoto, Ron. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, September 2018. https://www.inaturalist.org/observations/16376037#activity_comment_1e72aa8d-33fd-48b7-a87a-76182afff9be.
-1. Miller, W. Sean, J. H. Connell, W. H. Olson, and R. A. Criley. “Sixspotted Spider Mite on Plumeria: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74141.html.
 1. Minus, Ashley. "*Latrodectus hesperus*." *Animal Diversity Web*, 2001. https://animaldiversity.org/accounts/Latrodectus_hesperus/.
 1. Natural History Museums of Los Angeles County. “Spider Survey.” Natural History Museum. https://nhm.org/community-science-nhm/spider-survey.
-1. Natwick, Eric T. “Scorpions: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74110.html.
-1. Perry, Ed J. “Windscorpion: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7495.html.
 1. San Diego Natural History Museum, and Jim Berrian. “Checklist of Spiders of San Diego County.” The Nat, December 20, 2014. https://www.sdnhm.org/science/entomology/projects/checklist-of-spiders-of-san-diego-county/.
 1. Sanchez, Diana, Blaine R. Hebert, and Cobalt18. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, February 9, 2020. https://www.inaturalist.org/observations/38481407#activity_identification_5f0706db-298e-4c79-80c0-87197a402192.
 1. Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
 1. “Spiders of California.” Steve Lew, January 4, 2004. https://www.ocf.berkeley.edu/~stevelew/soc.html.
 1. Ueda, Ken-ichi, and Marshal Hedin. "(Not) *Callobius*." Notes and Comments, Flickr, August 30, 2009. https://www.flickr.com/photos/ken-ichi/3871589099.
-1. Vetter, Richard S. “Spiders: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2020. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7442.html.
-1. ———. “Widow Spiders and Their Relatives: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2017. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74149.html.
-1. Vetter, Richard S., and Darrell Ubick. “*Zoropsis spinimana*, A Mediterranean Spider In California: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74143.html.
 1. “World Spider Catalog,” Natural History Museum Bern. https://wsc.nmbe.ch/.
    * Dunlop, Jason A., David Penney, and Denise Jekel. “A Summary List of Fossil Spiders and Their Relatives.” World Spider Catalog, April 1, 2023. https://wsc.nmbe.ch/resources/fossils/Fossils23.5.pdf.

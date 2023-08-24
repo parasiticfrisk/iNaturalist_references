@@ -24,7 +24,10 @@ icon: tree
 
 ### Calflora
 1. “Calflora.” The Calfora Database, 2000. https://www.calflora.org/.
-   * Calflora Contributors. "*Epilobium canum ssp. canum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2985.
+   * Calflora Contributors. "*Calochortus monophyllus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=1294.
+   * Calflora Contributors. "*Claytonia perfoliata*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2244.
+   * ———. "*Epilobium brachycarpum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2983.
+   * ———. "*Epilobium canum ssp. canum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2985.
    * ———. "*Nemophila menziesii*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=5836.
    * ———. "*Ranunculus californicus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=7032.
    * ———. “*Rosmarinus Officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
@@ -38,7 +41,10 @@ icon: tree
 
 
 ### Jepson eFlora
+1. Fielder, Peggy L. "*Calochortus monophyllus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=16744.
+1. Hoch, Peter C. "*Epilobium brachycarpum*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=24341.
 1. “Jepson Flora Project (eds.).” University of California, Berkeley, January 30, 2023. https://ucjeps.berkeley.edu/eflora/.
+1. Miller, John M., and Kenton L. Chambers. "*Claytonia perfoliata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=19632.
 1. Patterson, Robert W., and Richard R. Halse. "*Nemophila menziesii*, in Jepson Flora Project (eds.)." *Jepson eFlora*. University of California, Berkeley, 2021. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=34542.
 1. Preston, Robert E., and Margriet Wetherwax. "*Verbascum thapsus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47846.
 1. Rosatti, Thomas J., and John M. Tucker. "*Quercus chrysolepis*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40565.
@@ -78,8 +84,9 @@ icon: tree
 1. Jackson, Lee, Bonnie Fernandez, Herman Meister, Monica Spiller, Jack Williams, Tom Kearney, Brian Marsh, et al. *Small Grain Production Manual*. Complete Edition. University of California Agriculture and Natural Resources Publications, 2006. [https://doi.org/10.3733/ucanr.8208](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8208).
 
 
-### Online Resources
+### Other
 1. California Native Plant Society. “California Native Plant Society,” 1965. https://www.cnps.org/.
 1. Gallformers Contributors. “Gallformers.” Gallformers.org. https://gallformers.org/.
+1. Native Plant Trust. "*Hemerocallis lilioasphodelus* — yellow day-lily." Go Botany. https://gobotany.nativeplanttrust.org/species/hemerocallis/lilioasphodelus/.
 1. Je9h, and Momento Mori. “Roses (Genus *Rosa*),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
 1. Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants.” Video, YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
