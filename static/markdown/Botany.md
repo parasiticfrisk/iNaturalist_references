@@ -19,7 +19,10 @@ icon: tree
 1. Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly State University, 1995. https://selectree.calpoly.edu/.
    * ———. "*Phoenix roebelenii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/phoenix-roebelenii.
    * ———. "*Quercus chrysolepis* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1232.
+   * ———. "*Quercus coccinea* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1233.
    * ———. “*Quercus lobata* Tree Record.” Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1246.
+   * ———. "*Quercus rubra* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1260.
+   * ———. "*Quercus shumardii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1261.
 
 
 ### Calflora
@@ -35,9 +38,43 @@ icon: tree
 
 ### California State University, Stanislaus
 1. California State University, Stanislaus. “Campus Tree Story Map,” 2017. https://www.csustan.edu/campus-tree-story-map.
+   * ———. "Aleppo Pine (*Pinus halepensis*)." California State University, Stanislaus, February 21, 2018. https://www.csustan.edu/campus-tree-story-map/aleppo-pine-pinus-halepensis.
+   * ———. "Baily Acacia, Golden Mimosa (*Acacia baileyana*)." California State University, Stanislaus, February 22, 2018. https://www.csustan.edu/campus-tree-story-map/baily-acacia-golden-mimosa-acacia-baileyana.
    * ———. "Canyon Live Oak (*Quercus chrysolepis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/canyon-live-oak-quercus-chrysolepis.
+   * ———. "Japanese Black Pine 'Thunderhead' (*Pinus thunbergii* 'Thunderhead')." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-black-pine-thunderhead-pinus-thunbergii-thunderhead.
+   * ———. "Japanese Maple (*Acer palmatum*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-maple-acer-palmatum.
+   * ———. "Japanese Pagoda Tree (*Sophora japonica*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-pagoda-tree-sophora-japonica.
+   * ———. "Jeffrey Pine (*Pinus jeffreyi*)." California State University, Stanislaus, March 2, 2018. https://www.csustan.edu/campus-tree-story-map/jeffrey-pine-pinus-jeffreyi.
+   * ———. "Lodgepole Pine (*Pinus contorta subsp. murrayana*)." California State University, Stanislaus, March 2, 2018. https://www.csustan.edu/campus-tree-story-map/lodgepole-pine-pinus-contorta-subsp-murrayana.
+   * ———. "London Plane Tree (*Platanus x hispanica*)." California State University, Stanislaus, March 14, 2018. https://www.csustan.edu/campus-tree-story-map/london-plane-tree-platanus-x-hispanica.
+   * ———. "Maidenhair Tree (*Ginkgo biloba*)." California State University, Stanislaus, March 14, 2018. https://www.csustan.edu/campus-tree-story-map/maidenhair-tree-ginkgo-biloba.
+   * ———. "Mayten Tree (*Maytenus boaria*)." California State University, Stanislaus, March 14, 2018. https://www.csustan.edu/campus-tree-story-map/mayten-tree-maytenus-boaria.
+   * ———. "Monterey Pine (*Pinus radiata*)." California State University, Stanislaus, March 14, 2018. https://www.csustan.edu/campus-tree-story-map/monterey-pine-pinus-radiata.
+   * ———. "Montezuma Bald Cypress (*Taxodium mucronatum*)." California State University, Stanislaus, March 14, 2018. https://www.csustan.edu/campus-tree-story-map/montezuma-bald-cypress-taxodium-mucronatum.
+   * ———. "Mugo Pine (*Pinus mugo*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/mugo-pine-pinus-mugo.
+   * ———. "Nana Pomegranate (*Punica granatum*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/nana-pomegranate-punica-granatum-nana.
+   * ———. "Nichol's Willowleafed Peppermint (*Eucalyptus nicholii*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/nichols-willowleafed-peppermint-eucalyptus-nicholii.
+   * ———. "Olive Tree (*Olea europaea*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/olive-tree-olea-europaea.
+   * ———. "Peach (*Prunus persica*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/peach-prunus-persica.
+   * ———. "Ponderosa Pine (*Pinus ponderosa*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/ponderosa-pine-pinus-ponderosa.
+   * ———. "Purple Leaf Plum (*Prunus cerasifera*)." California State University, Stanislaus, April 23, 2018. https://www.csustan.edu/campus-tree-story-map/purple-leaf-plum-prunus-cerasifera.
    * ———. "Pygmy Palm (*Phoenix roebelenii*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/pygmy-palm-phoenix-roebelenii.
+   * ———. "Queen Palm (*Syagrus romanzoffiana*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/queen-palm-syagrus-romanzoffiana.
+   * ———. "Red Ironbark (*Eucalyptus sideroxylon*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/red-ironbark-eucalyptus-sideroxylon.
+   * ———. "Red Maple (*Acer rubrum*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/red-maple-acer-rubrum.
+   * ———. "Sandbar Willow, Narrowleaf Willow (*Salix exigua*)." California State University, Stanislaus, May 29, 2018. https://www.csustan.edu/campus-tree-story-map/sandbar-willow-narrowleaf-willow-salix-exigua.
+   * ———. "Saucer Magnolia (*Magnolia x soulangeana*)." California State University, Stanislaus, March 19, 2018. https://www.csustan.edu/campus-tree-story-map/saucer-magnolia-magnolia-x-soulangeana.
+   * ———. "Sawleaf Zelkova, Japanese Zelkova (*Zelkova serrata*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/sawleaf-zelkova-japanese-zelkova-zelkova-serrata.
+   * ———. "Shiny Xylosma (*Xylosma congesta*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/shiny-xylosma-xylosma-congesta.
+   * ———. "Silver Maple (*Acer saccharinum*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/silver-maple-acer-saccharinum.
+   * ———. "Smoke Tree (*Cotinus coggygria*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/smoke-tree-cotinus-coggygria.
+   * ———. "Southern Magnolia, Evergreen Magnolia (*Magnolia grandiflora*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/southern-magnolia-evergreen-magnolia-magnolia-grandiflora.
+   * ———. "Strawberry Tree (*Arbutus unedo*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/strawberry-tree-arbutus-unedo.
+   * ———. "Sweet Gum (*Liquidambar styraciflua*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/sweet-gum-liquidambar-styraciflua.
+   * ———. "Sweet Olive, Fragrant Olive (*Osmanthus fragrans*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/sweet-olive-fragrant-olive-osmanthus-fragrans.
+   * ———. "Thornless Honeylocust (*Gleditsia triacanthos*)." California State University, Stanislaus, May 31, 2018. https://www.csustan.edu/campus-tree-story-map/thornless-honey-locust-gleditsia-triacanthos-var-inermis.
    * ———. "Valley Oak (*Quercus lobata*)." California State University, Stanislaus, February 26, 2018. https://www.csustan.edu/campus-tree-story-map/valley-oak-quercus-lobate.
+   * ———. "Western Redbud (*Cercis occidentalis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/western-redbud-cercis-occidentalis.
 
 
 ### Jepson eFlora
