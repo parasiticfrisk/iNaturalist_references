@@ -28,6 +28,7 @@ icon: bug
 1. Coin, Patrick, Robin McLeod, Phillip Harpootlian, Jay Barnes, Chuch Entz, Mike Quinn, Peter Messer, and V. Belov. "Genus *Scarites*." BugGuide, July 18, 2023. https://bugguide.net/node/view/2990.
 1. DiTerlizzi, Tony, Patrick Coin, Beatriz Moisset, V. Belov, and Arturo Santos. "Genus *Stagmomantis*." BugGuide, February 7, 2022. https://bugguide.net/node/view/4820.
 1. Elliott, Lynette, Hannah Nendick-Mason, Beatriz Moisset, Robin McLeod, Mike Quinn, David Ferguson, and V. Belov. "Species *Boisea rubrolineata* - Western Boxelder Bug." BugGuide, March 3, 2023. https://bugguide.net/node/view/15578.
+1. Leung, Richard, Hannah Nendick-Mason, Beatriz Moisset, Brad Barnd, Mike Quinn, Corey Husic, and V. Belov. "Species *Halyomorpha halys* - Brown Marmorated Stink Bug." BugGuide, March 20, 2017. https://bugguide.net/node/view/9806.
 1. McLeod, Robin, Hannah Nendick-Mason, Mike Quinn, and V. Belov. "Species *Oligotoma nigra* - Black Webspinner." BugGuide, November 15, 2020. https://bugguide.net/node/view/35629.
 1. McLeod, Robin, Lynette Elliot, and Jonathon Hoskins. "Species *Spodoptera praefica* - Western Yellow-striped Armyworm Moth - Hodges#9667." BugGuide, March 29, 2023. https://bugguide.net/node/view/78952.
 1. McLeod, Robin, and Randy Hardy. "Species *Digrammia excurvata* - Hodges#6363." BugGuide, September 18, 2017. https://bugguide.net/node/view/346607.
