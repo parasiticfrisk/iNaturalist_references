@@ -5,6 +5,8 @@ owner: August Frisk
 -->
 ## References
 
+<!-- DOI:10.26462/28.2.7 -->
+
 ### Books
 1. Adams, R. J., and Timothy D. Manolis. *Field Guide to the Spiders of California and the Pacific Coast States*. University of California Press, 2014.
 1. Baba, Yuki, and Akio Tanikawa. *The Spider Handbook*. Bunichi General Publishing, 2015.
@@ -21,6 +23,8 @@ owner: August Frisk
 
 ### BugGuide
 1. Balaban, John, Jane Balaban, Lynette Elliott, Jeff Hollenbeck, Chad Heins, Chuck Entz, Ken Schneider, John Sloan, and Mandy Howe. "Genus *Tibellus* - Slender Crab Spiders." BugGuide, March 19, 2022. https://bugguide.net/node/view/6824.
+1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
+   * BugGuide Contributors. "*Latrodectus geometriucs*, egg." BugGuide, 2003-2022. https://bugguide.net/adv_search/bgsearch.php?taxon=23403&description=Egg&representative=0.
 1. Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 
 
@@ -151,6 +155,7 @@ owner: August Frisk
 1. Valle, Stephen K, Cynthia Bingham Keiser, Leonard S. Vincent, and Richard S. Vetter. “A South American Spider, *Falconina gracilis* (Keyserling 1891) (Araneae: Corinnidae), Newly Established in Southern California.” *Pan-Pacific Entomologist 89*, no. 4 (October 1, 2013): 259–63. [https://doi.org/10.3956/2013-23.1](https://wsc.nmbe.ch/refincluded/12749).
 1. Vogel, Beatrice R. “A Review of the Spider Genera *Pardosa* and *Acantholycosa* (Araneae, Lycosidae) of the 48 Contiguous United States.” *Journal of Arachnology 32*, no. 1 (April 1, 2004): 55–108. [https://doi.org/10.1636/h03-8](https://www.biodiversitylibrary.org/page/53156845#page/57/mode/1up).
 1. ———. “Taxonomy and Morphology of the Sternalis and Falcifera Species Groups of *Pardosa* (Araneida: Lycosidae).” *Armadillo Papers 3* (June 19, 1970): 1–31. https://wsc.nmbe.ch/refincluded/4177.
+1. Wenninger, Erik J., and William F. Fagan. "Effect of River Flow Manipulation on Wolf Spider Assemblages at Three Desert Riparian Sites." *Journal of Arachnology 28*, no. 1 (June 1, 2000): 115–122. [doi:10.1636/0161-8202(2000)028[0115:EORFMO]2.0.CO;2](https://www.biodiversitylibrary.org/page/52975100#page/121/mode/1up).
 1. Whitman-Zai, Julie, Maren Francis, Margaret Geick, and Paula E. Cushing. “Revision and Morphological Phylogenetic Analysis of the Funnel Web Spider Genus *Agelenopsis* (Araneae: Agelenidae).” *Journal of Arachnology 43*, no. 1 (March 3, 2015): 1–25. [https://doi.org/10.1636/k14-35.1](https://www.researchgate.net/publication/276833638_Revision_and_morphological_phylogenetic_analysis_of_the_funnel_web_spider_genus_Agelenopsis_Araneae_Agelenidae).
 1. Xiao, Yonghong, Alenka Zunic-Kosi, Long-Wa Zhang, Thomas R. Prentice, J. Steven McElfresh, Satya P. Chinta, Yunfan Zou, and Jocelyn G. Millar. “Male Adaptations to Minimize Sexual Cannibalism during Reproduction in the Funnel-Web Spider *Hololena curta*.” *Insect Science 22*, (November 30, 2015): 840-852. [https://doi.org/10.1111/1744-7917.12243](https://www.researchgate.net/publication/277600431_Male_adaptations_to_minimize_sexual_cannibalism_during_reproduction_in_the_funnel-web_spider_Hololena_curta).
 1. Zonstein, Sergei, and Yuri M. Marusik. “A Revision of the Spider Genus *Filistata* (Araneae: Filistatidae).” *Arachnology 18*, no. 2 (August 5, 2019): 53. [https://doi.org/10.13156/arac.2018.18.2.53](https://www.researchgate.net/publication/334999904_A_revision_of_the_spider_genus_Filistata_Araneae_Filistatidae).
@@ -208,5 +213,6 @@ owner: August Frisk
 1. Spagna, Joseph C., and James M. Bryant. “Corner Funnel Weaver (*Hololena Curta*),” Notes and Comments, iNaturalist, August 5, 2015. https://www.inaturalist.org/observations/1837813#activity_identification_90e6c3cd-d94c-47ff-bc9c-7e66a31dcd6c.
 1. “Spiders of California.” Steve Lew, January 4, 2004. https://www.ocf.berkeley.edu/~stevelew/soc.html.
 1. Ueda, Ken-ichi, and Marshal Hedin. "(Not) *Callobius*." Notes and Comments, Flickr, August 30, 2009. https://www.flickr.com/photos/ken-ichi/3871589099.
+1. Vetter, Richard S. "How to Identify Brown Widow Spiders." University of California, Riverside. https://cisr.ucr.edu/invasive-species/how-identify-brown-widow-spiders.
 1. “World Spider Catalog,” Natural History Museum Bern. https://wsc.nmbe.ch/.
    * Dunlop, Jason A., David Penney, and Denise Jekel. “A Summary List of Fossil Spiders and Their Relatives.” World Spider Catalog, April 1, 2023. https://wsc.nmbe.ch/resources/fossils/Fossils23.5.pdf.

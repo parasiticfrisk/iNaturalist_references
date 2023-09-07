@@ -41,6 +41,12 @@ icon: tree
    * ———. "Aleppo Pine (*Pinus halepensis*)." California State University, Stanislaus, February 21, 2018. https://www.csustan.edu/campus-tree-story-map/aleppo-pine-pinus-halepensis.
    * ———. "Baily Acacia, Golden Mimosa (*Acacia baileyana*)." California State University, Stanislaus, February 22, 2018. https://www.csustan.edu/campus-tree-story-map/baily-acacia-golden-mimosa-acacia-baileyana.
    * ———. "Canyon Live Oak (*Quercus chrysolepis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/canyon-live-oak-quercus-chrysolepis.
+   * ———. "Holly Oak (*Quercus ilex*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/holly-oak-quercus-ilex.
+   * ———. "Incense Cedar (*Calocedrus decurrens*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/incense-cedar-calocedrus-decurrens.
+   * ———. "Indian Bean Catalpa (*Catalpa bignonioides*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/indian-bean-catalpa-catalpa-bignonioides.
+   * ———. "Interior Live Oak (*Quercus wislizeni*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/interior-live-oak-quercus-wislizeni.
+   * ———. "Italian Alder (*Alnus cordata*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/italian-alder-alnus-cordata.
+   * ———. "Italian Cypress (*Cupressus sempervirens*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/italian-cypress-cupressus-sempervirens.
    * ———. "Japanese Black Pine 'Thunderhead' (*Pinus thunbergii* 'Thunderhead')." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-black-pine-thunderhead-pinus-thunbergii-thunderhead.
    * ———. "Japanese Maple (*Acer palmatum*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-maple-acer-palmatum.
    * ———. "Japanese Pagoda Tree (*Sophora japonica*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-pagoda-tree-sophora-japonica.
@@ -54,6 +60,7 @@ icon: tree
    * ———. "Mugo Pine (*Pinus mugo*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/mugo-pine-pinus-mugo.
    * ———. "Nana Pomegranate (*Punica granatum*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/nana-pomegranate-punica-granatum-nana.
    * ———. "Nichol's Willowleafed Peppermint (*Eucalyptus nicholii*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/nichols-willowleafed-peppermint-eucalyptus-nicholii.
+   * ———. "Oklahoma Redbud (*Cercis canadensis* 'Oklahoma')." California State University, Stanislaus, August 5, 2019. https://www.csustan.edu/campus-tree-story-map/oklahoma-redbud-cercis-canadensis-oklahoma.
    * ———. "Olive Tree (*Olea europaea*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/olive-tree-olea-europaea.
    * ———. "Peach (*Prunus persica*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/peach-prunus-persica.
    * ———. "Ponderosa Pine (*Pinus ponderosa*)." California State University, Stanislaus, March 16, 2018. https://www.csustan.edu/campus-tree-story-map/ponderosa-pine-pinus-ponderosa.
