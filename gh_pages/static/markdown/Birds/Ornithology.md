@@ -6,7 +6,8 @@ icon: crow
 
 ### All About Birds
 1. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” Cornell Lab of Ornithology. https://www.allaboutbirds.org/.
-   * Cornell Lab of Ornithology. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.
+   * Cornell Lab of Ornithology. "Acorn Wood Pecker Sounds." All About Birds. https://www.allaboutbirds.org/guide/Acorn_Woodpecker/Sounds.
+   * ———. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.
    * ———. "American Crow Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Crow/sounds.
    * ———. "American Robin Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Robin/sounds.
    * ———. "Anna's Hummingbird Sounds." All About Birds. https://www.allaboutbirds.org/guide/Annas_Hummingbird/sounds.
@@ -47,7 +48,8 @@ icon: crow
 
 ### Bird Sounds
 1. “Bird Sounds and Bird Calls in USA & Canada.” Weiland, Torben, 2013. https://www.bird-sounds.net/.
-   * Weiland, Torben. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
+   * Weiland, Torben. "Acorn Woodpecerk - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/acorn-woodpecker/.
+   * ———. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
    * ———. “American Crow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-crow/.
    * ———. “American Robin - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-robin/.
    * ———. “Anna’s Hummingbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/annas-hummingbird/.
@@ -125,7 +127,8 @@ icon: crow
 
 ### Macaulay Library
 1. “Macaulay Library: A Scientific Archive for Research, Education, and Conservation, Powered by You.” Cornell Lab of Ornithology, 2000. https://www.macaulaylibrary.org/.
-   * Cornell Lab of Ornithology. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
+   * Cornell Lab of Ornithology. "Acorn Woodpecker - *Melanerpes formicivorus*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=acowoo&mediaType=audio&sort=rating_rank_desc.
+   * ———. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
    * ———. “American Crow - *Corvus brachyrhynchos*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecro&mediaType=audio&sort=rating_rank_desc.
    * ———. “American Robin - *Turdus migratorius*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amerob&mediaType=audio&sort=rating_rank_desc.
    * ———. “Anna’s Hummingbird - *Calypte anna*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=annhum&mediaType=audio&sort=rating_rank_desc.

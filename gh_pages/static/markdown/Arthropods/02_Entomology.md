@@ -23,7 +23,10 @@ icon: bug
 1. Büche, Boris, and V. Belov. "Genus *Coniontis*." BugGuide, December 16, 2018. https://bugguide.net/node/view/101007.
 1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
    * BugGuide Contributors. "*Boisea rubrolineata*, egg." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=15578&description=Egg.
-   * ———. "*Stagmomantis limbata*, egg case." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=149885&description=Egg.
+   * ———. "*Iris oratoria*, egg." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=71486&description=Egg.
+   * ———. "*Iris oratoria*, egg." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=71486&description=Ootheca.
+   * ———. "*Murgantia histrionica*, egg." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=557&description=Egg.
+   * ———. "*Stagmomantis limbata*, egg." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=149885&description=Egg.
    * ———. "*Stagmomantis limbata*, ootheca." BugGuide, 2003-2023. https://bugguide.net/adv_search/bgsearch.php?taxon=149885&description=Ootheca.
 1. Coin, Patrick, Robin McLeod, Phillip Harpootlian, Jay Barnes, Chuch Entz, Mike Quinn, Peter Messer, and V. Belov. "Genus *Scarites*." BugGuide, July 18, 2023. https://bugguide.net/node/view/2990.
 1. DiTerlizzi, Tony, Patrick Coin, Beatriz Moisset, V. Belov, and Arturo Santos. "Genus *Stagmomantis*." BugGuide, February 7, 2022. https://bugguide.net/node/view/4820.
@@ -190,7 +193,7 @@ icon: bug
    * ———. "Gall type #24." Joyce Gross Photography. https://joycegross.com/galls/gall024.html.
    * ———. "Gall type #103." Joyce Gross Photography. https://joycegross.com/galls/gall103.html.
    * ———. "Gall type #105." Joyce Gross Photography. https://joycegross.com/galls/gall105.html.
-
+1. Gross, Joyce. "*Murgantia histrionica* (Harlequin Bug)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Murgantia+histrionica&ordr=.
 
 ### KQED: Deep Look
 1. Black, Jason. "Watch Flesh-Eating Beetles Strip Bodies to the Bone." Deep Look, October 13, 2015. https://www.kqed.org/science/299669/watch-flesh-eating-beetles-strip-bodies-to-the-bone.
@@ -351,32 +354,40 @@ icon: bug
 
 
 ### University of California, Agriculture and Natural Resources
-1. Bellows, T. S., J. N. Kabashima, and Karen L. Robb. “Whiteflies: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2015. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7401.html.
-1. Bethke, J. A., Steve H. Dreistadt, and L. G. Varela. “Thrips: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7429.html.
+1. Bellows, T. S., J. N. Kabashima, and Karen L. Robb. “Whiteflies: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2015. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7401.html.
+1. Bethke, J. A., Steve H. Dreistadt, and L. G. Varela. “Thrips: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7429.html.
 1. Bugg, Robert L., Ramy G. Colfer, William E. Chaney, Hugh A. Smith, and James Cannon. *Flower Flies (Syrphidae) and Other Biological Control Agents for Aphids in Vegtable Crops*. University of California Division of Agriculture and Natural Resources Publications, 2008. [https://doi.org/10.3733/ucanr.8285](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8285).
-1. Caprile, J. L., Mary L. Flint, M. P. Bolda, J. A. Grant, R. Van Steenwyk, and David R. Haviland. “Spotted Wing Drosophila: Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74158.html.
+1. Caprile, J. L., Mary L. Flint, M. P. Bolda, J. A. Grant, R. Van Steenwyk, and David R. Haviland. “Spotted Wing Drosophila: Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74158.html.
 1. Choe, Dong-Hwan. “Pantry Pests: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7452.html.
-1. Dreistadt, Steve H. “Sycamore Scale: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7409.html.
+1. Dreistadt, Steve H. “Sycamore Scale: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7409.html.
 1. Dreistadt, Steve H., Julie P. Newman, and Karen L. Robb. *Sticky Trap Monitoring of Insect Pests*. University of California Agriculture and Natural Resources Publications, 1998. https://anrcatalog.ucanr.edu/Details.aspx?itemNo=21572E.
-1. Flint, Mary L. “Walnut Husk Fly: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7430.html.
+1. Flint, Mary L. "Mealybugs: Notes for Home and Landscape." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2016. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74174.html.
+1. ———. “Walnut Husk Fly: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7430.html.
 1. Geisel, P. M., and Ed J. Perry. “Oak Pit Scale: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7470.html.
 1. Gerry, Alec C., Nyles G. Peterson, and Bradley A. Mullens. *Predicting and Controlling Stable Flies on California Dairies*. University of California Division of Agriculture and Natural Resources Publications, 2007. [https://doi.org/10.3733/ucanr.8258](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8258).
+1. Godfrey, Kris. *Mealybugs in California Vineyards*. University of California Division of Agriculture and Natural Resources Publications, 2002. [https://doi.org/10.3733/ucanr.21612](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=21612E).
 1. Godfrey, Kris, David Haviland, Jeffrey Erwin, Kent Daane, and Walt Bentley. *Vine Mealybug: What You Should Know*. University of California Agriculture and Natural Resources Publications, 2005. [https://doi.org/10.3733/ucanr.8152](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8152).
 1. Godfrey, Kris, Frank Zalom, and Joanna Chiu. *Tuta Absoluta The South American Tomato Leafminer*. University of California Agriculture and Natural Resources Publications, 2018. [https://doi.org/10.3733/ucanr.8589](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8589).
 1. Grafton-Cardwell, Beth. *Stages of the Cottony Cushion Scale (Icerya purchasi) and Its Natural Enemy, the Vedalia Beetle (Rodolia cardinalis)*. University of California Division of Agriculture and Natural Resources Publications, 2002. [https://doi.org/10.3733/ucanr.8051](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8051).
 1. Greenberg, L., and J. N. Kabashima. “Red Imported Fire Ant: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7487.html.
 1. Kabashima, J. N., Steve H. Dreistadt, J. G. Morse, P. A. Phillips, and R. E. Rice. “Scale: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7408.html.
 1. Kabashima, J. N., Timothy D. Paine, Kent Daane, and Steve H. Dreistadt. “Psyllids: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, April 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7423.html.
-1. Lewis, V. R., Andrew M. Sutherland, and M. I. Haverty. “Subterranean and Other Termites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7415.html.
-1. Lewis, V. R., and S. J. Seybold. “Wood-Boring Beetles in Homes: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7418.html.
+1. Lawler, Sharon, and Gregory Lanzaro. *Managing Mosquitoes on the Farm*. Universyt of California Agriculture and Natural Resources Publications, 2005. [https://doi.org/10.3733/ucanr.8158](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8158).
+1. Lewis, V. R., Andrew M. Sutherland, and M. I. Haverty. “Subterranean and Other Termites: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, August 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7415.html.
+1. Lewis, V. R., and S. J. Seybold. “Wood-Boring Beetles in Homes: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7418.html.
+1. Metzger, Marco E. *Managing Mosquitoes in Stormwater Treatment Devices*. University of California Division of Agriculture and Natural Resources Publications, 2004. [https://doi.org/10.3733/ucanr.8125](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8125).
 1. Mueller, Shannon C., Charles G. Summers, and Peter B. Goodell. *A Field Key to Lygus Species of the Central San Joaquin Valley*. University of California Division of Agriculture and Natural Resources Publications, 2003. [https://doi.org/10.3733/ucanr.8104](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8104).
-1. Mussen, Eric. “Wood Wasps and Horntails: Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, April 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7407.html.
-1. ———. “Yellowjackets and Other Social Wasp: Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2012. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7450.html.
-1. Perry, Ed J. “Springtails: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74136.html.
+1. Mussen, Eric. “Wood Wasps and Horntails: Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, April 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7407.html.
+1. ———. “Yellowjackets and Other Social Wasp: Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2012. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7450.html.
+1. Paine, Timothy D., Kent M. Daane, Steve H. Dreistdadt, Raymond J. Gill, and Rosser W. Garrison. "Eucalypus Redgum Lerp Psyllid: Notes for Home and Landscape."
+1. Perry, Ed J. “Springtails: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74136.html.
 1. Perry, Ed J., and Karey Windbeil-Rojas. “Boxelder Bug: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74114.html.
-1. Rust, M. K., and M. R. Millard. “Silverfish and Firebrat: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7475.html.
+1. Rust, M. K., and M. R. Millard. “Silverfish and Firebrat: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7475.html.
 1. Swain, S. V., Steve. H. Dreistadt, and P. Svihra. “Pitch Moths: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2013. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7479.html.
 1. Symmes, Emily J., and Steve H. Dreistadt. “Redhumped Caterpillar: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2017. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7474.html.
+1. Theuret, David. "Moth or Drain Flies: Pest Notes for Home and Landscape." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74167.html.
+1. Walton, William E. *Mananaging Mosquitoes in Surface-Flow Constructed Wetlands*. University of California Division of Agriculture and Natural Resources Publications, 2003. [https://doi.org/10.3733/ucanr.8117](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8117).
+1. Walton, William E., and Bruce F. Eldridge. "Mosqutioes: Notes for Home and Landscape." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, April 2020. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7451.html.
 1. Zalom, F. G., R. A. Van Steenwyk, H. J. Burrack, and M. W. Johnson. “Olive Fruit Fly: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, February 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74112.html.
 
 
@@ -388,6 +399,7 @@ icon: bug
 1. Evans, Gregory A. “The Whiteflies (Hemiptera: Aleyrodidae) of the World and Their Host Plants and Natural Enemies.” *USDA/Animal Plant Health Inspection Service (APHIS)*, June 11, 2007. https://keys.lucidcentral.org/keys/v3/whitefly/PDF_PwP%20ETC/world-whitefly-catalog-Evans.pdf.
 1. Hawley, Clifford. "Honeydew Gall Wasp (*Discholcaspis eldoradensis*)." iNaturalist, November 21, 2019. https://www.inaturalist.org/observations/35995599.
 1. Hill, Kathy, and David C. Marshall. “InsectSingers: Song Recordings and Information on Cicadas and Other Acoustic Insects.” InsectSingers, April 19, 2022. https://www.insectsingers.com/.
+1. Ito, Noriko, Nancy Asquith, and Adam Kranz. "Fuzzy-Gall Wasp (*Cynips conspicuus*)." Notes and Comments, iNaturalist, August 14, 2022. https://www.inaturalist.org/observations/130939757.
 1. Langdon-Lassagne, Emily. "Subgenus *Eumelissodes*". iNaturalist, August 4, 2021. https://www.inaturalist.org/observations/100167000.
 1. Leonard, Anne, Stephen Buchmann, Daniel Papaj, and Wulfia Gronenberg. "Buzz Pollination." https://www.anneleonard.com/buzz-pollination/.
 1. Neuswanger, Jason. "Insect Order Trichoptera (Caddisflies)." Troutnut, 2004-2023. http://www.troutnut.com/hatch/12/Insect-Trichoptera-Caddisflies.
