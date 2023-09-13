@@ -201,7 +201,7 @@ owner: August Frisk
 
 
 ### Other
-1. Crawford, Rob. “Spider Collector’s Journal.” Scarabs: The Bug Society, 2005-2023. https://crawford.tardigrade.net/journal/index.html.
+1. Crawford, Rod. “Spider Collector’s Journal.” Scarabs: The Bug Society, 2005-2023. https://crawford.tardigrade.net/journal/index.html.
 1. Frisk, August. "*Allocosa subparva*." iNaturalist, August 23, 2022. https://www.inaturalist.org/observations/132111058.
 1. Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
 1. Kimlov, Pavel, and Barry OConnor. “Genetic Study of House Dust Mites Demonstrates Reversible Evolution.” University of Michigan News, March 8, 2013. https://news.umich.edu/genetic-study-of-house-dust-mites-demonstrates-reversible-evolution/.
