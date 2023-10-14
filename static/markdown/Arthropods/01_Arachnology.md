@@ -5,8 +5,6 @@ owner: August Frisk
 -->
 ## References
 
-<!-- DOI:10.26462/28.2.7 -->
-
 ### Books
 1. Adams, Richard J., and Timothy D. Manolis. *Field Guide to the Spiders of California and the Pacific Coast States*. University of California Press, 2014.
 1. Baba, Yuki, and Akio Tanikawa. *The Spider Handbook*. Bunichi General Publishing, 2015.
@@ -19,13 +17,6 @@ owner: August Frisk
 1. Roth, Vincent D. *Spider Genera of North America: With Keys to Families and Genera, and a Guide to Literature*. Third Edition. American Arachnological Society, 1993. https://wsc.nmbe.ch/refincluded/7789.
 1. ———. *Preliminary Handbook for Spider Identification: A Guide to the Important Catalogs, Recent Family and Generic Revisions with Supraspecific Keys to Spiders of America North of Mexico*, 1982. https://wsc.nmbe.ch/refincluded/5663.
 1. Ubick, Darrell, Pierre Paquin, Paula Elizabeth Cushing, and Vincent D. Roth. *Spiders of North America: An Identification Manual*, Second Edition. American Arachnological Society, 2017.
-
-
-### BugGuide
-1. Balaban, John, Jane Balaban, Lynette Elliott, Jeff Hollenbeck, Chad Heins, Chuck Entz, Ken Schneider, John Sloan, and Mandy Howe. "Genus *Tibellus* - Slender Crab Spiders." BugGuide, March 19, 2022. https://bugguide.net/node/view/6824.
-1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
-   * BugGuide Contributors. "*Latrodectus geometriucs*, egg." BugGuide, 2003-2022. https://bugguide.net/adv_search/bgsearch.php?taxon=23403&description=Egg&representative=0.
-1. Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 
 
 ### Journal Articles
@@ -41,7 +32,7 @@ owner: August Frisk
 1. Bosco, Jennifer M., and Angela Chuang. “A new species of grass spider, *Agelenopsis riechertii*, from the Southwestern USA, with notes on its courtship behavior (Araneae: Agelenidae).” *Zootaxa 4442*, no. 4 (July 3, 2018): 579. 10.11646/zootaxa.4472.3.11, https://doi.org/10.11646/zootaxa.4442.4.6.
 1. Brescovit, Antonio D., and Adalberto J. Santos. “The spider genus *Kukulcania* in South America (Araneae: Filistatidae): a redescription of *K. brevipes* (Keyserling) and new records of *K. hibernalis* (Hentz).” *Zootaxa 3734*, no. 3, (November 6, 2013): 301–16. [https://doi.org/10.11646/zootaxa.3734.3.1](https://www.researchgate.net/publication/266581784_The_spider_genus_Kukulcania_in_South_America_Araneae_Filistatidae_a_redescription_of_K_brevipes_Keyserling_and_new_records_of_K_hibernalis_Hentz). ![Available on ResearchGate]
 1. Brescovit, Antonio D., Alexander Sánchez Ruiz, and Giraldo Alayón Garcia. “Filistatidae in the Caribbean region, with a description of the new genus *Antilloides*, revision of the genus *Filistatoides* F. O. P.-Cambridge and notes on *Kukulcania lehtinen* (Arachnida, Araneae).” *Zootaxa 4136*, no. 3 (July 7, 2016): 401-432. [https://doi.org/10.11646/zootaxa.4136.3.1](https://www.researchgate.net/publication/304994110_The_Filistatidae_in_the_Caribbean_region_with_a_description_of_the_new_genus_Antilloides_revision_of_the_genus_Filistatoides_F_O_P-Cambridge_and_notes_on_Kukulcania_Lehtinen_Arachnida_Araneae). ![Available on ResearchGate]
-1. Cavassa, Diego, Verónica Gonnet, and Nadia Kacevas. “ENTRE LA TIERRA Y EL PASTO: PREFERENCIA DE MICRO-HÁBITAT EN Allocosa Sp. (LYCOSIDAE), UNA ARAÑA LOBO DE LOS PASTIZALES URUGUAYOS.” Boletín De La Sociedad Zoológica Del Uruguay 28, no. 2 (December 26, 2019). https://doi.org/10.26462/28.2.7. ![Open access]
+1. Cavassa, Diego, Verónica Gonnet, and Nadia Kacevas. “Entre tierra y pastizal: preferencia de micro-hábitat en *Allocosa sp*. (Lycosidae), una araña lobo de los pastizales uruguayos.” Boletín De La Sociedad Zoológica Del Uruguay 28, no. 2 (December 26, 2019). https://doi.org/10.26462/28.2.7. ![Open access]
 1. Chamberlin, Ralph V. “New North American spiders.” *Proceedings of the California Academy of Sciences 14*, no. 7 (August 14, 1925): 105–142. https://www.biodiversitylibrary.org/item/22408#page/113/mode/1up. ![Freely accessible]
 1. ———. “The spider fauna of the shores and islands of the Gulf of California.” *Proceedings of the California Academy of Sciences 12*, no. 28 (April 14, 1924): 561–694. https://www.biodiversitylibrary.org/item/86392#page/582/mode/1up. ![Freely accessible]
 1. ———. “New Californian spiders.” *Journal of Entomology and Zoology 12* (1919): 1–17. https://www.biodiversitylibrary.org/page/12475384#page/11/mode/1up. ![Freely accessible]
@@ -164,8 +155,21 @@ owner: August Frisk
 1. Zonstein, Sergei, and Yuri M. Marusik. “A revision of the spider genus *Filistata* (Araneae: Filistatidae).” *Arachnology 18*, no. 2 (August 5, 2019): 53. [https://doi.org/10.13156/arac.2018.18.2.53](https://www.researchgate.net/publication/334999904_A_revision_of_the_spider_genus_Filistata_Araneae_Filistatidae). ![Available on ResearchGate]
 1. Zurek, Daniel B., Thomas W. Cronin, Lisa A. Taylor, Kevin Byrne, Mara Sullivan, and Nathan I. Morehouse. “Spectral filtering enables trichromatic vision in colorful jumping spiders.” *Current Biology 25*, no. 10 (May 18, 2015): R403–4. https://doi.org/10.1016/j.cub.2015.03.033. ![Open access]
 
+### Websites
+#### BugGuide
+1. Balaban, John, Jane Balaban, Lynette Elliott, Jeff Hollenbeck, Chad Heins, Chuck Entz, Ken Schneider, John Sloan, and Mandy Howe. "Genus *Tibellus* - Slender Crab Spiders." BugGuide, March 19, 2022. https://bugguide.net/node/view/6824.
+1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
+   * BugGuide Contributors. "*Latrodectus geometriucs*, egg." BugGuide, 2003-2022. https://bugguide.net/adv_search/bgsearch.php?taxon=23403&description=Egg&representative=0.
+1. Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 
-### KQED: Deep Look
+<details><summary>
+
+#### BugGuide: *Latrodectus* - Widow Spiders
+
+</summary>
+</details>
+
+#### KQED: Deep Look
 1. Cassidy, Josh. "Meet the Dust Mites, Tiny Roommates That Feast on Your Skin." Deep Look, April 5, 2016. https://www.kqed.org/science/607105/meet-the-dust-mites-tiny-roommates-that-feast-on-your-skin.
 1. ———. "These Face Mites Really Grow on You." Deep Look, May 21, 2019. https://www.kqed.org/science/1941506/these-face-mites-really-grow-on-you.
 1. ———. "These Mites Rain Down To Save Your Strawberries." January 26, 2021. https://www.kqed.org/science/1972295/these-mites-rain-down-to-save-your-strawberries.
@@ -191,7 +195,7 @@ owner: August Frisk
 1. ———. "Scorpions Are Predators With a Sensitive Side." Deep Look, May 4, 2021. https://www.kqed.org/science/1974305/scorpions-are-predators-with-a-sensitive-side.
 
 
-### University of California, Agriculture and Natural Resources
+#### University of California, Agriculture and Natural Resources
 1. "Common Garden Spiders." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June, 2023. https://ipm.ucanr.edu/QT/commongardenspiderscard.html.
 1. Godfrey, Larry D. “Spider Mites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7405.html.
 1. Miller, W. Sean, J. H. Connell, W. H. Olson, and R. A. Criley. “Sixspotted Spider Mite on Plumeria: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74141.html.
@@ -203,7 +207,7 @@ owner: August Frisk
 
 
 
-### Other
+#### Other
 1. Crawford, Rod. “Spider Collector’s Journal.” Scarabs: The Bug Society, 2005-2023. https://crawford.tardigrade.net/journal/index.html.
 1. Frisk, August. "*Allocosa subparva*." iNaturalist, August 23, 2022. https://www.inaturalist.org/observations/132111058.
 1. Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.
