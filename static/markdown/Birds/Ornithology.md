@@ -4,6 +4,16 @@ icon: crow
 -->
 ## References
 
+### Books
+1. Harwood, Michael, Thomas W. Burke, George S. Fichter, Sally D. Kaicher, Paul Lehman, Peter R. Limburg, David Simon, John C. Yrizarry, and Mary A. Yrizarry. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
+1. Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
+1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
+1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
+1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
+1. Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
+1. Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
+
+
 ### All About Birds
 1. “All About Birds: Online Bird Guide, Bird ID Help, Life History, Bird Sounds from Cornell.” Cornell Lab of Ornithology. https://www.allaboutbirds.org/.
    * Cornell Lab of Ornithology. "Acorn Wood Pecker Sounds." All About Birds. https://www.allaboutbirds.org/guide/Acorn_Woodpecker/Sounds.
@@ -84,16 +94,6 @@ icon: crow
    * ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
 
 
-### Books
-1. Harwood, Michael, Thomas W. Burke, George S. Fichter, Sally D. Kaicher, Paul Lehman, Peter R. Limburg, David Simon, John C. Yrizarry, and Mary A. Yrizarry. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
-1. Kricher, John. *Peterson Reference Guide to Bird Behavior*. Mariner Books, 2020.
-1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
-1. Peterson, Roger Tory. *Peterson Field Guide to Birds of Western North America*, Fifth Edition. Mariner Books, 2020.
-1. Shewey, John, and Tim Blount. *Birds of the Pacific Northwest*. Timber Press, 2017.
-1. Shunk, Stephen A. *Peterson Reference Guide to Woodpeckers of North America*. Mariner Books, 2016.
-1. Wright, Rick. *Peterson Reference Guide to Sparrows of North America*. Mariner Books, 2019.
-
-
 ### Geotripper's California Birds
 1. “Geotripper’s California Birds.” Gary Hayes, September 2014. https://geotripperbirds.blogspot.com/.
    * Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
@@ -103,9 +103,13 @@ icon: crow
    * ———. "*Callipepla californica.*" *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Callipepla%20californica.
    * ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
    * ———. "*Fulica americana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Fulica%20Americana.
+   * ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
+   * ———. "*Pelecanus erythrorhynchos*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Pelecanus%20erythrorhynchos.
+   * ———. "Sandhill Crane (Grus canadensis)." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Sandhill%20Crane%20%28Grus%20canadensis%29.
    * ———. "*Sialia mexicana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Sialia%20mexicana.
    * ———. "*Spinus psaltria*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Spinus%20psaltria.
-   * ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
+   * ———. "Turkey Vulture." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Turkey%20Vulture.
+   * ———. "White-crowned Sparrow (*Zonotrichia leucophrys*)." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/White-crowned%20Sparrow%20%28Zonotrichia%20leucophrys%29.
    * ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
 
 
@@ -186,6 +190,7 @@ icon: crow
    * ———. "Chipping Sparrow: A Surprise Backyard Visitor!" Natural History Journal (blog), March 26, 2020. https://natural-history-journal.blogspot.com/2020/03/chipping-sparrow-surprise-backyard.html.
    * ———. "Cliff Swallows: Aerial Acrobats & Adept Architects." Natural History Journal (blog), May 03, 2018. https://natural-history-journal.blogspot.com/2018/05/cliff-swallows-aerial-acrobats-adept.html.
    * ———. "Common Mergansers." Natural History Journal (blog), January 24, 2017. https://natural-history-journal.blogspot.com/2017/01/common-mergansers.html.
+   * ———. "Common Sparrow ID tips." Natural History Journal (blog), October 12, 2016. https://natural-history-journal.blogspot.com/2016/10/sparrows-at-merced-national-wildlife.html.
    * ———. "Dark-eyed Junco." Natural History Journal (blog), December 07, 2016. https://natural-history-journal.blogspot.com/2016/12/dark-eyed-junco.html.
    * ———. "Flycathers & the Ubiquitous (but cute) Black Phoebe." Natural History Journal (blog), March 08, 2018. https://natural-history-journal.blogspot.com/2018/03/flycatchers-ubiquitous-but-cute-black.html.
    * ———. "Grassland Gnomes: Burrowing Owls at Dusk." Natural History Journal (blog), December 06, 2020. https://natural-history-journal.blogspot.com/2020/12/grassland-gnomes-burrowing-owls-at-dusk.html.
@@ -197,6 +202,8 @@ icon: crow
    * ———. "The Neighborhood's Elusive Cooper's Hawk." Natural History Journal (blog), October 04, 2016. https://natural-history-journal.blogspot.com/2016/10/the-neighborhoods-elusive-coopers-hawk.html.
    * ———. "Nesting Killdeer." Natural History Journal (blog), March 19, 2019. https://natural-history-journal.blogspot.com/2019/03/nesting-killdeer.html.
    * ———. "October at San Joaquin River National Wildlife Refuge." Natural History Journal (blog), October 10, 2020. https://natural-history-journal.blogspot.com/2020/10/october-at-san-joaquin-river-national.html.
+   * ———. "Sandhill Cranes are back at Merced National Wildlife Refuge!" Natural History Journal (blog), October 11, 2016. https://natural-history-journal.blogspot.com/2016/10/sandhill-cranes-are-back-at-merced.html.
+   * ———. "Sparrows, Sparrows Everywhere!" Natural History Journal (blog), December 12, 2021. https://natural-history-journal.blogspot.com/2021/12/sparrows-sparrows-everywhere.html.
    * ———. "A Special Guest Appearance at CSU Stanislaus: Cackling Geese!" Natural History Journal (blog), January 10, 2017. https://natural-history-journal.blogspot.com/2017/01/a-special-guest-appearance-at-csu.html.
    * ———. "Unique Beauty: A Leucistic Black Phoebe." Natural History Journal (blog), November 30, 2019. https://natural-history-journal.blogspot.com/2019/11/unique-beauty-leucistic-black-phoebe.html.
    * ———. "Urban Birding." Natural History Journal (blog), April 23, 2020. https://natural-history-journal.blogspot.com/2020/04/urban-birding.html.
