@@ -15,9 +15,15 @@ icon: tree
 1. Turner, Mark, and Ellen Kuhlmann. *Trees and Shrubs of the Pacific Northwest*. Timber Press, 2014.
 
 
+### Scientific Articles
+1. Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational Evidence of Herbivore‐specific Associational Effects between Neighboring Conspecifics in Natural, Dimorphic Populations of *Datura wrightii*.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454.
+1. Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
+
+
 ### Cal Poly State University
 1. Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly State University, 1995. https://selectree.calpoly.edu/.
    * ———. "*Phoenix roebelenii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/phoenix-roebelenii.
+   * ———. "*Pinus contorta subsp. murrayana* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1040.
    * ———. "*Quercus chrysolepis* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1232.
    * ———. "*Quercus coccinea* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1233.
    * ———. “*Quercus lobata* Tree Record.” Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1246.
@@ -33,7 +39,9 @@ icon: tree
    * ———. "*Epilobium canum ssp. canum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2985.
    * ———. "*Nemophila menziesii*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=5836.
    * ———. "*Ranunculus californicus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=7032.
+   * ———. "*Rhaphiolepis indica*." Calflora, 2000-2023. https://www.calflora.org/app/taxon?crn=12836.
    * ———. “*Rosmarinus Officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
+   * ———. "*Typha domingensis*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8177.
 
 
 ### California State University, Stanislaus
@@ -41,6 +49,7 @@ icon: tree
    * ———. "Aleppo Pine (*Pinus halepensis*)." California State University, Stanislaus, February 21, 2018. https://www.csustan.edu/campus-tree-story-map/aleppo-pine-pinus-halepensis.
    * ———. "Baily Acacia, Golden Mimosa (*Acacia baileyana*)." California State University, Stanislaus, February 22, 2018. https://www.csustan.edu/campus-tree-story-map/baily-acacia-golden-mimosa-acacia-baileyana.
    * ———. "Canyon Live Oak (*Quercus chrysolepis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/canyon-live-oak-quercus-chrysolepis.
+   * ———. “Drooping Juniper (*Juniperus flaccida*),” February 27, 2018. https://www.csustan.edu/campus-tree-story-map/drooping-juniper-juniperus-flaccida.
    * ———. "Holly Oak (*Quercus ilex*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/holly-oak-quercus-ilex.
    * ———. "Incense Cedar (*Calocedrus decurrens*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/incense-cedar-calocedrus-decurrens.
    * ———. "Indian Bean Catalpa (*Catalpa bignonioides*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/indian-bean-catalpa-catalpa-bignonioides.
@@ -49,6 +58,7 @@ icon: tree
    * ———. "Italian Cypress (*Cupressus sempervirens*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/italian-cypress-cupressus-sempervirens.
    * ———. "Japanese Black Pine 'Thunderhead' (*Pinus thunbergii* 'Thunderhead')." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-black-pine-thunderhead-pinus-thunbergii-thunderhead.
    * ———. "Japanese Maple (*Acer palmatum*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-maple-acer-palmatum.
+   * California State University, Stanislaus. “Japanese maple ‘Tamukeyama’ (*Acer palmatum var. dissectum* ‘Tamukeyama’),” March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-maple-tamukeyama-acer-palmatum-var-dissectum-tamukeyama.
    * ———. "Japanese Pagoda Tree (*Sophora japonica*)." California State University, Stanislaus, March 1, 2018. https://www.csustan.edu/campus-tree-story-map/japanese-pagoda-tree-sophora-japonica.
    * ———. "Jeffrey Pine (*Pinus jeffreyi*)." California State University, Stanislaus, March 2, 2018. https://www.csustan.edu/campus-tree-story-map/jeffrey-pine-pinus-jeffreyi.
    * ———. "Lodgepole Pine (*Pinus contorta subsp. murrayana*)." California State University, Stanislaus, March 2, 2018. https://www.csustan.edu/campus-tree-story-map/lodgepole-pine-pinus-contorta-subsp-murrayana.
@@ -86,6 +96,7 @@ icon: tree
 
 ### Jepson eFlora
 1. Fielder, Peggy L. "*Calochortus monophyllus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=16744.
+1. Haller, J. Robert, and Nancy J. Vivrette. "*Pinus contorta subsp. murrayana*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=52303.
 1. Hoch, Peter C. "*Epilobium brachycarpum*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=24341.
 1. “Jepson Flora Project (eds.).” University of California, Berkeley, January 30, 2023. https://ucjeps.berkeley.edu/eflora/.
 1. Miller, John M., and Kenton L. Chambers. "*Claytonia perfoliata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=19632.
@@ -93,12 +104,8 @@ icon: tree
 1. Preston, Robert E., and Margriet Wetherwax. "*Verbascum thapsus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47846.
 1. Rosatti, Thomas J., and John M. Tucker. "*Quercus chrysolepis*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40565.
 1. ———. "*Quercus lobata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663.
+1. Smith, S. Galen. "*Typha domingensis*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47463.
 1. Whittemore, Alan T. "*Ranunculus californicus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40867.
-
-
-### Journal Articles
-1. Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational Evidence of Herbivore‐specific Associational Effects between Neighboring Conspecifics in Natural, Dimorphic Populations of *Datura wrightii*.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454.
-1. Russo, Ronald A. “Plant Galls: Desert Treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf.
 
 
 ### KQED: Deep Look
@@ -119,7 +126,8 @@ icon: tree
 
 ### Oregon State University
 1. “Landscape Plants.” Oregon State University. https://landscapeplants.oregonstate.edu/.
-   * Breen, Patrick. "*Quercus chrysolepis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-chrysolepis.
+   * Breen, Patrick. "*Acer palmatum var. dissectum*." https://landscapeplants.oregonstate.edu/plants/acer-palmatum-var-dissectum.
+   * ———. "*Quercus chrysolepis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-chrysolepis.
    * ———. "*Quercus lobata*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-lobata.
    * ———. "*Rosmarinus Officinalis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/rosmarinus-officinalis.
 
@@ -133,4 +141,6 @@ icon: tree
 1. Gallformers Contributors. “Gallformers.” Gallformers.org. https://gallformers.org/.
 1. Native Plant Trust. "*Hemerocallis lilioasphodelus* — yellow day-lily." Go Botany. https://gobotany.nativeplanttrust.org/species/hemerocallis/lilioasphodelus/.
 1. Je9h, and Momento Mori. “Roses (Genus *Rosa*),” Notes and Comments, iNaturalist, February 25, 2017. https://www.inaturalist.org/observations/37151178#activity_identification_09cd6908-431c-4470-8a12-f8331e569a31.
+1. Lady Bird Johnson Wildflower Center. "PLANT DATABASE *Juniperus flaccida*," March 23, 2023. https://www.wildflower.org/plants/result.php?id_plant=JUFL.
 1. Mederios, Joe. “Blow Your Mind Botany: The Amazing Life of Plants.” Video, YouTube, April 14, 2023. https://youtu.be/TrTXm5AIeUM.
+1. Missouri Botanical Garden. "*Acer palmatum var. dissectum* 'Tamukeyama'." https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c564%3E.
