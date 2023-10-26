@@ -7,6 +7,9 @@ Reference documentation for identifying observations on iNaturalist.
 
 ## About
 This project contains the reference materials that I have used to provide identifications on iNaturalist.  The project began as a way for me to keep track of the references I have used, and has since grown into a project that I hope will help others.
+> **Note**: Reference materials have been moved from this README and are now hosted on GitHub Pages.  The link below will take you to the appropriate page.
+> https://4n0nym0u5my7h.github.io/iNaturalist_references/
+
 
 ### My Contributions to Citzen Science
 [![iNaturalist badge](https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII=)](https://www.inaturalist.org/observations?ident_user_id=obad-hai&place_id=any&subview=table)
@@ -22,12 +25,10 @@ This project contains the reference materials that I have used to provide identi
 
 ### Updates
 This list is continuously updated. No removals are made; just additions. The list's structure and arrangement are subject to change over time. You can view these changes at: https://github.com/4n0nym0u5my7h/iNaturalist_references/commits/main.
-> **Note**: Reference materials have been moved from this README and are now hosted on GitHub Pages.  The link below will take you to the appropriate page.
-> https://4n0nym0u5my7h.github.io/iNaturalist_references/
 
 ### Links
 Links to publications' free, complete online versions will be given preference when accessible.
-> **Note**: There will always be a DOI reference.  The links on this page that are related with the articles, however, could take you to an open access version of them rather than the originals, which might be hidden behind a paywall.
+> **Note**: There will always be a DOI reference where available.  However, links may redirect to freely accessible version rather than the original, which may be behind a paywall.
 
 ## Built With
 * [GitHub Pages Documentation Framework](https://github.com/jsoconno/github-pages-template/releases/tag/v1.0.0)
