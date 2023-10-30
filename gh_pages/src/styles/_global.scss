@@ -165,6 +165,11 @@ ul li:last-child {
   text-indent: -30px;
 }
 
+// adjust for nested lists
+.content ol li ul li {
+  margin-left: -30px;
+}
+
 blockquote {
   position: relative;
 }
