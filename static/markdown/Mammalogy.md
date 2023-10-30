@@ -7,7 +7,13 @@ owner: August Frisk
 
 ### Books
 1. Harwood, Michael, Thomas W. Burke, George S. Fichter, Sally D. Kaicher, Paul Lehman, Peter R. Limburg, David Simon, John C. Yrizarry, and Mary A. Yrizarry. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
+1. Jameson, Everett W., and Hans J. Peters. *California Mammals*. University of California Press, 2004.
 1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
+1. Reid, Fiona A. *Peterson Field Guide to Mammals of North America North of Mexico*. Mariner Books, 2006.
+
+
+### Scientific Articles
+1. Jones, Cheri A., and Colleen N. Baxter. “Thomomys bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742. ![Freely accessible]
 
 
 ### KQED: Deep Look
@@ -38,6 +44,9 @@ owner: August Frisk
 
 ### Other
 1. Frisk, August. "Gray Fox (*Urocyon cinereoargenteus*)". iNaturalist, February 19, 2023. https://www.inaturalist.org/observations/149230035.
-1. Jones, Cheri A., and Colleen N. Baxter. “Thomomys Bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742.
 1. Nystrom, Siera. "Urban Wildlife: The Gray Fox." Natural History Journal (blog), September 27, 2020. https://natural-history-journal.blogspot.com/2020/09/urban-wildlife-gray-fox.html.
 1. Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.
+
+
+<!-- badges -->
+[Freely accessible]: https://img.shields.io/badge/Freely%20accessible-informational?style=flat-square&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAIwAAACgCAYAAADeroRzAAAFfElEQVR4Xu2b7VnrMBhDy1owA%2BwAg8EOMAOs1dv0ueEJbdPYsfwln%2FzFFpF0%2BiZN4OHAcXj%2Ffj6%2BPn4GJfFwOoIWmi4azvzxdKi7HAkie2ByALIFnDNAlsDEXGK2yk%2F5%2BcfPy%2BHt6csqYyszNaZJKFAuU8cCmJZBuQSqd3C6BqYnUFzA6RaYnmGZ4elx2nQHjAMoPU%2BbroBxhKW3adMNMM6w9ARN88C08kwl9Otz6rrW72uaBmY0WGbYWn7g1ywwo8LSOjRNAjM6LC1D0yQwI9zght7rtHZP0xwwwHKNUkvQNAUMsKzPnVagaQYYYNm%2BSLUADcBs99TMCoD5X0Xt6RJTRE%2FnmoP06hOmRgGqB2M1zn2CIAZwNTRDAZMr6NLPjXL5CIGrKjClPqGlAi7lp%2BaUsQemFCzLT2cJcGr4OoMaMoZyrMkdquo%2BZa%2F33P5qTRlLYGp9%2Bi7hyg1NDZ9VgMkZZI0Q702hnF5rTBkrYFqDZQYpJzSlPRcHxim8mPubXL4BJqaFxdrSwe05zRzQlPZtMWFKh7YHllyXp9LeiwKT64lo6dAAJiWBiL0OIznC7upSVQ41PihFJ4wqqGUTNUJLhUaVQw3vXQNTI7BUWFT3MrW8A4yKgEid1Ps5e2BUY3jupfa7okg%2Bbi7fC00tWIq%2BfFQDUzM0BSxLjdBsWvBc7JIUGkpoGS2EF3quoevWJk5LXgEmtE3WnRMAGECISgBgouJicZfAtHRNHw0hgBmt8US%2FAJMY4GjbAWa0xhP9AkxigKNtB5jRGk%2F0CzCJAY62HWBGazzRL8AkBjjadoAZrfFEvwCTGOBo2wFmtMYT%2FQJMYoCjbQeY0RpP9AswiQGOth1gRms80S%2FAJAY42nYJMOo%2F8B6thJJ%2BU%2F%2F4bBcwe%2F%2BfpmQw%2FK7tBPb8b1cUMEyS7RJ6XRE6eYKBAZZeUQg%2F7xBoNoEBlPDAXVbeA%2BcuMMDigkC8jzVoVoEBlviQ3XbcguYmMMDiVv1%2BP5fQXAEDLPvDdd25hAZgXFsW%2BloFhukiTNlMaobmz4QBGLOWhXaugAEWYbqmUhM0vxMGYExbFtr6BYaXicJUjaWml5XnCcN0MW5ZbA1gxIG6ywGMe8NifwAjDtRdDmDcGxb7AxhxoO5yAOPesNgfwIgDdZcDGPeGxf4ARhyouxzAuDcs9gcw4kDd5QDGvWGxP4ARB%2BouBzDuDYv9AYw4UHc5gHFvWOwPYMSBussBjHvDYn8AIw7UXQ5g3BsW%2BwMYcaDucgDj3rDYH8CIA3WXAxj3hsX%2BAEYcqLscwLg3LPYHMOJA3eUAxr1hsT%2BAEQfqLgcw7g2L%2FQGMOFB3OYBxb1jsD2DEgbrLAYx7w2J%2FACMO1F0OYNwbFvsDGHGg7nIA496w2B%2FAiAN1lwMY94bF%2FgBGHKi7HMC4Nyz2BzDiQN3lAMa9YbE%2FgBEH6i4HMO4Ni%2F0BjDhQdzmAcW9Y7A9gxIG6ywGMe8NifwAjDtRdDmDcGxb7AxhxoO5yAOPesNgfwIgDdZcDGPeGxf4ARhyouxzAuDcs9gcw4kDd5QDGvWGxP4ARB%2BouBzDuDYv9AYw4UHc5gHFvWOwPYMSBussBjHvDYn8AIw7UXQ5g3BsW%2BwMYcaDucmdg3r%2Bfj6%2BPn%2B5e8ZeYwMfPy%2BEMzHQcT0eiHtvNE3iYDoAxb1lo7w8wTBlhsoZS83D5nTAAY9iy0NJNYIBGmLCR1PLW5c%2BEARijloVW7gIDNMKkDaSWsEx2riYM35oMWhZZuITlLjBMGlHqncrcgmUTGKDptO3E016DJQgYLlGJ6Xe0%2FR4os43Ve5hbPnl90FH7kacaAkvUhFn%2Bfl5WRrbR6PLpZeLb01fU0IhavOabydMoETdOK3SSrDn6B8v77gU79UcnAAAAAElFTkSuQmCC
