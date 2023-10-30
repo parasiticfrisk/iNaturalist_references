@@ -160,14 +160,15 @@ owner: August Frisk
 1. Zurek, Daniel B., Thomas W. Cronin, Lisa A. Taylor, Kevin Byrne, Mara Sullivan, and Nathan I. Morehouse. “Spectral filtering enables trichromatic vision in colorful jumping spiders.” *Current Biology 25*, no. 10 (May 18, 2015): R403–4. https://doi.org/10.1016/j.cub.2015.03.033. ![Open access]
 
 
-### BugGuide
+### Online Resources
+#### BugGuide
 1. Balaban, John, Jane Balaban, Lynette Elliott, Jeff Hollenbeck, Chad Heins, Chuck Entz, Ken Schneider, John Sloan, and Mandy Howe. "Genus *Tibellus* - Slender Crab Spiders." BugGuide, March 19, 2022. https://bugguide.net/node/view/6824.
 1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
    * BugGuide Contributors. "*Latrodectus geometriucs*, egg." BugGuide, 2003-2022. https://bugguide.net/adv_search/bgsearch.php?taxon=23403&description=Egg&representative=0.
 1. Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 
 
-### KQED: Deep Look
+#### KQED: Deep Look
 1. Cassidy, Josh. "Meet the Dust Mites, Tiny Roommates That Feast on Your Skin." Deep Look, April 5, 2016. https://www.kqed.org/science/607105/meet-the-dust-mites-tiny-roommates-that-feast-on-your-skin.
 1. ———. "These Face Mites Really Grow on You." Deep Look, May 21, 2019. https://www.kqed.org/science/1941506/these-face-mites-really-grow-on-you.
 1. ———. "These Mites Rain Down To Save Your Strawberries." January 26, 2021. https://www.kqed.org/science/1972295/these-mites-rain-down-to-save-your-strawberries.
@@ -193,7 +194,7 @@ owner: August Frisk
 1. ———. "Scorpions Are Predators With a Sensitive Side." Deep Look, May 4, 2021. https://www.kqed.org/science/1974305/scorpions-are-predators-with-a-sensitive-side.
 
 
-### University of California, Agriculture and Natural Resources
+#### University of California, Agriculture and Natural Resources
 1. "Common Garden Spiders." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June, 2023. https://ipm.ucanr.edu/QT/commongardenspiderscard.html.
 1. Godfrey, Larry D. “Spider Mites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7405.html.
 1. Miller, W. Sean, J. H. Connell, W. H. Olson, and R. A. Criley. “Sixspotted Spider Mite on Plumeria: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74141.html.
@@ -205,7 +206,7 @@ owner: August Frisk
 
 
 
-### Other
+#### Other
 1. Crawford, Rod. “Spider Collector’s Journal.” Scarabs: The Bug Society, 2005-2023. https://crawford.tardigrade.net/journal/index.html.
 1. Frisk, August. "*Allocosa subparva*." iNaturalist, August 23, 2022. https://www.inaturalist.org/observations/132111058.
 1. Hebert, Blaine R., and Jan K. “Corner Funnel Weaver (*Hololena curta*),” Notes and Comments, iNaturalist, November 29, 2017. https://www.inaturalist.org/observations/10557923#activity_identification_93d59d84-b37d-48e0-a161-988224bdec58.

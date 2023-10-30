@@ -16,7 +16,8 @@ owner: August Frisk
 1. Jones, Cheri A., and Colleen N. Baxter. “Thomomys bottae.” *Mammalian Species 742* (July 1, 2004): 1–14. https://doi.org/10.1644/742. ![Freely accessible]
 
 
-### KQED: Deep Look
+### Online Resources
+#### KQED: Deep Look
 1. Cassidy, Josh. "The Fantastic Fur of Sea Otters." Deep Look, January 6, 2015. https://www.kqed.org/science/25908/the-fantastic-fur-of-sea-otters.
 1. ———. "How Your Dog's Nose Knows So Much." Deep Look, February 26, 2019. https://www.kqed.org/science/1938255/how-your-dogs-nose-knows-so-much.
 1. ———. "Stinging Scorpion vs. Pain-Defying Mouse." Deep Look, March 8, 2016. https://www.kqed.org/science/518349/stinging-scorpion-vs-pain-defying-mouse.
@@ -42,7 +43,7 @@ owner: August Frisk
 1. Shields, Laura, and Josh Cassidy. "Porcupines Give You 30,000 Reasons to Back Off." Deep Look, April 9, 2019. https://www.kqed.org/science/1939807/porcupines-give-you-30000-reasons-to-back-off.
 
 
-### Other
+#### Other
 1. Frisk, August. "Gray Fox (*Urocyon cinereoargenteus*)". iNaturalist, February 19, 2023. https://www.inaturalist.org/observations/149230035.
 1. Nystrom, Siera. "Urban Wildlife: The Gray Fox." Natural History Journal (blog), September 27, 2020. https://natural-history-journal.blogspot.com/2020/09/urban-wildlife-gray-fox.html.
 1. Solano County Office of Education. “Columbian Black-Tailed Deer,” 2020. https://www.solanocoe.net/blacktaildeer.

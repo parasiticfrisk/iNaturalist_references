@@ -126,7 +126,8 @@ icon: bug
 1. Zhang, Y. Miles, Kimberlie Sasan, Robert J. O’kennon, and Adam J. Kranz. “Discovery through iNaturalist: new species and new records of oak gall wasps (Hymenoptera: Cynipidae: Cynipini) from Texas, USA.” *Zootaxa 5168*, no. 1 (July 20, 2022): 63–74. [https://doi.org/10.11646/zootaxa.5168.1.5](https://www.researchgate.net/publication/362124221_Discovery_through_iNaturalist_new_species_and_new_records_of_oak_gall_wasps_Hymenoptera_Cynipidae_Cynipini_from_Texas_USA). ![Available via ResearchGate]
 
 
-### BugGuide
+### Online Resources
+#### BugGuide
 1. Balaban, John, Jane Balaban, Hartmut Wisch, and Mike Quinn. "Species *Sympetrum corruptum* - Variegated Meadowhawk." BugGuide, May 21, 2016. https://bugguide.net/node/view/6538.
 1. Boone, Mike, Patrick Coin, Eric R. Eaton, and David Ferguson. “Species *Trimerotropis Pallidipennis* - Pallid-Winged Grasshopper.” BugGuide, October 21, 2013. https://bugguide.net/node/view/33991.
 1. Büche, Boris, and V. Belov. "Genus *Coniontis*." BugGuide, December 16, 2018. https://bugguide.net/node/view/101007.
@@ -148,12 +149,12 @@ icon: bug
 1. McLeod, Robin, and Randy Hardy. "Species *Digrammia excurvata* - Hodges#6363." BugGuide, September 18, 2017. https://bugguide.net/node/view/346607.
 
 
-### Butterflies and Moths of North America
+#### Butterflies and Moths of North America
 1. "Butterflies and Moths of North America." Metalmark Web and Data. https://www.butterfliesandmoths.org/.
    * Metalmark Web and Data. "Western Yellowstriped Armyworm *Spodoptera praefica* (Grote, 1875)." Butterflies and Moths of North America. https://www.butterfliesandmoths.org/species/Spodoptera-praefica. 
 
 
-### Joyce Gross Photography
+#### Joyce Gross Photography
 1. Gross, Joyce. "California Oak Galls." Joyce Gross Photography. https://joycegross.com/galls_ca_oak.php.
    * ———. "*Andricus albobalani*." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+albobalani&ordr=.
    * ———. "*Andricus atrimentus* (Striped Volcano Gall Wasp)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+atrimentus&ordr=.
@@ -199,7 +200,7 @@ icon: bug
    * ———. "Gall type #105." Joyce Gross Photography. https://joycegross.com/galls/gall105.html.
 1. Gross, Joyce. "*Murgantia histrionica* (Harlequin Bug)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Murgantia+histrionica&ordr=.
 
-### KQED: Deep Look
+#### KQED: Deep Look
 1. Black, Jason. "Watch Flesh-Eating Beetles Strip Bodies to the Bone." Deep Look, October 13, 2015. https://www.kqed.org/science/299669/watch-flesh-eating-beetles-strip-bodies-to-the-bone.
 1. Cassidy, Josh. "Born Pregnant: Aphids Invade with an Onslaught of Clones." Deep Look, March 9, 2021. https://www.kqed.org/science/1973052/born-pregnant-aphids-invade-with-an-onslaught-of-clones.
 1. ———. "The Double-Crossing Ants to Whom Friendship Means Nothing." Deep Look, November 1, 2016. https://www.kqed.org/science/1089990/the-double-crossing-ants-to-whom-friendship-means-nothing.
@@ -303,7 +304,7 @@ icon: bug
 1. Seely, Mike. "Why Did the Mexican Jumping Bean Jump?" Deep Look, March 23, 2021. https://www.kqed.org/science/1973307/why-did-the-mexican-jumping-bean-jump.
 
 
-### Months of North America
+#### Months of North America
 1. Eichlin, Thomas D., and W. Donald Duckworth. “Sesioidea: Sesiidae.” In *The Moths of America North of Mexico, Fascicle 5.1*, edited by Richard B. Dominick, et al. The Wedge Entomological Research Foundation, 1988. https://images.peabody.yale.edu/mona/05-1-ocr.pdf.
 1. Franclemont, John G. “Mimallonoidea: Mimallonidae; Bombycoidea (in part): Apatalelodidae, Bobycidae, Lasiocampidae.” In *The Moths of America North of Mexico, Fascicle 20.1*, edited by Richard B. Dominick, et al. E. W. Classey Limited, 1973. https://images.peabody.yale.edu/mona/20-1-ocr.pdf.
 1. Ferguson, Douglas C. “Bombycoidea, Saturniidae (in part): Citheroniinae and Hemileucinae (in part).” In *The Moths of America North of Mexico, Fascicle 20.2A*, edited by Richard B. Dominick, et al. E. W. Classey Limited, 1971. https://images.peabody.yale.edu/mona/20-2A-ocr.pdf.
@@ -334,7 +335,7 @@ icon: bug
 1. Powell, Jerry A., and John W. Brown. “Tortricoidea, Tortricidae (in part), Tortricinae (in part): Spartganothini and Atteriini.” In *The Moths of North America, Fascicle 8.1*, edited by Ronald W. Hodges, et al. The Wedge Entomological Research Foundation, 2012. https://images.peabody.yale.edu/mona/08-1-ocr.pdf.
 
 
-### Moth Photographers Group
+#### Moth Photographers Group
 1. “North American Moth Photographers Group: Digital Guide to Moth Identification.” Mississippi State University, 2011. https://mothphotographersgroup.msstate.edu/.
    * Moth Photographer’s Group. “*Digrammia excurvata*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6363.
    * ———. “*Digrammia napensis*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6366.
@@ -342,13 +343,13 @@ icon: bug
    * ———. “*Spodoptera praefica*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=9667.
 
 
-### Pacific Northwest Moths
+#### Pacific Northwest Moths
 1. "Pacific Northwest Moths." Western Washington University. http://pnwmoths.biol.wwu.edu/.
    * Western Washington University. "*Digrammia excurvata* (Packard, 1874)." Pacific Northwest Moths. https://www.butterfliesandmoths.org/species/Digrammia-excurvata.
    * ———. "*Spodoptera praefica* (Grote, 1875)." Pacific Northwest Moths. http://pnwmoths.biol.wwu.edu/browse/family-noctuidae/subfamily-noctuinae/tribe-prodeniini/spodoptera/spodoptera-praefica/.
 
 
-### Singing Insects of North America
+#### Singing Insects of North America
 1. Walker, Thomas J., and Teresa Marie Yawn. “Singing Insects of North America (SINA).” The Orthopterist’s Society, 2000. https://orthsoc.org/sina/.
    * ———. “House Cricket *Acheta domesticus* (Linnaeus 1758).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/487a.htm.
    * ———. “Mud Crack Field Cricket *Gryllus integer* (Scudder 1901).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/480a.htm.
@@ -357,7 +358,7 @@ icon: bug
    * ———. “Western Rock-loving Field Cricket *Gryllus saxatilis* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/731a.htm.
 
 
-### University of California, Agriculture and Natural Resources
+#### University of California, Agriculture and Natural Resources
 1. Bellows, T. S., J. N. Kabashima, and Karen L. Robb. “Whiteflies: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2015. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7401.html.
 1. Bethke, J. A., Steve H. Dreistadt, and L. G. Varela. “Thrips: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7429.html.
 1. Bugg, Robert L., Ramy G. Colfer, William E. Chaney, Hugh A. Smith, and James Cannon. *Flower Flies (Syrphidae) and Other Biological Control Agents for Aphids in Vegtable Crops*. University of California Division of Agriculture and Natural Resources Publications, 2008. [https://doi.org/10.3733/ucanr.8285](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8285).
@@ -395,7 +396,7 @@ icon: bug
 1. Zalom, F. G., R. A. Van Steenwyk, H. J. Burrack, and M. W. Johnson. “Olive Fruit Fly: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, February 2009. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74112.html.
 
 
-### Other
+#### Other
 1. Abela, Alice. “Pallid-winged Grasshopper (*Trimerotropis Pallidipennis*).” iNaturalist, 2010-2022. https://www.inaturalist.org/observations?place_id=any&subview=table&taxon_id=51493&user_id=alice_abela&verifiable=any.
 1. Bellinger, Peter F., Kenneth A. Christiansen, and Frans Janssens. *Collembola (Springtails)*. 2019. https://www.collembola.org/.
 1. Collins-Sussman, Emmit, and Arman. “Ant Resources.” Google Docs, March 23, 2023. https://docs.google.com/document/d/1N_m-Lhwh0wdBRUmsCGeUCTBu47DfdQMFKQd7SqAn-r8/edit.

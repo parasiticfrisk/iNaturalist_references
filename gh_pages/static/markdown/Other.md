@@ -30,7 +30,8 @@ icon: earth-americas
 1. Overall, Andy. “*Tremella aurantia* & *T. mesenterica*, two British ‘yellow brain fungi’ compared.” *Field Mycology 18*, no. 3 (July 1, 2017): 82–84. https://doi.org/10.1016/j.fldmyc.2017.07.005. ![Freely accessible]
 
 
-### KQED: Deep Look
+### Online Resources
+#### KQED: Deep Look
 1. Cassidy, Josh. "Pygmy Seahorses: Masters of Camouflage." Deep Look, October 21, 2014. https://www.kqed.org/science/22700/pygmy-seahorses-masters-of-camouflage.
 1. ———. "Banana Slugs: Secret of the Slime." Deep Look, February 17, 2015. https://www.kqed.org/science/27260/banana-slugs-secret-of-the-slime.
 1. ———. "The Hidden Perils of Permafrost." Deep Look, December 2, 2014. https://www.kqed.org/science/24399/the-hidden-perils-of-permafrost.
@@ -103,7 +104,7 @@ icon: earth-americas
 1. ———. "Sea Slugs Scrub Seagrass by the Seashore." November 10, 2020. https://www.kqed.org/science/1970711/sea-hares-scrub-seagrass-by-the-seashore.
 
 
-### University of California, Agriculture and Natural Resources
+#### University of California, Agriculture and Natural Resources
 1. Mc Donnell, Rory J., Timothy D. Paine, and Michael J. Gormally. *Slugs: A Guide to the Invasive and Native Fauna of California*. University of California Division of Agriculture and Natural Resources Publications, 2009. [https://doi.org/10.3733/ucanr.8336](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8336).
 1. Perry, Ed J., and A. T. Ploeg. “Nematode: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, July 2010. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7489.html.
 1. University of California, Agriculture and Natural Resources. “California Fish Website.” University of California Davis. https://calfish.ucdavis.edu/.
@@ -112,7 +113,7 @@ icon: earth-americas
 1. Wilen, Cheryl A., and Mary L. Flint. “Snails and Slugs: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2018. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7427.html.
 
 
-### Other
+#### Other
 1. Barcode of Life Data Systems. “BOLD Systems V3,” 2014. https://v3.boldsystems.org/.
 1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
 1. California State University, Stanislaus. "The Wayne & Donna Pierce Trans-California Pathway." California State University, Stanislaus, April 21, 2023. https://www.csustan.edu/biology/wayne-donna-pierce-trans-california-pathway.
