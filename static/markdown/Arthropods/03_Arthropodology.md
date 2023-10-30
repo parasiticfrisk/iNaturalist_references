@@ -6,7 +6,7 @@ owner: August Frisk
 ## References
 
 ### Books
-1. Ebeling, Walter. “Urban Entomology.” University of California Riverside, 1975. https://entomology.ucr.edu/ebeling.
+1. Ebeling, Walter. “Urban Entomology.” University of California Riverside, 1975. https://entomology.ucr.edu/ebeling. ![Freely accessible]
 1. Harwood, Michael, Thomas W. Burke, George S. Fichter, Sally D. Kaicher, Paul Lehman, Peter R. Limburg, David Simon, John C. Yrizarry, and Mary A. Yrizarry. *Reader’s Digest North American Wildlife*. Reader’s Digest Association, 1982.
 1. Laws, John Muir. *The Laws Field Guide to the Sierra Nevada*. California Academy of Sciences, 2007.
 
@@ -16,8 +16,8 @@ owner: August Frisk
 1. Toft, Jason D., Jeffery R. Cordell, and Wayne Fields. “New records of crustaceans (Amphipoda, Isopoda) in the Sacramento/San Joaquin Delta, California, and application of citeria for introduced species.” *Journal of Crustacean Biology 22*, no. 1 (February 1, 2002): 190–200. https://doi.org/10.1163/20021975-99990222. ![Freely accessible]
 
 
-
-### KQED: Deep Look
+### Online Resources
+#### KQED: Deep Look
 1. Cassidy, Josh. "For Pacific Mole Crabs It's Dig or Die." Deep Look, February 13, 2018. https://www.kqed.org/science/1919531/for-pacific-mole-crabs-its-dig-or-die.
 1. ———. "Once a Spawn a Time: Horseshoe Crabs Mob the Beach." Deep Look, August 31, 2021. https://www.kqed.org/science/1976488/once-a-spawn-a-time-horseshoe-crabs-mob-the-beach.
 1. ———. "Roly Polies Came From the Sea to Conquer the Earth." Deep Look, January 17, 2017. https://www.kqed.org/science/1299421/roly-polies-came-from-the-sea-to-conquer-the-earth-deep-look.
@@ -41,7 +41,7 @@ owner: August Frisk
 1. Seely, Mike. "These Acrobatic Beach Hoppers Shred All Night Long." Deep Look, February 9, 2021. https://www.kqed.org/science/1972559/these-acrobatic-beach-hoppers-shred-all-night-long.
 
 
-### Other
+#### Other
 1. Galerie Insecte. “Galerie du Monde des insectes,” 2002. https://www.galerie-insecte.org/galerie/fichier.php.
 1. “Meet the Beneficials: Natural Enemies of Garden Pests.” Poster, University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 21, 2016. https://ipm.ucanr.edu/IPMPROJECT/ADS/poster_naturalenemies.html.
 1. Windbiel-Rojas, Karey. "Millipedes and Centipedes: Pest Notes for Home and Landscape." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2019. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7472.html.

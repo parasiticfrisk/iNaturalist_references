@@ -12,20 +12,20 @@ icon: frog
 1. ———. *Peterson Field Guide to Western Reptiles & Amphibians*, Fourth Edition. Houghton Mifflin, 2018.
 
 
-### California Herps
-1. “California Herps: A Guide to the Amphibians and Reptiles of California.” Gary Nafis, 2000. https://www.californiaherps.com/.
-   * Nafis, Gary. "American Bullfrog - *Lithobates catesbeianus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.html.    
-   * ———. "California Toad - *Anaxyrus boreas halophilus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/a.b.halophilus.html.
-   * ———. "Commonly Encountered California Lizards." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/commonlizards.html.
-   * ———. "Comparison of Western Fence Lizards - *Sceloporus occidentalis*, with Common Sagebrush Lizards - *Sceloporus graciosus*, Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/fencesagebrushcomparison.html.
-   * ———. "Identifying California Frogs and Toads: Frogs and Toads Most Often Seen in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/frogsid/frogs.id.html.
-   * ———. "Identifying California Turtles." California Herps, 2000-2023. https://www.californiaherps.com/identification/turtlesid/turtles.id.html.
-   * ———. "Red-eared Slider - *Trachemys scripta elegans*." California Herps, 2000-2023. https://www.californiaherps.com/turtles/pages/t.s.elegans.html.
-   * ———. "Small Spiny Lizards Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/smallspiny.id.html.
-   * ———. “Sounds of American Bullfrog - *Lithobates catesbeianus*.” California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.sounds.html.
+### Online Resources
+#### California Herps
+* Nafis, Gary. "American Bullfrog - *Lithobates catesbeianus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.html.    
+* ———. "California Toad - *Anaxyrus boreas halophilus*." California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/a.b.halophilus.html.
+* ———. "Commonly Encountered California Lizards." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/commonlizards.html.
+* ———. "Comparison of Western Fence Lizards - *Sceloporus occidentalis*, with Common Sagebrush Lizards - *Sceloporus graciosus*, Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/fencesagebrushcomparison.html.
+* ———. "Identifying California Frogs and Toads: Frogs and Toads Most Often Seen in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/frogsid/frogs.id.html.
+* ———. "Identifying California Turtles." California Herps, 2000-2023. https://www.californiaherps.com/identification/turtlesid/turtles.id.html.
+* ———. "Red-eared Slider - *Trachemys scripta elegans*." California Herps, 2000-2023. https://www.californiaherps.com/turtles/pages/t.s.elegans.html.
+* ———. "Small Spiny Lizards Found in California." California Herps, 2000-2023. https://www.californiaherps.com/identification/lizardsid/smallspiny.id.html.
+* ———. “Sounds of American Bullfrog - *Lithobates catesbeianus*.” California Herps, 2000-2023. https://www.californiaherps.com/frogs/pages/l.catesbeianus.sounds.html.
 
 
-### KQED: Deep Look
+#### KQED: Deep Look
 1. Cassidy, Josh. "5 Things You Thought You Knew -- But Didn't -- About Rattlesnakes." Deep Look, July 30, 2019. https://www.kqed.org/science/1945648/5-things-you-thought-you-knew-but-didnt-about-rattlesnakes.
 1. Cassidy, Josh. "These Lizards Have Been Playing Rock-Paper-Scissors for 15 Million Years." Deep Look, May 17, 2016. https://www.kqed.org/science/681185/these-lizards-have-been-playing-rock-paper-scissors-for-15-million-years.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
@@ -45,7 +45,7 @@ icon: frog
 1. Sommer, Lauren. "Can a New 'Vaccine' Stem the Frog Apocalypse?." Deep Look, September 6, 2016. https://www.kqed.org/science/959844/can-a-new-vaccine-stem-the-frog-apocalypse.
 
 
-### Other
+#### Other
 1. Armentrout, Kelly, and Cari Mcgregor. “*Trachemys Scripta* (Pond Slider, Scripta).” Animal Diversity Web, 2019. https://animaldiversity.org/accounts/Trachemys_scripta/.
 1. Frisk, August. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 20, 2022. https://www.inaturalist.org/observations/131860817.
 1. ———. "American Bullfrog (*Lithobates catesbeianus*)". iNaturalist, August 22, 2022. https://www.inaturalist.org/observations/131975298.

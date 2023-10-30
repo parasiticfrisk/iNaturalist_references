@@ -19,38 +19,41 @@ icon: tree
 1. Goldberg, Jay M., Sonya R. Sternlieb, Genevieve Pintel, and Lynda F. Delph. “Observational evidence of herbivore‐specific associational effects between neighboring conspecifics in natural, dimorphic populations of *Datura wrightii*.” *Ecology and Evolution 11*, no. 10 (March 26, 2021): 5547–61. https://doi.org/10.1002/ece3.7454. ![Open access]
 1. Russo, Ronald A. “Plant galls: desert treasures.” *Fremontia 38/39*, no. 4/1 (October 2010/January 2011): 40–45. https://cnps.org/wp-content/uploads/2018/03/FremontiaV38.4_39.1.pdf. ![Freely accessible]
 
-
-### Cal Poly State University
-1. Urban Forest Ecosystems Institute. “SelecTree: A Tree Selection Guide.” Cal Poly State University, 1995. https://selectree.calpoly.edu/.
-   * ———. "*Phoenix roebelenii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/phoenix-roebelenii.
-   * ———. "*Pinus contorta subsp. murrayana* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1040.
-   * ———. "*Pinus halepensis* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1051.
-   * ———. "*Pinus pinea* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1067.
-   * ———. "*Pinus ponderosa* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1068.
-   * ———. "*Pinus sabiniana* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1073.
-   * ———. "*Quercus chrysolepis* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1232.
-   * ———. "*Quercus coccinea* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1233.
-   * ———. “*Quercus lobata* Tree Record.” Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1246.
-   * ———. "*Quercus rubra* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1260.
-   * ———. "*Quercus shumardii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1261.
-
-
-### Calflora
-1. “Calflora.” The Calfora Database, 2000. https://www.calflora.org/.
-   * Calflora Contributors. "*Calochortus monophyllus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=1294.
-   * ———. "*Claytonia perfoliata*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2244.
-   * ———. "*Croton setiger*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=13184.
-   * ———. "*Epilobium brachycarpum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2983.
-   * ———. "*Epilobium canum ssp. canum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2985.
-   * ———. "*Nemophila menziesii*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=5836.
-   * ———. "*Ranunculus californicus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=7032.
-   * ———. "*Rhaphiolepis indica*." Calflora, 2000-2023. https://www.calflora.org/app/taxon?crn=12836.
-   * ———. “*Rosmarinus Officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
-   * ———. "*Typha domingensis*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8177.
+### Online Resources
+#### Cal Poly State University
+* Urban Forest Ecosystems Institute. SelecTree. "*Aesculus californica* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/132.
+* ———. "*Phoenix roebelenii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/phoenix-roebelenii.
+* ———. "*Pinus contorta subsp. murrayana* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1040.
+* ———. "*Pinus halepensis* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1051.
+* ———. "*Pinus pinea* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1067.
+* ———. "*Pinus ponderosa* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1068.
+* ———. "*Pinus sabiniana* Tree Record." Cal Poly State University, 1995-2022. https://selectree.calpoly.edu/tree-detail/1073.
+* ———. "*Quercus chrysolepis* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1232.
+* ———. "*Quercus coccinea* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1233.
+* ———. “*Quercus lobata* Tree Record.” Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1246.
+* ———. "*Quercus rubra* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1260.
+* ———. "*Quercus shumardii* Tree Record." Cal Poly State University, 1995-2023. https://selectree.calpoly.edu/tree-detail/1261.
 
 
-### California State University, Stanislaus
-1. California State University, Stanislaus. “Campus Tree Story Map,” 2017. https://www.csustan.edu/campus-tree-story-map.
+#### Calflora
+* Calflora Contributors "*Aesculus californica*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=111.
+* ———. "*Calochortus monophyllus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=1294.
+* ———. "*Claytonia perfoliata*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2244.
+* ———. "*Croton setiger*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=13184.
+* ———. "*Eichhornia crassipes*." Calflora, 2000-2023. https://www.calflora.org/app/taxon?crn=2896.
+* ———. "*Erythranthe moschata*." Calflora, 2000-2023. https://www.calflora.org/app/taxon?crn=13494.
+* ———. "*Epilobium brachycarpum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2983.
+* ———. "*Epilobium canum ssp. canum*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=2985.
+* ———. "*Nemophila menziesii*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=5836.
+* ———. "*Ranunculus californicus*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=7032.
+* ———. "*Rhaphiolepis indica*." Calflora, 2000-2023. https://www.calflora.org/app/taxon?crn=12836.
+* ———. “*Rosmarinus officinalis*.” Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8619.
+* ———. "*Scabiosa atropurpurea*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=7374.
+* ———. "*Typha domingensis*." Calflora, 2000-2022. https://www.calflora.org/app/taxon?crn=8177.
+
+
+#### California State University, Stanislaus
+1. Gutierrez, Juan, Don Rajewich, Hugo Hernandez, Stuart Wooley, and Andrew Gardner. “Campus Tree Story Map,” 2008-2023. https://www.csustan.edu/campus-tree-story-map.
    * ———. "Aleppo Pine (*Pinus halepensis*)." California State University, Stanislaus, February 21, 2018. https://www.csustan.edu/campus-tree-story-map/aleppo-pine-pinus-halepensis.
    * ———. "Baily Acacia, Golden Mimosa (*Acacia baileyana*)." California State University, Stanislaus, February 22, 2018. https://www.csustan.edu/campus-tree-story-map/baily-acacia-golden-mimosa-acacia-baileyana.
    * ———. "Canyon Live Oak (*Quercus chrysolepis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/canyon-live-oak-quercus-chrysolepis.
@@ -99,12 +102,14 @@ icon: tree
    * ———. "Western Redbud (*Cercis occidentalis*)." California State University, Stanislaus, March 20, 2018. https://www.csustan.edu/campus-tree-story-map/western-redbud-cercis-occidentalis.
 
 
-### Jepson eFlora
+#### Jepson eFlora
+1. Bell, Charles D., and Elizabeth McClintock. "*Scabiosa atropurpurea*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=43445.
 1. Fielder, Peggy L. "*Calochortus monophyllus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=16744.
+1. Fraga, Naomi. "*Erythranthe moschata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2018. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=99156.
 1. Haller, J. Robert, and Nancy J. Vivrette. "*Pinus contorta subsp. murrayana*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=52303.
 1. ———. *Pinus sabiniana*, in Jepson Flora Project (eds.). *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=38304.
 1. Hoch, Peter C. "*Epilobium brachycarpum*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=24341.
-1. “Jepson Flora Project (eds.).” University of California, Berkeley, January 30, 2023. https://ucjeps.berkeley.edu/eflora/.
+1. Horn, Charles H., and Elizabeth McClintock. "*Eichhornia crassipes*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=23856.
 1. Mayfield, Mark H., and Grady L. Webster. "*Croton setiger*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=21159.
 1. Miller, John M., and Kenton L. Chambers. "*Claytonia perfoliata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=19632.
 1. Patterson, Robert W., and Richard R. Halse. "*Nemophila menziesii*, in Jepson Flora Project (eds.)." *Jepson eFlora*. University of California, Berkeley, 2021. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=34542.
@@ -112,10 +117,11 @@ icon: tree
 1. Rosatti, Thomas J., and John M. Tucker. "*Quercus chrysolepis*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40565.
 1. ———. "*Quercus lobata*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2014. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40663.
 1. Smith, S. Galen. "*Typha domingensis*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=47463.
+1. Stone, William J. "*Aesculus californica*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=12026.
 1. Whittemore, Alan T. "*Ranunculus californicus*, in Jepson Flora Project (eds.)." *Jespson eFlora*. University of California, Berkeley, 2012. https://ucjeps.berkeley.edu/eflora/eflora_display.php?tid=40867.
 
 
-### KQED: Deep Look
+#### KQED: Deep Look
 1. Cassidy, Josh. "The Sex Lives of Christmas Trees." Deep Look, November 24, 2015. https://www.kqed.org/science/366760/the-sex-lives-of-christmas-trees.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
    * ———. "Cape Sundews Trap Bugs In A Sticky Situation | Deep Look." Video, YouTube, July 28, 2020. https://youtu.be/D4kBrsyWhS4.
@@ -131,20 +137,21 @@ icon: tree
 1. ———. "Why Do Tumbleweeds Tumble?" Deep Look, May 1, 2018. https://www.kqed.org/science/1922987/why-do-tumbleweeds-tumble.
 
 
-### Oregon State University
-1. “Landscape Plants.” Oregon State University. https://landscapeplants.oregonstate.edu/.
-   * Breen, Patrick. "*Acer palmatum var. dissectum*." https://landscapeplants.oregonstate.edu/plants/acer-palmatum-var-dissectum.
-   * ———. "*Pinus halepensis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-halepensis.
-   * ———. "*Pinus pinea*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-pinea.
-   * ———. "*Pinus ponderosa*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-ponderosa.
-   * ———. "*Pinus sabiniana*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-sabiniana.
-   * ———. "*Quercus chrysolepis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-chrysolepis.
-   * ———. "*Quercus lobata*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-lobata.
-   * ———. "*Rosmarinus Officinalis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/rosmarinus-officinalis.
+#### Oregon State University
+* Breen, Patrick. "*Acer palmatum var. dissectum*." https://landscapeplants.oregonstate.edu/plants/acer-palmatum-var-dissectum.
+* ———. "*Aesculus californica*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/aesculus-californica.
+* ———. "*Pinus halepensis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-halepensis.
+* ———. "*Pinus pinea*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-pinea.
+* ———. "*Pinus ponderosa*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-ponderosa.
+* ———. "*Pinus sabiniana*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/pinus-sabiniana.
+* ———. "*Quercus chrysolepis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-chrysolepis.
+* ———. "*Quercus lobata*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/quercus-lobata.
+* ———. "*Rosmarinus Officinalis*." Landscape Plants. https://landscapeplants.oregonstate.edu/plants/rosmarinus-officinalis.
 
 
-### Other
+#### Other
 1. California Native Plant Society. “California Native Plant Society,” 1965. https://www.cnps.org/.
+1. Etter, Julia, and Martin Kristen. "Botanical database CRASSULACEAE." Crassulaceae, 1977-2023. https://www.crassulaceae.com/crassulaceae/crashome_en.asp.
 1. Gallformers Contributors. “Gallformers.” Gallformers.org. https://gallformers.org/.
 1. Native Plant Trust. "*Hemerocallis lilioasphodelus* — yellow day-lily." Go Botany. https://gobotany.nativeplanttrust.org/species/hemerocallis/lilioasphodelus/.
 1. Jackson, Lee, Bonnie Fernandez, Herman Meister, Monica Spiller, Jack Williams, Tom Kearney, Brian Marsh, et al. *Small Grain Production Manual*. Complete Edition. University of California Agriculture and Natural Resources Publications, 2006. [https://doi.org/10.3733/ucanr.8208](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8208).
