@@ -158,6 +158,13 @@ ul li:last-child {
   margin-bottom: 0;
 }
 
+// Add hanging indent to ordered and unordered lists
+.content ol li,
+.content ul li {
+  padding-left: 30px;
+  text-indent: -30px;
+}
+
 blockquote {
   position: relative;
 }
