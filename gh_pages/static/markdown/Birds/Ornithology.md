@@ -15,7 +15,7 @@ icon: crow
 
 
 ### Online Resources
-#### All About Birds
+#### [All About Birds](https://www.allaboutbirds.org/)
 * Cornell Lab of Ornithology. "Acorn Wood Pecker Sounds." All About Birds. https://www.allaboutbirds.org/guide/Acorn_Woodpecker/Sounds.
 * ———. "American Coot Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Coot/sounds.
 * ———. "American Crow Sounds." All About Birds. https://www.allaboutbirds.org/guide/American_Crow/sounds.
@@ -55,49 +55,50 @@ icon: crow
 * ———. "White-crowned Sparrow Sounds." All About Birds. https://www.allaboutbirds.org/guide/White-crowned_Sparrow/sounds.
 
 
-#### Bird Sounds
-* Weiland, Torben. "Acorn Woodpecerk - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/acorn-woodpecker/.
-* ———. “American Coot - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
-* ———. “American Crow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-crow/.
-* ———. “American Robin - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/american-robin/.
-* ———. “Anna’s Hummingbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/annas-hummingbird/.
-* ———. “Black Phoebe - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/black-phoebe/.
-* ———. “Brown-headed Cowbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/brown-headed-cowbird/.
-* ———. “California Scrub-Jay - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/california-scrub-jay/.
-* ———. "Canada Goose - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/canada-goose/.
-* ———. “Cliff Swallow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/cliff-swallow/.
-* ———. “Cooper’s Hawk - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/coopers-hawk/.
-* ———. "Eurasian Collared-Dove - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/eurasian-collared-dove/.
-* ———. “Great Horned Owl - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/great-horned-owl/.
-* ———. “Great-tailed Grackle - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/great-tailed-grackle/.
-* ———. “House Finch - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/house-finch/.
-* ———. “Killdeer - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/killdeer/.
-* ———. “Lesser Goldfinch - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/lesser-goldfinch/.
-* ———. “Marsh Wren - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/marsh-wren/.
-* ———. “Mourning Dove - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/mourning-dove/.
-* ———. “Northern Flicker - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/northern-flicker/.
-* ———. “Northern Mockingbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds. 2013-2023. https://www.bird-sounds.net/northern-mockingbird/.
-* ———. “Nuttall's Woodpecker - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/nuttalls-woodpecker/.
-* ———. “Red-eyed Vireo - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-eyed-vireo/.
-* ———. "Red-shouldered Hawk - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-shouldered-hawk/.
-* ———. “Red-tailed Hawk - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-tailed-hawk/.
-* ———. “Red-winged Blackbird - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/red-winged-blackbird/.
-* ———. "Sandhilll Crane - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/sandhill-crane/.
-* ———. “Song Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/song-sparrow/.
-* ———. “Spotted Towhee - Song / Call / Voice / Sound,” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/spotted-towhee/.
-* ———. "Swainson's Hawk - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/swainsons-hawk/.
-* ———. "Yellow-billed Magpie - Song / Call / Voice / Sound." Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-billed-magpie/.
-* ———. “Yellow-rumped Warbler - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
-* ———. “Western Meadowlark - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
-* ———. “White-crowned Sparrow - Song / Call / Voice / Sound.” Audio, Bird-Sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
+#### [Bird Sounds](https://www.bird-sounds.net/)
+* Weiland, Torben. "Acorn Woodpecerk." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/acorn-woodpecker/.
+* ———. “American Coot.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/american-coot/.
+* ———. “American Crow.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/american-crow/.
+* ———. “American Robin.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/american-robin/.
+* ———. “Anna’s Hummingbird.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/annas-hummingbird/.
+* ———. “Black Phoebe.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/black-phoebe/.
+* ———. “Brown-headed Cowbird.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/brown-headed-cowbird/.
+* ———. “California Scrub-Jay.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/california-scrub-jay/.
+* ———. "Canada Goose." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/canada-goose/.
+* ———. “Cliff Swallow.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/cliff-swallow/.
+* ———. “Cooper’s Hawk.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/coopers-hawk/.
+* ———. "Eurasian Collared-Dove." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/eurasian-collared-dove/.
+* ———. “Great Horned Owl.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/great-horned-owl/.
+* ———. “Great-tailed Grackle.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/great-tailed-grackle/.
+* ———. “House Finch.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/house-finch/.
+* ———. “Killdeer.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/killdeer/.
+* ———. “Lesser Goldfinch.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/lesser-goldfinch/.
+* ———. “Marsh Wren.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/marsh-wren/.
+* ———. “Mourning Dove.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/mourning-dove/.
+* ———. “Northern Flicker.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/northern-flicker/.
+* ———. “Northern Mockingbird.” Audio, bird-sounds. 2013-2023. https://www.bird-sounds.net/northern-mockingbird/.
+* ———. “Nuttall's Woodpecker.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/nuttalls-woodpecker/.
+* ———. “Red-eyed Vireo.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/red-eyed-vireo/.
+* ———. "Red-shouldered Hawk." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/red-shouldered-hawk/.
+* ———. “Red-tailed Hawk.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/red-tailed-hawk/.
+* ———. “Red-winged Blackbird.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/red-winged-blackbird/.
+* ———. "Sandhilll Crane." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/sandhill-crane/.
+* ———. “Song Sparrow.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/song-sparrow/.
+* ———. “Spotted Towhee,” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/spotted-towhee/.
+* ———. "Swainson's Hawk." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/swainsons-hawk/.
+* ———. "Yellow-billed Magpie." Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/yellow-billed-magpie/.
+* ———. “Yellow-rumped Warbler.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/yellow-rumped-warbler/.
+* ———. “Western Meadowlark.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/western-meadowlark/.
+* ———. “White-crowned Sparrow.” Audio, bird-sounds, 2013-2023. https://www.bird-sounds.net/white-crowned-sparrow/.
 
 
-#### Geotripper's California Birds
-* Hayes, Garry. "*Ardea alba." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
+#### [Geotripper's California Birds](https://geotripperbirds.blogspot.com/)
+* Hayes, Garry. "*Agelaius phoeniceus*." *GeoTripper's California Birds* (blog), 2014-2022. https://geotripperbirds.blogspot.com/search/label/Agelaius%20phoeniceus.
+* Hayes, Garry. "*Ardea alba*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Ardea%20alba.
 * ———. "Black-crowned Night-Heron". *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black-crowned%20Night-Heron.
 * ———. "Black Phoebe (*Sayornis nigricans*)." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Black%20Phoebe%20%28Sayornis%20nigricans%29.
 * ———. “*Buteo swainsoni*.” *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Buteo%20swainsoni.
-* ———. "*Callipepla californica.*" *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Callipepla%20californica.
+* ———. "*Callipepla californica*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Callipepla%20californica.
 * ———. "Catching Up With Our California Endemic: The Yellow-billed Magpie." *Geotripper's California Birds* (blog), November 15, 2019. https://geotripperbirds.blogspot.com/2019/11/catching-up-with-our-california-endemic.html.
 * ———. "*Fulica americana*." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Fulica%20Americana.
 * ———. "Mourning Dove." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Mourning%20Dove.
@@ -110,7 +111,7 @@ icon: crow
 * ———. "Yellow-billed Magpie." *Geotripper's California Birds* (blog), 2014-2023. https://geotripperbirds.blogspot.com/search/label/Yellow-billed%20Magpie.
 
 
-#### KQED: Deep Look
+#### [KQED: Deep Look](https://www.kqed.org/deeplook)
 1. Cassidy, Josh. "You've Heard of a Murder of Crows. How About a Crow Funeral?" Deep Look, May 15, 2018. https://www.kqed.org/science/1923458/youve-heard-of-a-murder-of-crows-how-about-a-crow-funeral.
 1. Kennerson, Elliott. "Volunteer Brown Pelican Count Aims to Measure Recovery of Once-Endangered Birds." Deep Look, April 25, 2017. https://www.kqed.org/science/1565668/volunteer-brown-pelican-count-aims-to-measure-recovery-of-once-endangered-birds.
 1. KQED and PBS Digital Studios. “Deep Look: Explore big scientific mysteries by going incredibly small.” YouTube, September 26, 2014. https://www.youtube.com/@KQEDDeepLook.
@@ -126,7 +127,7 @@ icon: crow
 1. Sadiq, Sheraz. "What Happens When You Put a Hummingbird in a Wind Tunnel?" Deep Look, March 31, 2015. https://www.kqed.org/science/28759/what-happens-when-you-put-a-hummingbird-in-a-wind-tunnel.
 
 
-#### Macaulay Library
+#### [Macaulay Library](https://www.macaulaylibrary.org/)
 * Cornell Lab of Ornithology. "Acorn Woodpecker - *Melanerpes formicivorus*." Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=acowoo&mediaType=audio&sort=rating_rank_desc.
 * ———. “American Coot - *Fulica americana*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecoo&mediaType=audio&sort=rating_rank_desc.
 * ———. “American Crow - *Corvus brachyrhynchos*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=amecro&mediaType=audio&sort=rating_rank_desc.
@@ -165,7 +166,7 @@ icon: crow
 * ———. “White-crowned Sparrow - *Zonotrichia leucophrys*.” Audio, Macaualy Library, 2000-2023. https://search.macaulaylibrary.org/catalog?taxonCode=whcspa&mediaType=audio&sort=rating_rank_desc.
 
 
-### Natural Hisotry Journal
+#### [Natural Hisotry Journal](https://natural-history-journal.blogspot.com/)
 * Nystrom, Siera. "Acorn Woodpecker & Granary Trees." Natural History Journal (blog), November 12, 2016. https://natural-history-journal.blogspot.com/2016/11/the-acorn-woodpeckers-melanerpes.html.
 * ———. "American Coots & Baby... Cootlings?" Natural History Journal (blog), July 10, 2018. https://natural-history-journal.blogspot.com/2018/07/american-coots-little-baby-cootlings.html.
 * ———. "American Kestrel: A Pint-sized Predator." Natural History Journal (blog), October 18, 2019. https://natural-history-journal.blogspot.com/2019/10/american-kestrel-pint-sized-predator.html.
@@ -205,7 +206,7 @@ icon: crow
 * ———. "Western Bluebirds." Natural History Journal (blog), June 09, 2020. https://natural-history-journal.blogspot.com/2020/06/western-bluebirds.html.
 
 
-### Other
+#### Other
 1. Cornell Lab of Ornithology. "All About Feathers." All About Birds. https://academy.allaboutbirds.org/features/all-about-feathers/#how-feathers-are-built.php.
 1. Cornell Lab of Ornithology and Chemnitz University of Technology. “BirdNET Sound ID.” BirdNET. https://birdnet.cornell.edu/api/.
 1. eBird Contributors. “Stanislaus, CA, US.” eBird. https://ebird.org/region/US-CA-099?yr=all.

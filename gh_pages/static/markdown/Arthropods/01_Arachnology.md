@@ -161,14 +161,13 @@ owner: August Frisk
 
 
 ### Online Resources
-#### BugGuide
+#### [BugGuide](https://bugguide.net/)
 1. Balaban, John, Jane Balaban, Lynette Elliott, Jeff Hollenbeck, Chad Heins, Chuck Entz, Ken Schneider, John Sloan, and Mandy Howe. "Genus *Tibellus* - Slender Crab Spiders." BugGuide, March 19, 2022. https://bugguide.net/node/view/6824.
-1. “BugGuide.” Iowa State University, 2003. https://bugguide.net/.
-   * BugGuide Contributors. "*Latrodectus geometriucs*, egg." BugGuide, 2003-2022. https://bugguide.net/adv_search/bgsearch.php?taxon=23403&description=Egg&representative=0.
+1. BugGuide Contributors. "*Latrodectus geometriucs*, egg." BugGuide, 2003-2022. https://bugguide.net/adv_search/bgsearch.php?taxon=23403&description=Egg&representative=0.
 1. Elliot, Lynette, and Kyron Basu. “Spider Eye Arrangements.” BugGuide, July 6, 2016. https://bugguide.net/node/view/84423.
 
 
-#### KQED: Deep Look
+#### [KQED: Deep Look](https://www.kqed.org/deeplook)
 1. Cassidy, Josh. "Meet the Dust Mites, Tiny Roommates That Feast on Your Skin." Deep Look, April 5, 2016. https://www.kqed.org/science/607105/meet-the-dust-mites-tiny-roommates-that-feast-on-your-skin.
 1. ———. "These Face Mites Really Grow on You." Deep Look, May 21, 2019. https://www.kqed.org/science/1941506/these-face-mites-really-grow-on-you.
 1. ———. "These Mites Rain Down To Save Your Strawberries." January 26, 2021. https://www.kqed.org/science/1972295/these-mites-rain-down-to-save-your-strawberries.
@@ -194,7 +193,7 @@ owner: August Frisk
 1. ———. "Scorpions Are Predators With a Sensitive Side." Deep Look, May 4, 2021. https://www.kqed.org/science/1974305/scorpions-are-predators-with-a-sensitive-side.
 
 
-#### University of California, Agriculture and Natural Resources
+#### [University of California, Agriculture and Natural Resources](https://ucanr.edu/)
 1. "Common Garden Spiders." University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June, 2023. https://ipm.ucanr.edu/QT/commongardenspiderscard.html.
 1. Godfrey, Larry D. “Spider Mites: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, December 2011. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7405.html.
 1. Miller, W. Sean, J. H. Connell, W. H. Olson, and R. A. Criley. “Sixspotted Spider Mite on Plumeria: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2007. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74141.html.
@@ -203,7 +202,6 @@ owner: August Frisk
 1. Vetter, Richard S. “Spiders: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, October 2020. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7442.html.
 1. ———. “Widow Spiders and Their Relatives: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, March 2017. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74149.html.
 1. Vetter, Richard S., and Darrell Ubick. “*Zoropsis spinimana*, A Mediterranean Spider In California: Pest Notes for Home and Lanscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, June 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn74143.html.
-
 
 
 #### Other

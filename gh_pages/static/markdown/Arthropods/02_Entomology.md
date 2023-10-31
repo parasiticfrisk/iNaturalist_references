@@ -127,7 +127,7 @@ icon: bug
 
 
 ### Online Resources
-#### BugGuide
+#### [BugGuide](https://bugguide.net/)
 1. Balaban, John, Jane Balaban, Hartmut Wisch, and Mike Quinn. "Species *Sympetrum corruptum* - Variegated Meadowhawk." BugGuide, May 21, 2016. https://bugguide.net/node/view/6538.
 1. Boone, Mike, Patrick Coin, Eric R. Eaton, and David Ferguson. “Species *Trimerotropis Pallidipennis* - Pallid-Winged Grasshopper.” BugGuide, October 21, 2013. https://bugguide.net/node/view/33991.
 1. Büche, Boris, and V. Belov. "Genus *Coniontis*." BugGuide, December 16, 2018. https://bugguide.net/node/view/101007.
@@ -149,12 +149,54 @@ icon: bug
 1. McLeod, Robin, and Randy Hardy. "Species *Digrammia excurvata* - Hodges#6363." BugGuide, September 18, 2017. https://bugguide.net/node/view/346607.
 
 
-#### Butterflies and Moths of North America
-1. "Butterflies and Moths of North America." Metalmark Web and Data. https://www.butterfliesandmoths.org/.
-   * Metalmark Web and Data. "Western Yellowstriped Armyworm *Spodoptera praefica* (Grote, 1875)." Butterflies and Moths of North America. https://www.butterfliesandmoths.org/species/Spodoptera-praefica. 
+#### [Butterflies and Moths of North America](https://www.butterfliesandmoths.org/)
+* Metalmark Web and Data. "*Adelpha californica* California Sister." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Adelpha-californica.
+* ———. "*Apantesis ornata* Ornate Tiger Moth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Apantesis-ornata.
+* ———. "*Apodemia mormo* Mormon Metalmark." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Apodemia-mormo.
+* ———. "*Autographa californica*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Autographa-californica.
+* ———. "*Cisseps fulvicollis* Yellow-collared Scape Moth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Cisseps-fulvicollis.
+* ———. "*Danaus plexippus* Monarch." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Danaus-plexippus.
+* ———. "*Ectypia clio*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Ectypia-clio.
+* ———. "*Estigmene acrea*. Salt Marsh Moth" Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Estigmene-acrea.
+* ———. "*Ethmia arctostaphylella*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Ethmia-arctostaphylella.
+* ———. "*Ethmia coquillettella*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Ethmia-coquillettella.
+* ———. "*Ethmia scylla*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Ethmia-scylla.
+* ———. "*Eumorpha achemon* Achemon sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Eumorpha-achemon.
+* ———. "*Euphydryas chalcedona* Chalcedon Checkerspot." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Euphydryas-chalcedona.
+* ———. "*Euphydryas editha* Edith's Checkerspot." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Euphydryas-editha.
+* ———. "*Hemaris thetis*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Hemaris-thetis.
+* ———. "*Hemihyalea edwardsii* Edwards' Glassywing." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Hemihyalea-edwardsii.
+* ———. "*Hyalophora euryalus* Ceanothus silkmoth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Hyalophora-euryalus.
+* ———. "*Hylephila phyleus* Fiery Skipper." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Hylephila-phyleus.
+* ———. "*Hyles lineata* White-lined Sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Hyles-lineata.
+* ———. "*Junonia grisea* Gray Buckeye." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Strymon-melinus.
+* ———. "*Leptarctia californiae*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Leptarctia-californiae.
+* ———. "*Limenitis lorquini* Lorquin's Admiral." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Limenitis-lorquini.
+* ———. "*Litoprosopus coachella* Palm Flower Moth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Litoprosopus-coachella-.
+* ———. "*Manduca quinquemaculata* Five-spotted hawkmoth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Manduca-quinquemaculata.
+* ———. "*Manduca sexta* Carolina sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Manduca-sexta.
+* ———. "*Nadata oregonensis*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Nadata-oregonensis.
+* ———. "*Notarctia proxima* Mexican Tiger Moth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Notarctia-proxima.
+* ———. "*Oedemasia concinna* Red-humped Caterpillar Moth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Oedemasia-concinna.
+* ———. "*Pachysphinx occidentalis* Big poplar sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Pachysphinx-occidentalis.
+* ———. "*Papilio rutulus* Western Tiger Swallowtail." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Papilio-rutulus.
+* ———. "*Papilio zelicaon* Anise Swallowtail." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Papilio-zelicaon.
+* ———. "*Phyciodes mylitta* Mylitta Crescent." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Phyciodes-mylitta.
+* ———. "*Plebejus acmon* Acmon Blue." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Plebejus-acmon.
+* ———. "*Plebejus icarioides* Boisduval's Blue." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Plebejus-icarioides.
+* ———. "*Prionoxystus robiniae* Carpenterworm Moth." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Prionoxystus-robiniae.
+* ———. "*Proserpinus clarkiae* Clark's sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Proserpinus-clarkiae.
+* ———. "*Proserpinus lucidus* Pacific green sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Proserpinus-lucidus.
+* ———. "*Schinia deserticola*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Schinia-deserticola.
+* ———. "*Schinia mortua*." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Schinia-mortua.
+* ———. "*Smerinthus cerisyi* One-eyed sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Smerinthus-cerisyi.
+* ———. "*Sphinx chersis* Great ash sphinx." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Sphinx-chersis.
+* ———. "*Spodoptera praefica* Western Yellowstriped Armyworm." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Spodoptera-praefica.
+* ———. "*Strymon melinus* Gray Hairstreak." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Strymon-melinus.
+* ———. "*Vanessa cardui* Painted Lady." Butterflies and Moths of North America, 1995-2023. https://www.butterfliesandmoths.org/species/Vanessa-cardui.
 
 
-#### Joyce Gross Photography
+#### [Joyce Gross Photography](https://joycegross.com)
 1. Gross, Joyce. "California Oak Galls." Joyce Gross Photography. https://joycegross.com/galls_ca_oak.php.
    * ———. "*Andricus albobalani*." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+albobalani&ordr=.
    * ———. "*Andricus atrimentus* (Striped Volcano Gall Wasp)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Andricus+atrimentus&ordr=.
@@ -200,7 +242,7 @@ icon: bug
    * ———. "Gall type #105." Joyce Gross Photography. https://joycegross.com/galls/gall105.html.
 1. Gross, Joyce. "*Murgantia histrionica* (Harlequin Bug)." Joyce Gross Photography. https://joycegross.com/images.php?taxon=Murgantia+histrionica&ordr=.
 
-#### KQED: Deep Look
+#### [KQED: Deep Look](https://www.kqed.org/deeplook)
 1. Black, Jason. "Watch Flesh-Eating Beetles Strip Bodies to the Bone." Deep Look, October 13, 2015. https://www.kqed.org/science/299669/watch-flesh-eating-beetles-strip-bodies-to-the-bone.
 1. Cassidy, Josh. "Born Pregnant: Aphids Invade with an Onslaught of Clones." Deep Look, March 9, 2021. https://www.kqed.org/science/1973052/born-pregnant-aphids-invade-with-an-onslaught-of-clones.
 1. ———. "The Double-Crossing Ants to Whom Friendship Means Nothing." Deep Look, November 1, 2016. https://www.kqed.org/science/1089990/the-double-crossing-ants-to-whom-friendship-means-nothing.
@@ -304,7 +346,7 @@ icon: bug
 1. Seely, Mike. "Why Did the Mexican Jumping Bean Jump?" Deep Look, March 23, 2021. https://www.kqed.org/science/1973307/why-did-the-mexican-jumping-bean-jump.
 
 
-#### Months of North America
+#### [Months of North America](https://images.peabody.yale.edu/mona)
 1. Eichlin, Thomas D., and W. Donald Duckworth. “Sesioidea: Sesiidae.” In *The Moths of America North of Mexico, Fascicle 5.1*, edited by Richard B. Dominick, et al. The Wedge Entomological Research Foundation, 1988. https://images.peabody.yale.edu/mona/05-1-ocr.pdf.
 1. Franclemont, John G. “Mimallonoidea: Mimallonidae; Bombycoidea (in part): Apatalelodidae, Bobycidae, Lasiocampidae.” In *The Moths of America North of Mexico, Fascicle 20.1*, edited by Richard B. Dominick, et al. E. W. Classey Limited, 1973. https://images.peabody.yale.edu/mona/20-1-ocr.pdf.
 1. Ferguson, Douglas C. “Bombycoidea, Saturniidae (in part): Citheroniinae and Hemileucinae (in part).” In *The Moths of America North of Mexico, Fascicle 20.2A*, edited by Richard B. Dominick, et al. E. W. Classey Limited, 1971. https://images.peabody.yale.edu/mona/20-2A-ocr.pdf.
@@ -335,30 +377,27 @@ icon: bug
 1. Powell, Jerry A., and John W. Brown. “Tortricoidea, Tortricidae (in part), Tortricinae (in part): Spartganothini and Atteriini.” In *The Moths of North America, Fascicle 8.1*, edited by Ronald W. Hodges, et al. The Wedge Entomological Research Foundation, 2012. https://images.peabody.yale.edu/mona/08-1-ocr.pdf.
 
 
-#### Moth Photographers Group
-1. “North American Moth Photographers Group: Digital Guide to Moth Identification.” Mississippi State University, 2011. https://mothphotographersgroup.msstate.edu/.
-   * Moth Photographer’s Group. “*Digrammia excurvata*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6363.
-   * ———. “*Digrammia napensis*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6366.
-   * ———. “*Mythimna unipuncta*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=10438.
-   * ———. “*Spodoptera praefica*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=9667.
+#### [Moth Photographers Group](https://mothphotographersgroup.msstate.edu/)
+* Moth Photographer’s Group. “*Digrammia excurvata*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6363.
+* ———. “*Digrammia napensis*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=6366.
+* ———. “*Mythimna unipuncta*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=10438.
+* ———. “*Spodoptera praefica*.” North American Moth Photographers Group, 2011-2023. https://mothphotographersgroup.msstate.edu/species.php?hodges=9667.
 
 
-#### Pacific Northwest Moths
-1. "Pacific Northwest Moths." Western Washington University. http://pnwmoths.biol.wwu.edu/.
-   * Western Washington University. "*Digrammia excurvata* (Packard, 1874)." Pacific Northwest Moths. https://www.butterfliesandmoths.org/species/Digrammia-excurvata.
-   * ———. "*Spodoptera praefica* (Grote, 1875)." Pacific Northwest Moths. http://pnwmoths.biol.wwu.edu/browse/family-noctuidae/subfamily-noctuinae/tribe-prodeniini/spodoptera/spodoptera-praefica/.
+#### [Pacific Northwest Moths](http://pnwmoths.biol.wwu.edu/)
+* Western Washington University. "*Digrammia excurvata* (Packard, 1874)." Pacific Northwest Moths. https://www.butterfliesandmoths.org/species/Digrammia-excurvata.
+* ———. "*Spodoptera praefica* (Grote, 1875)." Pacific Northwest Moths. http://pnwmoths.biol.wwu.edu/browse/family-noctuidae/subfamily-noctuinae/tribe-prodeniini/spodoptera/spodoptera-praefica/.
 
 
-#### Singing Insects of North America
-1. Walker, Thomas J., and Teresa Marie Yawn. “Singing Insects of North America (SINA).” The Orthopterist’s Society, 2000. https://orthsoc.org/sina/.
-   * ———. “House Cricket *Acheta domesticus* (Linnaeus 1758).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/487a.htm.
-   * ———. “Mud Crack Field Cricket *Gryllus integer* (Scudder 1901).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/480a.htm.
-   * ———. “Snowy Tree Cricket *Oecanthus fultoni* (T. Walker 1962).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/585a.htm.
-   * ———. “West Coast Spring Field Cricket *Gryllus veletisoides* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/737a.htm.
-   * ———. “Western Rock-loving Field Cricket *Gryllus saxatilis* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/731a.htm.
+#### [Singing Insects of North America](https://orthsoc.org/sina/)
+* Walker, Thomas J., and Teresa Marie Yawn. “House Cricket *Acheta domesticus* (Linnaeus 1758).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/487a.htm.
+* ———. “Mud Crack Field Cricket *Gryllus integer* (Scudder 1901).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/480a.htm.
+* ———. “Snowy Tree Cricket *Oecanthus fultoni* (T. Walker 1962).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/585a.htm.
+* ———. “West Coast Spring Field Cricket *Gryllus veletisoides* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/737a.htm.
+* ———. “Western Rock-loving Field Cricket *Gryllus saxatilis* (Weissman & Gray 2019).” Audio, The Orthopterist’s Society. https://orthsoc.org/sina/731a.htm.
 
 
-#### University of California, Agriculture and Natural Resources
+#### [University of California, Agriculture and Natural Resources](https://ucanr.edu/)
 1. Bellows, T. S., J. N. Kabashima, and Karen L. Robb. “Whiteflies: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, September 2015. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7401.html.
 1. Bethke, J. A., Steve H. Dreistadt, and L. G. Varela. “Thrips: Pest Notes for Home and Landscape.” University of California Agriculture and Natural Resources Statewide Integrated Pest Management Program, May 2014. https://ipm.ucanr.edu/PMG/PESTNOTES/pn7429.html.
 1. Bugg, Robert L., Ramy G. Colfer, William E. Chaney, Hugh A. Smith, and James Cannon. *Flower Flies (Syrphidae) and Other Biological Control Agents for Aphids in Vegtable Crops*. University of California Division of Agriculture and Natural Resources Publications, 2008. [https://doi.org/10.3733/ucanr.8285](https://anrcatalog.ucanr.edu/Details.aspx?itemNo=8285).
